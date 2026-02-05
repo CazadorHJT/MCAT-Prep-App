@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+mcat_prep.db
+*.sqlite3
+
+# Poetry
+.poetry
+poetry.lock
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
