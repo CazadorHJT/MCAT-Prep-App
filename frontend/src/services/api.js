@@ -20,3 +20,7 @@ export const getChaptersByBook = (bookId) => {
 export const getQuestionsByChapter = (chapterId) => {
   return apiClient.get(`/chapters/${chapterId}/questions`);
 };
+
+export const regenerateQuestion = (chapterId) => {
+  return apiClient.post(`/questions/regenerate?chapter_id=${chapterId}`);
+};
