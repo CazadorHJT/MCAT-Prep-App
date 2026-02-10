@@ -1,6 +1,6 @@
-# Gemini Code Companion: MCAT Prep App
+# Claude Code Companion: MCAT Prep App
 
-This document provides a comprehensive overview of the MCAT Prep App project, designed to be used as a context for AI-driven development.
+This document provides a comprehensive overview of the MCAT Prep App project, designed to be used as context for AI-driven development.
 
 ## Project Overview
 
@@ -18,7 +18,8 @@ The project is structured as a monorepo with two main parts:
     *   Per-question tracking (correct/incorrect for each answer)
     *   Concept mastery percentages based on tagged questions
     *   Session stats shown on quiz completion
-    *   Progress dashboard with overall stats and concept-by-concept breakdown
+    *   Hierarchical progress dashboard organized by Book → Chapter → Concept
+    *   Expandable/collapsible sections with color-coded mastery bars
 *   **Pre-Generated Question Bank:** A comprehensive bank of **3,790 MCAT-style multiple-choice questions** across 75 chapters from 7 review books. Questions are stored in:
     *   Supabase database (primary storage for the live app)
     *   Local JSON files in `questions/` directory (version-controlled backup)
@@ -141,9 +142,9 @@ npm run dev
     *   `frontend/src/components/AuthForm.jsx`: Login/signup form with toggle between modes and error handling.
     *   `frontend/src/components/ChapterList.jsx`: Displays a list of chapters for a selected book.
     *   `frontend/src/components/QuizView.jsx`: Manages the quiz interface with progress tracking. Records answers to Supabase and shows session stats on completion.
-    *   `frontend/src/components/ProgressDashboard.jsx`: Displays overall progress stats and concept mastery with color-coded progress bars.
+    *   `frontend/src/components/ProgressDashboard.jsx`: Displays hierarchical progress (Book → Chapter → Concept) with expandable sections and color-coded mastery bars.
     *   `frontend/src/services/supabase.js`: Supabase client configuration.
-    *   `frontend/src/services/progressService.js`: Functions for recording answers and fetching progress/mastery data.
+    *   `frontend/src/services/progressService.js`: Functions for recording answers, fetching progress stats, and building hierarchical progress data (Book → Chapter → Concept).
     *   `frontend/src/App.css`: Contains custom styles for the application, including auth forms, dashboard, and quiz feedback.
 
 ### Supabase Tables
