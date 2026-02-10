@@ -37,7 +37,7 @@ function App() {
           const response = await getChaptersByBook(selectedBook.id);
           setChapters(response.data);
         } catch (err) {
-          setError(`Failed to fetch chapters for ${selectedBook.title}.`);
+          setError(`Failed to fetch chapters for ${selectedBook.name}.`);
           console.error(err);
         } finally {
           setLoading(false);
@@ -61,19 +61,34 @@ function App() {
     setChapters([]);
     setSelectedChapterId(null);
   };
-  
+
   const handleBackToChapters = () => {
     setSelectedChapterId(null);
   };
 
-  if (loading && !books.length) return <p>Loading...</p>;
-  if (error) return <p style={{ color: 'red' }}>{error}</p>;
+  if (loading && !books.length) {
+    return (
+      <div className="loading">
+        Loading your study materials...
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="error">
+        {error}
+      </div>
+    );
+  }
 
   const renderContent = () => {
     if (selectedChapterId) {
       return (
         <div>
-          <button onClick={handleBackToChapters}>Back to Chapters</button>
+          <button className="nav-button" onClick={handleBackToChapters}>
+            Back to Chapters
+          </button>
           <QuizView chapterId={selectedChapterId} />
         </div>
       );
@@ -81,20 +96,31 @@ function App() {
     if (selectedBook) {
       return (
         <div>
-          <button onClick={handleBackToBooks}>Back to Books</button>
-          <h2>{selectedBook.title}</h2>
-          {loading ? <p>Loading chapters...</p> : <ChapterList chapters={chapters} onSelectChapter={handleChapterSelect} />}
+          <button className="nav-button" onClick={handleBackToBooks}>
+            Back to Books
+          </button>
+          <div className="section-title">
+            <h2>{selectedBook.name}</h2>
+          </div>
+          {loading ? (
+            <div className="loading">Loading chapters...</div>
+          ) : (
+            <ChapterList chapters={chapters} onSelectChapter={handleChapterSelect} />
+          )}
         </div>
       );
     }
     return (
       <div>
-        <h2>Available Books</h2>
-        <ul>
+        <div className="section-title">
+          <span className="icon">📚</span>
+          <h2>Select a Review Book</h2>
+        </div>
+        <ul className="book-list">
           {books.map((book) => (
-            <li key={book.id}>
-              <button onClick={() => handleBookSelect(book)}>
-                {book.title}
+            <li key={book.id} className="book-item">
+              <button className="book-button" onClick={() => handleBookSelect(book)}>
+                {book.name}
               </button>
             </li>
           ))}
@@ -105,10 +131,13 @@ function App() {
 
   return (
     <>
-      <h1>MCAT Prep App</h1>
-      <div className="card">
+      <header className="app-header">
+        <h1>MCAT Prep</h1>
+        <p className="subtitle">Your focused study companion</p>
+      </header>
+      <main className="card">
         {renderContent()}
-      </div>
+      </main>
     </>
   );
 }

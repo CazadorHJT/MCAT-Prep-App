@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import { getQuestionsByChapter, regenerateQuestion } from '../services/api';
+import { getQuestionsByChapter } from '../services/api';
 
 const QuizView = ({ chapterId }) => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [showResult, setShowResult] = useState(false);
-  const [loading, setLoading] = true);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
@@ -24,32 +24,9 @@ const QuizView = ({ chapterId }) => {
     fetchQuestions();
   }, [chapterId]);
 
-  const handleAnswerSelect = async (answer) => {
+  const handleAnswerSelect = (answer) => {
     setSelectedAnswer(answer);
     setShowResult(true);
-
-    const isCorrect = answer === questions[currentQuestionIndex].correct_answer;
-
-    if (!isCorrect) {
-      try {
-        const response = await regenerateQuestion(chapterId);
-        const newQuestion = response.data;
-        
-        // Insert the new question at a random position after the current one
-        const remainingQuestions = questions.slice(currentQuestionIndex + 1);
-        const randomIndex = Math.floor(Math.random() * (remainingQuestions.length + 1));
-        const newQuestions = [
-          ...questions.slice(0, currentQuestionIndex + 1),
-          ...remainingQuestions.slice(0, randomIndex),
-          newQuestion,
-          ...remainingQuestions.slice(randomIndex)
-        ];
-        setQuestions(newQuestions);
-
-      } catch (err) {
-        console.error("Failed to regenerate question:", err);
-      }
-    }
   };
 
   const handleNextQuestion = () => {
@@ -60,29 +37,73 @@ const QuizView = ({ chapterId }) => {
     }
   };
 
-  if (loading) return <p>Loading quiz...</p>;
-  if (error) return <p style={{ color: 'red' }}>{error}</p>;
+  if (loading) {
+    return <div className="loading">Loading quiz questions...</div>;
+  }
+
+  if (error) {
+    return <div className="error">{error}</div>;
+  }
 
   if (questions.length === 0) {
-    return <p>No questions found for this chapter.</p>;
+    return (
+      <div className="empty-state">
+        <p>No questions found for this chapter.</p>
+      </div>
+    );
   }
 
   const currentQuestion = questions[currentQuestionIndex];
-  // The options are stored as a JSON string, so we need to parse them
-  const options = JSON.parse(currentQuestion.options);
+  const options = currentQuestion.options;
+  const isLastQuestion = currentQuestionIndex === questions.length - 1;
+  const progress = ((currentQuestionIndex + 1) / questions.length) * 100;
 
   const getButtonClassName = (option) => {
-    if (!showResult) return '';
-    if (option === currentQuestion.correct_answer) return 'correct';
-    if (option === selectedAnswer) return 'incorrect';
-    return '';
+    if (!showResult) return 'option-button';
+    if (option === currentQuestion.correct_answer) return 'option-button correct';
+    if (option === selectedAnswer) return 'option-button incorrect';
+    return 'option-button';
   };
 
+  // Check if quiz is complete
+  if (showResult && isLastQuestion) {
+    return (
+      <div className="quiz-container">
+        <div className="quiz-complete">
+          <h3>Quiz Complete!</h3>
+          <p>You've finished all {questions.length} questions in this chapter.</p>
+        </div>
+
+        {/* Show last question's explanation */}
+        <div className="explanation">
+          <h4>Explanation</h4>
+          <p>{currentQuestion.explanation}</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
-    <div>
-      <h3>Question {currentQuestionIndex + 1} of {questions.length}</h3>
-      <p>{currentQuestion.question_text}</p>
-      <ul>
+    <div className="quiz-container">
+      <div className="quiz-header">
+        <div className="quiz-progress">
+          <span className="progress-text">
+            Question {currentQuestionIndex + 1} of {questions.length}
+          </span>
+          <div className="progress-bar">
+            <div
+              className="progress-fill"
+              style={{ width: `${progress}%` }}
+            />
+          </div>
+        </div>
+      </div>
+
+      <div className="question-card">
+        <p className="question-text">{currentQuestion.question_text}</p>
+      </div>
+
+      <ul className="options-list">
         {options.map((option, index) => (
           <li key={index}>
             <button
@@ -103,9 +124,14 @@ const QuizView = ({ chapterId }) => {
         </div>
       )}
 
-      <button onClick={handleNextQuestion} disabled={currentQuestionIndex === questions.length - 1 || !showResult}>
-        Next Question
-      </button>
+      {showResult && !isLastQuestion && (
+        <button
+          className="primary-button"
+          onClick={handleNextQuestion}
+        >
+          Next Question
+        </button>
+      )}
     </div>
   );
 };
