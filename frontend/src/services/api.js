@@ -1,26 +1,37 @@
-import axios from 'axios';
+import { supabase } from './supabase';
 
-const API_URL = '/api';
+export const getBooks = async () => {
+  const { data, error } = await supabase
+    .from('books')
+    .select('*')
+    .order('name');
 
-const apiClient = axios.create({
-  baseURL: API_URL,
-  headers: {
-    'Content-Type': 'application/json',
-  },
-});
-
-export const getBooks = () => {
-  return apiClient.get('/books');
+  if (error) throw error;
+  return { data };
 };
 
-export const getChaptersByBook = (bookId) => {
-  return apiClient.get(`/books/${bookId}/chapters`);
+export const getChaptersByBook = async (bookId) => {
+  const { data, error } = await supabase
+    .from('chapters')
+    .select('*')
+    .eq('book_id', bookId)
+    .order('chapter_number');
+
+  if (error) throw error;
+  return { data };
 };
 
-export const getQuestionsByChapter = (chapterId) => {
-  return apiClient.get(`/chapters/${chapterId}/questions`);
-};
+export const getQuestionsByChapter = async (chapterId) => {
+  const { data, error } = await supabase
+    .from('questions')
+    .select('*')
+    .eq('chapter_id', chapterId);
 
-export const regenerateQuestion = (chapterId) => {
-  return apiClient.post(`/questions/regenerate?chapter_id=${chapterId}`);
+  if (error) throw error;
+
+  // Return a random sample of 20 questions, or all if fewer than 20
+  const shuffled = data.sort(() => Math.random() - 0.5);
+  const sampled = shuffled.slice(0, Math.min(20, shuffled.length));
+
+  return { data: sampled };
 };
