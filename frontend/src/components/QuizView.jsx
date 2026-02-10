@@ -30,7 +30,8 @@ const QuizView = ({ chapterId }) => {
 
   const handleAnswerSelect = (answer) => {
     const currentQuestion = questions[currentQuestionIndex];
-    const isCorrect = answer === currentQuestion.correct_answer;
+    // correct_answer is just the letter (e.g., "C"), but answer is the full option string (e.g., "C. Some text")
+    const isCorrect = answer.startsWith(currentQuestion.correct_answer + ".");
 
     setSelectedAnswer(answer);
     setShowResult(true);
@@ -79,7 +80,8 @@ const QuizView = ({ chapterId }) => {
 
   const getButtonClassName = (option) => {
     if (!showResult) return 'option-button';
-    if (option === currentQuestion.correct_answer) return 'option-button correct';
+    // correct_answer is just the letter (e.g., "C"), but option is the full string
+    if (option.startsWith(currentQuestion.correct_answer + ".")) return 'option-button correct';
     if (option === selectedAnswer) return 'option-button incorrect';
     return 'option-button';
   };

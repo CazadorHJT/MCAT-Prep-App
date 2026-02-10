@@ -127,6 +127,7 @@ npm run dev
 *   **Question Storage:**
     *   `questions/`: Directory containing pre-generated questions as JSON files, organized by book and chapter.
     *   Each question includes: `question_text`, `correct_answer`, `options` (array of 4), `explanation`, and `concept_tags` (array).
+    *   **Important:** `correct_answer` is just the letter (e.g., "C"), while `options` are full strings (e.g., "C. The answer text"). The frontend compares answers using `startsWith()` to match the letter prefix.
 
 ### Frontend
 *   **Framework:** React with Vite provides a fast development environment.
