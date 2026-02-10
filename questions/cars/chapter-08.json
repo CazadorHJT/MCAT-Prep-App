@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 8,
+  "chapter_title": "Social Sciences Passages",
+  "questions": [
+    {
+      "id": "cars-08-001",
+      "question_text": "Social sciences disciplines in CARS include:",
+      "options": ["A. Only chemistry", "B. Psychology, sociology, economics, political science, anthropology", "C. Only biology", "D. Only physics"],
+      "correct_answer": "B",
+      "explanation": "CARS social science passages draw from psychology, sociology, economics, political science, anthropology, and related fields.",
+      "concept_tags": ["social sciences", "disciplines", "CARS topics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-002",
+      "question_text": "Social science passages often present:",
+      "options": ["A. Only mathematical proofs", "B. Theories, research findings, and debates about human behavior and society", "C. Only historical facts", "D. Only literary analysis"],
+      "correct_answer": "B",
+      "explanation": "Social sciences examine human behavior and social phenomena through theories, empirical research, and ongoing scholarly debates.",
+      "concept_tags": ["social science approach", "theories", "research"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-003",
+      "question_text": "Psychology passages may discuss:",
+      "options": ["A. Only brain surgery", "B. Cognition, behavior, development, mental health, and social psychology", "C. Only dreams", "D. Only abnormal behavior"],
+      "correct_answer": "B",
+      "explanation": "Psychology encompasses cognition, behavior, development, personality, mental health, social psychology, and more.",
+      "concept_tags": ["psychology", "behavior", "cognition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-004",
+      "question_text": "Sociology passages typically examine:",
+      "options": ["A. Only individual psychology", "B. Social structures, institutions, groups, and collective behavior", "C. Only economics", "D. Only political systems"],
+      "correct_answer": "B",
+      "explanation": "Sociology studies social structures, institutions, group dynamics, social inequality, and how society shapes behavior.",
+      "concept_tags": ["sociology", "social structures", "society"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-005",
+      "question_text": "Economics passages may analyze:",
+      "options": ["A. Only stock prices", "B. Decision-making, markets, policy, and resource allocation", "C. Only personal budgets", "D. Only historical economies"],
+      "correct_answer": "B",
+      "explanation": "Economics examines decision-making, market dynamics, policy effects, resource allocation, and economic systems.",
+      "concept_tags": ["economics", "markets", "policy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-006",
+      "question_text": "Political science passages may focus on:",
+      "options": ["A. Only current politics", "B. Power, governance, political behavior, institutions, and theory", "C. Only election results", "D. Only international relations"],
+      "correct_answer": "B",
+      "explanation": "Political science studies power, governance, political systems, behavior, institutions, and political theory.",
+      "concept_tags": ["political science", "power", "governance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-007",
+      "question_text": "Anthropology passages may examine:",
+      "options": ["A. Only ancient fossils", "B. Culture, human societies, diversity, and social practices", "C. Only archaeology", "D. Only physical anthropology"],
+      "correct_answer": "B",
+      "explanation": "Anthropology studies human cultures, societies, practices, beliefs, and how these vary across time and place.",
+      "concept_tags": ["anthropology", "culture", "diversity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-008",
+      "question_text": "When a social science passage presents research findings, pay attention to:",
+      "options": ["A. Only the conclusion", "B. Methods, evidence, limitations, and interpretations", "C. Only the abstract", "D. Only the researcher's name"],
+      "correct_answer": "B",
+      "explanation": "Critical reading of research includes understanding methods, evaluating evidence, recognizing limitations, and considering interpretations.",
+      "concept_tags": ["research evaluation", "methods", "evidence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-009",
+      "question_text": "Understanding a study's methodology helps you:",
+      "options": ["A. Only memorize facts", "B. Evaluate the strength and validity of conclusions", "C. Only identify the topic", "D. Only count participants"],
+      "correct_answer": "B",
+      "explanation": "Methodology affects what conclusions can validly be drawn—strong methods support stronger conclusions.",
+      "concept_tags": ["methodology", "validity", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-010",
+      "question_text": "A 'theory' in social sciences is:",
+      "options": ["A. Just a guess", "B. An explanatory framework supported by evidence", "C. Proven fact", "D. Random speculation"],
+      "correct_answer": "B",
+      "explanation": "Scientific theories are explanatory frameworks that organize observations and are supported by evidence, though subject to refinement.",
+      "concept_tags": ["theory", "explanation", "evidence"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-011",
+      "question_text": "When passages present competing theories, you should:",
+      "options": ["A. Accept only the first one", "B. Understand each theory's claims, evidence, and points of disagreement", "C. Reject all theories", "D. Ignore the differences"],
+      "correct_answer": "B",
+      "explanation": "Compare theories by understanding what each claims, what evidence supports it, and precisely where they differ.",
+      "concept_tags": ["competing theories", "comparison", "evidence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-012",
+      "question_text": "Social constructionism suggests that:",
+      "options": ["A. Nothing is real", "B. Many concepts are shaped by social processes rather than being natural facts", "C. Only buildings are constructed", "D. Society doesn't exist"],
+      "correct_answer": "B",
+      "explanation": "Social constructionism holds that many concepts we treat as natural (gender, race, illness) are shaped by social processes and conventions.",
+      "concept_tags": ["social constructionism", "concepts", "society"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-013",
+      "question_text": "The nature vs. nurture debate concerns:",
+      "options": ["A. Only environmentalism", "B. Whether traits are determined by genetics or environment", "C. Only gardening", "D. Only wildlife conservation"],
+      "correct_answer": "B",
+      "explanation": "Nature vs. nurture debates how much of human traits, behaviors, and abilities are due to genetics versus environmental influences.",
+      "concept_tags": ["nature nurture", "genetics", "environment"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-014",
+      "question_text": "Most current social science views on nature vs. nurture:",
+      "options": ["A. Only nature matters", "B. Recognize complex interactions between genes and environment", "C. Only nurture matters", "D. Neither matters"],
+      "correct_answer": "B",
+      "explanation": "Contemporary views emphasize gene-environment interactions—both factors contribute in complex, interacting ways.",
+      "concept_tags": ["gene-environment interaction", "complexity", "current views"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-015",
+      "question_text": "When a passage discusses 'socialization,' it refers to:",
+      "options": ["A. Only parties and social events", "B. The process of learning norms, values, and behaviors of a society", "C. Only childhood play", "D. Only education"],
+      "correct_answer": "B",
+      "explanation": "Socialization is the lifelong process of learning and internalizing society's norms, values, and expected behaviors.",
+      "concept_tags": ["socialization", "norms", "learning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-016",
+      "question_text": "Cultural relativism in anthropology holds that:",
+      "options": ["A. All cultures are objectively equal", "B. Cultures should be understood on their own terms rather than judged by external standards", "C. Only one culture is correct", "D. Culture doesn't exist"],
+      "correct_answer": "B",
+      "explanation": "Cultural relativism advocates understanding cultures from within their own context rather than imposing external judgments.",
+      "concept_tags": ["cultural relativism", "understanding", "context"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-017",
+      "question_text": "Ethnocentrism is the tendency to:",
+      "options": ["A. Appreciate all cultures equally", "B. View one's own culture as superior and judge others by its standards", "C. Reject all culture", "D. Study ethnic groups objectively"],
+      "correct_answer": "B",
+      "explanation": "Ethnocentrism judges other cultures by the standards of one's own, often viewing one's culture as superior.",
+      "concept_tags": ["ethnocentrism", "bias", "judgment"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-018",
+      "question_text": "Passages about social inequality may examine:",
+      "options": ["A. Only mathematical inequalities", "B. Disparities in resources, opportunities, and power across groups", "C. Only individual differences", "D. Only natural variation"],
+      "correct_answer": "B",
+      "explanation": "Social inequality concerns systematic disparities in access to resources, opportunities, and power based on social categories.",
+      "concept_tags": ["social inequality", "disparities", "power"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-019",
+      "question_text": "When a passage discusses 'stratification,' it refers to:",
+      "options": ["A. Only geological layers", "B. Hierarchical ranking of groups in society", "C. Only organizational charts", "D. Only academic rankings"],
+      "correct_answer": "B",
+      "explanation": "Social stratification is the hierarchical arrangement of individuals and groups based on wealth, power, prestige, or other factors.",
+      "concept_tags": ["stratification", "hierarchy", "inequality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-020",
+      "question_text": "Cognitive bias refers to:",
+      "options": ["A. Only prejudice against groups", "B. Systematic patterns of deviation from rational judgment", "C. Only computer errors", "D. Only visual illusions"],
+      "correct_answer": "B",
+      "explanation": "Cognitive biases are systematic errors in thinking that affect judgments and decisions—patterns of irrational information processing.",
+      "concept_tags": ["cognitive bias", "judgment", "psychology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-021",
+      "question_text": "Confirmation bias leads people to:",
+      "options": ["A. Seek diverse information", "B. Favor information that confirms existing beliefs", "C. Reject all evidence", "D. Change their minds easily"],
+      "correct_answer": "B",
+      "explanation": "Confirmation bias is the tendency to search for, interpret, and remember information that confirms existing beliefs.",
+      "concept_tags": ["confirmation bias", "beliefs", "selective attention"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-022",
+      "question_text": "The fundamental attribution error involves:",
+      "options": ["A. Correct attribution of causes", "B. Overemphasizing personal traits and underemphasizing situational factors", "C. Only blaming situations", "D. Never attributing causes"],
+      "correct_answer": "B",
+      "explanation": "The fundamental attribution error is the tendency to attribute others' behavior to their character while underestimating situational influences.",
+      "concept_tags": ["attribution error", "personality", "situation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-023",
+      "question_text": "When a social science passage mentions 'operationalization,' it refers to:",
+      "options": ["A. Surgical procedures", "B. Defining abstract concepts in measurable terms", "C. Only military operations", "D. Only business operations"],
+      "correct_answer": "B",
+      "explanation": "Operationalization is defining abstract concepts (like 'intelligence' or 'happiness') in ways that allow measurement and study.",
+      "concept_tags": ["operationalization", "measurement", "research methods"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-024",
+      "question_text": "A passage discussing 'validity' in research is concerned with:",
+      "options": ["A. Only statistical significance", "B. Whether the study actually measures what it claims to measure", "C. Only sample size", "D. Only researcher credentials"],
+      "correct_answer": "B",
+      "explanation": "Validity concerns whether a study actually measures the concept it intends to measure—the accuracy of measurement and conclusions.",
+      "concept_tags": ["validity", "accuracy", "research"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-025",
+      "question_text": "A passage discussing 'reliability' in research is concerned with:",
+      "options": ["A. Only interesting findings", "B. Whether results are consistent and replicable", "C. Only novelty", "D. Only impact"],
+      "correct_answer": "B",
+      "explanation": "Reliability refers to consistency—whether the same measurement procedure yields consistent results across different occasions.",
+      "concept_tags": ["reliability", "consistency", "replication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-026",
+      "question_text": "When a passage mentions 'correlation does not equal causation,' it warns against:",
+      "options": ["A. Finding patterns", "B. Assuming that associated variables have a causal relationship", "C. Conducting research", "D. Using statistics"],
+      "correct_answer": "B",
+      "explanation": "This warning cautions that two correlated variables don't necessarily have a causal relationship—other factors may explain the association.",
+      "concept_tags": ["correlation causation", "research interpretation", "warning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-027",
+      "question_text": "Third variables in research are:",
+      "options": ["A. Unimportant", "B. Unmeasured factors that may explain apparent relationships", "C. Always controlled", "D. Only in physics"],
+      "correct_answer": "B",
+      "explanation": "Third variables are factors that may cause both observed variables, creating a spurious correlation without direct causation.",
+      "concept_tags": ["third variables", "confounds", "causation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-028",
+      "question_text": "Selection bias in research occurs when:",
+      "options": ["A. Random sampling is used", "B. Participants are not representative of the population of interest", "C. Everyone is included", "D. Statistics are perfect"],
+      "correct_answer": "B",
+      "explanation": "Selection bias occurs when research participants systematically differ from the broader population, limiting generalizability.",
+      "concept_tags": ["selection bias", "sampling", "generalizability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-029",
+      "question_text": "When a passage discusses 'self-report measures,' be aware that:",
+      "options": ["A. They are always accurate", "B. They may be affected by social desirability and memory biases", "C. They measure behavior directly", "D. They are objective measures"],
+      "correct_answer": "B",
+      "explanation": "Self-reports can be biased by social desirability (wanting to look good), poor memory, and limited self-insight.",
+      "concept_tags": ["self-report", "bias", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-030",
+      "question_text": "Experimental research differs from correlational research in that experiments:",
+      "options": ["A. Never prove anything", "B. Manipulate variables to establish causation", "C. Only observe naturally occurring variation", "D. Are always unethical"],
+      "correct_answer": "B",
+      "explanation": "Experiments manipulate independent variables and control conditions to establish causal relationships, unlike correlational studies.",
+      "concept_tags": ["experimental research", "causation", "manipulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-031",
+      "question_text": "Qualitative research in social sciences:",
+      "options": ["A. Only uses numbers", "B. Explores meaning, experience, and context through non-numerical methods", "C. Is always inferior", "D. Never involves interpretation"],
+      "correct_answer": "B",
+      "explanation": "Qualitative research uses methods like interviews and observation to explore meanings, experiences, and contexts in depth.",
+      "concept_tags": ["qualitative research", "meaning", "methods"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-032",
+      "question_text": "Quantitative research in social sciences:",
+      "options": ["A. Avoids numbers", "B. Uses numerical data and statistical analysis", "C. Never generalizes", "D. Only uses interviews"],
+      "correct_answer": "B",
+      "explanation": "Quantitative research collects numerical data and uses statistical analysis to test hypotheses and identify patterns.",
+      "concept_tags": ["quantitative research", "statistics", "numerical data"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-033",
+      "question_text": "When a passage discusses 'social norms,' it refers to:",
+      "options": ["A. Only written laws", "B. Shared expectations about appropriate behavior in a group", "C. Only individual preferences", "D. Only statistical averages"],
+      "correct_answer": "B",
+      "explanation": "Social norms are unwritten rules or expectations about how members of a group should behave.",
+      "concept_tags": ["social norms", "expectations", "behavior"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-034",
+      "question_text": "Group dynamics passages may examine:",
+      "options": ["A. Only individual psychology", "B. How people behave in groups and group processes", "C. Only statistics", "D. Only organizational charts"],
+      "correct_answer": "B",
+      "explanation": "Group dynamics studies how individuals behave in groups, including conformity, leadership, decision-making, and conflict.",
+      "concept_tags": ["group dynamics", "behavior", "social psychology"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-035",
+      "question_text": "Conformity in social psychology refers to:",
+      "options": ["A. Independent thinking", "B. Adjusting behavior or beliefs to match group norms", "C. Only formal rules", "D. Only fashion trends"],
+      "correct_answer": "B",
+      "explanation": "Conformity is changing one's behavior, attitudes, or beliefs to align with those of a group.",
+      "concept_tags": ["conformity", "group influence", "behavior"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-036",
+      "question_text": "When a passage discusses 'institutions,' it typically means:",
+      "options": ["A. Only mental hospitals", "B. Established social structures that organize behavior (family, education, government)", "C. Only buildings", "D. Only businesses"],
+      "correct_answer": "B",
+      "explanation": "Social institutions are enduring patterns of social organization that structure behavior, such as family, education, religion, and government.",
+      "concept_tags": ["institutions", "social organization", "structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-037",
+      "question_text": "Rational choice theory assumes that:",
+      "options": ["A. People are irrational", "B. People make decisions by weighing costs and benefits", "C. Emotions control all decisions", "D. Random choice is best"],
+      "correct_answer": "B",
+      "explanation": "Rational choice theory assumes individuals make decisions by calculating costs and benefits to maximize their utility.",
+      "concept_tags": ["rational choice", "decision-making", "theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-038",
+      "question_text": "Behavioral economics challenges rational choice by showing:",
+      "options": ["A. That people are perfectly rational", "B. Systematic ways people deviate from rational decision-making", "C. That economics is useless", "D. That all choices are random"],
+      "correct_answer": "B",
+      "explanation": "Behavioral economics documents predictable ways people violate rational choice assumptions due to cognitive biases and heuristics.",
+      "concept_tags": ["behavioral economics", "biases", "irrationality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-039",
+      "question_text": "When a passage discusses 'power,' in social sciences it often means:",
+      "options": ["A. Only electricity", "B. The ability to influence others or achieve goals despite resistance", "C. Only physical strength", "D. Only government authority"],
+      "correct_answer": "B",
+      "explanation": "Power is the capacity to influence others, control resources, or achieve goals even against opposition.",
+      "concept_tags": ["power", "influence", "social relations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-040",
+      "question_text": "Passages about public opinion may examine:",
+      "options": ["A. Only correct opinions", "B. How opinions form, spread, and affect politics and policy", "C. Only personal opinions", "D. Only historical opinions"],
+      "correct_answer": "B",
+      "explanation": "Public opinion research examines how collective attitudes form, change, are measured, and influence political processes.",
+      "concept_tags": ["public opinion", "attitudes", "politics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-041",
+      "question_text": "When reading about policy analysis, expect discussion of:",
+      "options": ["A. Only policy success stories", "B. Trade-offs, effectiveness, unintended consequences, and alternatives", "C. Only policy failures", "D. Only historical policies"],
+      "correct_answer": "B",
+      "explanation": "Policy analysis examines effectiveness, trade-offs, unintended consequences, and compares alternative approaches.",
+      "concept_tags": ["policy analysis", "trade-offs", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-042",
+      "question_text": "Social science passages about identity may explore:",
+      "options": ["A. Only ID cards", "B. How identity is formed, maintained, and contested", "C. Only genetic identity", "D. Only national identity"],
+      "correct_answer": "B",
+      "explanation": "Identity research examines how people understand themselves, form identities, and how identity is shaped by social factors.",
+      "concept_tags": ["identity", "self-concept", "social factors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-043",
+      "question_text": "When a passage discusses 'discourse,' in social sciences it may mean:",
+      "options": ["A. Only conversation", "B. Systems of knowledge and power that shape how topics are understood", "C. Only written text", "D. Only political speeches"],
+      "correct_answer": "B",
+      "explanation": "Discourse analysis examines how language and frameworks shape understanding and may reflect and reinforce power structures.",
+      "concept_tags": ["discourse", "power", "knowledge"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-08-044",
+      "question_text": "Developmental psychology passages may cover:",
+      "options": ["A. Only child development", "B. Changes across the lifespan in cognition, emotion, and social relations", "C. Only adolescence", "D. Only aging"],
+      "correct_answer": "B",
+      "explanation": "Developmental psychology studies human development across the entire lifespan, from infancy through old age.",
+      "concept_tags": ["developmental psychology", "lifespan", "change"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-045",
+      "question_text": "When a passage mentions 'heuristics,' it refers to:",
+      "options": ["A. Guaranteed solutions", "B. Mental shortcuts that simplify decision-making", "C. Only scientific methods", "D. Only computer algorithms"],
+      "correct_answer": "B",
+      "explanation": "Heuristics are mental shortcuts or rules of thumb that simplify judgments and decisions, though they can lead to biases.",
+      "concept_tags": ["heuristics", "mental shortcuts", "judgment"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-046",
+      "question_text": "Social psychology examines:",
+      "options": ["A. Only individual psychology", "B. How social context and other people influence thoughts, feelings, and behavior", "C. Only group therapy", "D. Only abnormal behavior"],
+      "correct_answer": "B",
+      "explanation": "Social psychology studies how social situations and the presence of others influence individual psychology and behavior.",
+      "concept_tags": ["social psychology", "social influence", "context"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-08-047",
+      "question_text": "When a passage discusses 'agency' vs. 'structure' in sociology:",
+      "options": ["A. It's about business organizations", "B. It's about individual action vs. social constraints", "C. It's about government agencies", "D. It's about building structures"],
+      "correct_answer": "B",
+      "explanation": "The agency-structure debate concerns how much individual choice matters versus how much social structures constrain and determine behavior.",
+      "concept_tags": ["agency", "structure", "sociology"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-08-048",
+      "question_text": "Economic passages about incentives discuss:",
+      "options": ["A. Only financial rewards", "B. Factors that motivate behavior, including financial and non-financial", "C. Only punishments", "D. Only intrinsic motivation"],
+      "correct_answer": "B",
+      "explanation": "Incentives include any factors—financial, social, psychological—that motivate behavior and influence decision-making.",
+      "concept_tags": ["incentives", "motivation", "behavior"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-049",
+      "question_text": "When a passage presents statistics, you should:",
+      "options": ["A. Accept them uncritically", "B. Consider their source, methodology, and interpretation", "C. Ignore them completely", "D. Assume they are false"],
+      "correct_answer": "B",
+      "explanation": "Evaluate statistics critically—consider their source, how data was collected, sample characteristics, and how they're interpreted.",
+      "concept_tags": ["statistics", "critical evaluation", "methodology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-08-050",
+      "question_text": "Success with social science passages requires:",
+      "options": ["A. Memorizing specific studies", "B. Understanding how research supports claims and recognizing limitations", "C. Ignoring methodology", "D. Only reading conclusions"],
+      "correct_answer": "B",
+      "explanation": "Critical reading of social science involves understanding how evidence supports claims while recognizing methodological limitations.",
+      "concept_tags": ["critical reading", "evidence evaluation", "methodology"],
+      "difficulty": "medium"
+    }
+  ]
+}

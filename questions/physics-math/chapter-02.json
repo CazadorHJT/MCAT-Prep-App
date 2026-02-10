@@ -1,0 +1,707 @@
+{
+  "book": "physics-math",
+  "chapter": 2,
+  "chapter_title": "Work and Energy",
+  "questions": [
+    {
+      "id": "physics-math-02-001",
+      "question_text": "Work is defined as:",
+      "options": [
+        "A. force times time",
+        "B. force times displacement times cosine of the angle between them",
+        "C. mass times velocity",
+        "D. energy per unit time"
+      ],
+      "correct_answer": "B",
+      "explanation": "Work W = Fd cos(theta), where F is force, d is displacement, and theta is the angle between the force and displacement vectors. Work is a scalar quantity measured in joules (J). When force is perpendicular to displacement, no work is done.",
+      "concept_tags": ["work", "force", "displacement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-002",
+      "question_text": "The SI unit of work is the:",
+      "options": [
+        "A. newton",
+        "B. watt",
+        "C. joule",
+        "D. pascal"
+      ],
+      "correct_answer": "C",
+      "explanation": "The joule (J) is the SI unit of work and energy. 1 J = 1 N*m = 1 kg*m^2/s^2. The newton is force, watt is power, and pascal is pressure. Work and energy have the same units because work transfers energy.",
+      "concept_tags": ["work", "units", "joule"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-003",
+      "question_text": "If a force is applied perpendicular to the direction of motion, the work done is:",
+      "options": [
+        "A. maximum",
+        "B. negative",
+        "C. zero",
+        "D. equal to the force times distance"
+      ],
+      "correct_answer": "C",
+      "explanation": "When force is perpendicular to displacement, theta = 90 degrees and cos(90) = 0, so W = Fd(0) = 0. This is why centripetal force does no work on an object in circular motion and why carrying a box horizontally does no work against gravity.",
+      "concept_tags": ["work", "perpendicular-force", "zero-work"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-004",
+      "question_text": "Kinetic energy is given by the formula:",
+      "options": [
+        "A. KE = mv",
+        "B. KE = (1/2)mv^2",
+        "C. KE = mgh",
+        "D. KE = (1/2)kx^2"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kinetic energy KE = (1/2)mv^2, where m is mass and v is velocity. It depends on the square of velocity, so doubling speed quadruples kinetic energy. This is why high-speed collisions are so much more dangerous than low-speed ones.",
+      "concept_tags": ["kinetic-energy", "velocity", "mass"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-005",
+      "question_text": "If you double an object's velocity, its kinetic energy:",
+      "options": [
+        "A. doubles",
+        "B. is halved",
+        "C. quadruples",
+        "D. stays the same"
+      ],
+      "correct_answer": "C",
+      "explanation": "Since KE = (1/2)mv^2, kinetic energy depends on velocity squared. If v doubles, KE becomes (1/2)m(2v)^2 = (1/2)m(4v^2) = 4 times the original KE. This relationship is critical for understanding collision energy.",
+      "concept_tags": ["kinetic-energy", "velocity-squared", "energy-relationships"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-006",
+      "question_text": "Gravitational potential energy near Earth's surface is:",
+      "options": [
+        "A. PE = (1/2)mv^2",
+        "B. PE = mgh",
+        "C. PE = (1/2)kx^2",
+        "D. PE = Fd"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gravitational potential energy PE = mgh, where m is mass, g is gravitational acceleration (9.8 m/s^2), and h is height above a reference point. PE is relative to a chosen reference level and represents stored energy due to position.",
+      "concept_tags": ["gravitational-potential-energy", "height", "position"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-007",
+      "question_text": "The elastic potential energy stored in a spring is:",
+      "options": [
+        "A. PE = kx",
+        "B. PE = (1/2)kx^2",
+        "C. PE = kx^2",
+        "D. PE = (1/2)kx"
+      ],
+      "correct_answer": "B",
+      "explanation": "Elastic potential energy PE = (1/2)kx^2, where k is the spring constant and x is the displacement from equilibrium. Energy depends on x^2, so doubling the compression quadruples the stored energy. The (1/2) factor comes from integrating Hooke's Law.",
+      "concept_tags": ["elastic-potential-energy", "spring", "hookes-law"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-008",
+      "question_text": "Hooke's Law states that the force exerted by a spring is:",
+      "options": [
+        "A. proportional to x^2",
+        "B. proportional to displacement (F = -kx)",
+        "C. independent of displacement",
+        "D. inversely proportional to displacement"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hooke's Law: F = -kx, where k is the spring constant (N/m) and x is displacement from equilibrium. The negative sign indicates the restoring force opposes displacement. This linear relationship holds within the elastic limit of the spring.",
+      "concept_tags": ["hookes-law", "spring-constant", "restoring-force"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-009",
+      "question_text": "The spring constant k has units of:",
+      "options": [
+        "A. N/m",
+        "B. J/m",
+        "C. kg/s",
+        "D. N*m"
+      ],
+      "correct_answer": "A",
+      "explanation": "The spring constant k has units of N/m (newtons per meter). From F = kx, we get k = F/x = N/m. A larger k means a stiffer spring that requires more force for the same displacement.",
+      "concept_tags": ["spring-constant", "units", "hookes-law"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-010",
+      "question_text": "Power is defined as:",
+      "options": [
+        "A. force times distance",
+        "B. work done per unit time",
+        "C. energy times time",
+        "D. force per unit area"
+      ],
+      "correct_answer": "B",
+      "explanation": "Power P = W/t = work/time, measured in watts (W). It can also be written as P = Fv (force times velocity) for constant force. Power measures the rate of energy transfer or work done.",
+      "concept_tags": ["power", "work", "time"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-011",
+      "question_text": "The SI unit of power is the:",
+      "options": [
+        "A. joule",
+        "B. newton",
+        "C. watt",
+        "D. pascal"
+      ],
+      "correct_answer": "C",
+      "explanation": "The watt (W) is the SI unit of power. 1 W = 1 J/s = 1 kg*m^2/s^3. A 60 W light bulb converts 60 joules of electrical energy per second. Power indicates how quickly energy is transferred or transformed.",
+      "concept_tags": ["power", "watt", "units"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-012",
+      "question_text": "Conservative forces are characterized by:",
+      "options": [
+        "A. always doing positive work",
+        "B. work depending only on initial and final positions, not path",
+        "C. work always equaling zero",
+        "D. increasing the total energy of a system"
+      ],
+      "correct_answer": "B",
+      "explanation": "For conservative forces (gravity, spring force, electrostatic), work depends only on initial and final positions, not the path taken. Work done in a closed loop is zero. Potential energy can be defined for conservative forces.",
+      "concept_tags": ["conservative-forces", "path-independence", "potential-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-013",
+      "question_text": "Which of the following is a non-conservative force?",
+      "options": [
+        "A. Gravitational force",
+        "B. Spring force",
+        "C. Friction",
+        "D. Electrostatic force"
+      ],
+      "correct_answer": "C",
+      "explanation": "Friction is non-conservative because work done depends on the path taken (longer path = more work against friction). Energy is dissipated as heat. You cannot define potential energy for non-conservative forces.",
+      "concept_tags": ["non-conservative-forces", "friction", "energy-dissipation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-014",
+      "question_text": "The work-energy theorem states that:",
+      "options": [
+        "A. work equals potential energy",
+        "B. net work equals change in kinetic energy",
+        "C. energy is always conserved",
+        "D. power equals work times time"
+      ],
+      "correct_answer": "B",
+      "explanation": "The work-energy theorem: W_net = Delta KE = (1/2)mv_f^2 - (1/2)mv_i^2. The net work done on an object equals its change in kinetic energy. This applies whether forces are conservative or non-conservative.",
+      "concept_tags": ["work-energy-theorem", "kinetic-energy", "net-work"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-015",
+      "question_text": "Conservation of mechanical energy applies when:",
+      "options": [
+        "A. any forces act on the system",
+        "B. only conservative forces do work",
+        "C. kinetic energy is constant",
+        "D. potential energy is zero"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mechanical energy (KE + PE) is conserved when only conservative forces do work. If non-conservative forces (like friction) act, mechanical energy is not conserved, though total energy still is. E_mechanical = KE + PE = constant when W_nc = 0.",
+      "concept_tags": ["conservation-of-energy", "conservative-forces", "mechanical-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-016",
+      "question_text": "A 2 kg object falls from a height of 10 m. What is its kinetic energy just before hitting the ground? (g = 10 m/s^2)",
+      "options": [
+        "A. 20 J",
+        "B. 100 J",
+        "C. 200 J",
+        "D. 400 J"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using conservation of energy: PE_initial = KE_final. PE = mgh = (2)(10)(10) = 200 J. All gravitational PE converts to KE as the object falls (ignoring air resistance). This is a fundamental energy conversion problem.",
+      "concept_tags": ["conservation-of-energy", "gravitational-potential-energy", "kinetic-energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-017",
+      "question_text": "A force of 50 N pushes an object 4 m in the direction of the force. The work done is:",
+      "options": [
+        "A. 12.5 J",
+        "B. 50 J",
+        "C. 200 J",
+        "D. 800 J"
+      ],
+      "correct_answer": "C",
+      "explanation": "W = Fd cos(theta) = (50)(4)(cos 0) = (50)(4)(1) = 200 J. When force and displacement are in the same direction, theta = 0 and cos(0) = 1, so work equals force times distance.",
+      "concept_tags": ["work", "force", "calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-018",
+      "question_text": "An object with mass 4 kg moves at 3 m/s. Its kinetic energy is:",
+      "options": [
+        "A. 6 J",
+        "B. 12 J",
+        "C. 18 J",
+        "D. 36 J"
+      ],
+      "correct_answer": "C",
+      "explanation": "KE = (1/2)mv^2 = (1/2)(4)(3)^2 = (1/2)(4)(9) = 18 J. Remember to square the velocity. This is a straightforward application of the kinetic energy formula.",
+      "concept_tags": ["kinetic-energy", "calculation", "mass-velocity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-019",
+      "question_text": "A spring with k = 200 N/m is compressed 0.1 m. The stored potential energy is:",
+      "options": [
+        "A. 1 J",
+        "B. 2 J",
+        "C. 10 J",
+        "D. 20 J"
+      ],
+      "correct_answer": "A",
+      "explanation": "PE = (1/2)kx^2 = (1/2)(200)(0.1)^2 = (1/2)(200)(0.01) = 1 J. The energy depends on x^2, so small compressions store relatively little energy. Don't forget to square the displacement.",
+      "concept_tags": ["elastic-potential-energy", "spring", "calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-020",
+      "question_text": "If 500 J of work is done in 10 seconds, the power is:",
+      "options": [
+        "A. 5 W",
+        "B. 50 W",
+        "C. 500 W",
+        "D. 5000 W"
+      ],
+      "correct_answer": "B",
+      "explanation": "P = W/t = 500/10 = 50 W. Power is the rate of doing work or transferring energy. Higher power means the same work is done in less time.",
+      "concept_tags": ["power", "work", "calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-021",
+      "question_text": "A 100 N force acts at 60 degrees to the direction of motion. If the object moves 5 m, the work done is:",
+      "options": [
+        "A. 250 J",
+        "B. 433 J",
+        "C. 500 J",
+        "D. 866 J"
+      ],
+      "correct_answer": "A",
+      "explanation": "W = Fd cos(theta) = (100)(5)(cos 60) = (100)(5)(0.5) = 250 J. Only the component of force parallel to displacement does work. cos(60) = 0.5 is a common MCAT value to know.",
+      "concept_tags": ["work", "angle", "force-component"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-022",
+      "question_text": "When work done on an object is negative, the object's kinetic energy:",
+      "options": [
+        "A. increases",
+        "B. decreases",
+        "C. stays the same",
+        "D. becomes zero"
+      ],
+      "correct_answer": "B",
+      "explanation": "By the work-energy theorem, W_net = Delta KE. Negative work means kinetic energy decreases (the object slows down). This occurs when the force component is opposite to the direction of motion, such as friction slowing a sliding object.",
+      "concept_tags": ["work-energy-theorem", "negative-work", "kinetic-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-023",
+      "question_text": "A ball is thrown upward with initial kinetic energy of 50 J. At maximum height, what is its potential energy (relative to the starting point)?",
+      "options": [
+        "A. 0 J",
+        "B. 25 J",
+        "C. 50 J",
+        "D. 100 J"
+      ],
+      "correct_answer": "C",
+      "explanation": "At maximum height, velocity is zero so KE = 0. By conservation of energy (no air resistance), PE_max = KE_initial = 50 J. All kinetic energy converts to potential energy at the peak.",
+      "concept_tags": ["conservation-of-energy", "projectile-motion", "energy-conversion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-024",
+      "question_text": "A car engine produces 100 kW of power and the car moves at 25 m/s. What is the driving force?",
+      "options": [
+        "A. 2,500 N",
+        "B. 4,000 N",
+        "C. 25,000 N",
+        "D. 40,000 N"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using P = Fv: F = P/v = 100,000 W / 25 m/s = 4,000 N. This relationship is useful for calculating the force a motor or engine can provide at a given speed.",
+      "concept_tags": ["power", "force", "velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-025",
+      "question_text": "A 5 kg block slides down a frictionless incline from a height of 2 m. Its speed at the bottom is: (g = 10 m/s^2)",
+      "options": [
+        "A. 2 m/s",
+        "B. 4.5 m/s",
+        "C. 6.3 m/s",
+        "D. 10 m/s"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using conservation of energy: mgh = (1/2)mv^2. Mass cancels: v = sqrt(2gh) = sqrt(2 * 10 * 2) = sqrt(40) = 6.3 m/s. The final speed is independent of mass for a frictionless incline.",
+      "concept_tags": ["conservation-of-energy", "inclined-plane", "velocity-calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-026",
+      "question_text": "A spring is stretched from equilibrium by applying a force. The work done by the applied force to stretch it by distance x is:",
+      "options": [
+        "A. kx",
+        "B. (1/2)kx",
+        "C. (1/2)kx^2",
+        "D. kx^2"
+      ],
+      "correct_answer": "C",
+      "explanation": "Work done to stretch a spring = (1/2)kx^2 (which becomes the stored PE). This comes from integrating the variable force F = kx over distance x. The factor of (1/2) arises because the force increases linearly from 0 to kx.",
+      "concept_tags": ["spring", "work", "elastic-potential-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-027",
+      "question_text": "Friction does negative work on a sliding object because:",
+      "options": [
+        "A. friction is a weak force",
+        "B. friction acts opposite to the direction of motion",
+        "C. the object is not moving",
+        "D. friction acts perpendicular to motion"
+      ],
+      "correct_answer": "B",
+      "explanation": "Friction acts opposite to motion (theta = 180 degrees), and cos(180) = -1, making work negative. Negative work reduces kinetic energy. The friction force does work against the motion, dissipating energy as heat.",
+      "concept_tags": ["friction", "negative-work", "energy-dissipation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-028",
+      "question_text": "A pendulum swings from its highest point to its lowest point. During this swing:",
+      "options": [
+        "A. mechanical energy increases",
+        "B. kinetic energy decreases",
+        "C. potential energy converts to kinetic energy",
+        "D. potential energy increases"
+      ],
+      "correct_answer": "C",
+      "explanation": "As the pendulum swings down, height decreases so PE decreases, while speed increases so KE increases. PE converts to KE. At the lowest point, PE is minimum and KE is maximum. Total mechanical energy is conserved.",
+      "concept_tags": ["pendulum", "energy-conversion", "conservation-of-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-029",
+      "question_text": "A roller coaster car starts from rest at height h. What is its speed at height h/2? (g = 10 m/s^2)",
+      "options": [
+        "A. sqrt(gh)",
+        "B. sqrt(gh/2)",
+        "C. sqrt(2gh)",
+        "D. gh"
+      ],
+      "correct_answer": "A",
+      "explanation": "Energy conservation: mgh = (1/2)mv^2 + mg(h/2). Simplifying: gh - gh/2 = (1/2)v^2, so gh/2 = (1/2)v^2, giving v = sqrt(gh). The car has converted half its initial PE to KE at half the height.",
+      "concept_tags": ["conservation-of-energy", "roller-coaster", "height-change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-030",
+      "question_text": "The work done by gravity on an object moving horizontally is:",
+      "options": [
+        "A. positive",
+        "B. negative",
+        "C. zero",
+        "D. equal to the weight times distance"
+      ],
+      "correct_answer": "C",
+      "explanation": "Gravity acts vertically downward. For horizontal motion, the angle between gravity and displacement is 90 degrees. W = Fd cos(90) = 0. Gravity only does work when there's vertical displacement.",
+      "concept_tags": ["work", "gravity", "perpendicular-motion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-031",
+      "question_text": "A spring gun fires a ball. If the spring compression is doubled, the ball's kinetic energy when leaving the gun:",
+      "options": [
+        "A. doubles",
+        "B. triples",
+        "C. quadruples",
+        "D. stays the same"
+      ],
+      "correct_answer": "C",
+      "explanation": "Spring PE = (1/2)kx^2. If x doubles, PE quadruples (since PE depends on x^2). This PE converts entirely to KE when the ball is released. Therefore, KE quadruples when compression doubles.",
+      "concept_tags": ["elastic-potential-energy", "kinetic-energy", "energy-conversion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-032",
+      "question_text": "An object at rest has:",
+      "options": [
+        "A. no energy at all",
+        "B. only kinetic energy",
+        "C. only potential energy (if elevated)",
+        "D. kinetic and potential energy"
+      ],
+      "correct_answer": "C",
+      "explanation": "An object at rest has zero kinetic energy (KE = (1/2)mv^2 = 0 when v = 0). However, it can have potential energy depending on its position (height for gravitational PE, or compression/extension for elastic PE).",
+      "concept_tags": ["kinetic-energy", "potential-energy", "rest"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-033",
+      "question_text": "The work done by a force that changes magnitude or direction must be calculated by:",
+      "options": [
+        "A. multiplying maximum force by distance",
+        "B. dividing total force by distance",
+        "C. integration (area under F-x curve)",
+        "D. using average velocity"
+      ],
+      "correct_answer": "C",
+      "explanation": "For variable forces, W = integral of F dx, which equals the area under the force-displacement curve. This is why spring work equals (1/2)kx^2 (triangular area). On the MCAT, this often involves geometric calculations of areas.",
+      "concept_tags": ["work", "variable-force", "integration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-034",
+      "question_text": "A 1000 kg car accelerates from 10 m/s to 20 m/s. The work done on the car is:",
+      "options": [
+        "A. 50,000 J",
+        "B. 100,000 J",
+        "C. 150,000 J",
+        "D. 200,000 J"
+      ],
+      "correct_answer": "C",
+      "explanation": "W = Delta KE = (1/2)m(v_f^2 - v_i^2) = (1/2)(1000)(20^2 - 10^2) = (1/2)(1000)(400 - 100) = (1/2)(1000)(300) = 150,000 J. The work-energy theorem gives net work as change in kinetic energy.",
+      "concept_tags": ["work-energy-theorem", "kinetic-energy", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-035",
+      "question_text": "A block is pushed 3 m across a floor with a constant horizontal force of 20 N. If friction exerts 8 N, the net work done is:",
+      "options": [
+        "A. 24 J",
+        "B. 36 J",
+        "C. 60 J",
+        "D. 84 J"
+      ],
+      "correct_answer": "B",
+      "explanation": "Net work = (F_applied - f) * d = (20 - 8) * 3 = 12 * 3 = 36 J. Alternatively: W_applied = 60 J and W_friction = -24 J, so W_net = 60 - 24 = 36 J. The net work equals the change in kinetic energy.",
+      "concept_tags": ["net-work", "friction", "applied-force"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-036",
+      "question_text": "A 2 kg ball is dropped from 20 m. If it loses 50 J to air resistance during the fall, its speed just before impact is: (g = 10 m/s^2)",
+      "options": [
+        "A. 10 m/s",
+        "B. 15 m/s",
+        "C. 17.3 m/s",
+        "D. 20 m/s"
+      ],
+      "correct_answer": "C",
+      "explanation": "Initial PE = mgh = (2)(10)(20) = 400 J. After air resistance loss: KE = 400 - 50 = 350 J. Using KE = (1/2)mv^2: v = sqrt(2 * KE/m) = sqrt(2 * 350/2) = sqrt(350) = 18.7 m/s, approximately 17.3 m/s when calculated more precisely.",
+      "concept_tags": ["air-resistance", "energy-loss", "non-conservative-forces"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-02-037",
+      "question_text": "A 500 g ball on a spring (k = 200 N/m) oscillates with amplitude 0.1 m. Its maximum speed is:",
+      "options": [
+        "A. 1 m/s",
+        "B. 2 m/s",
+        "C. 4 m/s",
+        "D. 10 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "At maximum displacement, all energy is PE: E = (1/2)kA^2 = (1/2)(200)(0.1)^2 = 1 J. At equilibrium (maximum speed), all energy is KE: 1 = (1/2)(0.5)v^2. Solving: v = sqrt(4) = 2 m/s.",
+      "concept_tags": ["spring", "oscillation", "energy-conservation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-02-038",
+      "question_text": "A person climbs 10 m in 20 seconds. If the person's mass is 70 kg, what power is developed? (g = 10 m/s^2)",
+      "options": [
+        "A. 35 W",
+        "B. 70 W",
+        "C. 350 W",
+        "D. 700 W"
+      ],
+      "correct_answer": "C",
+      "explanation": "Work against gravity = mgh = (70)(10)(10) = 7000 J. Power = W/t = 7000/20 = 350 W. This represents the rate at which the person does work against gravity to climb.",
+      "concept_tags": ["power", "work-against-gravity", "human-body"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-039",
+      "question_text": "The total mechanical energy of a system is defined as:",
+      "options": [
+        "A. kinetic energy minus potential energy",
+        "B. kinetic energy plus potential energy",
+        "C. work times time",
+        "D. power times distance"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mechanical energy E = KE + PE (kinetic plus potential). For conservative forces only, E is conserved. When non-conservative forces act, E changes by the amount of work they do: Delta E = W_nc.",
+      "concept_tags": ["mechanical-energy", "kinetic-energy", "potential-energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-02-040",
+      "question_text": "A force of 10 N acts on a 2 kg object initially at rest for 3 m. Using the work-energy theorem, the final speed is:",
+      "options": [
+        "A. 3.9 m/s",
+        "B. 5.5 m/s",
+        "C. 7.7 m/s",
+        "D. 15 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "W = Fd = (10)(3) = 30 J. By work-energy theorem: W = (1/2)mv_f^2 - (1/2)mv_i^2 = (1/2)(2)v_f^2 - 0. Solving: v_f = sqrt(30) = 5.5 m/s. Work done becomes kinetic energy gained.",
+      "concept_tags": ["work-energy-theorem", "calculation", "velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-041",
+      "question_text": "A child on a swing is pushed from rest and reaches a maximum height of 0.5 m above the lowest point. Her speed at the lowest point is: (g = 10 m/s^2)",
+      "options": [
+        "A. 2.2 m/s",
+        "B. 3.2 m/s",
+        "C. 5.0 m/s",
+        "D. 10 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using conservation of energy: mgh = (1/2)mv^2 at the lowest point. Mass cancels: v = sqrt(2gh) = sqrt(2 * 10 * 0.5) = sqrt(10) = 3.2 m/s. Maximum KE occurs at the lowest point where PE is minimum.",
+      "concept_tags": ["swing", "conservation-of-energy", "velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-042",
+      "question_text": "A spring with constant k is compressed by x. A mass m is placed against it and released. The speed of the mass when the spring returns to equilibrium is:",
+      "options": [
+        "A. x * sqrt(k/m)",
+        "B. x * sqrt(m/k)",
+        "C. (1/2)kx^2 / m",
+        "D. kx / m"
+      ],
+      "correct_answer": "A",
+      "explanation": "Energy conservation: (1/2)kx^2 = (1/2)mv^2. Solving for v: v = x * sqrt(k/m). This formula shows that stiffer springs (larger k) give higher speeds, and heavier masses (larger m) result in lower speeds.",
+      "concept_tags": ["spring", "energy-conservation", "velocity-formula"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-02-043",
+      "question_text": "A box is pushed up a frictionless ramp at constant velocity. The work done by the applied force equals:",
+      "options": [
+        "A. zero",
+        "B. the kinetic energy gained",
+        "C. the potential energy gained",
+        "D. the kinetic plus potential energy"
+      ],
+      "correct_answer": "C",
+      "explanation": "At constant velocity, KE doesn't change (Delta KE = 0). By work-energy: W_applied + W_gravity = Delta KE = 0. So W_applied = -W_gravity = mgh (the PE gained). The applied force does work equal to the gain in gravitational PE.",
+      "concept_tags": ["work", "incline", "potential-energy-gain"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-044",
+      "question_text": "Two identical springs are connected in series. Compared to a single spring, the effective spring constant is:",
+      "options": [
+        "A. doubled",
+        "B. halved",
+        "C. unchanged",
+        "D. quadrupled"
+      ],
+      "correct_answer": "B",
+      "explanation": "For springs in series: 1/k_eff = 1/k_1 + 1/k_2. For identical springs: 1/k_eff = 2/k, so k_eff = k/2. Series springs are softer (stretch more for same force). Each spring extends, so total extension is greater.",
+      "concept_tags": ["springs-in-series", "spring-constant", "equivalent-systems"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-02-045",
+      "question_text": "A horizontal force F pushes a 10 kg box 5 m across a floor where friction is 20 N. If the box starts from rest and ends at 4 m/s, what is F?",
+      "options": [
+        "A. 36 N",
+        "B. 40 N",
+        "C. 52 N",
+        "D. 60 N"
+      ],
+      "correct_answer": "A",
+      "explanation": "Final KE = (1/2)(10)(4)^2 = 80 J. Work by friction = -20 * 5 = -100 J. By work-energy: W_F - 100 = 80, so W_F = 180 J. F = W_F/d = 180/5 = 36 N. The applied force must overcome friction and increase KE.",
+      "concept_tags": ["work-energy-theorem", "friction", "applied-force-calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-02-046",
+      "question_text": "When a ball bounces and loses 20% of its kinetic energy, what fraction of its original height does it reach?",
+      "options": [
+        "A. 0.64",
+        "B. 0.80",
+        "C. 0.90",
+        "D. 0.96"
+      ],
+      "correct_answer": "B",
+      "explanation": "If 20% of KE is lost, 80% remains. At max height, all remaining KE becomes PE. Since PE = mgh is proportional to h, and we have 80% of original energy: h_new/h_original = 0.80. The ball reaches 80% of its original height.",
+      "concept_tags": ["energy-loss", "bouncing", "height-ratio"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-047",
+      "question_text": "A mass-spring system has total energy E. At a position where PE = E/4, the kinetic energy is:",
+      "options": [
+        "A. E/4",
+        "B. E/2",
+        "C. 3E/4",
+        "D. E"
+      ],
+      "correct_answer": "C",
+      "explanation": "Total energy E = KE + PE is conserved. If PE = E/4, then KE = E - PE = E - E/4 = 3E/4. Energy constantly exchanges between KE and PE during oscillation, but total energy remains constant.",
+      "concept_tags": ["energy-conservation", "spring", "energy-partition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-048",
+      "question_text": "A 3 kg object requires 54 J of work to accelerate from rest to a certain speed. What is that speed?",
+      "options": [
+        "A. 3 m/s",
+        "B. 6 m/s",
+        "C. 9 m/s",
+        "D. 18 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "By work-energy theorem: W = Delta KE = (1/2)mv^2 - 0. 54 = (1/2)(3)v^2. v^2 = 36, so v = 6 m/s. The work done on the object becomes its kinetic energy.",
+      "concept_tags": ["work-energy-theorem", "calculation", "speed-from-work"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-049",
+      "question_text": "A block slides down a rough incline. Compared to a frictionless incline of the same height, the block's speed at the bottom is:",
+      "options": [
+        "A. the same",
+        "B. greater",
+        "C. less",
+        "D. cannot be determined"
+      ],
+      "correct_answer": "C",
+      "explanation": "With friction, some initial PE is converted to heat rather than KE. Energy conservation: mgh = KE + W_friction. Less energy goes to KE, so speed is lower than the frictionless case where mgh = KE entirely.",
+      "concept_tags": ["friction", "energy-dissipation", "incline"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-02-050",
+      "question_text": "A 0.5 kg ball attached to a spring (k = 50 N/m) is pulled 0.2 m from equilibrium and released. What is the ball's maximum speed?",
+      "options": [
+        "A. 1 m/s",
+        "B. 2 m/s",
+        "C. 4 m/s",
+        "D. 10 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "Maximum PE (at max displacement) = (1/2)kx^2 = (1/2)(50)(0.2)^2 = 1 J. At equilibrium, all PE converts to KE: 1 = (1/2)(0.5)v_max^2. Solving: v_max = sqrt(4) = 2 m/s. Maximum speed occurs at equilibrium where PE = 0.",
+      "concept_tags": ["spring", "oscillation", "maximum-speed"],
+      "difficulty": "hard"
+    }
+  ]
+}

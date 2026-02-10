@@ -1,0 +1,707 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 4,
+  "chapter_title": "Motivation and Emotion",
+  "questions": [
+    {
+      "id": "behavioral-sciences-04-001",
+      "question_text": "According to Maslow's hierarchy of needs, which needs must be satisfied first?",
+      "options": [
+        "A. Self-actualization",
+        "B. Esteem needs",
+        "C. Physiological needs",
+        "D. Belongingness needs"
+      ],
+      "correct_answer": "C",
+      "explanation": "Maslow's hierarchy places physiological needs (food, water, shelter) at the base. These basic survival needs must be met before higher needs (safety, love, esteem, self-actualization) become motivating.",
+      "concept_tags": ["maslow", "hierarchy-of-needs", "physiological-needs"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-002",
+      "question_text": "The James-Lange theory of emotion proposes that:",
+      "options": [
+        "A. Emotions and physiological responses occur simultaneously",
+        "B. Physiological arousal leads to the experience of emotion",
+        "C. Cognitive appraisal determines the emotion experienced",
+        "D. Emotions are purely biological"
+      ],
+      "correct_answer": "B",
+      "explanation": "James-Lange theory: stimulus → physiological response → emotion. We feel afraid because our heart races, not the other way around. 'We are sad because we cry.'",
+      "concept_tags": ["james-lange", "emotion-theory", "arousal"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-003",
+      "question_text": "The Cannon-Bard theory of emotion states that:",
+      "options": [
+        "A. Emotions follow from physiological responses",
+        "B. Physiological arousal and emotional experience occur simultaneously",
+        "C. Cognition determines emotion",
+        "D. Emotions are learned through conditioning"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cannon-Bard theory: the thalamus sends signals simultaneously to the cortex (emotional experience) and sympathetic nervous system (physiological arousal). Arousal and emotion happen together.",
+      "concept_tags": ["cannon-bard", "emotion-theory", "simultaneous"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-004",
+      "question_text": "The Schachter-Singer two-factor theory emphasizes:",
+      "options": [
+        "A. Physiological arousal alone determines emotion",
+        "B. Cognitive labeling of arousal determines the specific emotion",
+        "C. Facial expressions create emotions",
+        "D. Emotions are innate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Schachter-Singer two-factor theory: emotion = physiological arousal + cognitive interpretation. The same arousal can be labeled as different emotions depending on context and how we interpret it.",
+      "concept_tags": ["schachter-singer", "two-factor-theory", "cognitive-labeling"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-005",
+      "question_text": "Drive reduction theory suggests that behavior is motivated by:",
+      "options": [
+        "A. The desire for optimal arousal",
+        "B. External rewards",
+        "C. The need to reduce physiological tension from unmet needs",
+        "D. Cognitive goals"
+      ],
+      "correct_answer": "C",
+      "explanation": "Drive reduction theory: biological needs create psychological tension (drives) that motivate behavior to reduce the tension. Eating reduces hunger drive, drinking reduces thirst drive.",
+      "concept_tags": ["drive-reduction", "homeostasis", "motivation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-006",
+      "question_text": "The Yerkes-Dodson law describes the relationship between:",
+      "options": [
+        "A. Stress and health",
+        "B. Arousal and performance",
+        "C. Emotion and memory",
+        "D. Motivation and learning"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Yerkes-Dodson law states that performance is optimal at moderate arousal levels. Too little or too much arousal impairs performance, creating an inverted U-shaped curve.",
+      "concept_tags": ["yerkes-dodson", "arousal", "performance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-007",
+      "question_text": "The amygdala is most directly involved in:",
+      "options": [
+        "A. Memory consolidation",
+        "B. Fear and emotional processing",
+        "C. Motor coordination",
+        "D. Language production"
+      ],
+      "correct_answer": "B",
+      "explanation": "The amygdala is crucial for processing emotions, especially fear and threat detection. Damage impairs the ability to recognize fear in others and learn fear responses.",
+      "concept_tags": ["amygdala", "fear", "emotional-processing"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-008",
+      "question_text": "Intrinsic motivation refers to:",
+      "options": [
+        "A. Motivation driven by external rewards",
+        "B. Motivation from internal satisfaction and interest",
+        "C. Motivation from fear of punishment",
+        "D. Unconscious motivation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Intrinsic motivation comes from internal rewards—personal satisfaction, enjoyment, or interest in the activity itself, rather than external rewards like money or grades.",
+      "concept_tags": ["intrinsic-motivation", "self-determination", "internal-rewards"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-009",
+      "question_text": "According to self-determination theory, which of the following is NOT a basic psychological need?",
+      "options": [
+        "A. Autonomy",
+        "B. Competence",
+        "C. Relatedness",
+        "D. Security"
+      ],
+      "correct_answer": "D",
+      "explanation": "Self-determination theory identifies three basic psychological needs: autonomy (control over actions), competence (mastery and effectiveness), and relatedness (connection with others).",
+      "concept_tags": ["self-determination-theory", "psychological-needs", "deci-ryan"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-010",
+      "question_text": "The facial feedback hypothesis suggests that:",
+      "options": [
+        "A. Facial expressions are culturally determined",
+        "B. Facial muscle movements can influence emotional experience",
+        "C. We can always accurately read others' emotions",
+        "D. Emotions are expressed identically across cultures"
+      ],
+      "correct_answer": "B",
+      "explanation": "The facial feedback hypothesis proposes that facial expressions can influence emotional states—smiling can actually make you feel happier, and frowning can make you feel worse.",
+      "concept_tags": ["facial-feedback", "emotion", "embodiment"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-011",
+      "question_text": "The hypothalamus regulates motivation for:",
+      "options": [
+        "A. Complex problem-solving",
+        "B. Hunger, thirst, and sexual behavior",
+        "C. Language acquisition",
+        "D. Visual processing"
+      ],
+      "correct_answer": "B",
+      "explanation": "The hypothalamus regulates basic drives including hunger, thirst, body temperature, and sexual behavior. The lateral hypothalamus stimulates hunger; the ventromedial inhibits it.",
+      "concept_tags": ["hypothalamus", "basic-drives", "homeostasis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-012",
+      "question_text": "The opponent-process theory of motivation explains:",
+      "options": [
+        "A. How emotions generate opposite reactions over time",
+        "B. Color vision",
+        "C. Learning through punishment",
+        "D. Social motivation"
+      ],
+      "correct_answer": "A",
+      "explanation": "Opponent-process theory: emotional experiences are followed by an opposite reaction. Initial pleasure is followed by withdrawal symptoms; initial fear by relief. With repeated exposure, the primary emotion weakens and the opposite strengthens.",
+      "concept_tags": ["opponent-process", "emotional-adaptation", "addiction"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-04-013",
+      "question_text": "The General Adaptation Syndrome (GAS) includes which stages in order?",
+      "options": [
+        "A. Resistance, alarm, exhaustion",
+        "B. Alarm, resistance, exhaustion",
+        "C. Exhaustion, alarm, resistance",
+        "D. Alarm, exhaustion, resistance"
+      ],
+      "correct_answer": "B",
+      "explanation": "Selye's GAS describes the body's stress response: 1) Alarm (fight-or-flight activation), 2) Resistance (body attempts adaptation), 3) Exhaustion (resources depleted, vulnerability to illness).",
+      "concept_tags": ["general-adaptation-syndrome", "stress-response", "selye"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-014",
+      "question_text": "Cortisol is released during stress primarily by the:",
+      "options": [
+        "A. Pituitary gland",
+        "B. Adrenal cortex",
+        "C. Hypothalamus",
+        "D. Thyroid gland"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cortisol is released by the adrenal cortex as part of the HPA axis stress response. The hypothalamus releases CRH → pituitary releases ACTH → adrenal cortex releases cortisol.",
+      "concept_tags": ["cortisol", "HPA-axis", "stress-hormones"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-015",
+      "question_text": "Incentive theory of motivation emphasizes:",
+      "options": [
+        "A. Internal biological drives",
+        "B. External stimuli that pull behavior",
+        "C. Unconscious desires",
+        "D. Cognitive expectations"
+      ],
+      "correct_answer": "B",
+      "explanation": "Incentive theory focuses on external goals or rewards that 'pull' behavior, rather than internal drives that 'push' it. The attractiveness of goals motivates behavior.",
+      "concept_tags": ["incentive-theory", "external-motivation", "rewards"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-016",
+      "question_text": "Ekman's research on facial expressions found that:",
+      "options": [
+        "A. All emotions are culturally learned",
+        "B. Some basic emotions have universal facial expressions",
+        "C. Facial expressions have no connection to emotions",
+        "D. Only negative emotions are universal"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ekman identified six basic emotions (happiness, sadness, fear, anger, surprise, disgust) with universal facial expressions recognized across cultures, suggesting biological basis.",
+      "concept_tags": ["ekman", "universal-emotions", "facial-expressions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-017",
+      "question_text": "Problem-focused coping involves:",
+      "options": [
+        "A. Managing emotional responses to stress",
+        "B. Taking action to directly address the stressor",
+        "C. Avoiding the problem",
+        "D. Seeking emotional support"
+      ],
+      "correct_answer": "B",
+      "explanation": "Problem-focused coping directly addresses the source of stress through problem-solving, planning, and action. Emotion-focused coping manages the emotional response rather than the problem itself.",
+      "concept_tags": ["problem-focused-coping", "stress-management", "lazarus"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-018",
+      "question_text": "The autonomic nervous system's fight-or-flight response is controlled by the:",
+      "options": [
+        "A. Parasympathetic division",
+        "B. Sympathetic division",
+        "C. Somatic division",
+        "D. Central nervous system only"
+      ],
+      "correct_answer": "B",
+      "explanation": "The sympathetic division activates the fight-or-flight response: increased heart rate, dilated pupils, inhibited digestion, released adrenaline. The parasympathetic division handles 'rest and digest.'",
+      "concept_tags": ["sympathetic-nervous-system", "fight-or-flight", "stress-response"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-019",
+      "question_text": "Arousal theory suggests that people are motivated to:",
+      "options": [
+        "A. Always reduce arousal to zero",
+        "B. Maintain an optimal level of arousal",
+        "C. Always increase arousal",
+        "D. Ignore arousal states"
+      ],
+      "correct_answer": "B",
+      "explanation": "Arousal theory proposes that we seek an optimal level of stimulation. Too little leads to boredom-seeking behavior; too much leads to stress-reduction behavior.",
+      "concept_tags": ["arousal-theory", "optimal-arousal", "stimulation-seeking"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-020",
+      "question_text": "Learned helplessness occurs when:",
+      "options": [
+        "A. A person develops new coping skills",
+        "B. Repeated exposure to uncontrollable events leads to passive acceptance",
+        "C. Fear is extinguished",
+        "D. Motivation increases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Learned helplessness (Seligman) develops when repeated exposure to uncontrollable negative events leads to the belief that one cannot affect outcomes, resulting in passivity even when control is possible.",
+      "concept_tags": ["learned-helplessness", "seligman", "depression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-021",
+      "question_text": "Instinct theory of motivation is limited because:",
+      "options": [
+        "A. Instincts don't exist in humans",
+        "B. It doesn't explain learned behaviors and cultural variation",
+        "C. It focuses too much on cognition",
+        "D. It ignores biological factors"
+      ],
+      "correct_answer": "B",
+      "explanation": "Instinct theory proposed that behavior is driven by innate instincts, but it became circular (behavior explained by instinct, instinct inferred from behavior) and couldn't explain learned behaviors or cultural differences.",
+      "concept_tags": ["instinct-theory", "limitations", "motivation-theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-022",
+      "question_text": "The set point theory of weight regulation suggests that:",
+      "options": [
+        "A. Anyone can reach any weight with enough willpower",
+        "B. The body maintains weight around a biologically determined point",
+        "C. Weight is entirely determined by food intake",
+        "D. Exercise has no effect on weight"
+      ],
+      "correct_answer": "B",
+      "explanation": "Set point theory proposes that the body has a 'thermostat' for weight, regulated by the hypothalamus. When weight deviates, metabolic and behavioral changes push it back toward the set point.",
+      "concept_tags": ["set-point", "weight-regulation", "metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-023",
+      "question_text": "Display rules refer to:",
+      "options": [
+        "A. Biological constraints on emotional expression",
+        "B. Cultural norms about how emotions should be expressed",
+        "C. Rules for interpreting facial expressions",
+        "D. Scientific rules for studying emotion"
+      ],
+      "correct_answer": "B",
+      "explanation": "Display rules are culturally specific norms governing when, where, and how emotions should be expressed. For example, some cultures suppress negative emotions in public more than others.",
+      "concept_tags": ["display-rules", "cultural-norms", "emotional-expression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-024",
+      "question_text": "The overjustification effect occurs when:",
+      "options": [
+        "A. Intrinsic motivation increases with external rewards",
+        "B. External rewards decrease intrinsic motivation",
+        "C. Punishment increases motivation",
+        "D. Motivation remains constant regardless of rewards"
+      ],
+      "correct_answer": "B",
+      "explanation": "The overjustification effect: when people receive external rewards for intrinsically motivated behavior, intrinsic motivation may decrease. They begin to see the behavior as done for the reward, not enjoyment.",
+      "concept_tags": ["overjustification-effect", "intrinsic-motivation", "rewards"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-025",
+      "question_text": "Approach-avoidance conflict involves:",
+      "options": [
+        "A. Choosing between two desirable options",
+        "B. Choosing between two undesirable options",
+        "C. Being attracted to and repelled by the same goal",
+        "D. Having no motivation"
+      ],
+      "correct_answer": "C",
+      "explanation": "Approach-avoidance conflict: a single goal has both attractive and unattractive features (e.g., wanting dessert but not weight gain). Often leads to ambivalence and vacillation.",
+      "concept_tags": ["approach-avoidance", "conflict", "motivation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-026",
+      "question_text": "Leptin is a hormone that:",
+      "options": [
+        "A. Stimulates hunger",
+        "B. Signals satiety and reduces appetite",
+        "C. Increases metabolism",
+        "D. Triggers the stress response"
+      ],
+      "correct_answer": "B",
+      "explanation": "Leptin is produced by fat cells and signals satiety to the hypothalamus, reducing appetite. Ghrelin (from the stomach) stimulates hunger. Leptin resistance may contribute to obesity.",
+      "concept_tags": ["leptin", "satiety", "hunger-hormones"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-027",
+      "question_text": "Emotion-focused coping is most appropriate when:",
+      "options": [
+        "A. The stressor can be easily changed",
+        "B. The stressor is uncontrollable",
+        "C. Time pressure is minimal",
+        "D. Problem-solving is possible"
+      ],
+      "correct_answer": "B",
+      "explanation": "Emotion-focused coping (managing emotional response) is adaptive when the stressor cannot be changed. Problem-focused coping is better when the situation is controllable.",
+      "concept_tags": ["emotion-focused-coping", "controllability", "stress-management"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-028",
+      "question_text": "Chronic stress can impair the immune system by:",
+      "options": [
+        "A. Decreasing cortisol levels",
+        "B. Prolonged elevated cortisol suppressing immune function",
+        "C. Increasing white blood cell production",
+        "D. Activating the parasympathetic system"
+      ],
+      "correct_answer": "B",
+      "explanation": "Chronic stress leads to prolonged cortisol elevation, which suppresses immune function, increasing vulnerability to illness. Short-term stress may actually boost immunity temporarily.",
+      "concept_tags": ["chronic-stress", "cortisol", "immune-suppression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-029",
+      "question_text": "The limbic system includes all of the following EXCEPT:",
+      "options": [
+        "A. Amygdala",
+        "B. Hippocampus",
+        "C. Hypothalamus",
+        "D. Cerebellum"
+      ],
+      "correct_answer": "D",
+      "explanation": "The limbic system (emotional brain) includes the amygdala, hippocampus, hypothalamus, and other structures. The cerebellum is involved in motor coordination and balance, not emotion.",
+      "concept_tags": ["limbic-system", "brain-structures", "emotion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-030",
+      "question_text": "Ghrelin is released by the:",
+      "options": [
+        "A. Fat cells",
+        "B. Stomach",
+        "C. Hypothalamus",
+        "D. Liver"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ghrelin is released by the stomach when empty, signaling hunger to the brain. It's sometimes called the 'hunger hormone.' Levels drop after eating.",
+      "concept_tags": ["ghrelin", "hunger", "stomach"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-031",
+      "question_text": "According to Lazarus's appraisal theory:",
+      "options": [
+        "A. All people respond to stressors identically",
+        "B. Cognitive interpretation of events determines the stress response",
+        "C. Physiological response precedes emotional experience",
+        "D. Emotions are purely biological"
+      ],
+      "correct_answer": "B",
+      "explanation": "Lazarus's cognitive appraisal theory: stress results from how we appraise situations. Primary appraisal evaluates threat; secondary appraisal evaluates coping resources. Interpretation determines response.",
+      "concept_tags": ["lazarus", "appraisal-theory", "cognitive-stress"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-032",
+      "question_text": "Type A personality is characterized by:",
+      "options": [
+        "A. Relaxed, easygoing behavior",
+        "B. Competitiveness, time urgency, and hostility",
+        "C. Introversion and isolation",
+        "D. High creativity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Type A personality: competitive, impatient, hostile, time-pressured, aggressive. Associated with higher cardiovascular disease risk. Type B is more relaxed and easygoing.",
+      "concept_tags": ["type-a-personality", "stress", "cardiovascular-risk"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-033",
+      "question_text": "The primary stress hormones released during fight-or-flight are:",
+      "options": [
+        "A. Serotonin and dopamine",
+        "B. Epinephrine and norepinephrine",
+        "C. Estrogen and progesterone",
+        "D. Melatonin and oxytocin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Epinephrine (adrenaline) and norepinephrine (noradrenaline) are released by the adrenal medulla during fight-or-flight, causing rapid physiological changes: increased heart rate, blood pressure, energy mobilization.",
+      "concept_tags": ["epinephrine", "norepinephrine", "fight-or-flight"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-034",
+      "question_text": "Need for achievement (nAch) is characterized by:",
+      "options": [
+        "A. Preference for very easy tasks",
+        "B. Preference for moderately challenging tasks",
+        "C. Preference for impossible tasks",
+        "D. Avoidance of all tasks"
+      ],
+      "correct_answer": "B",
+      "explanation": "People high in achievement motivation prefer moderately difficult tasks—challenging enough to provide satisfaction but not so hard as to guarantee failure. Very easy or very hard tasks are less preferred.",
+      "concept_tags": ["need-for-achievement", "mcclelland", "task-difficulty"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-035",
+      "question_text": "Social support acts as a stress buffer by:",
+      "options": [
+        "A. Eliminating all stressors",
+        "B. Providing emotional comfort and practical assistance",
+        "C. Increasing cortisol levels",
+        "D. Isolating individuals from problems"
+      ],
+      "correct_answer": "B",
+      "explanation": "Social support buffers stress through emotional support (comfort, caring), informational support (advice), and instrumental support (practical help). It's associated with better health outcomes.",
+      "concept_tags": ["social-support", "stress-buffer", "health"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-036",
+      "question_text": "The anterior cingulate cortex is involved in:",
+      "options": [
+        "A. Visual processing",
+        "B. Emotional regulation and conflict monitoring",
+        "C. Motor control",
+        "D. Language production"
+      ],
+      "correct_answer": "B",
+      "explanation": "The anterior cingulate cortex plays a role in emotion regulation, conflict monitoring, decision-making, and error detection. It connects cognitive and emotional processing.",
+      "concept_tags": ["anterior-cingulate", "emotion-regulation", "brain"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-037",
+      "question_text": "Expectancy theory of motivation proposes that motivation depends on:",
+      "options": [
+        "A. Biological needs alone",
+        "B. Expectation that effort leads to performance and performance leads to valued outcomes",
+        "C. Past punishments",
+        "D. Unconscious desires"
+      ],
+      "correct_answer": "B",
+      "explanation": "Expectancy theory (Vroom): Motivation = Expectancy × Instrumentality × Valence. People are motivated when they believe effort leads to performance, performance leads to outcomes, and outcomes are valued.",
+      "concept_tags": ["expectancy-theory", "vroom", "work-motivation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-04-038",
+      "question_text": "Denial as a defense mechanism involves:",
+      "options": [
+        "A. Acknowledging reality but not caring",
+        "B. Refusing to accept reality of a stressful situation",
+        "C. Blaming others for one's problems",
+        "D. Redirecting emotions to safer targets"
+      ],
+      "correct_answer": "B",
+      "explanation": "Denial is a defense mechanism where a person refuses to accept reality or facts, blocking external events from awareness. It protects from anxiety but prevents adaptive coping.",
+      "concept_tags": ["denial", "defense-mechanisms", "coping"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-039",
+      "question_text": "Catharsis theory suggests that:",
+      "options": [
+        "A. Expressing anger increases aggression",
+        "B. Venting anger reduces aggressive feelings",
+        "C. Suppressing emotions is healthy",
+        "D. Emotions should be ignored"
+      ],
+      "correct_answer": "B",
+      "explanation": "Catharsis theory proposes that expressing negative emotions releases tension and reduces those emotions. However, research often shows that venting can actually increase rather than decrease aggression.",
+      "concept_tags": ["catharsis", "aggression", "emotional-expression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-040",
+      "question_text": "Self-efficacy refers to:",
+      "options": [
+        "A. Actual ability to perform a task",
+        "B. Belief in one's ability to succeed at a task",
+        "C. General intelligence",
+        "D. Social status"
+      ],
+      "correct_answer": "B",
+      "explanation": "Self-efficacy (Bandura) is the belief in one's capability to execute behaviors necessary to produce specific outcomes. It influences motivation, effort, and persistence.",
+      "concept_tags": ["self-efficacy", "bandura", "belief"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-041",
+      "question_text": "The broaden-and-build theory suggests that positive emotions:",
+      "options": [
+        "A. Narrow attention and behavior",
+        "B. Build lasting psychological resources",
+        "C. Have no adaptive function",
+        "D. Increase stress"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fredrickson's broaden-and-build theory: positive emotions broaden thought-action repertoires and build lasting personal resources (social connections, knowledge, coping skills).",
+      "concept_tags": ["broaden-and-build", "positive-emotions", "fredrickson"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-042",
+      "question_text": "Primary appraisal of a stressor involves:",
+      "options": [
+        "A. Evaluating coping resources",
+        "B. Determining if the event is threatening or challenging",
+        "C. Choosing a coping strategy",
+        "D. Measuring physiological response"
+      ],
+      "correct_answer": "B",
+      "explanation": "Primary appraisal evaluates whether a situation is irrelevant, benign, or stressful (threatening, harmful, or challenging). Secondary appraisal evaluates available coping resources.",
+      "concept_tags": ["primary-appraisal", "stress-evaluation", "lazarus"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-043",
+      "question_text": "The ventromedial hypothalamus, when stimulated, causes:",
+      "options": [
+        "A. Increased hunger",
+        "B. Decreased hunger (satiety)",
+        "C. Increased thirst",
+        "D. Decreased body temperature"
+      ],
+      "correct_answer": "B",
+      "explanation": "The ventromedial hypothalamus (VMH) is the 'satiety center.' Stimulation inhibits eating; lesions cause hyperphagia (overeating). The lateral hypothalamus stimulates hunger.",
+      "concept_tags": ["ventromedial-hypothalamus", "satiety", "hunger-regulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-04-044",
+      "question_text": "Sublimation as a defense mechanism involves:",
+      "options": [
+        "A. Denying unacceptable impulses",
+        "B. Channeling unacceptable impulses into socially acceptable activities",
+        "C. Projecting impulses onto others",
+        "D. Reverting to childlike behavior"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sublimation redirects potentially harmful impulses into socially acceptable or productive activities. Aggression might be channeled into competitive sports, for example.",
+      "concept_tags": ["sublimation", "defense-mechanisms", "freud"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-045",
+      "question_text": "Distress is distinguished from eustress by:",
+      "options": [
+        "A. Only distress activates the stress response",
+        "B. Distress is perceived as negative, eustress as positive",
+        "C. Eustress is more physiologically intense",
+        "D. Only eustress affects health"
+      ],
+      "correct_answer": "B",
+      "explanation": "Eustress is positive stress (excitement, motivation) while distress is negative stress (anxiety, overwhelm). Both involve physiological arousal, but perception and outcomes differ.",
+      "concept_tags": ["eustress", "distress", "stress-types"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-046",
+      "question_text": "Cognitive dissonance creates motivation to:",
+      "options": [
+        "A. Maintain inconsistent beliefs",
+        "B. Reduce inconsistency between attitudes and behavior",
+        "C. Increase conflicting thoughts",
+        "D. Avoid all decisions"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cognitive dissonance (Festinger) is the discomfort from holding inconsistent cognitions. People are motivated to reduce this dissonance by changing attitudes, behaviors, or adding new cognitions.",
+      "concept_tags": ["cognitive-dissonance", "festinger", "attitude-change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-047",
+      "question_text": "The tend-and-befriend response to stress is more common in:",
+      "options": [
+        "A. Males",
+        "B. Females",
+        "C. Children only",
+        "D. Elderly only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Taylor proposed that females show a tend-and-befriend response (nurturing offspring, seeking social support) more than fight-or-flight. This may be linked to oxytocin and estrogen.",
+      "concept_tags": ["tend-and-befriend", "gender-differences", "stress-response"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-04-048",
+      "question_text": "Burnout is characterized by:",
+      "options": [
+        "A. Increased energy and motivation",
+        "B. Emotional exhaustion, depersonalization, and reduced accomplishment",
+        "C. Physical illness only",
+        "D. Improved job performance"
+      ],
+      "correct_answer": "B",
+      "explanation": "Burnout involves emotional exhaustion (feeling drained), depersonalization (cynicism, detachment), and reduced personal accomplishment. It results from chronic workplace stress.",
+      "concept_tags": ["burnout", "workplace-stress", "exhaustion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-04-049",
+      "question_text": "The left prefrontal cortex is associated with:",
+      "options": [
+        "A. Negative emotions and withdrawal",
+        "B. Positive emotions and approach behavior",
+        "C. Motor control only",
+        "D. Language processing only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Research shows left prefrontal cortex activity is associated with positive emotions and approach motivation. Right prefrontal activity is linked to negative emotions and withdrawal.",
+      "concept_tags": ["prefrontal-cortex", "hemispheric-asymmetry", "emotions"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-04-050",
+      "question_text": "According to drive reduction theory, homeostasis refers to:",
+      "options": [
+        "A. Maximum arousal level",
+        "B. The body's tendency to maintain internal stability",
+        "C. Conscious goal-setting",
+        "D. Social equilibrium"
+      ],
+      "correct_answer": "B",
+      "explanation": "Homeostasis is the body's tendency to maintain a stable internal environment. Drives arise when homeostasis is disrupted, motivating behaviors to restore balance.",
+      "concept_tags": ["homeostasis", "drive-reduction", "internal-stability"],
+      "difficulty": "easy"
+    }
+  ]
+}

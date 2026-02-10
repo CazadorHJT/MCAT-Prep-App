@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 12,
+  "chapter_title": "Genetics and Evolution",
+  "questions": [
+    {
+      "id": "biology-12-001",
+      "question_text": "In a cross between two heterozygous individuals (Aa x Aa), what is the expected phenotypic ratio of offspring if A is completely dominant over a?",
+      "options": [
+        "A. 1:1",
+        "B. 1:2:1",
+        "C. 3:1",
+        "D. 2:1"
+      ],
+      "correct_answer": "C",
+      "explanation": "When two heterozygous individuals (Aa) are crossed, the genotypic ratio is 1 AA : 2 Aa : 1 aa. However, since A is completely dominant over a, both AA and Aa individuals express the dominant phenotype. This results in a phenotypic ratio of 3 dominant : 1 recessive (3:1). The 1:2:1 ratio represents the genotypic ratio, not the phenotypic ratio.",
+      "concept_tags": ["mendelian-genetics", "dominance", "punnett-squares", "monohybrid-cross"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-002",
+      "question_text": "A geneticist performs a testcross between an individual expressing the dominant phenotype and a homozygous recessive individual. If approximately half the offspring express the recessive phenotype, what can be concluded about the genotype of the dominant parent?",
+      "options": [
+        "A. The parent is homozygous dominant (AA)",
+        "B. The parent is heterozygous (Aa)",
+        "C. The parent is homozygous recessive (aa)",
+        "D. The genotype cannot be determined from this information"
+      ],
+      "correct_answer": "B",
+      "explanation": "A testcross is used to determine the genotype of an individual expressing a dominant phenotype. If the dominant parent were homozygous (AA), all offspring would be Aa and express the dominant phenotype. Since half the offspring express the recessive phenotype, this indicates the cross was Aa x aa, yielding a 1:1 ratio of Aa (dominant) to aa (recessive). Therefore, the parent must be heterozygous (Aa).",
+      "concept_tags": ["mendelian-genetics", "testcross", "genotype-determination"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-003",
+      "question_text": "Mendel's Law of Segregation states that:",
+      "options": [
+        "A. genes for different traits are inherited independently of one another",
+        "B. allele pairs separate during gamete formation, with each gamete receiving one allele",
+        "C. dominant alleles always mask the expression of recessive alleles",
+        "D. all traits are determined by a single gene"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Law of Segregation states that the two alleles for each gene separate (segregate) during gamete formation (meiosis), so each gamete receives only one allele. This occurs during anaphase I when homologous chromosomes separate. Option A describes the Law of Independent Assortment. Option C describes dominance but is not a law. Option D is incorrect as many traits are polygenic.",
+      "concept_tags": ["mendelian-genetics", "law-of-segregation", "meiosis", "alleles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-004",
+      "question_text": "In snapdragons, flower color shows incomplete dominance. Red (RR) crossed with white (WW) produces pink (RW) offspring. What phenotypic ratio is expected in the F2 generation from crossing two pink flowers?",
+      "options": [
+        "A. 3:1 red to white",
+        "B. 1:2:1 red to pink to white",
+        "C. All pink",
+        "D. 1:1 red to white"
+      ],
+      "correct_answer": "B",
+      "explanation": "In incomplete dominance, the heterozygote shows an intermediate phenotype. Crossing two pink (RW) flowers yields: 1 RR (red) : 2 RW (pink) : 1 WW (white). Unlike complete dominance where heterozygotes and homozygous dominant individuals look the same, in incomplete dominance each genotype produces a distinct phenotype, so the phenotypic ratio matches the genotypic ratio of 1:2:1.",
+      "concept_tags": ["incomplete-dominance", "non-mendelian-inheritance", "phenotypic-ratios"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-005",
+      "question_text": "ABO blood type in humans is determined by multiple alleles and codominance. An individual with type AB blood:",
+      "options": [
+        "A. has genotype I^A I^A or I^A i",
+        "B. has genotype I^B I^B or I^B i",
+        "C. expresses both A and B antigens on red blood cells",
+        "D. has the universal donor blood type"
+      ],
+      "correct_answer": "C",
+      "explanation": "Type AB blood results from the genotype I^A I^B, where both alleles are expressed simultaneously (codominance). The I^A allele produces A antigens and the I^B allele produces B antigens, so both are present on red blood cells. Type AB is the universal recipient (not donor) because it has no antibodies against A or B antigens. Type O is the universal donor.",
+      "concept_tags": ["codominance", "multiple-alleles", "blood-types", "abo-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-006",
+      "question_text": "Which of the following statements about codominance is correct?",
+      "options": [
+        "A. One allele completely masks the expression of another allele",
+        "B. The heterozygote displays an intermediate phenotype between the two homozygotes",
+        "C. Both alleles are fully expressed in the heterozygote",
+        "D. Multiple genes contribute to a single phenotype"
+      ],
+      "correct_answer": "C",
+      "explanation": "In codominance, both alleles are fully and separately expressed in the heterozygote. This differs from complete dominance (A) where one allele masks another, and from incomplete dominance (B) where an intermediate phenotype is produced. Option D describes polygenic inheritance. A classic example of codominance is the AB blood type, where both A and B antigens are expressed.",
+      "concept_tags": ["codominance", "non-mendelian-inheritance", "allelic-interactions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-007",
+      "question_text": "Two genes are located on the same chromosome with a recombination frequency of 8%. This means that:",
+      "options": [
+        "A. the genes are on different chromosomes",
+        "B. the genes assort independently during meiosis",
+        "C. the genes are relatively close together on the same chromosome",
+        "D. crossing over never occurs between these genes"
+      ],
+      "correct_answer": "C",
+      "explanation": "Recombination frequency indicates the percentage of recombinant offspring produced due to crossing over. A frequency of 8% means the genes are 8 map units apart and relatively close together on the same chromosome. Genes on different chromosomes (A) or that assort independently (B) would show 50% recombination. Crossing over does occur (D), but the low frequency indicates the genes are close together, making crossing over between them less likely.",
+      "concept_tags": ["linkage", "recombination", "genetic-mapping", "crossing-over"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-008",
+      "question_text": "Genes that are located close together on the same chromosome and tend to be inherited together are said to be:",
+      "options": [
+        "A. codominant",
+        "B. epistatic",
+        "C. linked",
+        "D. pleiotropic"
+      ],
+      "correct_answer": "C",
+      "explanation": "Linked genes are located on the same chromosome and tend to be inherited together because they do not assort independently during meiosis. Codominance (A) refers to both alleles being expressed. Epistasis (B) occurs when one gene affects the expression of another gene. Pleiotropy (D) is when one gene affects multiple phenotypic traits. Linked genes can be separated by crossing over during meiosis.",
+      "concept_tags": ["linkage", "genetic-mapping", "inheritance-patterns"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-009",
+      "question_text": "In a pedigree, a trait that appears in every generation and affects males and females equally is most likely:",
+      "options": [
+        "A. autosomal recessive",
+        "B. autosomal dominant",
+        "C. X-linked recessive",
+        "D. X-linked dominant"
+      ],
+      "correct_answer": "B",
+      "explanation": "Autosomal dominant traits typically appear in every generation because only one copy of the dominant allele is needed for expression. They affect males and females equally because the gene is on an autosome. Autosomal recessive traits (A) often skip generations. X-linked recessive traits (C) predominantly affect males. X-linked dominant traits (D) affect females more frequently and may be lethal in males.",
+      "concept_tags": ["pedigree-analysis", "autosomal-dominant", "inheritance-patterns"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-010",
+      "question_text": "In a pedigree analysis, a trait that skips generations and predominantly affects males is most likely:",
+      "options": [
+        "A. autosomal dominant",
+        "B. autosomal recessive",
+        "C. X-linked recessive",
+        "D. Y-linked"
+      ],
+      "correct_answer": "C",
+      "explanation": "X-linked recessive traits characteristically skip generations and predominantly affect males because males have only one X chromosome (XY) and will express any recessive allele on it. Females (XX) can be carriers and pass the trait to sons without expressing it themselves. Autosomal traits affect both sexes equally. Y-linked traits (D) would appear in every generation, passed from father to all sons.",
+      "concept_tags": ["pedigree-analysis", "x-linked-recessive", "sex-linked-inheritance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-011",
+      "question_text": "A woman who is a carrier for hemophilia (X^H X^h) has children with a man who has normal blood clotting (X^H Y). What is the probability that their son will have hemophilia?",
+      "options": [
+        "A. 0%",
+        "B. 25%",
+        "C. 50%",
+        "D. 100%"
+      ],
+      "correct_answer": "C",
+      "explanation": "The carrier mother (X^H X^h) will pass either X^H or X^h to offspring with equal probability. Sons receive their X chromosome from the mother and Y from the father. Therefore, sons have a 50% chance of receiving X^h (hemophilia) and 50% chance of receiving X^H (normal). Since males only have one X chromosome, a son who receives X^h will have hemophilia.",
+      "concept_tags": ["x-linked-inheritance", "pedigree-analysis", "carrier-genetics", "hemophilia"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-012",
+      "question_text": "The Hardy-Weinberg equilibrium equation p^2 + 2pq + q^2 = 1 represents:",
+      "options": [
+        "A. allele frequencies in a population",
+        "B. genotype frequencies in a population",
+        "C. the rate of mutation in a population",
+        "D. the rate of genetic drift"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Hardy-Weinberg equation p^2 + 2pq + q^2 = 1 represents genotype frequencies, where p^2 is the frequency of homozygous dominant (AA), 2pq is the frequency of heterozygotes (Aa), and q^2 is the frequency of homozygous recessive (aa). The equation p + q = 1 represents allele frequencies, where p is the frequency of the dominant allele and q is the frequency of the recessive allele.",
+      "concept_tags": ["hardy-weinberg", "population-genetics", "genotype-frequencies"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-013",
+      "question_text": "Which of the following is NOT a condition required for Hardy-Weinberg equilibrium?",
+      "options": [
+        "A. No natural selection",
+        "B. Random mating",
+        "C. Large population size",
+        "D. High mutation rate"
+      ],
+      "correct_answer": "D",
+      "explanation": "Hardy-Weinberg equilibrium requires NO mutation (not high mutation rate), along with no natural selection, random mating, large population size (no genetic drift), and no gene flow (migration). These conditions ensure that allele frequencies remain constant over generations. In reality, these conditions are rarely met, but the model provides a baseline for detecting evolutionary change.",
+      "concept_tags": ["hardy-weinberg", "population-genetics", "evolutionary-forces"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-014",
+      "question_text": "In a population in Hardy-Weinberg equilibrium, 16% of individuals are homozygous recessive (aa). What is the frequency of the dominant allele (A)?",
+      "options": [
+        "A. 0.16",
+        "B. 0.40",
+        "C. 0.60",
+        "D. 0.84"
+      ],
+      "correct_answer": "C",
+      "explanation": "If 16% are homozygous recessive, then q^2 = 0.16, so q = 0.40. Since p + q = 1, the frequency of the dominant allele p = 1 - 0.40 = 0.60. This calculation is fundamental to Hardy-Weinberg analysis and allows us to determine allele frequencies from observable phenotype frequencies.",
+      "concept_tags": ["hardy-weinberg", "allele-frequencies", "population-genetics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-015",
+      "question_text": "In a population of 10,000 individuals, 9,604 show the dominant phenotype. Assuming Hardy-Weinberg equilibrium, approximately how many individuals are expected to be heterozygous?",
+      "options": [
+        "A. 396",
+        "B. 1,920",
+        "C. 3,168",
+        "D. 7,684"
+      ],
+      "correct_answer": "C",
+      "explanation": "If 9,604 show dominant phenotype, then 396 show recessive phenotype (10,000 - 9,604). The frequency q^2 = 396/10,000 = 0.0396, so q = 0.199 (approximately 0.2). Therefore p = 0.8. Heterozygote frequency = 2pq = 2(0.8)(0.2) = 0.32. Number of heterozygotes = 0.32 x 10,000 = 3,200, closest to answer C (3,168).",
+      "concept_tags": ["hardy-weinberg", "heterozygote-frequency", "population-genetics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-12-016",
+      "question_text": "Natural selection acts directly on:",
+      "options": [
+        "A. genotypes",
+        "B. phenotypes",
+        "C. allele frequencies",
+        "D. mutation rates"
+      ],
+      "correct_answer": "B",
+      "explanation": "Natural selection acts directly on phenotypes because selection pressure operates on observable traits that affect an organism's survival and reproduction. While natural selection indirectly changes genotypes and allele frequencies over generations, it cannot 'see' genotypes directly. An organism's phenotype, determined by both genotype and environment, determines its fitness in a given environment.",
+      "concept_tags": ["natural-selection", "phenotypes", "evolution", "fitness"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-017",
+      "question_text": "Which type of natural selection favors individuals at both extremes of a phenotypic distribution while selecting against intermediate phenotypes?",
+      "options": [
+        "A. Stabilizing selection",
+        "B. Directional selection",
+        "C. Disruptive selection",
+        "D. Sexual selection"
+      ],
+      "correct_answer": "C",
+      "explanation": "Disruptive (or diversifying) selection favors extreme phenotypes at both ends of the distribution while selecting against intermediate phenotypes. This can lead to two distinct phenotypes in a population and may contribute to speciation. Stabilizing selection (A) favors intermediate phenotypes. Directional selection (B) favors one extreme. Sexual selection (D) relates to mate choice.",
+      "concept_tags": ["natural-selection", "disruptive-selection", "phenotypic-distribution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-018",
+      "question_text": "Human birth weight is subject to stabilizing selection because:",
+      "options": [
+        "A. larger babies have higher survival rates",
+        "B. smaller babies have higher survival rates",
+        "C. babies with intermediate birth weights have the highest survival rates",
+        "D. birth weight has no effect on survival"
+      ],
+      "correct_answer": "C",
+      "explanation": "Human birth weight exemplifies stabilizing selection because babies with intermediate weights have the highest survival rates. Very low birth weight is associated with developmental issues and health problems, while very high birth weight can cause complications during delivery. This selection pressure maintains the population mean around the optimal intermediate weight.",
+      "concept_tags": ["stabilizing-selection", "natural-selection", "human-evolution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-019",
+      "question_text": "Genetic drift is most likely to cause significant changes in allele frequencies in:",
+      "options": [
+        "A. large, stable populations",
+        "B. small, isolated populations",
+        "C. populations undergoing directional selection",
+        "D. populations with high gene flow"
+      ],
+      "correct_answer": "B",
+      "explanation": "Genetic drift has the greatest effect on small, isolated populations because random sampling effects are more pronounced when population size is small. In large populations (A), random fluctuations tend to average out. Gene flow (D) introduces new alleles and counteracts drift. While selection (C) can occur in any population, drift specifically refers to random changes unrelated to selection.",
+      "concept_tags": ["genetic-drift", "population-genetics", "small-populations", "evolution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-020",
+      "question_text": "A hurricane decimates an island population of lizards, leaving only 10 survivors. The allele frequencies in this surviving population differ significantly from the original population. This is an example of:",
+      "options": [
+        "A. natural selection",
+        "B. the founder effect",
+        "C. the bottleneck effect",
+        "D. gene flow"
+      ],
+      "correct_answer": "C",
+      "explanation": "The bottleneck effect occurs when a population is drastically reduced in size by a catastrophic event (like a hurricane), and the surviving population may have different allele frequencies than the original population due to chance. The founder effect (B) occurs when a small group colonizes a new area. This scenario describes a reduction in an existing population, not colonization of a new area.",
+      "concept_tags": ["bottleneck-effect", "genetic-drift", "population-genetics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-021",
+      "question_text": "A small group of individuals leaves their home population and colonizes an island. The allele frequencies in the new population differ from the original population. This phenomenon is called:",
+      "options": [
+        "A. the bottleneck effect",
+        "B. the founder effect",
+        "C. natural selection",
+        "D. gene flow"
+      ],
+      "correct_answer": "B",
+      "explanation": "The founder effect occurs when a small group of individuals colonizes a new area, and the new population's allele frequencies differ from the source population due to random sampling. This is a type of genetic drift. The bottleneck effect (A) involves population reduction rather than colonization. Gene flow (D) involves movement between populations, not founding new ones.",
+      "concept_tags": ["founder-effect", "genetic-drift", "colonization", "population-genetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-022",
+      "question_text": "Gene flow between populations tends to:",
+      "options": [
+        "A. increase genetic differences between populations",
+        "B. decrease genetic differences between populations",
+        "C. have no effect on allele frequencies",
+        "D. eliminate all genetic variation within populations"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gene flow (migration) between populations introduces alleles from one population to another, which tends to homogenize allele frequencies and decrease genetic differences between populations. This counteracts the effects of genetic drift and local adaptation. Gene flow does not eliminate variation within populations (D) but rather can introduce new alleles and increase within-population diversity.",
+      "concept_tags": ["gene-flow", "migration", "population-genetics", "evolution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-023",
+      "question_text": "Two populations of squirrels are separated by a newly formed river. Over many generations, they accumulate genetic differences and can no longer interbreed. This is an example of:",
+      "options": [
+        "A. sympatric speciation",
+        "B. allopatric speciation",
+        "C. parapatric speciation",
+        "D. artificial selection"
+      ],
+      "correct_answer": "B",
+      "explanation": "Allopatric speciation occurs when populations are geographically isolated (by a physical barrier like a river) and evolve independently until they become reproductively isolated. Sympatric speciation (A) occurs without geographic isolation. Parapatric speciation (C) occurs when populations are adjacent with limited gene flow. Artificial selection (D) is human-directed breeding.",
+      "concept_tags": ["speciation", "allopatric-speciation", "reproductive-isolation", "evolution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-024",
+      "question_text": "Prezygotic barriers to reproduction include all of the following EXCEPT:",
+      "options": [
+        "A. temporal isolation",
+        "B. behavioral isolation",
+        "C. hybrid sterility",
+        "D. mechanical isolation"
+      ],
+      "correct_answer": "C",
+      "explanation": "Hybrid sterility is a postzygotic barrier because it occurs after fertilization has taken place. Prezygotic barriers prevent mating or fertilization: temporal isolation (A) involves different breeding times, behavioral isolation (B) involves different courtship rituals, and mechanical isolation (D) involves incompatible reproductive structures. Postzygotic barriers affect hybrid viability or fertility.",
+      "concept_tags": ["reproductive-isolation", "prezygotic-barriers", "postzygotic-barriers", "speciation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-025",
+      "question_text": "A mule, the offspring of a horse and a donkey, is typically sterile. This represents which type of reproductive barrier?",
+      "options": [
+        "A. Temporal isolation",
+        "B. Gametic isolation",
+        "C. Hybrid sterility",
+        "D. Behavioral isolation"
+      ],
+      "correct_answer": "C",
+      "explanation": "Hybrid sterility is a postzygotic reproductive barrier where the hybrid offspring is unable to produce viable gametes. Mules result from crossing horses (64 chromosomes) and donkeys (62 chromosomes), producing an odd number (63) that cannot pair properly during meiosis. This prevents gene flow between the two species even though they can mate and produce viable offspring.",
+      "concept_tags": ["hybrid-sterility", "postzygotic-barriers", "reproductive-isolation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-026",
+      "question_text": "Sympatric speciation is most commonly observed in:",
+      "options": [
+        "A. large mammal populations",
+        "B. plant populations through polyploidy",
+        "C. bird populations through geographic isolation",
+        "D. marine fish populations"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sympatric speciation (speciation without geographic isolation) is most commonly observed in plants through polyploidy, where chromosome number is doubled or multiplied. Polyploid individuals are often immediately reproductively isolated from the parent population because of chromosome incompatibility during meiosis. This is rare in animals but common in plants; about half of all plant species are polyploid.",
+      "concept_tags": ["sympatric-speciation", "polyploidy", "plant-evolution", "speciation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-027",
+      "question_text": "Which of the following provides the strongest evidence for common ancestry between two species?",
+      "options": [
+        "A. Similar habitat preferences",
+        "B. Similar body size",
+        "C. Homologous structures",
+        "D. Similar diet"
+      ],
+      "correct_answer": "C",
+      "explanation": "Homologous structures (structures with similar underlying anatomy derived from a common ancestor but potentially different functions) provide strong evidence for common ancestry. Examples include the forelimbs of mammals, birds, and whales. Similar habitats, body size, or diet could result from convergent evolution (analogous features) in unrelated species adapting to similar environments.",
+      "concept_tags": ["evidence-for-evolution", "homologous-structures", "common-ancestry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-028",
+      "question_text": "The wings of birds and the wings of insects are examples of:",
+      "options": [
+        "A. homologous structures",
+        "B. analogous structures",
+        "C. vestigial structures",
+        "D. homozygous traits"
+      ],
+      "correct_answer": "B",
+      "explanation": "Analogous structures are features that serve similar functions but evolved independently in different lineages (convergent evolution). Bird wings and insect wings both enable flight but have different evolutionary origins and underlying structures. Homologous structures (A) share common ancestry. Vestigial structures (C) are reduced, functionless remnants. Homozygous (D) refers to identical alleles, not structures.",
+      "concept_tags": ["analogous-structures", "convergent-evolution", "evidence-for-evolution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-029",
+      "question_text": "Vestigial structures, such as the human appendix, are evidence for evolution because they:",
+      "options": [
+        "A. serve important functions in all organisms",
+        "B. are newly evolved adaptations",
+        "C. are remnants of structures that were functional in ancestors",
+        "D. show convergent evolution between unrelated species"
+      ],
+      "correct_answer": "C",
+      "explanation": "Vestigial structures are reduced or non-functional remnants of structures that served important functions in ancestors. The human appendix, for example, is thought to be a vestige of a larger cecum used for digesting cellulose in herbivorous ancestors. These structures make sense only in the context of evolution; they would not be expected if organisms were independently created.",
+      "concept_tags": ["vestigial-structures", "evidence-for-evolution", "common-ancestry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-030",
+      "question_text": "The observation that all organisms use the same genetic code (DNA/RNA) is evidence for:",
+      "options": [
+        "A. convergent evolution",
+        "B. common ancestry of all life",
+        "C. independent origin of species",
+        "D. natural selection"
+      ],
+      "correct_answer": "B",
+      "explanation": "The universal genetic code (with minor variations) shared by all known organisms is powerful evidence for common ancestry. If organisms arose independently, there would be no reason for them to share the same code. The fact that the same codons specify the same amino acids in bacteria, plants, and animals indicates all life descended from a common ancestor that used this code.",
+      "concept_tags": ["evidence-for-evolution", "common-ancestry", "molecular-biology", "genetic-code"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-031",
+      "question_text": "According to Mendel's Law of Independent Assortment, genes for different traits:",
+      "options": [
+        "A. are always inherited together",
+        "B. segregate independently during gamete formation if on different chromosomes",
+        "C. are always located on the same chromosome",
+        "D. never undergo recombination"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Law of Independent Assortment states that genes for different traits segregate independently during gamete formation, provided they are on different chromosomes. This occurs because homologous chromosome pairs orient randomly at metaphase I. Genes on the same chromosome (linked genes) do not assort independently unless separated by crossing over. This law explains the 9:3:3:1 ratio in dihybrid crosses.",
+      "concept_tags": ["independent-assortment", "mendelian-genetics", "dihybrid-cross", "meiosis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-032",
+      "question_text": "In a dihybrid cross between two heterozygotes (AaBb x AaBb) with independent assortment, what fraction of offspring are expected to be homozygous for both traits?",
+      "options": [
+        "A. 1/16",
+        "B. 2/16",
+        "C. 4/16",
+        "D. 9/16"
+      ],
+      "correct_answer": "B",
+      "explanation": "To be homozygous for both traits, offspring must be either AABB or aabb. For each trait independently: P(AA) = 1/4, P(aa) = 1/4. P(AABB) = 1/4 x 1/4 = 1/16. P(aabb) = 1/4 x 1/4 = 1/16. Total probability of being homozygous for both = 1/16 + 1/16 = 2/16 (or 1/8).",
+      "concept_tags": ["dihybrid-cross", "independent-assortment", "probability", "mendelian-genetics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-12-033",
+      "question_text": "Epistasis occurs when:",
+      "options": [
+        "A. one gene masks or modifies the expression of another gene",
+        "B. two alleles of the same gene interact",
+        "C. genes are linked on the same chromosome",
+        "D. multiple genes contribute equally to a phenotype"
+      ],
+      "correct_answer": "A",
+      "explanation": "Epistasis occurs when one gene affects the expression of another gene at a different locus. For example, in Labrador retrievers, the E gene determines whether pigment is deposited; ee dogs are yellow regardless of their genotype at the B gene (which determines black vs. brown pigment). This results in modified Mendelian ratios such as 9:3:4 or 12:3:1 instead of the typical 9:3:3:1.",
+      "concept_tags": ["epistasis", "gene-interactions", "non-mendelian-inheritance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-034",
+      "question_text": "A trait controlled by multiple genes, each contributing a small additive effect, likely shows:",
+      "options": [
+        "A. discrete phenotypic categories",
+        "B. continuous phenotypic variation",
+        "C. 3:1 phenotypic ratios",
+        "D. complete dominance"
+      ],
+      "correct_answer": "B",
+      "explanation": "Polygenic traits are controlled by multiple genes with additive effects, resulting in continuous phenotypic variation rather than discrete categories. Examples include height, skin color, and intelligence in humans. The distribution of these traits typically follows a bell curve. In contrast, single-gene traits often show discrete categories with Mendelian ratios.",
+      "concept_tags": ["polygenic-inheritance", "continuous-variation", "quantitative-traits"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-035",
+      "question_text": "Pleiotropy refers to:",
+      "options": [
+        "A. one gene affecting multiple phenotypic traits",
+        "B. multiple genes affecting one trait",
+        "C. environmental effects on gene expression",
+        "D. genes that are expressed only in certain tissues"
+      ],
+      "correct_answer": "A",
+      "explanation": "Pleiotropy occurs when a single gene affects multiple phenotypic traits. For example, the gene causing sickle cell anemia affects not only red blood cell shape but also causes various symptoms including pain crises, organ damage, and resistance to malaria. Polygenic inheritance (B) involves multiple genes affecting one trait. Option C describes phenotypic plasticity.",
+      "concept_tags": ["pleiotropy", "gene-expression", "phenotypic-effects"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-036",
+      "question_text": "If a recombination frequency of 50% is observed between two genes, this indicates that:",
+      "options": [
+        "A. the genes are very close together on the same chromosome",
+        "B. the genes are on different chromosomes or very far apart on the same chromosome",
+        "C. crossing over never occurs between the genes",
+        "D. the genes show complete linkage"
+      ],
+      "correct_answer": "B",
+      "explanation": "A 50% recombination frequency indicates that genes assort independently, which occurs when genes are on different chromosomes or are so far apart on the same chromosome that crossing over between them occurs in virtually every meiosis. Close linkage (A) would show less than 50% recombination. Complete linkage (D) would show 0% recombination.",
+      "concept_tags": ["recombination", "genetic-mapping", "linkage", "independent-assortment"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-037",
+      "question_text": "In a pedigree, two unaffected parents have an affected child. The trait is most likely:",
+      "options": [
+        "A. autosomal dominant",
+        "B. autosomal recessive",
+        "C. X-linked dominant",
+        "D. Y-linked"
+      ],
+      "correct_answer": "B",
+      "explanation": "When two unaffected parents have an affected child, the trait is most likely autosomal recessive. Both parents must be carriers (heterozygotes) who do not express the trait but can pass the recessive allele to offspring. The probability of an affected child is 25% for each pregnancy. Dominant traits (A, C) require at least one affected parent. Y-linked traits (D) are passed father to son.",
+      "concept_tags": ["pedigree-analysis", "autosomal-recessive", "carrier-genetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-038",
+      "question_text": "What is the probability that an unaffected son of two carrier parents (both Aa for an autosomal recessive trait) is a carrier?",
+      "options": [
+        "A. 1/4",
+        "B. 1/3",
+        "C. 2/3",
+        "D. 3/4"
+      ],
+      "correct_answer": "C",
+      "explanation": "From Aa x Aa, offspring genotypes are 1/4 AA, 2/4 Aa, 1/4 aa. Among unaffected offspring (AA and Aa), the ratio is 1 AA : 2 Aa, meaning 2/3 of unaffected individuals are carriers (Aa). This is a conditional probability question where we know the son is unaffected (not aa), so we calculate the probability of being Aa among the remaining possibilities.",
+      "concept_tags": ["conditional-probability", "pedigree-analysis", "carrier-genetics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-12-039",
+      "question_text": "A color-blind man (X^b Y) has children with a woman who has normal vision but whose father was color-blind. What is the probability that their daughter will be color-blind?",
+      "options": [
+        "A. 0%",
+        "B. 25%",
+        "C. 50%",
+        "D. 100%"
+      ],
+      "correct_answer": "C",
+      "explanation": "The woman has normal vision but her father was color-blind (X^b Y), so she must be a carrier (X^B X^b). She received X^b from her father. Crossing X^B X^b (carrier female) with X^b Y (color-blind male): daughters receive X^b from father and either X^B or X^b from mother. Half the daughters will be X^B X^b (carriers, normal vision) and half will be X^b X^b (color-blind). So 50% of daughters will be color-blind.",
+      "concept_tags": ["x-linked-inheritance", "pedigree-analysis", "color-blindness"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-12-040",
+      "question_text": "In a population where the frequency of the recessive allele is 0.3, what is the expected frequency of heterozygous carriers?",
+      "options": [
+        "A. 0.09",
+        "B. 0.21",
+        "C. 0.42",
+        "D. 0.49"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using Hardy-Weinberg: if q = 0.3, then p = 1 - 0.3 = 0.7. The heterozygote frequency is 2pq = 2(0.7)(0.3) = 0.42 or 42%. This calculation is essential for genetic counseling and estimating carrier frequencies in populations. Note that q^2 = 0.09 would be the frequency of homozygous recessive individuals.",
+      "concept_tags": ["hardy-weinberg", "heterozygote-frequency", "carrier-frequency", "population-genetics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-041",
+      "question_text": "Which mechanism of evolution introduces new alleles into a population?",
+      "options": [
+        "A. Natural selection",
+        "B. Genetic drift",
+        "C. Mutation",
+        "D. Inbreeding"
+      ],
+      "correct_answer": "C",
+      "explanation": "Mutation is the only mechanism that introduces entirely new alleles into a population. Natural selection (A) acts on existing variation but does not create new alleles. Genetic drift (B) changes allele frequencies randomly but does not create new alleles. Inbreeding (D) increases homozygosity but does not introduce new alleles. Gene flow can introduce alleles new to a population but existing elsewhere.",
+      "concept_tags": ["mutation", "sources-of-variation", "evolution", "allele-frequencies"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-042",
+      "question_text": "Adaptive radiation is characterized by:",
+      "options": [
+        "A. gradual evolution within a single lineage",
+        "B. rapid diversification of a lineage into many different ecological niches",
+        "C. the merger of two species into one",
+        "D. the extinction of many species simultaneously"
+      ],
+      "correct_answer": "B",
+      "explanation": "Adaptive radiation is the rapid diversification of a single ancestral lineage into many different species, each adapted to a different ecological niche. Classic examples include Darwin's finches in the Galapagos and the Hawaiian honeycreepers. This often occurs when a species colonizes an environment with many available niches and few competitors.",
+      "concept_tags": ["adaptive-radiation", "speciation", "evolution", "ecological-niches"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-043",
+      "question_text": "The biological species concept defines a species as:",
+      "options": [
+        "A. organisms that look similar",
+        "B. organisms that can interbreed and produce fertile offspring",
+        "C. organisms that live in the same habitat",
+        "D. organisms with identical DNA sequences"
+      ],
+      "correct_answer": "B",
+      "explanation": "The biological species concept defines species as groups of actually or potentially interbreeding populations that are reproductively isolated from other such groups. This emphasizes reproductive isolation as the key criterion. This concept has limitations (doesn't apply to asexual organisms or fossils) but remains widely used for sexually reproducing organisms.",
+      "concept_tags": ["species-concept", "reproductive-isolation", "biological-species-concept"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-044",
+      "question_text": "Heterozygote advantage occurs when:",
+      "options": [
+        "A. homozygous individuals have higher fitness than heterozygotes",
+        "B. heterozygous individuals have higher fitness than either homozygote",
+        "C. both alleles are equally expressed",
+        "D. recessive alleles are eliminated from the population"
+      ],
+      "correct_answer": "B",
+      "explanation": "Heterozygote advantage (overdominance) occurs when heterozygous individuals have higher fitness than either homozygote, which can maintain both alleles in the population. The classic example is sickle cell anemia: heterozygotes (HbA HbS) are resistant to malaria while avoiding severe anemia, giving them an advantage over both homozygotes in malaria-endemic regions.",
+      "concept_tags": ["heterozygote-advantage", "balancing-selection", "sickle-cell", "fitness"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-045",
+      "question_text": "Which of the following would likely lead to a decrease in genetic variation within a population?",
+      "options": [
+        "A. Mutation",
+        "B. Gene flow from another population",
+        "C. Genetic drift in a small population",
+        "D. Balancing selection"
+      ],
+      "correct_answer": "C",
+      "explanation": "Genetic drift in small populations tends to decrease genetic variation because alleles can be randomly lost (fixed or eliminated) due to chance. This is particularly severe during population bottlenecks or founder events. Mutation (A) and gene flow (B) introduce or add variation. Balancing selection (D) maintains multiple alleles, preserving variation.",
+      "concept_tags": ["genetic-drift", "genetic-variation", "population-genetics", "evolution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-046",
+      "question_text": "The fossil record provides evidence for evolution by showing:",
+      "options": [
+        "A. that all species appeared at the same time",
+        "B. that organisms have changed over time with transitional forms between groups",
+        "C. that extinction never occurs",
+        "D. that all organisms are identical to their ancestors"
+      ],
+      "correct_answer": "B",
+      "explanation": "The fossil record shows that life has changed over time, with older rocks containing simpler organisms and younger rocks showing more complex and diverse forms. Transitional fossils (like Tiktaalik between fish and tetrapods) document evolutionary changes between major groups. The fossil record also documents mass extinctions and the subsequent radiation of new forms.",
+      "concept_tags": ["fossil-record", "evidence-for-evolution", "transitional-fossils"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-047",
+      "question_text": "Biogeography supports evolution because:",
+      "options": [
+        "A. identical species are found on all continents",
+        "B. species distributions reflect both evolutionary history and geographic barriers",
+        "C. all species can survive in any environment",
+        "D. closely related species are always found far apart"
+      ],
+      "correct_answer": "B",
+      "explanation": "Biogeography shows that species distributions make sense in light of evolution and Earth's geological history. Island species often resemble nearby mainland species (descent with modification). Continental drift explains why marsupials dominate Australia. Similar environments on different continents have different but analogous species, reflecting independent evolution rather than special creation.",
+      "concept_tags": ["biogeography", "evidence-for-evolution", "species-distribution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-048",
+      "question_text": "Comparing DNA or protein sequences between species is useful because:",
+      "options": [
+        "A. all species have identical sequences",
+        "B. sequence similarity correlates with evolutionary relatedness",
+        "C. DNA cannot change over time",
+        "D. protein sequences are not inherited"
+      ],
+      "correct_answer": "B",
+      "explanation": "Molecular phylogenetics compares DNA and protein sequences to determine evolutionary relationships. Closely related species have more similar sequences because they diverged more recently and have accumulated fewer mutations. This molecular evidence often confirms and refines evolutionary trees based on morphology and can reveal relationships not apparent from physical features alone.",
+      "concept_tags": ["molecular-phylogenetics", "evidence-for-evolution", "dna-comparison"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-12-049",
+      "question_text": "Sexual selection differs from natural selection in that sexual selection:",
+      "options": [
+        "A. does not affect allele frequencies",
+        "B. favors traits that increase mating success even if they reduce survival",
+        "C. only occurs in plants",
+        "D. always increases survival probability"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sexual selection is a form of natural selection that specifically acts on traits affecting mating success. It can favor traits (like peacock tails) that are costly to survival if they increase reproductive success. This explains elaborate ornaments and displays that seem maladaptive for survival. Sexual selection includes intrasexual selection (competition) and intersexual selection (mate choice).",
+      "concept_tags": ["sexual-selection", "natural-selection", "reproductive-success", "evolution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-12-050",
+      "question_text": "A researcher observes that allele frequencies in a natural population change significantly from one generation to the next. Which Hardy-Weinberg assumption is most likely being violated?",
+      "options": [
+        "A. The population is infinitely large",
+        "B. There is no mutation",
+        "C. One or more assumptions are being violated, indicating evolution is occurring",
+        "D. Genotype frequencies equal p^2 + 2pq + q^2"
+      ],
+      "correct_answer": "C",
+      "explanation": "Hardy-Weinberg equilibrium predicts that allele frequencies remain constant when all assumptions are met (no selection, no mutation, random mating, large population, no gene flow). Changes in allele frequencies indicate that one or more assumptions are violated, meaning evolution is occurring. The specific cause could be selection, drift, mutation, non-random mating, or gene flow.",
+      "concept_tags": ["hardy-weinberg", "evolution", "population-genetics", "allele-frequencies"],
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MCAT Question Bank Chapter File",
+  "description": "Schema for a chapter's question bank JSON file",
+  "type": "object",
+  "required": ["book", "chapter", "chapter_title", "questions"],
+  "properties": {
+    "book": {
+      "type": "string",
+      "description": "Book identifier (e.g., 'biology', 'physics-math')"
+    },
+    "chapter": {
+      "type": "integer",
+      "description": "Chapter number",
+      "minimum": 1
+    },
+    "chapter_title": {
+      "type": "string",
+      "description": "Full chapter title from the book"
+    },
+    "questions": {
+      "type": "array",
+      "description": "Array of questions for this chapter",
+      "items": {
+        "$ref": "#/definitions/question"
+      },
+      "minItems": 1
+    }
+  },
+  "definitions": {
+    "question": {
+      "type": "object",
+      "required": ["id", "question_text", "options", "correct_answer", "explanation", "concept_tags"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique question identifier: {book}-{chapter}-{number}",
+          "pattern": "^[a-z-]+-\\d{2}-\\d{3}$"
+        },
+        "question_text": {
+          "type": "string",
+          "description": "The full question text",
+          "minLength": 10
+        },
+        "options": {
+          "type": "array",
+          "description": "Exactly 4 answer choices",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-D]\\. .+"
+          },
+          "minItems": 4,
+          "maxItems": 4
+        },
+        "correct_answer": {
+          "type": "string",
+          "description": "The correct option letter",
+          "enum": ["A", "B", "C", "D"]
+        },
+        "explanation": {
+          "type": "string",
+          "description": "Detailed explanation for the answer",
+          "minLength": 50
+        },
+        "concept_tags": {
+          "type": "array",
+          "description": "Concept identifiers for adaptive learning",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "minItems": 1
+        },
+        "difficulty": {
+          "type": "string",
+          "description": "Question difficulty level",
+          "enum": ["easy", "medium", "hard"],
+          "default": "medium"
+        }
+      }
+    }
+  }
+}

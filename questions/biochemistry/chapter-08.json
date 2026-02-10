@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 8,
+  "chapter_title": "Fatty Acid and Amino Acid Metabolism",
+  "questions": [
+    {
+      "id": "biochemistry-08-001",
+      "question_text": "Where does beta-oxidation of fatty acids primarily occur in the cell?",
+      "options": [
+        "A. Cytoplasm",
+        "B. Mitochondrial matrix",
+        "C. Endoplasmic reticulum",
+        "D. Peroxisomes only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Beta-oxidation of fatty acids primarily occurs in the mitochondrial matrix. While peroxisomes can also perform beta-oxidation (especially for very long chain fatty acids), the majority of fatty acid oxidation takes place in mitochondria. The cytoplasm is the site of fatty acid synthesis, not degradation.",
+      "concept_tags": ["beta-oxidation", "mitochondria", "fatty-acid-catabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-002",
+      "question_text": "What is the primary product of each round of beta-oxidation?",
+      "options": [
+        "A. One molecule of acetyl-CoA, one NADH, and one FADH2",
+        "B. Two molecules of acetyl-CoA and one NADH",
+        "C. One molecule of pyruvate and two NADH",
+        "D. One molecule of acetyl-CoA and two ATP"
+      ],
+      "correct_answer": "A",
+      "explanation": "Each round of beta-oxidation cleaves a two-carbon unit as acetyl-CoA from the fatty acid chain and produces one NADH (from the dehydrogenation by acyl-CoA dehydrogenase) and one FADH2 (from the dehydrogenation by beta-hydroxyacyl-CoA dehydrogenase). These reduced cofactors enter the electron transport chain to generate ATP.",
+      "concept_tags": ["beta-oxidation", "acetyl-coa", "nadh", "fadh2"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-003",
+      "question_text": "Which molecule is required to transport long-chain fatty acids across the inner mitochondrial membrane?",
+      "options": [
+        "A. Coenzyme A",
+        "B. Carnitine",
+        "C. Biotin",
+        "D. Lipoic acid"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carnitine is required to transport long-chain fatty acyl-CoA across the inner mitochondrial membrane via the carnitine shuttle. The enzyme carnitine palmitoyltransferase I (CPT-I) transfers the fatty acyl group from CoA to carnitine on the outer membrane, and CPT-II reconverts it back to fatty acyl-CoA in the matrix.",
+      "concept_tags": ["carnitine-shuttle", "fatty-acid-transport", "mitochondria"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-004",
+      "question_text": "How many rounds of beta-oxidation are required to completely oxidize palmitate (16:0)?",
+      "options": [
+        "A. 16 rounds",
+        "B. 8 rounds",
+        "C. 7 rounds",
+        "D. 4 rounds"
+      ],
+      "correct_answer": "C",
+      "explanation": "Palmitate has 16 carbons and requires 7 rounds of beta-oxidation to be completely converted to 8 acetyl-CoA molecules. The formula is (n/2) - 1 rounds, where n is the number of carbons. So for palmitate: (16/2) - 1 = 7 rounds. The last round produces two acetyl-CoA molecules from a 4-carbon intermediate.",
+      "concept_tags": ["beta-oxidation", "palmitate", "fatty-acid-catabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-005",
+      "question_text": "Which enzyme catalyzes the rate-limiting step of fatty acid synthesis?",
+      "options": [
+        "A. Fatty acid synthase",
+        "B. Acetyl-CoA carboxylase",
+        "C. Thiolase",
+        "D. Enoyl-CoA hydratase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Acetyl-CoA carboxylase (ACC) catalyzes the rate-limiting step of fatty acid synthesis, converting acetyl-CoA to malonyl-CoA. This enzyme requires biotin as a cofactor and is allosterically activated by citrate and inhibited by palmitoyl-CoA (end-product inhibition). Fatty acid synthase performs the subsequent elongation reactions.",
+      "concept_tags": ["fatty-acid-synthesis", "acetyl-coa-carboxylase", "rate-limiting-step"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-006",
+      "question_text": "What is the two-carbon donor used for fatty acid chain elongation during synthesis?",
+      "options": [
+        "A. Acetyl-CoA",
+        "B. Malonyl-CoA",
+        "C. Succinyl-CoA",
+        "D. Propionyl-CoA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Malonyl-CoA is the two-carbon donor used for chain elongation during fatty acid synthesis. Although malonyl-CoA is a three-carbon molecule, one carbon is released as CO2 during the condensation reaction, resulting in a net addition of two carbons. Acetyl-CoA provides only the initial two carbons of the fatty acid chain.",
+      "concept_tags": ["fatty-acid-synthesis", "malonyl-coa", "chain-elongation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-007",
+      "question_text": "Where does fatty acid synthesis occur in the cell?",
+      "options": [
+        "A. Mitochondrial matrix",
+        "B. Cytoplasm",
+        "C. Nucleus",
+        "D. Golgi apparatus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fatty acid synthesis occurs in the cytoplasm, in contrast to beta-oxidation which occurs in the mitochondrial matrix. This compartmentalization allows for separate regulation of the synthetic and degradative pathways. The citrate shuttle transports acetyl-CoA from mitochondria to the cytoplasm for fatty acid synthesis.",
+      "concept_tags": ["fatty-acid-synthesis", "cellular-compartmentalization", "cytoplasm"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-008",
+      "question_text": "Which reducing equivalent is primarily used for fatty acid synthesis?",
+      "options": [
+        "A. NADH",
+        "B. FADH2",
+        "C. NADPH",
+        "D. FMNH2"
+      ],
+      "correct_answer": "C",
+      "explanation": "NADPH is the primary reducing equivalent used for fatty acid synthesis. It is generated mainly by the pentose phosphate pathway and the malic enzyme reaction. In contrast, beta-oxidation produces NADH and FADH2. This difference in cofactor usage helps maintain metabolic separation between synthesis and degradation.",
+      "concept_tags": ["fatty-acid-synthesis", "nadph", "reducing-equivalents"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-009",
+      "question_text": "Malonyl-CoA inhibits which enzyme to prevent simultaneous fatty acid synthesis and degradation?",
+      "options": [
+        "A. Acetyl-CoA carboxylase",
+        "B. Carnitine palmitoyltransferase I (CPT-I)",
+        "C. Fatty acid synthase",
+        "D. Acyl-CoA dehydrogenase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Malonyl-CoA inhibits carnitine palmitoyltransferase I (CPT-I), preventing fatty acid entry into mitochondria for beta-oxidation when fatty acid synthesis is active. This reciprocal regulation ensures that fatty acids are not simultaneously synthesized and degraded, which would be metabolically wasteful.",
+      "concept_tags": ["metabolic-regulation", "cpt-i", "malonyl-coa"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-010",
+      "question_text": "Which of the following is NOT a ketone body?",
+      "options": [
+        "A. Acetoacetate",
+        "B. Beta-hydroxybutyrate",
+        "C. Acetone",
+        "D. Acetyl-CoA"
+      ],
+      "correct_answer": "D",
+      "explanation": "Acetyl-CoA is not a ketone body; it is the precursor from which ketone bodies are synthesized. The three ketone bodies are acetoacetate, beta-hydroxybutyrate, and acetone. Ketone bodies are produced in the liver from acetyl-CoA during fasting or uncontrolled diabetes when fatty acid oxidation is high.",
+      "concept_tags": ["ketogenesis", "ketone-bodies", "acetyl-coa"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-011",
+      "question_text": "In which organ are ketone bodies primarily synthesized?",
+      "options": [
+        "A. Brain",
+        "B. Muscle",
+        "C. Liver",
+        "D. Adipose tissue"
+      ],
+      "correct_answer": "C",
+      "explanation": "Ketone bodies are primarily synthesized in the liver from acetyl-CoA derived from fatty acid oxidation. However, the liver cannot use ketone bodies for fuel because it lacks the enzyme succinyl-CoA:acetoacetate CoA transferase (thiophorase). Ketone bodies are released into the blood and used by extrahepatic tissues, especially the brain during prolonged fasting.",
+      "concept_tags": ["ketogenesis", "liver", "ketone-bodies"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-012",
+      "question_text": "During prolonged fasting, which tissue becomes increasingly dependent on ketone bodies for energy?",
+      "options": [
+        "A. Red blood cells",
+        "B. Liver",
+        "C. Brain",
+        "D. Adipose tissue"
+      ],
+      "correct_answer": "C",
+      "explanation": "During prolonged fasting, the brain becomes increasingly dependent on ketone bodies for energy. While the brain normally uses glucose almost exclusively, it can adapt to use ketone bodies for up to 75% of its energy needs during starvation. Red blood cells lack mitochondria and cannot use ketone bodies. The liver produces but cannot utilize ketone bodies.",
+      "concept_tags": ["ketone-bodies", "brain-metabolism", "fasting"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-013",
+      "question_text": "What is the fate of acetone produced during ketogenesis?",
+      "options": [
+        "A. It is converted back to acetyl-CoA",
+        "B. It is exhaled through the lungs or excreted in urine",
+        "C. It is used to synthesize glucose",
+        "D. It is stored in adipose tissue"
+      ],
+      "correct_answer": "B",
+      "explanation": "Acetone is a volatile ketone body that is primarily exhaled through the lungs or excreted in the urine. It is produced by the spontaneous decarboxylation of acetoacetate. Unlike acetoacetate and beta-hydroxybutyrate, acetone cannot be converted back to acetyl-CoA and is metabolically a dead end. The fruity odor of acetone on the breath is a sign of ketoacidosis.",
+      "concept_tags": ["ketone-bodies", "acetone", "ketoacidosis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-014",
+      "question_text": "Which enzyme is responsible for converting HMG-CoA to ketone bodies in the liver?",
+      "options": [
+        "A. HMG-CoA reductase",
+        "B. HMG-CoA lyase",
+        "C. HMG-CoA synthase",
+        "D. Thiolase"
+      ],
+      "correct_answer": "B",
+      "explanation": "HMG-CoA lyase cleaves HMG-CoA to produce acetoacetate (a ketone body) and acetyl-CoA. HMG-CoA synthase catalyzes the formation of HMG-CoA from acetoacetyl-CoA and acetyl-CoA. HMG-CoA reductase is involved in cholesterol synthesis, not ketogenesis. This is a key branch point between ketogenesis and cholesterol synthesis.",
+      "concept_tags": ["ketogenesis", "hmg-coa-lyase", "liver-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-015",
+      "question_text": "Why can't the liver use ketone bodies for energy?",
+      "options": [
+        "A. It lacks beta-hydroxybutyrate dehydrogenase",
+        "B. It lacks thiophorase (succinyl-CoA:acetoacetate CoA transferase)",
+        "C. It lacks mitochondria",
+        "D. It lacks acetyl-CoA"
+      ],
+      "correct_answer": "B",
+      "explanation": "The liver cannot use ketone bodies because it lacks the enzyme thiophorase (succinyl-CoA:acetoacetate CoA transferase), which is needed to convert acetoacetate back to acetoacetyl-CoA for further oxidation. This ensures that ketone bodies produced by the liver are exported to other tissues that can use them.",
+      "concept_tags": ["ketone-bodies", "thiophorase", "liver-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-016",
+      "question_text": "Which amino acid undergoes transamination to form alpha-ketoglutarate?",
+      "options": [
+        "A. Alanine",
+        "B. Aspartate",
+        "C. Glutamate",
+        "D. Serine"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glutamate undergoes transamination (or oxidative deamination) to form alpha-ketoglutarate. This reaction is reversible and is catalyzed by glutamate dehydrogenase (for oxidative deamination) or various aminotransferases (for transamination). Alanine forms pyruvate, and aspartate forms oxaloacetate upon transamination.",
+      "concept_tags": ["transamination", "glutamate", "alpha-ketoglutarate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-017",
+      "question_text": "What cofactor is required for all transamination reactions?",
+      "options": [
+        "A. NAD+",
+        "B. FAD",
+        "C. Pyridoxal phosphate (PLP)",
+        "D. Thiamine pyrophosphate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Pyridoxal phosphate (PLP), derived from vitamin B6, is the required cofactor for all transamination reactions. PLP forms a Schiff base with the amino group of the amino acid substrate and facilitates the transfer of the amino group to the alpha-keto acid acceptor. PLP is also required for decarboxylation reactions of amino acids.",
+      "concept_tags": ["transamination", "pyridoxal-phosphate", "vitamin-b6"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-018",
+      "question_text": "In transamination reactions, which amino acid most commonly acts as the amino group donor?",
+      "options": [
+        "A. Alanine",
+        "B. Aspartate",
+        "C. Glutamate",
+        "D. Glycine"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glutamate most commonly acts as the amino group donor in transamination reactions. Most amino acids first transfer their amino groups to alpha-ketoglutarate to form glutamate. Glutamate then either transfers its amino group to oxaloacetate (to form aspartate for the urea cycle) or undergoes oxidative deamination to release free ammonia.",
+      "concept_tags": ["transamination", "glutamate", "amino-acid-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-019",
+      "question_text": "Oxidative deamination of glutamate is catalyzed by:",
+      "options": [
+        "A. Glutaminase",
+        "B. Glutamate dehydrogenase",
+        "C. Glutamine synthetase",
+        "D. Aspartate aminotransferase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Glutamate dehydrogenase catalyzes the oxidative deamination of glutamate to alpha-ketoglutarate and free ammonia (NH4+). This enzyme can use either NAD+ or NADP+ as the electron acceptor. Glutaminase converts glutamine to glutamate. Glutamine synthetase converts glutamate to glutamine. Aspartate aminotransferase catalyzes transamination.",
+      "concept_tags": ["oxidative-deamination", "glutamate-dehydrogenase", "ammonia"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-020",
+      "question_text": "Where does the urea cycle occur?",
+      "options": [
+        "A. Entirely in the mitochondria",
+        "B. Entirely in the cytoplasm",
+        "C. Partially in the mitochondria and partially in the cytoplasm",
+        "D. In the endoplasmic reticulum"
+      ],
+      "correct_answer": "C",
+      "explanation": "The urea cycle occurs partially in the mitochondria and partially in the cytoplasm of hepatocytes. Carbamoyl phosphate synthesis and the formation of citrulline occur in the mitochondrial matrix. Citrulline is then transported to the cytoplasm where the remaining reactions occur, and ornithine returns to the mitochondria.",
+      "concept_tags": ["urea-cycle", "mitochondria", "cytoplasm"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-021",
+      "question_text": "What is the primary waste product of amino acid catabolism in humans?",
+      "options": [
+        "A. Ammonia",
+        "B. Urea",
+        "C. Uric acid",
+        "D. Creatinine"
+      ],
+      "correct_answer": "B",
+      "explanation": "Urea is the primary waste product of amino acid catabolism in humans. The urea cycle in the liver converts toxic ammonia into urea, which is water-soluble and can be safely excreted by the kidneys. Ammonia is toxic and is only a transient intermediate. Uric acid is the end product of purine catabolism. Creatinine is a muscle metabolism waste product.",
+      "concept_tags": ["urea", "nitrogen-excretion", "amino-acid-catabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-022",
+      "question_text": "Which enzyme catalyzes the rate-limiting step of the urea cycle?",
+      "options": [
+        "A. Arginase",
+        "B. Carbamoyl phosphate synthetase I",
+        "C. Ornithine transcarbamylase",
+        "D. Argininosuccinate synthetase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carbamoyl phosphate synthetase I (CPS-I) catalyzes the rate-limiting step of the urea cycle, synthesizing carbamoyl phosphate from ammonia, CO2, and 2 ATP in the mitochondrial matrix. This enzyme is allosterically activated by N-acetylglutamate. CPS-I is distinct from CPS-II, which is used in pyrimidine synthesis.",
+      "concept_tags": ["urea-cycle", "carbamoyl-phosphate-synthetase", "rate-limiting-step"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-023",
+      "question_text": "How many nitrogen atoms are present in each urea molecule?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "correct_answer": "B",
+      "explanation": "Each urea molecule contains 2 nitrogen atoms. One nitrogen comes from free ammonia (via carbamoyl phosphate), and the other comes from aspartate, which donates its amino group in the argininosuccinate synthetase reaction. This efficient disposal of two nitrogen atoms per cycle makes urea synthesis metabolically favorable.",
+      "concept_tags": ["urea-cycle", "nitrogen-disposal", "urea-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-024",
+      "question_text": "N-acetylglutamate is an allosteric activator of which enzyme?",
+      "options": [
+        "A. Arginase",
+        "B. Glutamate dehydrogenase",
+        "C. Carbamoyl phosphate synthetase I",
+        "D. Ornithine transcarbamylase"
+      ],
+      "correct_answer": "C",
+      "explanation": "N-acetylglutamate (NAG) is an obligate allosteric activator of carbamoyl phosphate synthetase I (CPS-I). NAG is synthesized from acetyl-CoA and glutamate by N-acetylglutamate synthase, which is activated by arginine. This regulation links urea cycle activity to amino acid availability.",
+      "concept_tags": ["urea-cycle", "n-acetylglutamate", "allosteric-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-025",
+      "question_text": "Which of the following is a purely ketogenic amino acid?",
+      "options": [
+        "A. Alanine",
+        "B. Leucine",
+        "C. Isoleucine",
+        "D. Glutamate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Leucine and lysine are the only purely ketogenic amino acids, meaning they can only be converted to ketone bodies (via acetyl-CoA or acetoacetate) and cannot contribute to glucose synthesis. Isoleucine is both glucogenic and ketogenic. Alanine and glutamate are purely glucogenic amino acids.",
+      "concept_tags": ["ketogenic-amino-acids", "leucine", "amino-acid-catabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-026",
+      "question_text": "Which amino acid is both glucogenic and ketogenic?",
+      "options": [
+        "A. Leucine",
+        "B. Alanine",
+        "C. Lysine",
+        "D. Phenylalanine"
+      ],
+      "correct_answer": "D",
+      "explanation": "Phenylalanine, along with isoleucine, threonine, tryptophan, and tyrosine, is both glucogenic and ketogenic. These amino acids are degraded to produce both acetyl-CoA (ketogenic) and TCA cycle intermediates (glucogenic). Leucine and lysine are purely ketogenic. Alanine is purely glucogenic.",
+      "concept_tags": ["glucogenic-amino-acids", "ketogenic-amino-acids", "phenylalanine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-027",
+      "question_text": "A glucogenic amino acid is one that can be converted to:",
+      "options": [
+        "A. Acetyl-CoA only",
+        "B. Ketone bodies only",
+        "C. Glucose via gluconeogenesis intermediates",
+        "D. Fatty acids"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glucogenic amino acids can be converted to glucose via gluconeogenesis because their carbon skeletons enter the TCA cycle at points that can lead to oxaloacetate and subsequently to phosphoenolpyruvate. Examples include alanine (to pyruvate), aspartate (to oxaloacetate), and glutamate (to alpha-ketoglutarate).",
+      "concept_tags": ["glucogenic-amino-acids", "gluconeogenesis", "amino-acid-catabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-028",
+      "question_text": "Which of the following amino acids is converted to pyruvate during catabolism?",
+      "options": [
+        "A. Glutamate",
+        "B. Aspartate",
+        "C. Alanine",
+        "D. Arginine"
+      ],
+      "correct_answer": "C",
+      "explanation": "Alanine is directly converted to pyruvate through a simple transamination reaction catalyzed by alanine aminotransferase (ALT). Glutamate is converted to alpha-ketoglutarate. Aspartate is converted to oxaloacetate. Arginine is converted to ornithine and eventually to glutamate.",
+      "concept_tags": ["alanine", "pyruvate", "transamination"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-029",
+      "question_text": "What is nitrogen balance?",
+      "options": [
+        "A. The ratio of protein to carbohydrate in the diet",
+        "B. The difference between nitrogen intake and nitrogen excretion",
+        "C. The amount of ammonia in the blood",
+        "D. The ratio of urea to creatinine in urine"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nitrogen balance is the difference between nitrogen intake (primarily from dietary protein) and nitrogen excretion (primarily as urea in urine). Positive nitrogen balance indicates net protein synthesis (growth, pregnancy, recovery). Negative nitrogen balance indicates net protein breakdown (starvation, illness, stress).",
+      "concept_tags": ["nitrogen-balance", "protein-metabolism", "nutrition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-030",
+      "question_text": "A patient in positive nitrogen balance is likely:",
+      "options": [
+        "A. Starving",
+        "B. Growing or recovering from illness",
+        "C. Experiencing muscle wasting",
+        "D. Diabetic with uncontrolled blood sugar"
+      ],
+      "correct_answer": "B",
+      "explanation": "Positive nitrogen balance occurs when nitrogen intake exceeds nitrogen excretion, indicating net protein synthesis. This is seen during growth (childhood, pregnancy), recovery from illness, and muscle building. Starvation and muscle wasting cause negative nitrogen balance. Uncontrolled diabetes typically causes negative nitrogen balance due to protein catabolism.",
+      "concept_tags": ["nitrogen-balance", "protein-synthesis", "growth"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-031",
+      "question_text": "In the carnitine shuttle, fatty acyl-CoA is converted to fatty acyl-carnitine by:",
+      "options": [
+        "A. Carnitine palmitoyltransferase II (CPT-II)",
+        "B. Carnitine palmitoyltransferase I (CPT-I)",
+        "C. Acyl-CoA synthetase",
+        "D. Carnitine-acylcarnitine translocase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carnitine palmitoyltransferase I (CPT-I) on the outer mitochondrial membrane converts fatty acyl-CoA to fatty acyl-carnitine. The fatty acyl-carnitine is then transported across the inner membrane by carnitine-acylcarnitine translocase. CPT-II on the inner membrane reconverts it to fatty acyl-CoA in the matrix.",
+      "concept_tags": ["carnitine-shuttle", "cpt-i", "fatty-acid-transport"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-032",
+      "question_text": "Odd-chain fatty acids produce which compound that can enter gluconeogenesis?",
+      "options": [
+        "A. Acetyl-CoA",
+        "B. Acetoacetate",
+        "C. Propionyl-CoA",
+        "D. Butyryl-CoA"
+      ],
+      "correct_answer": "C",
+      "explanation": "Odd-chain fatty acids produce propionyl-CoA (a 3-carbon unit) in the final round of beta-oxidation, in addition to acetyl-CoA. Propionyl-CoA is converted to succinyl-CoA (a gluconeogenic intermediate) through a pathway requiring biotin and vitamin B12. This is the only way fatty acids can contribute to net glucose synthesis.",
+      "concept_tags": ["odd-chain-fatty-acids", "propionyl-coa", "gluconeogenesis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-08-033",
+      "question_text": "Which vitamin is required for the conversion of propionyl-CoA to succinyl-CoA?",
+      "options": [
+        "A. Vitamin B6",
+        "B. Vitamin B12",
+        "C. Vitamin C",
+        "D. Vitamin A"
+      ],
+      "correct_answer": "B",
+      "explanation": "Vitamin B12 (cobalamin) is required for the conversion of methylmalonyl-CoA to succinyl-CoA, which is the final step in converting propionyl-CoA to the TCA cycle intermediate succinyl-CoA. This reaction is catalyzed by methylmalonyl-CoA mutase. Biotin is also required earlier in this pathway for the carboxylation of propionyl-CoA.",
+      "concept_tags": ["vitamin-b12", "propionyl-coa", "methylmalonyl-coa-mutase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-034",
+      "question_text": "Beta-oxidation of unsaturated fatty acids requires additional enzymes because:",
+      "options": [
+        "A. They are shorter than saturated fatty acids",
+        "B. Double bonds may be in the wrong position or configuration for the pathway",
+        "C. They cannot enter mitochondria",
+        "D. They produce more acetyl-CoA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Unsaturated fatty acids require additional enzymes (enoyl-CoA isomerase and 2,4-dienoyl-CoA reductase) because their naturally occurring cis double bonds are not in the correct position or configuration for the beta-oxidation enzymes. These auxiliary enzymes convert the double bonds to the proper trans configuration at the correct position.",
+      "concept_tags": ["unsaturated-fatty-acids", "beta-oxidation", "enoyl-coa-isomerase"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-08-035",
+      "question_text": "The citrate shuttle functions to:",
+      "options": [
+        "A. Transport fatty acids into mitochondria",
+        "B. Transport acetyl-CoA from mitochondria to cytoplasm for fatty acid synthesis",
+        "C. Transport oxaloacetate into mitochondria",
+        "D. Transport NADH into mitochondria"
+      ],
+      "correct_answer": "B",
+      "explanation": "The citrate shuttle transports acetyl-CoA from the mitochondrial matrix to the cytoplasm for fatty acid synthesis. Acetyl-CoA condenses with oxaloacetate to form citrate, which is transported across the membrane. In the cytoplasm, ATP-citrate lyase cleaves citrate back to acetyl-CoA and oxaloacetate.",
+      "concept_tags": ["citrate-shuttle", "fatty-acid-synthesis", "acetyl-coa-transport"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-036",
+      "question_text": "Insulin promotes fatty acid synthesis by:",
+      "options": [
+        "A. Inhibiting acetyl-CoA carboxylase",
+        "B. Activating acetyl-CoA carboxylase through dephosphorylation",
+        "C. Activating CPT-I",
+        "D. Inhibiting fatty acid synthase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Insulin promotes fatty acid synthesis by activating acetyl-CoA carboxylase (ACC) through dephosphorylation. Insulin stimulates protein phosphatases that remove inhibitory phosphate groups from ACC. In contrast, glucagon and epinephrine inhibit ACC through phosphorylation by AMPK, thereby promoting fatty acid oxidation instead.",
+      "concept_tags": ["insulin", "fatty-acid-synthesis", "acetyl-coa-carboxylase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-037",
+      "question_text": "During fasting, glucagon stimulates ketogenesis by:",
+      "options": [
+        "A. Activating acetyl-CoA carboxylase",
+        "B. Promoting fatty acid release from adipose tissue and inhibiting fatty acid synthesis",
+        "C. Inhibiting beta-oxidation",
+        "D. Activating fatty acid synthase"
+      ],
+      "correct_answer": "B",
+      "explanation": "During fasting, glucagon promotes ketogenesis by stimulating lipolysis in adipose tissue (releasing fatty acids) and inhibiting fatty acid synthesis (by inactivating acetyl-CoA carboxylase through phosphorylation). The increased fatty acid oxidation in the liver produces excess acetyl-CoA, which is diverted to ketone body synthesis.",
+      "concept_tags": ["glucagon", "ketogenesis", "fasting-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-038",
+      "question_text": "Elevated levels of which enzyme in serum indicate liver damage?",
+      "options": [
+        "A. Glutamate dehydrogenase",
+        "B. Alanine aminotransferase (ALT)",
+        "C. Glutamine synthetase",
+        "D. Carbamoyl phosphate synthetase I"
+      ],
+      "correct_answer": "B",
+      "explanation": "Elevated serum alanine aminotransferase (ALT), also called serum glutamate-pyruvate transaminase (SGPT), is a clinical marker of liver damage. ALT is found primarily in the liver, so elevated blood levels indicate hepatocyte injury. Aspartate aminotransferase (AST) is also elevated but is less specific for liver.",
+      "concept_tags": ["alt", "liver-enzymes", "clinical-biochemistry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-08-039",
+      "question_text": "In the glucose-alanine cycle, alanine is transported from muscle to liver to:",
+      "options": [
+        "A. Provide nitrogen for purine synthesis",
+        "B. Carry nitrogen from muscle to liver for urea synthesis and provide carbon for gluconeogenesis",
+        "C. Directly synthesize glucose in muscle",
+        "D. Inhibit gluconeogenesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "In the glucose-alanine cycle, muscle produces alanine from pyruvate (via transamination) to safely transport ammonia to the liver. In the liver, alanine is converted back to pyruvate for gluconeogenesis, and the amino group enters the urea cycle. The glucose produced is returned to muscle for energy.",
+      "concept_tags": ["glucose-alanine-cycle", "interorgan-metabolism", "nitrogen-transport"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-040",
+      "question_text": "Ammonia is transported in the blood primarily in the form of:",
+      "options": [
+        "A. Free ammonia (NH3)",
+        "B. Glutamine and alanine",
+        "C. Urea",
+        "D. Ammonium ion (NH4+)"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ammonia is transported in the blood primarily as glutamine (from most tissues) and alanine (from muscle). Free ammonia is toxic and maintained at very low concentrations in blood. Glutamine synthetase converts glutamate and ammonia to glutamine, providing a safe transport form. Urea is the excretion product, not the primary transport form.",
+      "concept_tags": ["ammonia-transport", "glutamine", "alanine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-041",
+      "question_text": "Phenylketonuria (PKU) results from a deficiency of:",
+      "options": [
+        "A. Tyrosinase",
+        "B. Phenylalanine hydroxylase",
+        "C. Homogentisate oxidase",
+        "D. Branched-chain alpha-ketoacid dehydrogenase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Phenylketonuria (PKU) is caused by a deficiency of phenylalanine hydroxylase, which normally converts phenylalanine to tyrosine. Without this enzyme, phenylalanine accumulates and is converted to phenylketones. Untreated PKU leads to intellectual disability. Treatment involves a low-phenylalanine diet started early in life.",
+      "concept_tags": ["phenylketonuria", "phenylalanine-hydroxylase", "inborn-errors-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-042",
+      "question_text": "Maple syrup urine disease is caused by a defect in the catabolism of:",
+      "options": [
+        "A. Aromatic amino acids",
+        "B. Branched-chain amino acids",
+        "C. Sulfur-containing amino acids",
+        "D. Basic amino acids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Maple syrup urine disease (MSUD) is caused by a deficiency of branched-chain alpha-ketoacid dehydrogenase, which is needed for the catabolism of the branched-chain amino acids leucine, isoleucine, and valine. The accumulated alpha-keto acids give urine a characteristic maple syrup odor. Untreated MSUD causes neurological damage.",
+      "concept_tags": ["maple-syrup-urine-disease", "branched-chain-amino-acids", "inborn-errors-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-043",
+      "question_text": "Which urea cycle defect would lead to the highest accumulation of ammonia?",
+      "options": [
+        "A. Arginase deficiency",
+        "B. Argininosuccinate lyase deficiency",
+        "C. Carbamoyl phosphate synthetase I deficiency",
+        "D. Ornithine transcarbamylase deficiency"
+      ],
+      "correct_answer": "C",
+      "explanation": "Carbamoyl phosphate synthetase I (CPS-I) deficiency leads to the most severe hyperammonemia because CPS-I catalyzes the first committed step of the urea cycle. Without this enzyme, no ammonia can enter the cycle. Defects in later enzymes allow some ammonia to be captured, resulting in accumulation of cycle intermediates along with ammonia.",
+      "concept_tags": ["urea-cycle-defects", "hyperammonemia", "cps-i-deficiency"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-08-044",
+      "question_text": "Ornithine transcarbamylase deficiency is X-linked and leads to accumulation of:",
+      "options": [
+        "A. Orotic acid and ammonia",
+        "B. Argininosuccinate",
+        "C. Citrulline",
+        "D. Arginine"
+      ],
+      "correct_answer": "A",
+      "explanation": "Ornithine transcarbamylase (OTC) deficiency causes accumulation of carbamoyl phosphate (which cannot be converted to citrulline) and ammonia. Excess carbamoyl phosphate enters the pyrimidine synthesis pathway, leading to increased orotic acid in urine. OTC deficiency is the most common urea cycle disorder and is X-linked.",
+      "concept_tags": ["otc-deficiency", "orotic-acid", "urea-cycle-defects"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-08-045",
+      "question_text": "Which amino acid serves as the precursor for the synthesis of catecholamines?",
+      "options": [
+        "A. Tryptophan",
+        "B. Tyrosine",
+        "C. Histidine",
+        "D. Methionine"
+      ],
+      "correct_answer": "B",
+      "explanation": "Tyrosine is the precursor for catecholamine synthesis (dopamine, norepinephrine, epinephrine). Tyrosine is first hydroxylated to L-DOPA by tyrosine hydroxylase, then decarboxylated to dopamine. Further hydroxylation and methylation produce norepinephrine and epinephrine. Tryptophan is the precursor for serotonin and melatonin.",
+      "concept_tags": ["tyrosine", "catecholamines", "neurotransmitter-synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-046",
+      "question_text": "The conversion of phenylalanine to tyrosine requires which cofactor?",
+      "options": [
+        "A. NAD+",
+        "B. FAD",
+        "C. Tetrahydrobiopterin (BH4)",
+        "D. Pyridoxal phosphate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Tetrahydrobiopterin (BH4) is the required cofactor for phenylalanine hydroxylase, which converts phenylalanine to tyrosine. BH4 is oxidized to dihydrobiopterin during the reaction and must be regenerated by dihydrobiopterin reductase. Defects in BH4 synthesis or regeneration can cause a variant form of PKU.",
+      "concept_tags": ["tetrahydrobiopterin", "phenylalanine-hydroxylase", "cofactors"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-08-047",
+      "question_text": "During prolonged fasting, muscle protein is broken down to provide amino acids for:",
+      "options": [
+        "A. Fatty acid synthesis",
+        "B. Gluconeogenesis in the liver",
+        "C. Ketone body synthesis in muscle",
+        "D. Glycogen synthesis in muscle"
+      ],
+      "correct_answer": "B",
+      "explanation": "During prolonged fasting, muscle protein is broken down to release amino acids, especially alanine and glutamine, which travel to the liver. In the liver, the carbon skeletons of glucogenic amino acids are used for gluconeogenesis to maintain blood glucose levels for glucose-dependent tissues like the brain and red blood cells.",
+      "concept_tags": ["fasting", "gluconeogenesis", "protein-catabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-048",
+      "question_text": "Which enzyme converts ammonia and CO2 to carbamoyl phosphate in the mitochondria?",
+      "options": [
+        "A. Carbamoyl phosphate synthetase II",
+        "B. Carbamoyl phosphate synthetase I",
+        "C. Glutamine synthetase",
+        "D. Glutaminase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carbamoyl phosphate synthetase I (CPS-I) in the mitochondrial matrix converts ammonia and CO2 to carbamoyl phosphate, using 2 ATP. This is the first step of the urea cycle. CPS-II is a cytoplasmic enzyme that uses glutamine (not free ammonia) and is involved in pyrimidine biosynthesis, not urea synthesis.",
+      "concept_tags": ["cps-i", "urea-cycle", "carbamoyl-phosphate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-08-049",
+      "question_text": "How many high-energy phosphate bonds are consumed per molecule of urea synthesized?",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 4",
+        "D. 5"
+      ],
+      "correct_answer": "C",
+      "explanation": "Four high-energy phosphate bonds are consumed per urea synthesized: 2 ATP to ADP + Pi (by CPS-I, equivalent to 2 bonds), and 1 ATP to AMP + PPi (by argininosuccinate synthetase, equivalent to 2 bonds since PPi is hydrolyzed). Thus, the total is 4 high-energy bonds (or 3 ATP molecules, with one cleaved to AMP).",
+      "concept_tags": ["urea-cycle", "atp-consumption", "energetics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-08-050",
+      "question_text": "A deficiency of medium-chain acyl-CoA dehydrogenase (MCAD) would result in:",
+      "options": [
+        "A. Impaired fatty acid synthesis",
+        "B. Impaired beta-oxidation of medium-chain fatty acids and hypoketotic hypoglycemia",
+        "C. Increased ketone body production",
+        "D. Accumulation of long-chain fatty acids only"
+      ],
+      "correct_answer": "B",
+      "explanation": "MCAD deficiency impairs beta-oxidation of medium-chain fatty acids, leading to their accumulation. This causes hypoketotic hypoglycemia during fasting because the liver cannot produce sufficient ketone bodies or maintain gluconeogenesis without adequate fatty acid oxidation. It is the most common inherited defect of fatty acid oxidation.",
+      "concept_tags": ["mcad-deficiency", "beta-oxidation-defects", "hypoketotic-hypoglycemia"],
+      "difficulty": "hard"
+    }
+  ]
+}

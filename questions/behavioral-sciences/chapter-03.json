@@ -1,0 +1,707 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 3,
+  "chapter_title": "Cognition and Language",
+  "questions": [
+    {
+      "id": "behavioral-sciences-03-001",
+      "question_text": "According to Piaget, a child who understands that the amount of water remains the same when poured from a tall, narrow glass to a short, wide glass has mastered:",
+      "options": [
+        "A. Object permanence",
+        "B. Conservation",
+        "C. Egocentrism",
+        "D. Symbolic thinking"
+      ],
+      "correct_answer": "B",
+      "explanation": "Conservation is the understanding that quantity remains the same despite changes in shape or appearance. This develops during the concrete operational stage (ages 7-11).",
+      "concept_tags": ["piaget", "conservation", "concrete-operational"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-002",
+      "question_text": "The availability heuristic leads people to:",
+      "options": [
+        "A. Make decisions based on representative examples",
+        "B. Overestimate the likelihood of events that come easily to mind",
+        "C. Stick with their initial judgments",
+        "D. Seek information that confirms their beliefs"
+      ],
+      "correct_answer": "B",
+      "explanation": "The availability heuristic causes people to judge probability based on how easily examples come to mind. Dramatic events (plane crashes) seem more common because they're memorable.",
+      "concept_tags": ["availability-heuristic", "cognitive-bias", "decision-making"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-003",
+      "question_text": "Confirmation bias refers to the tendency to:",
+      "options": [
+        "A. Seek information that supports existing beliefs",
+        "B. Change beliefs when presented with new evidence",
+        "C. Remember information that contradicts beliefs",
+        "D. Make decisions based on probability"
+      ],
+      "correct_answer": "A",
+      "explanation": "Confirmation bias is seeking, interpreting, and remembering information that confirms pre-existing beliefs while ignoring contradictory evidence.",
+      "concept_tags": ["confirmation-bias", "cognitive-bias", "belief"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-004",
+      "question_text": "Broca's area is primarily responsible for:",
+      "options": [
+        "A. Language comprehension",
+        "B. Speech production",
+        "C. Visual processing",
+        "D. Memory consolidation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Broca's area (left frontal lobe) controls speech production. Damage causes Broca's aphasia: difficulty producing speech but relatively intact comprehension.",
+      "concept_tags": ["brocas-area", "speech-production", "aphasia"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-005",
+      "question_text": "Wernicke's aphasia is characterized by:",
+      "options": [
+        "A. Slow, halting speech with good comprehension",
+        "B. Fluent but nonsensical speech with poor comprehension",
+        "C. Complete inability to speak or understand language",
+        "D. Difficulty with reading but normal speech"
+      ],
+      "correct_answer": "B",
+      "explanation": "Damage to Wernicke's area (temporal lobe) causes fluent but meaningless speech ('word salad') and impaired comprehension. Speech production seems normal but content is garbled.",
+      "concept_tags": ["wernickes-aphasia", "language-comprehension", "temporal-lobe"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-006",
+      "question_text": "The Whorfian hypothesis (linguistic relativity) suggests that:",
+      "options": [
+        "A. Language is innate",
+        "B. Language shapes thought and perception",
+        "C. All languages have the same structure",
+        "D. Children learn language through conditioning"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Whorfian or Sapir-Whorf hypothesis proposes that language influences how we think and perceive the world. The strong version claims language determines thought; the weak version says it influences thought.",
+      "concept_tags": ["whorfian-hypothesis", "linguistic-relativity", "language-thought"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-007",
+      "question_text": "A child in Piaget's preoperational stage (ages 2-7) would have difficulty with:",
+      "options": [
+        "A. Using symbols and language",
+        "B. Understanding that others have different perspectives",
+        "C. Forming memories",
+        "D. Recognizing familiar faces"
+      ],
+      "correct_answer": "B",
+      "explanation": "Preoperational children are egocentric—they have difficulty understanding that others may have different perspectives, thoughts, or feelings than their own.",
+      "concept_tags": ["preoperational", "egocentrism", "piaget"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-008",
+      "question_text": "The representativeness heuristic can lead to:",
+      "options": [
+        "A. Underestimating base rates",
+        "B. Overestimating our own abilities",
+        "C. Remembering more vivid events",
+        "D. Making decisions too quickly"
+      ],
+      "correct_answer": "A",
+      "explanation": "The representativeness heuristic judges probability by similarity to a prototype, often ignoring base rates. For example, assuming someone who fits the 'librarian' stereotype is more likely to be a librarian than a salesperson, despite salespeople being more common.",
+      "concept_tags": ["representativeness-heuristic", "base-rate-neglect", "probability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-009",
+      "question_text": "Functional fixedness refers to:",
+      "options": [
+        "A. The inability to solve problems in novel ways",
+        "B. Seeing objects only in terms of their typical use",
+        "C. Difficulty changing established habits",
+        "D. Focusing on irrelevant problem details"
+      ],
+      "correct_answer": "B",
+      "explanation": "Functional fixedness is the tendency to perceive objects only in terms of their usual function, making it difficult to see alternative uses. This can impede creative problem-solving.",
+      "concept_tags": ["functional-fixedness", "problem-solving", "mental-set"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-010",
+      "question_text": "Gardner's theory of multiple intelligences includes all of the following EXCEPT:",
+      "options": [
+        "A. Musical intelligence",
+        "B. Interpersonal intelligence",
+        "C. General intelligence (g factor)",
+        "D. Bodily-kinesthetic intelligence"
+      ],
+      "correct_answer": "C",
+      "explanation": "Gardner proposed multiple independent intelligences (linguistic, logical-mathematical, musical, spatial, bodily-kinesthetic, interpersonal, intrapersonal, naturalistic) rather than a single general intelligence factor.",
+      "concept_tags": ["multiple-intelligences", "gardner", "intelligence-theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-011",
+      "question_text": "The critical period for language acquisition suggests that:",
+      "options": [
+        "A. Language can only be learned after age 7",
+        "B. There is an optimal time window for learning language",
+        "C. Language learning is equally easy at all ages",
+        "D. Adults cannot learn new languages"
+      ],
+      "correct_answer": "B",
+      "explanation": "The critical period hypothesis proposes that language acquisition is most successful during an early developmental window (birth to puberty). After this period, language learning becomes more difficult.",
+      "concept_tags": ["critical-period", "language-acquisition", "development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-012",
+      "question_text": "Noam Chomsky proposed that children learn language through:",
+      "options": [
+        "A. Operant conditioning",
+        "B. Classical conditioning",
+        "C. An innate language acquisition device",
+        "D. Social learning alone"
+      ],
+      "correct_answer": "C",
+      "explanation": "Chomsky's nativist theory proposes that humans have an innate Language Acquisition Device (LAD)—a biological predisposition for learning language that contains universal grammar.",
+      "concept_tags": ["chomsky", "language-acquisition-device", "nativism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-013",
+      "question_text": "Anchoring bias causes people to:",
+      "options": [
+        "A. Rely too heavily on the first piece of information received",
+        "B. Change their minds frequently",
+        "C. Ignore all previous information",
+        "D. Make completely random decisions"
+      ],
+      "correct_answer": "A",
+      "explanation": "Anchoring is the tendency to rely too heavily on an initial piece of information (the anchor) when making decisions. Subsequent judgments are adjusted from this anchor, often insufficiently.",
+      "concept_tags": ["anchoring-bias", "decision-making", "heuristics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-014",
+      "question_text": "A mental set can hinder problem-solving by:",
+      "options": [
+        "A. Providing too many solution options",
+        "B. Causing reliance on previously successful strategies that may not apply",
+        "C. Increasing cognitive flexibility",
+        "D. Reducing anxiety about the problem"
+      ],
+      "correct_answer": "B",
+      "explanation": "A mental set is the tendency to approach problems using methods that worked in the past, even when they may not be applicable. This can prevent finding new, more appropriate solutions.",
+      "concept_tags": ["mental-set", "problem-solving", "cognitive-rigidity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-015",
+      "question_text": "Object permanence, the understanding that objects continue to exist when not seen, develops during Piaget's:",
+      "options": [
+        "A. Sensorimotor stage",
+        "B. Preoperational stage",
+        "C. Concrete operational stage",
+        "D. Formal operational stage"
+      ],
+      "correct_answer": "A",
+      "explanation": "Object permanence develops during the sensorimotor stage (birth-2 years), typically around 8-12 months. Before this, infants act as if objects that are out of sight don't exist.",
+      "concept_tags": ["object-permanence", "sensorimotor", "piaget"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-016",
+      "question_text": "Abstract reasoning and hypothetical thinking develop during Piaget's:",
+      "options": [
+        "A. Sensorimotor stage",
+        "B. Preoperational stage",
+        "C. Concrete operational stage",
+        "D. Formal operational stage"
+      ],
+      "correct_answer": "D",
+      "explanation": "The formal operational stage (12+ years) is characterized by abstract thinking, hypothetical reasoning, and systematic problem-solving. Adolescents can think about concepts not tied to concrete reality.",
+      "concept_tags": ["formal-operational", "abstract-thinking", "piaget"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-017",
+      "question_text": "The framing effect demonstrates that:",
+      "options": [
+        "A. People always make rational decisions",
+        "B. How information is presented affects decision-making",
+        "C. First impressions don't matter",
+        "D. Negative information is ignored"
+      ],
+      "correct_answer": "B",
+      "explanation": "The framing effect shows that decisions are influenced by how options are presented. For example, people respond differently to '90% survival rate' versus '10% mortality rate' even though they're equivalent.",
+      "concept_tags": ["framing-effect", "decision-making", "presentation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-018",
+      "question_text": "Morphemes are:",
+      "options": [
+        "A. The smallest units of sound in a language",
+        "B. The smallest units of meaning in a language",
+        "C. Rules for combining words into sentences",
+        "D. The vocabulary of a language"
+      ],
+      "correct_answer": "B",
+      "explanation": "Morphemes are the smallest meaningful units in language. 'Unhappiness' has three morphemes: 'un-' (not), 'happy' (state), '-ness' (quality). Phonemes are the smallest units of sound.",
+      "concept_tags": ["morphemes", "linguistics", "language-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-019",
+      "question_text": "Syntax refers to:",
+      "options": [
+        "A. The meaning of words",
+        "B. The sounds of a language",
+        "C. The rules for arranging words into sentences",
+        "D. Non-verbal communication"
+      ],
+      "correct_answer": "C",
+      "explanation": "Syntax is the set of rules governing how words are combined to form grammatical sentences. It deals with sentence structure rather than word meaning (semantics) or sound (phonology).",
+      "concept_tags": ["syntax", "grammar", "language-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-020",
+      "question_text": "The hindsight bias causes people to:",
+      "options": [
+        "A. Believe they knew an outcome all along after learning what happened",
+        "B. Predict future events accurately",
+        "C. Remember past events exactly as they occurred",
+        "D. Avoid making predictions"
+      ],
+      "correct_answer": "A",
+      "explanation": "Hindsight bias ('I knew it all along') is the tendency to believe, after learning an outcome, that one would have predicted it beforehand. This distorts our perception of past decision-making.",
+      "concept_tags": ["hindsight-bias", "memory-distortion", "prediction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-021",
+      "question_text": "Deductive reasoning moves from:",
+      "options": [
+        "A. Specific observations to general conclusions",
+        "B. General principles to specific conclusions",
+        "C. Intuition to logic",
+        "D. Hypothesis to observation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Deductive reasoning goes from general premises to specific conclusions. If the premises are true, the conclusion must be true. Inductive reasoning goes from specific to general.",
+      "concept_tags": ["deductive-reasoning", "logic", "problem-solving"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-022",
+      "question_text": "Inductive reasoning is vulnerable to error because:",
+      "options": [
+        "A. It ignores general principles",
+        "B. Conclusions may not follow even from accurate observations",
+        "C. It doesn't use logic",
+        "D. It requires perfect memory"
+      ],
+      "correct_answer": "B",
+      "explanation": "Inductive reasoning generalizes from specific observations, but no amount of observations can guarantee the conclusion is true. A single counterexample can disprove an inductive conclusion.",
+      "concept_tags": ["inductive-reasoning", "logic", "uncertainty"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-023",
+      "question_text": "The IQ score is calculated to have a mean of 100 and a standard deviation of:",
+      "options": [
+        "A. 10",
+        "B. 15",
+        "C. 20",
+        "D. 25"
+      ],
+      "correct_answer": "B",
+      "explanation": "Modern IQ tests are standardized with a mean of 100 and standard deviation of 15. About 68% of people score between 85-115, and 95% between 70-130.",
+      "concept_tags": ["IQ", "intelligence-testing", "normal-distribution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-024",
+      "question_text": "Spearman's 'g factor' represents:",
+      "options": [
+        "A. Multiple independent intelligences",
+        "B. A general intelligence underlying all cognitive abilities",
+        "C. Emotional intelligence",
+        "D. Practical intelligence"
+      ],
+      "correct_answer": "B",
+      "explanation": "Spearman proposed that a general intelligence factor (g) underlies performance on all cognitive tasks. Performance on any task reflects both g and task-specific abilities.",
+      "concept_tags": ["g-factor", "general-intelligence", "spearman"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-025",
+      "question_text": "Overconfidence bias refers to:",
+      "options": [
+        "A. Underestimating one's abilities",
+        "B. Being more certain of judgments than accuracy warrants",
+        "C. Fear of making decisions",
+        "D. Changing opinions frequently"
+      ],
+      "correct_answer": "B",
+      "explanation": "Overconfidence bias is the tendency to be more confident in one's judgments and abilities than is justified by actual performance. People often overestimate how much they know.",
+      "concept_tags": ["overconfidence-bias", "metacognition", "judgment"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-026",
+      "question_text": "Babbling in infants typically begins around:",
+      "options": [
+        "A. 1-2 months",
+        "B. 4-6 months",
+        "C. 10-12 months",
+        "D. 18-24 months"
+      ],
+      "correct_answer": "B",
+      "explanation": "Babbling (repetitive consonant-vowel combinations like 'bababa') typically begins around 4-6 months. Initially universal, it narrows to sounds in the infant's language environment.",
+      "concept_tags": ["babbling", "language-development", "infancy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-027",
+      "question_text": "The 'two-word stage' of language development typically occurs around:",
+      "options": [
+        "A. 6 months",
+        "B. 12 months",
+        "C. 18-24 months",
+        "D. 36 months"
+      ],
+      "correct_answer": "C",
+      "explanation": "Around 18-24 months, children begin combining two words into simple phrases ('mommy go,' 'want milk'). This telegraphic speech contains content words but omits articles and prepositions.",
+      "concept_tags": ["two-word-stage", "telegraphic-speech", "language-development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-028",
+      "question_text": "Divergent thinking is characterized by:",
+      "options": [
+        "A. Finding the single correct answer",
+        "B. Generating multiple creative solutions",
+        "C. Following logical rules strictly",
+        "D. Memorizing information"
+      ],
+      "correct_answer": "B",
+      "explanation": "Divergent thinking generates many possible solutions or ideas, associated with creativity. Convergent thinking narrows options to find the single best answer.",
+      "concept_tags": ["divergent-thinking", "creativity", "problem-solving"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-029",
+      "question_text": "The belief perseverance phenomenon describes:",
+      "options": [
+        "A. Easily changing beliefs when presented with evidence",
+        "B. Clinging to beliefs even after they've been discredited",
+        "C. Having no firm beliefs",
+        "D. Believing everything one hears"
+      ],
+      "correct_answer": "B",
+      "explanation": "Belief perseverance is the tendency to maintain beliefs even when the evidence supporting them has been discredited. Once formed, beliefs are resistant to change.",
+      "concept_tags": ["belief-perseverance", "cognitive-bias", "resistance-to-change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-030",
+      "question_text": "Algorithm problem-solving differs from heuristic problem-solving in that algorithms:",
+      "options": [
+        "A. Are faster but less accurate",
+        "B. Guarantee a solution if one exists",
+        "C. Rely on intuition",
+        "D. Only work for simple problems"
+      ],
+      "correct_answer": "B",
+      "explanation": "Algorithms are step-by-step procedures that guarantee a solution if followed correctly. Heuristics are mental shortcuts that are faster but don't guarantee success.",
+      "concept_tags": ["algorithm", "heuristic", "problem-solving-strategies"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-031",
+      "question_text": "Sternberg's triarchic theory of intelligence includes:",
+      "options": [
+        "A. Verbal, mathematical, and spatial intelligence",
+        "B. Analytical, creative, and practical intelligence",
+        "C. Emotional, social, and cognitive intelligence",
+        "D. Fluid and crystallized intelligence"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sternberg proposed three types of intelligence: analytical (academic problem-solving), creative (novel solutions), and practical (adapting to real-world contexts).",
+      "concept_tags": ["sternberg", "triarchic-theory", "intelligence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-032",
+      "question_text": "Crystallized intelligence refers to:",
+      "options": [
+        "A. Ability to solve novel problems",
+        "B. Accumulated knowledge and skills",
+        "C. Processing speed",
+        "D. Working memory capacity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Crystallized intelligence is accumulated knowledge, vocabulary, and skills acquired through experience and education. It tends to increase with age. Fluid intelligence (novel problem-solving) declines.",
+      "concept_tags": ["crystallized-intelligence", "cattell-horn", "aging"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-033",
+      "question_text": "Insight learning involves:",
+      "options": [
+        "A. Gradual trial and error",
+        "B. Sudden understanding of a solution",
+        "C. Repetitive practice",
+        "D. Imitation of others"
+      ],
+      "correct_answer": "B",
+      "explanation": "Insight learning is a sudden 'aha!' moment where the solution becomes clear. It involves restructuring the problem mentally rather than gradual trial-and-error learning.",
+      "concept_tags": ["insight-learning", "problem-solving", "kohler"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-034",
+      "question_text": "The arcuate fasciculus connects:",
+      "options": [
+        "A. The two hemispheres of the brain",
+        "B. Broca's area and Wernicke's area",
+        "C. The frontal and occipital lobes",
+        "D. The thalamus and cortex"
+      ],
+      "correct_answer": "B",
+      "explanation": "The arcuate fasciculus is a bundle of nerve fibers connecting Broca's area (speech production) and Wernicke's area (language comprehension). Damage causes conduction aphasia.",
+      "concept_tags": ["arcuate-fasciculus", "language-pathway", "brain-anatomy"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-03-035",
+      "question_text": "Pragmatics in language refers to:",
+      "options": [
+        "A. Rules of grammar",
+        "B. Word meanings",
+        "C. Social context and appropriate language use",
+        "D. Sound patterns"
+      ],
+      "correct_answer": "C",
+      "explanation": "Pragmatics deals with how context affects language meaning and use—understanding sarcasm, implied meanings, turn-taking in conversation, and adjusting speech for different audiences.",
+      "concept_tags": ["pragmatics", "social-language", "context"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-036",
+      "question_text": "The prototype model of concepts suggests that:",
+      "options": [
+        "A. All members of a category are equally good examples",
+        "B. Categories have clear, defined boundaries",
+        "C. We compare items to a typical example of the category",
+        "D. Concepts are learned through conditioning"
+      ],
+      "correct_answer": "C",
+      "explanation": "The prototype model proposes that concepts are organized around typical examples (prototypes). A robin is a more prototypical bird than a penguin, affecting categorization speed and accuracy.",
+      "concept_tags": ["prototype", "concepts", "categorization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-037",
+      "question_text": "The base rate fallacy occurs when people:",
+      "options": [
+        "A. Ignore how common something is in the population",
+        "B. Focus too much on statistics",
+        "C. Remember base rates too well",
+        "D. Make accurate probability judgments"
+      ],
+      "correct_answer": "A",
+      "explanation": "The base rate fallacy involves ignoring general population statistics (base rates) when making judgments, often overweighting individual case information or stereotypes.",
+      "concept_tags": ["base-rate-fallacy", "probability", "judgment-error"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-038",
+      "question_text": "Working memory is most similar to the concept of:",
+      "options": [
+        "A. Long-term memory",
+        "B. Semantic memory",
+        "C. Short-term memory with active processing",
+        "D. Implicit memory"
+      ],
+      "correct_answer": "C",
+      "explanation": "Working memory is the system for temporarily holding and manipulating information during cognitive tasks. It's like an expanded short-term memory with executive control components.",
+      "concept_tags": ["working-memory", "cognitive-processing", "baddeley"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-039",
+      "question_text": "Vygotsky's zone of proximal development refers to:",
+      "options": [
+        "A. Tasks a child can do independently",
+        "B. Tasks a child cannot do even with help",
+        "C. Tasks a child can do with guidance but not alone",
+        "D. The physical space where learning occurs"
+      ],
+      "correct_answer": "C",
+      "explanation": "The zone of proximal development (ZPD) is the gap between what a learner can do independently and what they can do with guidance. Learning is optimized in this zone.",
+      "concept_tags": ["vygotsky", "zone-proximal-development", "scaffolding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-040",
+      "question_text": "Phonemes are:",
+      "options": [
+        "A. The smallest units of meaning",
+        "B. The smallest units of sound that distinguish words",
+        "C. Rules for combining words",
+        "D. Complete words"
+      ],
+      "correct_answer": "B",
+      "explanation": "Phonemes are the smallest units of sound that can change a word's meaning. 'Bat' and 'pat' differ by one phoneme (/b/ vs /p/). English has about 44 phonemes.",
+      "concept_tags": ["phonemes", "phonology", "speech-sounds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-041",
+      "question_text": "Means-end analysis is a problem-solving strategy that involves:",
+      "options": [
+        "A. Working backward from the goal",
+        "B. Breaking down the difference between current state and goal state",
+        "C. Trying random solutions",
+        "D. Avoiding all heuristics"
+      ],
+      "correct_answer": "B",
+      "explanation": "Means-end analysis identifies differences between current state and goal state, then selects actions to reduce these differences. It involves breaking complex problems into subgoals.",
+      "concept_tags": ["means-end-analysis", "problem-solving", "subgoals"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-042",
+      "question_text": "Fluid intelligence is characterized by:",
+      "options": [
+        "A. Vocabulary and world knowledge",
+        "B. Ability to solve novel problems independently of prior knowledge",
+        "C. Social skills",
+        "D. Academic achievement"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fluid intelligence is the capacity to think logically and solve novel problems, independent of acquired knowledge. It involves pattern recognition and abstract reasoning, and peaks in early adulthood.",
+      "concept_tags": ["fluid-intelligence", "abstract-reasoning", "cattell"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-043",
+      "question_text": "The sunk cost fallacy leads people to:",
+      "options": [
+        "A. Cut their losses early",
+        "B. Continue investing in something because of past investments",
+        "C. Make purely rational decisions",
+        "D. Ignore past investments"
+      ],
+      "correct_answer": "B",
+      "explanation": "The sunk cost fallacy is continuing an endeavor because of previously invested resources (time, money, effort) rather than evaluating current costs and benefits. Past investments shouldn't affect future decisions rationally.",
+      "concept_tags": ["sunk-cost-fallacy", "decision-making", "irrational-behavior"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-044",
+      "question_text": "Theory of mind develops when children understand that:",
+      "options": [
+        "A. Objects continue to exist when hidden",
+        "B. Others have thoughts, beliefs, and desires that may differ from their own",
+        "C. Numbers represent quantities",
+        "D. Words have meanings"
+      ],
+      "correct_answer": "B",
+      "explanation": "Theory of mind is the ability to attribute mental states to others and understand that others may have different beliefs, desires, and perspectives. It typically develops around age 4.",
+      "concept_tags": ["theory-of-mind", "perspective-taking", "development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-045",
+      "question_text": "The false consensus effect is the tendency to:",
+      "options": [
+        "A. Underestimate how many people share our views",
+        "B. Overestimate how many people share our views",
+        "C. Agree with the majority",
+        "D. Disagree with experts"
+      ],
+      "correct_answer": "B",
+      "explanation": "The false consensus effect is overestimating the extent to which others share our beliefs, attitudes, and behaviors. We assume our views are more common than they actually are.",
+      "concept_tags": ["false-consensus-effect", "social-cognition", "bias"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-046",
+      "question_text": "Semantic memory stores:",
+      "options": [
+        "A. Personal experiences and events",
+        "B. General knowledge and facts",
+        "C. Motor skills",
+        "D. Emotional memories"
+      ],
+      "correct_answer": "B",
+      "explanation": "Semantic memory stores general knowledge, facts, and concepts independent of personal experience. Episodic memory stores personal experiences with time and place context.",
+      "concept_tags": ["semantic-memory", "declarative-memory", "knowledge"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-03-047",
+      "question_text": "Conduction aphasia, caused by damage to the arcuate fasciculus, is characterized by:",
+      "options": [
+        "A. Loss of speech production",
+        "B. Loss of comprehension",
+        "C. Difficulty repeating words despite intact speech and comprehension",
+        "D. Complete language loss"
+      ],
+      "correct_answer": "C",
+      "explanation": "Conduction aphasia results from arcuate fasciculus damage. Patients can speak fluently and comprehend well but cannot repeat words or phrases accurately because the connection between Wernicke's and Broca's areas is disrupted.",
+      "concept_tags": ["conduction-aphasia", "arcuate-fasciculus", "language-disorders"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-03-048",
+      "question_text": "Overgeneralization in language development occurs when children:",
+      "options": [
+        "A. Use words too narrowly",
+        "B. Apply grammatical rules too broadly (e.g., 'goed' instead of 'went')",
+        "C. Speak in sentences that are too complex",
+        "D. Fail to understand grammar"
+      ],
+      "correct_answer": "B",
+      "explanation": "Overgeneralization (or overregularization) occurs when children apply regular grammatical rules to irregular words ('goed,' 'mouses'). This actually shows they've learned the rules, not just memorized words.",
+      "concept_tags": ["overgeneralization", "language-development", "grammar-acquisition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-049",
+      "question_text": "The gambler's fallacy is the belief that:",
+      "options": [
+        "A. Gambling always leads to winning",
+        "B. Past random events influence future random events",
+        "C. Probability cannot be calculated",
+        "D. Winning is more likely than losing"
+      ],
+      "correct_answer": "B",
+      "explanation": "The gambler's fallacy is the mistaken belief that past random events affect future ones. After flipping 5 heads, people think tails is 'due,' but each flip remains 50/50.",
+      "concept_tags": ["gamblers-fallacy", "probability", "cognitive-bias"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-03-050",
+      "question_text": "Emotional intelligence, as defined by Salovey and Mayer, includes the ability to:",
+      "options": [
+        "A. Suppress all emotions",
+        "B. Perceive, understand, manage, and use emotions effectively",
+        "C. Score high on IQ tests",
+        "D. Avoid emotional situations"
+      ],
+      "correct_answer": "B",
+      "explanation": "Emotional intelligence involves perceiving emotions (in self and others), understanding emotional meanings, managing emotions, and using emotions to facilitate thought and behavior.",
+      "concept_tags": ["emotional-intelligence", "salovey-mayer", "emotion-regulation"],
+      "difficulty": "easy"
+    }
+  ]
+}

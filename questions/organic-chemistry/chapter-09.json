@@ -1,0 +1,457 @@
+{
+  "book": "organic-chemistry",
+  "chapter": 9,
+  "chapter_title": "Amines",
+  "questions": [
+    {
+      "id": "organic-chemistry-09-001",
+      "question_text": "Amines are classified as primary, secondary, or tertiary based on:",
+      "options": ["A. The number of hydrogen atoms on nitrogen", "B. The number of carbon atoms attached to nitrogen", "C. The size of the carbon chain", "D. Their basicity"],
+      "correct_answer": "B",
+      "explanation": "Amines are classified by the number of carbon groups attached to nitrogen: primary (1), secondary (2), or tertiary (3). This differs from alcohol classification.",
+      "concept_tags": ["amines", "classification", "nomenclature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-002",
+      "question_text": "A quaternary ammonium salt has:",
+      "options": ["A. Three carbons attached to nitrogen", "B. Four carbons attached to nitrogen with a positive charge", "C. Four hydrogen atoms", "D. No charge"],
+      "correct_answer": "B",
+      "explanation": "Quaternary ammonium salts have four carbon groups attached to nitrogen, giving it a permanent positive charge (no lone pair available).",
+      "concept_tags": ["quaternary ammonium", "charge", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-003",
+      "question_text": "The nitrogen in amines is typically:",
+      "options": ["A. sp hybridized", "B. sp² hybridized", "C. sp³ hybridized", "D. Not hybridized"],
+      "correct_answer": "C",
+      "explanation": "Amine nitrogen is sp³ hybridized with a lone pair in one orbital, giving amines a pyramidal geometry.",
+      "concept_tags": ["hybridization", "geometry", "lone pair"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-004",
+      "question_text": "Amines are basic because:",
+      "options": ["A. They have acidic hydrogens", "B. The nitrogen lone pair can accept a proton", "C. They are ionic", "D. They contain oxygen"],
+      "correct_answer": "B",
+      "explanation": "The nitrogen lone pair in amines can donate electrons to a proton, making amines Brønsted bases and Lewis bases.",
+      "concept_tags": ["basicity", "lone pair", "proton acceptor"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-005",
+      "question_text": "The pKb of typical aliphatic amines is approximately:",
+      "options": ["A. 1-2", "B. 3-4", "C. 9-11", "D. 14-16"],
+      "correct_answer": "B",
+      "explanation": "Aliphatic amines have pKb values around 3-4, making them moderately strong bases (their conjugate acids have pKa around 10-11).",
+      "concept_tags": ["pKb", "basicity", "aliphatic amines"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-006",
+      "question_text": "Compared to aliphatic amines, aromatic amines (anilines) are:",
+      "options": ["A. More basic", "B. Less basic due to resonance delocalization of the lone pair", "C. Equally basic", "D. Not basic at all"],
+      "correct_answer": "B",
+      "explanation": "Aromatic amines are weaker bases because the nitrogen lone pair is delocalized into the aromatic ring by resonance, making it less available for protonation.",
+      "concept_tags": ["aromatic amines", "aniline", "resonance", "basicity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-007",
+      "question_text": "Electron-donating groups on aniline:",
+      "options": ["A. Decrease basicity", "B. Increase basicity", "C. Have no effect", "D. Make it acidic"],
+      "correct_answer": "B",
+      "explanation": "Electron-donating groups increase electron density on nitrogen, making the lone pair more available and increasing basicity.",
+      "concept_tags": ["substituent effects", "basicity", "electron-donating"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-008",
+      "question_text": "Electron-withdrawing groups on aniline:",
+      "options": ["A. Increase basicity", "B. Decrease basicity", "C. Have no effect", "D. Change hybridization"],
+      "correct_answer": "B",
+      "explanation": "Electron-withdrawing groups reduce electron density on nitrogen, decreasing availability of the lone pair and reducing basicity.",
+      "concept_tags": ["substituent effects", "basicity", "electron-withdrawing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-009",
+      "question_text": "The order of basicity is typically:",
+      "options": ["A. NH3 > primary amine > secondary amine", "B. Secondary amine > primary amine > NH3 > aniline", "C. Aniline > primary amine > NH3", "D. All amines are equally basic"],
+      "correct_answer": "B",
+      "explanation": "Basicity generally increases with alkyl substitution (electron donation) and decreases with resonance delocalization: 2° > 1° > NH3 > aniline.",
+      "concept_tags": ["basicity order", "alkyl groups", "resonance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-010",
+      "question_text": "Amines have lower boiling points than alcohols of similar molecular weight because:",
+      "options": ["A. N-H bonds are stronger than O-H bonds", "B. Nitrogen is more electronegative", "C. N-H---N hydrogen bonds are weaker than O-H---O hydrogen bonds", "D. Amines are ionic"],
+      "correct_answer": "C",
+      "explanation": "N-H---N hydrogen bonds are weaker than O-H---O bonds because nitrogen is less electronegative than oxygen, resulting in lower boiling points.",
+      "concept_tags": ["boiling point", "hydrogen bonding", "intermolecular forces"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-011",
+      "question_text": "Tertiary amines have lower boiling points than primary amines because:",
+      "options": ["A. They are smaller molecules", "B. They cannot hydrogen bond with each other (no N-H)", "C. They are less polar", "D. They are gases"],
+      "correct_answer": "B",
+      "explanation": "Tertiary amines lack N-H bonds and cannot form hydrogen bonds with other amine molecules, only with water or other H-bond donors.",
+      "concept_tags": ["tertiary amines", "hydrogen bonding", "boiling point"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-012",
+      "question_text": "Reduction of a nitrile with LiAlH4 produces:",
+      "options": ["A. An aldehyde", "B. A primary amine", "C. A secondary amine", "D. A carboxylic acid"],
+      "correct_answer": "B",
+      "explanation": "LiAlH4 reduces nitriles (R-C≡N) to primary amines (R-CH2-NH2) by adding two equivalents of H2.",
+      "concept_tags": ["reduction", "nitrile", "primary amine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-013",
+      "question_text": "Reduction of an amide with LiAlH4 produces:",
+      "options": ["A. A carboxylic acid", "B. An aldehyde", "C. An amine", "D. An alcohol"],
+      "correct_answer": "C",
+      "explanation": "LiAlH4 reduces amides to amines, removing the oxygen and preserving the carbon-nitrogen bond. Primary amides give primary amines.",
+      "concept_tags": ["reduction", "amide", "amine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-014",
+      "question_text": "The Gabriel synthesis is used to prepare:",
+      "options": ["A. Secondary amines", "B. Primary amines without over-alkylation", "C. Tertiary amines", "D. Aromatic amines"],
+      "correct_answer": "B",
+      "explanation": "The Gabriel synthesis uses phthalimide as a protected ammonia equivalent to prepare primary amines without the risk of over-alkylation.",
+      "concept_tags": ["Gabriel synthesis", "primary amine", "phthalimide"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-015",
+      "question_text": "Direct alkylation of ammonia with alkyl halides is problematic because:",
+      "options": ["A. No reaction occurs", "B. Over-alkylation produces mixtures of amines", "C. Only elimination occurs", "D. The reaction is too slow"],
+      "correct_answer": "B",
+      "explanation": "Direct alkylation leads to mixtures because the product amine is nucleophilic and continues to react, producing secondary, tertiary amines and quaternary salts.",
+      "concept_tags": ["alkylation", "over-alkylation", "selectivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-016",
+      "question_text": "Reductive amination involves reaction of an aldehyde or ketone with:",
+      "options": ["A. A Grignard reagent", "B. An amine followed by reduction", "C. LiAlH4 directly", "D. Water"],
+      "correct_answer": "B",
+      "explanation": "Reductive amination condenses an amine with a carbonyl compound to form an imine, which is then reduced to the amine product.",
+      "concept_tags": ["reductive amination", "imine", "amine synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-017",
+      "question_text": "Reductive amination of an aldehyde with a primary amine produces:",
+      "options": ["A. A primary amine", "B. A secondary amine", "C. A tertiary amine", "D. An imine only"],
+      "correct_answer": "B",
+      "explanation": "Reductive amination of an aldehyde with a primary amine (R-NH2) forms an imine intermediate, which is reduced to a secondary amine.",
+      "concept_tags": ["reductive amination", "secondary amine", "synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-018",
+      "question_text": "The Hofmann elimination of quaternary ammonium hydroxides produces:",
+      "options": ["A. The more substituted alkene (Zaitsev)", "B. The less substituted alkene (Hofmann)", "C. An alcohol", "D. An amine"],
+      "correct_answer": "B",
+      "explanation": "The Hofmann elimination produces the less substituted (Hofmann) alkene due to steric factors with the bulky leaving group.",
+      "concept_tags": ["Hofmann elimination", "regioselectivity", "alkene"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-019",
+      "question_text": "The Cope elimination involves:",
+      "options": ["A. Quaternary ammonium salts", "B. Amine oxides forming alkenes and hydroxylamine", "C. Reduction of amines", "D. Oxidation of amines"],
+      "correct_answer": "B",
+      "explanation": "The Cope elimination converts amine oxides (R3N+–O-) to alkenes and hydroxylamine through a concerted syn elimination.",
+      "concept_tags": ["Cope elimination", "amine oxide", "syn elimination"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-020",
+      "question_text": "Amines react with nitrous acid (HONO). Primary aliphatic amines produce:",
+      "options": ["A. Diazonium salts", "B. Unstable diazonium that decomposes to carbocations", "C. N-nitroso compounds", "D. No reaction"],
+      "correct_answer": "B",
+      "explanation": "Primary aliphatic amines form unstable diazonium ions that rapidly lose N2 to form carbocations, leading to mixture of products.",
+      "concept_tags": ["nitrous acid", "diazonium", "primary aliphatic amine"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-021",
+      "question_text": "Primary aromatic amines react with nitrous acid at 0°C to form:",
+      "options": ["A. Unstable products that decompose", "B. Stable diazonium salts useful in synthesis", "C. N-nitroso compounds", "D. Alcohols"],
+      "correct_answer": "B",
+      "explanation": "Aromatic diazonium salts (Ar-N≡N+) are stabilized by resonance and can be isolated at low temperature for use in further reactions.",
+      "concept_tags": ["diazonium salt", "aromatic amine", "diazotization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-022",
+      "question_text": "Diazonium salts can undergo coupling with activated aromatics to form:",
+      "options": ["A. Ethers", "B. Azo dyes", "C. Amides", "D. Alcohols"],
+      "correct_answer": "B",
+      "explanation": "Diazonium salts couple with electron-rich aromatic compounds (phenols, anilines) to form azo compounds (Ar-N=N-Ar), which are brightly colored dyes.",
+      "concept_tags": ["azo coupling", "diazonium", "dyes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-023",
+      "question_text": "Diazonium salts can be converted to phenols by:",
+      "options": ["A. Reduction", "B. Treatment with water/heat", "C. Treatment with alcohol", "D. Oxidation"],
+      "correct_answer": "B",
+      "explanation": "Heating diazonium salts with water results in loss of N2 and replacement with OH, converting the amine to a phenol.",
+      "concept_tags": ["diazonium", "phenol synthesis", "hydrolysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-024",
+      "question_text": "The Sandmeyer reaction converts diazonium salts to:",
+      "options": ["A. Amines", "B. Aryl halides using Cu(I) salts", "C. Alcohols", "D. Aldehydes"],
+      "correct_answer": "B",
+      "explanation": "The Sandmeyer reaction uses CuCl, CuBr, or CuCN to convert diazonium salts to aryl chlorides, bromides, or nitriles, respectively.",
+      "concept_tags": ["Sandmeyer reaction", "aryl halide", "diazonium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-025",
+      "question_text": "Amines act as nucleophiles in reactions with:",
+      "options": ["A. Alkyl halides only", "B. Acid chlorides, alkyl halides, and carbonyl compounds", "C. Alkenes only", "D. Aromatic compounds only"],
+      "correct_answer": "B",
+      "explanation": "The nitrogen lone pair makes amines nucleophilic, reacting with various electrophiles including alkyl halides (SN2), carbonyls, and acid derivatives.",
+      "concept_tags": ["nucleophilicity", "amine reactions", "electrophiles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-026",
+      "question_text": "Sulfonamides are formed by reaction of amines with:",
+      "options": ["A. Sulfuric acid", "B. Sulfonyl chlorides", "C. Sulfur dioxide", "D. Thiols"],
+      "correct_answer": "B",
+      "explanation": "Amines react with sulfonyl chlorides (RSO2Cl) to form sulfonamides (RSO2NHR'), an important class of antibiotics.",
+      "concept_tags": ["sulfonamide", "sulfonyl chloride", "antibiotics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-027",
+      "question_text": "The Hinsberg test distinguishes between primary, secondary, and tertiary amines using:",
+      "options": ["A. Litmus paper", "B. Benzenesulfonyl chloride", "C. Tollens' reagent", "D. Bromine water"],
+      "correct_answer": "B",
+      "explanation": "The Hinsberg test uses benzenesulfonyl chloride: primary amines form acidic sulfonamides, secondary form neutral sulfonamides, tertiary don't react.",
+      "concept_tags": ["Hinsberg test", "amine identification", "sulfonamide"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-028",
+      "question_text": "In IR spectroscopy, primary amines show:",
+      "options": ["A. One N-H stretch", "B. Two N-H stretches", "C. No N-H stretch", "D. Three N-H stretches"],
+      "correct_answer": "B",
+      "explanation": "Primary amines (RNH2) show two N-H stretches around 3300-3500 cm⁻¹ due to symmetric and asymmetric stretching modes.",
+      "concept_tags": ["IR spectroscopy", "primary amine", "N-H stretch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-029",
+      "question_text": "In IR spectroscopy, secondary amines show:",
+      "options": ["A. Two N-H stretches", "B. One N-H stretch", "C. No N-H stretch", "D. Three N-H stretches"],
+      "correct_answer": "B",
+      "explanation": "Secondary amines (R2NH) show one N-H stretch around 3300 cm⁻¹ since they have only one N-H bond.",
+      "concept_tags": ["IR spectroscopy", "secondary amine", "N-H stretch"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-030",
+      "question_text": "Tertiary amines show what in IR spectroscopy?",
+      "options": ["A. One N-H stretch", "B. Two N-H stretches", "C. No N-H stretch (no N-H bonds)", "D. Three N-H stretches"],
+      "correct_answer": "C",
+      "explanation": "Tertiary amines (R3N) have no N-H bonds and therefore show no N-H stretching absorption in IR.",
+      "concept_tags": ["IR spectroscopy", "tertiary amine", "no N-H"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-031",
+      "question_text": "In ¹H NMR, amine protons typically appear:",
+      "options": ["A. At a consistent, predictable chemical shift", "B. As broad, variable peaks often exchangeable with D2O", "C. At very high chemical shift (10+ ppm)", "D. Not visible"],
+      "correct_answer": "B",
+      "explanation": "Amine N-H protons appear as broad peaks (due to quadrupolar relaxation) at variable chemical shifts (0.5-5 ppm) and exchange with D2O.",
+      "concept_tags": ["NMR spectroscopy", "amine protons", "D2O exchange"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-032",
+      "question_text": "Nitrogen inversion in amines means:",
+      "options": ["A. Amines can't be chiral", "B. The nitrogen rapidly inverts its geometry, interconverting enantiomers", "C. The nitrogen is sp² hybridized", "D. Amines are planar"],
+      "correct_answer": "B",
+      "explanation": "Nitrogen in amines undergoes rapid pyramidal inversion, interconverting enantiomeric configurations and preventing isolation of chiral amines (unless constrained).",
+      "concept_tags": ["nitrogen inversion", "stereochemistry", "chirality"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-033",
+      "question_text": "Quaternary ammonium salts with four different groups:",
+      "options": ["A. Cannot be chiral", "B. Can be chiral and resolved (no nitrogen inversion)", "C. Undergo rapid inversion", "D. Are always meso"],
+      "correct_answer": "B",
+      "explanation": "Quaternary ammonium salts cannot undergo nitrogen inversion (no lone pair), so those with four different substituents are chiral and can be resolved.",
+      "concept_tags": ["quaternary ammonium", "chirality", "no inversion"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-034",
+      "question_text": "Acetylation of an amine produces:",
+      "options": ["A. An ester", "B. An amide", "C. A nitrile", "D. An alcohol"],
+      "correct_answer": "B",
+      "explanation": "Reaction of an amine with acetyl chloride or acetic anhydride produces an amide (acetamide derivative).",
+      "concept_tags": ["acetylation", "amide formation", "protecting group"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-035",
+      "question_text": "Amides are often used as protecting groups for amines because:",
+      "options": ["A. They are unstable", "B. They are stable to many conditions and can be hydrolyzed when needed", "C. They are more nucleophilic", "D. They are more basic"],
+      "correct_answer": "B",
+      "explanation": "Amides protect the amine nitrogen during reactions (making it less nucleophilic and basic), and can be removed by hydrolysis when needed.",
+      "concept_tags": ["protecting groups", "amide", "synthetic strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-036",
+      "question_text": "The Curtius rearrangement converts acyl azides to:",
+      "options": ["A. Carboxylic acids", "B. Isocyanates (then to amines or carbamates)", "C. Nitriles", "D. Amides"],
+      "correct_answer": "B",
+      "explanation": "The Curtius rearrangement thermally converts acyl azides to isocyanates (R-N=C=O) with loss of N2, which can be hydrolyzed to amines.",
+      "concept_tags": ["Curtius rearrangement", "isocyanate", "amine synthesis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-037",
+      "question_text": "Aromatic amines are activated for electrophilic aromatic substitution because:",
+      "options": ["A. They are acidic", "B. The nitrogen lone pair donates electrons to the ring", "C. They are electron-withdrawing", "D. They have no effect on the ring"],
+      "correct_answer": "B",
+      "explanation": "The nitrogen lone pair donates electron density into the aromatic ring through resonance, strongly activating it toward electrophilic substitution.",
+      "concept_tags": ["aniline", "electrophilic aromatic substitution", "activation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-038",
+      "question_text": "Aniline directs electrophilic substitution primarily to:",
+      "options": ["A. Meta positions", "B. Ortho and para positions", "C. Only para position", "D. All positions equally"],
+      "correct_answer": "B",
+      "explanation": "The amino group is a strong ortho/para director due to resonance donation of electrons to these positions.",
+      "concept_tags": ["directing effects", "ortho para", "aniline"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-039",
+      "question_text": "Before halogenation of aniline, the amine is often acetylated to:",
+      "options": ["A. Increase reactivity", "B. Moderate reactivity and improve regioselectivity", "C. Change directing effects to meta", "D. Make the reaction faster"],
+      "correct_answer": "B",
+      "explanation": "Acetylation moderates the strong activating effect of the amino group, allowing better control of regioselectivity and preventing polysubstitution.",
+      "concept_tags": ["acetylation", "protecting group", "regioselectivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-040",
+      "question_text": "Nitration of aniline directly can lead to:",
+      "options": ["A. Clean para-nitroaniline", "B. Oxidation of the amine and unwanted products", "C. Only meta substitution", "D. No reaction"],
+      "correct_answer": "B",
+      "explanation": "Direct nitration of aniline in strong acid can protonate the amine (deactivating) or oxidize it. The amine is usually protected first.",
+      "concept_tags": ["nitration", "aniline", "oxidation", "protection"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-041",
+      "question_text": "Pyridine is:",
+      "options": ["A. More basic than typical amines due to resonance", "B. Less basic than typical aliphatic amines due to sp² nitrogen", "C. A secondary amine", "D. An aromatic amine like aniline"],
+      "correct_answer": "B",
+      "explanation": "Pyridine's nitrogen lone pair is in an sp² orbital, not delocalized into the ring (maintaining aromaticity), but the sp² character makes it less basic than aliphatic amines.",
+      "concept_tags": ["pyridine", "basicity", "sp2 nitrogen"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-042",
+      "question_text": "Imidazole contains:",
+      "options": ["A. No nitrogen atoms", "B. One nitrogen atom", "C. Two nitrogen atoms with different properties", "D. Three nitrogen atoms"],
+      "correct_answer": "C",
+      "explanation": "Imidazole is a five-membered aromatic heterocycle with two nitrogens: one pyridine-like (basic) and one pyrrole-like (contributes to aromaticity).",
+      "concept_tags": ["imidazole", "heterocycle", "basicity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-043",
+      "question_text": "Histamine and histidine contain which heterocycle?",
+      "options": ["A. Pyridine", "B. Imidazole", "C. Pyrrole", "D. Furan"],
+      "correct_answer": "B",
+      "explanation": "Histamine (from histidine decarboxylation) and the amino acid histidine contain an imidazole ring, important for biological buffering and catalysis.",
+      "concept_tags": ["histidine", "imidazole", "biochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-044",
+      "question_text": "Amines can form salts with acids, which:",
+      "options": ["A. Decreases their water solubility", "B. Increases their water solubility", "C. Has no effect on solubility", "D. Makes them more volatile"],
+      "correct_answer": "B",
+      "explanation": "Protonation of amines to form ammonium salts creates charged, ionic species that are much more water-soluble than the free base.",
+      "concept_tags": ["amine salts", "solubility", "protonation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-045",
+      "question_text": "Many amine drugs are administered as their salt forms to:",
+      "options": ["A. Make them less active", "B. Improve stability and water solubility", "C. Increase their basicity", "D. Change their mechanism of action"],
+      "correct_answer": "B",
+      "explanation": "Amine drugs are often given as hydrochloride or other salts to improve water solubility, stability, and ease of formulation.",
+      "concept_tags": ["pharmaceutical", "amine salts", "drug formulation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-046",
+      "question_text": "The Eschweiler-Clarke reaction is used for:",
+      "options": ["A. Reducing amines", "B. Exhaustive N-methylation of primary/secondary amines", "C. Deamination", "D. Forming amides"],
+      "correct_answer": "B",
+      "explanation": "The Eschweiler-Clarke reaction uses formaldehyde and formic acid to exhaustively methylate primary and secondary amines to tertiary N,N-dimethyl amines.",
+      "concept_tags": ["Eschweiler-Clarke", "reductive amination", "methylation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-09-047",
+      "question_text": "Nitro groups can be reduced to amines using:",
+      "options": ["A. Oxidizing agents", "B. H2/metal catalyst or Sn/HCl", "C. Base", "D. Water"],
+      "correct_answer": "B",
+      "explanation": "Nitro groups are reduced to amines by catalytic hydrogenation (H2/Pd) or by metal/acid reduction (Sn/HCl or Fe/HCl).",
+      "concept_tags": ["nitro reduction", "amine synthesis", "catalytic hydrogenation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-048",
+      "question_text": "Enamines are:",
+      "options": ["A. Amines attached to an alkane", "B. Nitrogen analogs of enols (amine attached to a C=C)", "C. Cyclic amines", "D. Amides with double bonds"],
+      "correct_answer": "B",
+      "explanation": "Enamines have a nitrogen attached to a carbon-carbon double bond, analogous to enols. They are nucleophilic at the beta carbon.",
+      "concept_tags": ["enamine", "structure", "nucleophilicity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-09-049",
+      "question_text": "Biogenic amines include all EXCEPT:",
+      "options": ["A. Dopamine", "B. Serotonin", "C. Histamine", "D. Glucose"],
+      "correct_answer": "D",
+      "explanation": "Biogenic amines (dopamine, serotonin, histamine, norepinephrine) are signaling molecules derived from amino acids. Glucose is a carbohydrate, not an amine.",
+      "concept_tags": ["biogenic amines", "neurotransmitters", "biochemistry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-09-050",
+      "question_text": "Epinephrine (adrenaline) contains which functional groups?",
+      "options": ["A. Amine and carboxylic acid", "B. Amine, alcohol, and catechol", "C. Aldehyde and ketone", "D. Ester and ether"],
+      "correct_answer": "B",
+      "explanation": "Epinephrine contains a secondary amine, an alcohol (β-hydroxyl), and a catechol group (1,2-dihydroxybenzene).",
+      "concept_tags": ["epinephrine", "catecholamine", "functional groups"],
+      "difficulty": "medium"
+    }
+  ]
+}

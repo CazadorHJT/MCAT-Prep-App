@@ -1,0 +1,457 @@
+{
+  "book": "general-chemistry",
+  "chapter": 7,
+  "chapter_title": "Thermochemistry",
+  "questions": [
+    {
+      "id": "general-chemistry-07-001",
+      "question_text": "A reaction releases 150 kJ of heat to the surroundings. Which of the following statements is TRUE about this reaction?",
+      "options": ["A. The reaction is exothermic and ΔH is negative", "B. The reaction is exothermic and ΔH is positive", "C. The reaction is endothermic and ΔH is negative", "D. The reaction is endothermic and ΔH is positive"],
+      "correct_answer": "A",
+      "explanation": "When a reaction releases heat to the surroundings, it is classified as exothermic. By convention, heat released by the system is assigned a negative sign, so ΔH < 0 for exothermic reactions. The system loses energy to the surroundings.",
+      "concept_tags": ["enthalpy", "exothermic-reactions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-002",
+      "question_text": "What is the standard enthalpy of formation (ΔHf°) for O₂(g) at 25°C?",
+      "options": ["A. -285.8 kJ/mol", "B. +285.8 kJ/mol", "C. 0 kJ/mol", "D. Cannot be determined without additional information"],
+      "correct_answer": "C",
+      "explanation": "The standard enthalpy of formation for any element in its most stable form (standard state) at standard conditions is defined as zero. O₂(g) is the most stable form of oxygen at 25°C and 1 atm, so ΔHf° = 0 kJ/mol.",
+      "concept_tags": ["standard-enthalpy-of-formation", "enthalpy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-003",
+      "question_text": "In a coffee-cup calorimeter, 50.0 mL of 1.0 M HCl is mixed with 50.0 mL of 1.0 M NaOH. The temperature rises from 22.0°C to 28.5°C. Assuming the specific heat of the solution is 4.18 J/(g·°C) and density is 1.00 g/mL, what is the enthalpy change for the neutralization per mole of water formed?",
+      "options": ["A. -54.3 kJ/mol", "B. -27.2 kJ/mol", "C. +54.3 kJ/mol", "D. +27.2 kJ/mol"],
+      "correct_answer": "A",
+      "explanation": "q = mcΔT = (100 g)(4.18 J/g·°C)(6.5°C) = 2717 J = 2.72 kJ. Since 0.050 mol of water is formed (50 mL × 1.0 M = 0.050 mol), ΔH = -2.72 kJ / 0.050 mol = -54.3 kJ/mol. The negative sign indicates the reaction is exothermic (temperature increased).",
+      "concept_tags": ["calorimetry", "enthalpy", "neutralization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-004",
+      "question_text": "Which of the following represents the correct mathematical relationship for Gibbs free energy?",
+      "options": ["A. ΔG = ΔH + TΔS", "B. ΔG = ΔH - TΔS", "C. ΔG = ΔS - TΔH", "D. ΔG = TΔH - ΔS"],
+      "correct_answer": "B",
+      "explanation": "The Gibbs free energy equation is ΔG = ΔH - TΔS, where ΔG is the change in Gibbs free energy, ΔH is the change in enthalpy, T is the absolute temperature in Kelvin, and ΔS is the change in entropy. This equation determines the spontaneity of a reaction at constant temperature and pressure.",
+      "concept_tags": ["gibbs-free-energy", "thermodynamics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-005",
+      "question_text": "For a reaction at 298 K with ΔH = -100 kJ/mol and ΔS = +200 J/(mol·K), the reaction is:",
+      "options": ["A. Spontaneous at all temperatures", "B. Non-spontaneous at all temperatures", "C. Spontaneous only at high temperatures", "D. Spontaneous only at low temperatures"],
+      "correct_answer": "A",
+      "explanation": "When ΔH is negative (exothermic) and ΔS is positive (entropy increases), the term -TΔS is always negative. Therefore, ΔG = ΔH - TΔS will always be negative regardless of temperature, making the reaction spontaneous at all temperatures.",
+      "concept_tags": ["gibbs-free-energy", "spontaneity", "entropy", "enthalpy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-006",
+      "question_text": "According to Hess's law, which of the following statements is TRUE?",
+      "options": ["A. The enthalpy change depends on the path taken from reactants to products", "B. The enthalpy change is independent of the path taken from reactants to products", "C. The enthalpy change is always positive for multi-step reactions", "D. Hess's law only applies to reactions at standard conditions"],
+      "correct_answer": "B",
+      "explanation": "Hess's law states that the total enthalpy change for a reaction is independent of the pathway between reactants and products. Because enthalpy is a state function, only the initial and final states matter, not the intermediate steps.",
+      "concept_tags": ["hess-law", "enthalpy", "state-functions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-007",
+      "question_text": "The bond dissociation energy for H-H is 436 kJ/mol, for Cl-Cl is 243 kJ/mol, and for H-Cl is 431 kJ/mol. What is the enthalpy change for the reaction: H₂(g) + Cl₂(g) → 2HCl(g)?",
+      "options": ["A. -183 kJ", "B. +183 kJ", "C. -862 kJ", "D. +248 kJ"],
+      "correct_answer": "A",
+      "explanation": "ΔH = Σ(bonds broken) - Σ(bonds formed). Bonds broken: 1 H-H (436 kJ) + 1 Cl-Cl (243 kJ) = 679 kJ. Bonds formed: 2 H-Cl (2 × 431 kJ) = 862 kJ. ΔH = 679 - 862 = -183 kJ. The reaction is exothermic because more energy is released forming bonds than is required to break bonds.",
+      "concept_tags": ["bond-energies", "enthalpy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-008",
+      "question_text": "A bomb calorimeter has a heat capacity of 5.0 kJ/°C. When 1.00 g of a substance is burned, the temperature increases by 3.2°C. What is the energy released per gram of substance?",
+      "options": ["A. 1.6 kJ/g", "B. 8.2 kJ/g", "C. 16 kJ/g", "D. 0.64 kJ/g"],
+      "correct_answer": "C",
+      "explanation": "In a bomb calorimeter, q = CΔT, where C is the heat capacity. q = (5.0 kJ/°C)(3.2°C) = 16 kJ. Since 1.00 g was burned, the energy released is 16 kJ/g. Bomb calorimeters measure the heat at constant volume.",
+      "concept_tags": ["calorimetry", "bomb-calorimeter"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-009",
+      "question_text": "For the process H₂O(l) → H₂O(g) at 100°C and 1 atm, which statement is correct?",
+      "options": ["A. ΔH > 0, ΔS > 0, ΔG > 0", "B. ΔH > 0, ΔS > 0, ΔG = 0", "C. ΔH < 0, ΔS > 0, ΔG = 0", "D. ΔH > 0, ΔS < 0, ΔG = 0"],
+      "correct_answer": "B",
+      "explanation": "Vaporization is endothermic (ΔH > 0) because energy must be added to overcome intermolecular forces. Entropy increases (ΔS > 0) because gas has more disorder than liquid. At the boiling point (100°C, 1 atm), the system is at equilibrium, so ΔG = 0.",
+      "concept_tags": ["phase-transitions", "gibbs-free-energy", "entropy", "enthalpy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-010",
+      "question_text": "Given the following reactions:\n(1) C(s) + O₂(g) → CO₂(g), ΔH = -393 kJ\n(2) H₂(g) + ½O₂(g) → H₂O(l), ΔH = -286 kJ\n(3) C₂H₆(g) + 7/2O₂(g) → 2CO₂(g) + 3H₂O(l), ΔH = -1560 kJ\nWhat is the standard enthalpy of formation of C₂H₆(g)?",
+      "options": ["A. -84 kJ/mol", "B. +84 kJ/mol", "C. -881 kJ/mol", "D. +1560 kJ/mol"],
+      "correct_answer": "A",
+      "explanation": "Using Hess's law: 2C(s) + 3H₂(g) → C₂H₆(g). Manipulate equations: 2×(1) + 3×(2) - (3). ΔHf° = 2(-393) + 3(-286) - (-1560) = -786 - 858 + 1560 = -84 kJ/mol.",
+      "concept_tags": ["hess-law", "standard-enthalpy-of-formation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-07-011",
+      "question_text": "Which of the following processes would have the most positive entropy change (ΔS)?",
+      "options": ["A. H₂O(l) → H₂O(s)", "B. N₂(g) + 3H₂(g) → 2NH₃(g)", "C. 2KClO₃(s) → 2KCl(s) + 3O₂(g)", "D. NaCl(s) → NaCl(l)"],
+      "correct_answer": "C",
+      "explanation": "Entropy increases most dramatically when gases are produced from solids. In option C, solid KClO₃ decomposes to produce 3 moles of O₂ gas, resulting in a large positive ΔS. Options A and B decrease entropy (forming more ordered states or fewer gas molecules), while D has a modest increase.",
+      "concept_tags": ["entropy", "phase-transitions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-012",
+      "question_text": "A reaction has ΔH = +50 kJ/mol and ΔS = +100 J/(mol·K). At what temperature will the reaction be at equilibrium?",
+      "options": ["A. 500 K", "B. 200 K", "C. 0.5 K", "D. 5000 K"],
+      "correct_answer": "A",
+      "explanation": "At equilibrium, ΔG = 0. Using ΔG = ΔH - TΔS: 0 = 50,000 J/mol - T(100 J/mol·K). Solving for T: T = 50,000/100 = 500 K. Below this temperature ΔG > 0 (non-spontaneous); above this temperature ΔG < 0 (spontaneous).",
+      "concept_tags": ["gibbs-free-energy", "equilibrium", "entropy", "enthalpy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-013",
+      "question_text": "When solid ammonium nitrate dissolves in water, the solution becomes cold. Which of the following correctly describes this process?",
+      "options": ["A. Exothermic, ΔH < 0", "B. Endothermic, ΔH > 0", "C. Exothermic, ΔH > 0", "D. The process has ΔH = 0"],
+      "correct_answer": "B",
+      "explanation": "When the solution becomes cold, heat is absorbed from the surroundings (including the water) into the system. This is characteristic of an endothermic process, which has ΔH > 0. The dissolution of NH₄NO₃ is a classic example of an endothermic dissolution.",
+      "concept_tags": ["endothermic-reactions", "enthalpy", "dissolution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-014",
+      "question_text": "For an exothermic reaction, what happens to the equilibrium constant (K) as temperature increases?",
+      "options": ["A. K increases", "B. K decreases", "C. K remains constant", "D. Cannot be determined without knowing ΔS"],
+      "correct_answer": "B",
+      "explanation": "For an exothermic reaction (ΔH < 0), increasing temperature shifts equilibrium toward reactants according to Le Chatelier's principle. Mathematically, ln(K) = -ΔG°/RT, and since ΔG° becomes more positive at higher T for exothermic reactions, K decreases.",
+      "concept_tags": ["equilibrium", "temperature-effects", "exothermic-reactions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-015",
+      "question_text": "What is the heat capacity at constant pressure (Cp) of an ideal gas compared to its heat capacity at constant volume (Cv)?",
+      "options": ["A. Cp = Cv", "B. Cp = Cv + R", "C. Cp = Cv - R", "D. Cp = 2Cv"],
+      "correct_answer": "B",
+      "explanation": "For an ideal gas, Cp = Cv + R, where R is the gas constant. This is because at constant pressure, additional energy (work) is required to expand the gas against external pressure, so Cp > Cv by exactly R (8.314 J/mol·K).",
+      "concept_tags": ["heat-capacity", "ideal-gas", "thermodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-016",
+      "question_text": "Which of the following is NOT a state function?",
+      "options": ["A. Enthalpy (H)", "B. Entropy (S)", "C. Heat (q)", "D. Gibbs free energy (G)"],
+      "correct_answer": "C",
+      "explanation": "Heat (q) is a path function, meaning its value depends on how the process is carried out. In contrast, enthalpy, entropy, and Gibbs free energy are all state functions - their values depend only on the current state of the system, not on how it reached that state.",
+      "concept_tags": ["state-functions", "thermodynamics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-017",
+      "question_text": "The combustion of methane (CH₄) has ΔH° = -890 kJ/mol. If the standard enthalpies of formation are: CO₂(g) = -394 kJ/mol and H₂O(l) = -286 kJ/mol, what is the standard enthalpy of formation of CH₄(g)?",
+      "options": ["A. -75 kJ/mol", "B. +75 kJ/mol", "C. -210 kJ/mol", "D. -890 kJ/mol"],
+      "correct_answer": "A",
+      "explanation": "For CH₄ + 2O₂ → CO₂ + 2H₂O: ΔH°rxn = ΣΔHf°(products) - ΣΔHf°(reactants). -890 = [(-394) + 2(-286)] - [ΔHf°(CH₄) + 0]. -890 = -966 - ΔHf°(CH₄). ΔHf°(CH₄) = -966 + 890 = -76 ≈ -75 kJ/mol.",
+      "concept_tags": ["standard-enthalpy-of-formation", "combustion", "hess-law"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-07-018",
+      "question_text": "In an endothermic reaction at constant pressure, which energy diagram correctly shows the relationship between reactants and products?",
+      "options": ["A. Products are at lower energy than reactants", "B. Products are at higher energy than reactants", "C. Products and reactants are at the same energy level", "D. The activation energy equals zero"],
+      "correct_answer": "B",
+      "explanation": "In an endothermic reaction, energy is absorbed from the surroundings. This means the products have higher potential energy than the reactants. On an energy diagram, the products appear at a higher level than the reactants, with ΔH being positive.",
+      "concept_tags": ["endothermic-reactions", "energy-diagrams", "enthalpy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-019",
+      "question_text": "A 50.0 g piece of copper (specific heat = 0.385 J/g·°C) at 100.0°C is placed in 100.0 g of water at 20.0°C. What is the final temperature of the system? (Assume no heat loss to surroundings)",
+      "options": ["A. 23.5°C", "B. 26.8°C", "C. 60.0°C", "D. 35.2°C"],
+      "correct_answer": "A",
+      "explanation": "Heat lost by copper = Heat gained by water. m(Cu)c(Cu)ΔT(Cu) = m(H₂O)c(H₂O)ΔT(H₂O). (50.0)(0.385)(100-Tf) = (100.0)(4.18)(Tf-20). 19.25(100-Tf) = 418(Tf-20). 1925 - 19.25Tf = 418Tf - 8360. 10285 = 437.25Tf. Tf = 23.5°C.",
+      "concept_tags": ["calorimetry", "specific-heat", "heat-transfer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-020",
+      "question_text": "Which statement about entropy is INCORRECT?",
+      "options": ["A. Entropy is a measure of disorder or randomness", "B. The entropy of a perfect crystal at absolute zero is zero", "C. Entropy always decreases in spontaneous processes", "D. Gases generally have higher entropy than liquids"],
+      "correct_answer": "C",
+      "explanation": "The statement in C is incorrect. While system entropy can decrease in spontaneous processes, the total entropy of the universe (system + surroundings) always increases for spontaneous processes (Second Law of Thermodynamics). A, B (Third Law), and D are all correct statements.",
+      "concept_tags": ["entropy", "second-law-thermodynamics", "third-law-thermodynamics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-021",
+      "question_text": "For a reaction with ΔH = -200 kJ/mol and ΔS = -500 J/(mol·K), at what temperature will the reaction become non-spontaneous?",
+      "options": ["A. Above 400 K", "B. Below 400 K", "C. Above 0.4 K", "D. The reaction is non-spontaneous at all temperatures"],
+      "correct_answer": "A",
+      "explanation": "Using ΔG = ΔH - TΔS and setting ΔG = 0 for the crossover point: 0 = -200,000 J/mol - T(-500 J/mol·K). T = 200,000/500 = 400 K. Below 400 K, ΔG < 0 (spontaneous). Above 400 K, ΔG > 0 (non-spontaneous) because the -TΔS term becomes more positive than |ΔH|.",
+      "concept_tags": ["gibbs-free-energy", "spontaneity", "temperature-effects"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-022",
+      "question_text": "The bond energy of N≡N is 945 kJ/mol, H-H is 436 kJ/mol, and N-H is 391 kJ/mol. Calculate ΔH for: N₂(g) + 3H₂(g) → 2NH₃(g)",
+      "options": ["A. -92 kJ", "B. +92 kJ", "C. -330 kJ", "D. +2073 kJ"],
+      "correct_answer": "A",
+      "explanation": "ΔH = Bonds broken - Bonds formed. Bonds broken: 1(N≡N) + 3(H-H) = 945 + 3(436) = 2253 kJ. Bonds formed: 6(N-H) = 6(391) = 2346 kJ. ΔH = 2253 - 2346 = -93 ≈ -92 kJ. The reaction is exothermic.",
+      "concept_tags": ["bond-energies", "enthalpy", "hess-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-023",
+      "question_text": "Which of the following pairs correctly matches the sign of ΔG with reaction spontaneity?",
+      "options": ["A. ΔG > 0: spontaneous; ΔG < 0: non-spontaneous", "B. ΔG < 0: spontaneous; ΔG > 0: non-spontaneous", "C. ΔG = 0: spontaneous; ΔG ≠ 0: non-spontaneous", "D. Spontaneity cannot be determined from ΔG alone"],
+      "correct_answer": "B",
+      "explanation": "A negative Gibbs free energy change (ΔG < 0) indicates a spontaneous process under the given conditions. A positive ΔG (ΔG > 0) indicates a non-spontaneous process. When ΔG = 0, the system is at equilibrium.",
+      "concept_tags": ["gibbs-free-energy", "spontaneity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-024",
+      "question_text": "A sample of gas expands from 2.0 L to 6.0 L against a constant external pressure of 3.0 atm. How much work is done BY the gas?",
+      "options": ["A. -12 L·atm", "B. +12 L·atm", "C. -18 L·atm", "D. +6 L·atm"],
+      "correct_answer": "B",
+      "explanation": "Work done by the gas = -PextΔV (by convention, work done BY the system is positive when the system expands). W = -(-Pext × ΔV) = Pext × ΔV = 3.0 atm × (6.0 - 2.0) L = 12 L·atm. Alternatively, using w = -PΔV gives w = -3.0(4.0) = -12 L·atm for work done ON the system, so work done BY the gas is +12 L·atm.",
+      "concept_tags": ["work", "gas-expansion", "thermodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-025",
+      "question_text": "The standard entropy of vaporization (ΔS°vap) for most liquids at their boiling point is approximately:",
+      "options": ["A. 0 J/(mol·K) - Trouton's rule", "B. 88 J/(mol·K) - Trouton's rule", "C. 8.314 J/(mol·K)", "D. Variable and unpredictable"],
+      "correct_answer": "B",
+      "explanation": "Trouton's rule states that the entropy of vaporization is approximately constant at about 88 J/(mol·K) for most liquids at their normal boiling point. This reflects the similar increase in disorder when converting any liquid to a gas. Exceptions include liquids with strong hydrogen bonding (like water) which have higher values.",
+      "concept_tags": ["entropy", "phase-transitions", "troutons-rule"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-07-026",
+      "question_text": "In a coffee-cup calorimeter experiment, which quantity is measured directly?",
+      "options": ["A. Enthalpy change (ΔH)", "B. Heat at constant pressure (qp)", "C. Temperature change (ΔT)", "D. Entropy change (ΔS)"],
+      "correct_answer": "C",
+      "explanation": "A coffee-cup calorimeter directly measures the temperature change (ΔT) of the solution. From this measurement, heat (q) can be calculated using q = mcΔT. Since coffee-cup calorimeters operate at constant pressure, qp = ΔH for the reaction.",
+      "concept_tags": ["calorimetry", "experimental-methods"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-027",
+      "question_text": "For the reaction 2SO₂(g) + O₂(g) → 2SO₃(g), ΔH° = -198 kJ. What is the enthalpy change for the decomposition of 1 mole of SO₃?",
+      "options": ["A. -198 kJ", "B. +198 kJ", "C. -99 kJ", "D. +99 kJ"],
+      "correct_answer": "D",
+      "explanation": "The decomposition of SO₃ is the reverse of the formation reaction: SO₃(g) → SO₂(g) + ½O₂(g). The reverse reaction has ΔH = +198 kJ (for 2 moles of SO₃). For 1 mole of SO₃ decomposing: ΔH = +198/2 = +99 kJ.",
+      "concept_tags": ["enthalpy", "hess-law", "reaction-manipulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-028",
+      "question_text": "Which of the following reactions is expected to have a negative entropy change (ΔS < 0)?",
+      "options": ["A. CaCO₃(s) → CaO(s) + CO₂(g)", "B. 2H₂O₂(l) → 2H₂O(l) + O₂(g)", "C. N₂(g) + 3H₂(g) → 2NH₃(g)", "D. NH₄Cl(s) → NH₃(g) + HCl(g)"],
+      "correct_answer": "C",
+      "explanation": "In the reaction N₂ + 3H₂ → 2NH₃, 4 moles of gas become 2 moles of gas, representing a decrease in the number of gas molecules and thus a decrease in entropy. The other reactions all increase the number of gas molecules or produce gas from solid/liquid, increasing entropy.",
+      "concept_tags": ["entropy", "gas-molecules"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-029",
+      "question_text": "A reaction has ΔG° = -30 kJ/mol at 298 K. What is the equilibrium constant (K) for this reaction? (R = 8.314 J/mol·K)",
+      "options": ["A. 1.7 × 10⁵", "B. 1.7 × 10⁻⁵", "C. 12.1", "D. 0.988"],
+      "correct_answer": "A",
+      "explanation": "Using ΔG° = -RT ln K: -30,000 = -(8.314)(298) ln K. ln K = 30,000/(8.314 × 298) = 12.1. K = e^12.1 ≈ 1.7 × 10⁵. A large negative ΔG° corresponds to a large equilibrium constant, favoring products.",
+      "concept_tags": ["gibbs-free-energy", "equilibrium-constant"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-07-030",
+      "question_text": "The molar heat of fusion of ice is 6.01 kJ/mol. How much heat is required to melt 36.0 g of ice at 0°C?",
+      "options": ["A. 6.01 kJ", "B. 12.0 kJ", "C. 216 kJ", "D. 3.0 kJ"],
+      "correct_answer": "B",
+      "explanation": "First, convert grams to moles: 36.0 g ÷ 18.0 g/mol = 2.00 mol. Then multiply by the molar heat of fusion: q = (2.00 mol)(6.01 kJ/mol) = 12.0 kJ. This is the energy required to break intermolecular forces during melting.",
+      "concept_tags": ["phase-transitions", "heat-of-fusion", "enthalpy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-031",
+      "question_text": "For a reaction at equilibrium, which of the following statements is TRUE?",
+      "options": ["A. ΔG = 0 and ΔG° = 0", "B. ΔG = 0 but ΔG° may not equal 0", "C. ΔG° = 0 but ΔG may not equal 0", "D. Both ΔG and ΔG° are always negative"],
+      "correct_answer": "B",
+      "explanation": "At equilibrium, ΔG = 0 (no driving force in either direction). However, ΔG° (standard free energy change) is a constant for a given reaction at a specific temperature and is related to K by ΔG° = -RT ln K. ΔG° = 0 only when K = 1.",
+      "concept_tags": ["gibbs-free-energy", "equilibrium", "standard-conditions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-032",
+      "question_text": "Which type of calorimeter is most appropriate for measuring the enthalpy of combustion?",
+      "options": ["A. Coffee-cup calorimeter at constant pressure", "B. Bomb calorimeter at constant volume", "C. Differential scanning calorimeter", "D. Any calorimeter can be used with equal accuracy"],
+      "correct_answer": "B",
+      "explanation": "Bomb calorimeters are designed for combustion reactions because they operate at constant volume with the sample sealed inside a strong container, allowing high-pressure reactions. The measured heat at constant volume (qv) is equal to ΔU, but can be corrected to ΔH using ΔH = ΔU + ΔnRT.",
+      "concept_tags": ["calorimetry", "bomb-calorimeter", "combustion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-033",
+      "question_text": "Given that ΔG° = ΔH° - TΔS°, a reaction will be spontaneous at all temperatures when:",
+      "options": ["A. ΔH° > 0 and ΔS° > 0", "B. ΔH° < 0 and ΔS° < 0", "C. ΔH° > 0 and ΔS° < 0", "D. ΔH° < 0 and ΔS° > 0"],
+      "correct_answer": "D",
+      "explanation": "When ΔH° < 0 (exothermic) and ΔS° > 0 (entropy increases), the equation ΔG° = ΔH° - TΔS° will always yield a negative value. The negative ΔH° contributes a negative term, and the positive ΔS° makes -TΔS° also negative. Both terms reinforce spontaneity.",
+      "concept_tags": ["gibbs-free-energy", "spontaneity", "temperature-dependence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-034",
+      "question_text": "The C-C bond energy is 347 kJ/mol and the C=C bond energy is 614 kJ/mol. What is the approximate energy of the pi (π) bond in a C=C double bond?",
+      "options": ["A. 267 kJ/mol", "B. 347 kJ/mol", "C. 614 kJ/mol", "D. 961 kJ/mol"],
+      "correct_answer": "A",
+      "explanation": "A C=C double bond consists of one sigma (σ) bond and one pi (π) bond. The sigma bond energy ≈ C-C single bond energy = 347 kJ/mol. The pi bond energy = C=C energy - C-C energy = 614 - 347 = 267 kJ/mol. Pi bonds are weaker than sigma bonds.",
+      "concept_tags": ["bond-energies", "molecular-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-035",
+      "question_text": "Calculate ΔH° for the reaction: CH₄(g) + 4F₂(g) → CF₄(g) + 4HF(g)\nGiven ΔHf° values: CH₄(g) = -75 kJ/mol, CF₄(g) = -680 kJ/mol, HF(g) = -271 kJ/mol",
+      "options": ["A. -1689 kJ", "B. +1689 kJ", "C. -926 kJ", "D. -1764 kJ"],
+      "correct_answer": "A",
+      "explanation": "ΔH°rxn = ΣΔHf°(products) - ΣΔHf°(reactants). Products: CF₄ + 4HF = -680 + 4(-271) = -680 - 1084 = -1764 kJ. Reactants: CH₄ + 4F₂ = -75 + 0 = -75 kJ (F₂ is in standard state). ΔH° = -1764 - (-75) = -1689 kJ.",
+      "concept_tags": ["standard-enthalpy-of-formation", "hess-law"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-07-036",
+      "question_text": "The First Law of Thermodynamics is expressed as ΔU = q + w. For an ideal gas undergoing isothermal expansion:",
+      "options": ["A. ΔU > 0, q = 0", "B. ΔU = 0, q = -w", "C. ΔU < 0, w = 0", "D. ΔU = 0, q = 0"],
+      "correct_answer": "B",
+      "explanation": "For an ideal gas, internal energy (U) depends only on temperature. In an isothermal process (constant T), ΔU = 0. From the First Law: 0 = q + w, therefore q = -w. During expansion, the gas does work (w < 0 using physics convention), so heat must flow in (q > 0) to maintain constant temperature.",
+      "concept_tags": ["first-law-thermodynamics", "isothermal-process", "ideal-gas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-037",
+      "question_text": "Which statement correctly describes standard state conditions for thermodynamic measurements?",
+      "options": ["A. 0°C and 1 atm pressure", "B. 25°C and 1 atm pressure for gases, 1 M for solutions", "C. 0 K and 1 atm pressure", "D. 100°C and 1 atm pressure"],
+      "correct_answer": "B",
+      "explanation": "Standard state conditions for thermodynamic measurements are typically 25°C (298 K) and 1 atm pressure for gases, with solutions at 1 M concentration. Note that this differs from STP (Standard Temperature and Pressure) used for gas law calculations, which is 0°C and 1 atm.",
+      "concept_tags": ["standard-conditions", "thermodynamics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-038",
+      "question_text": "The relationship between ΔG and the reaction quotient Q is given by ΔG = ΔG° + RT ln Q. When Q < K:",
+      "options": ["A. ΔG < 0, reaction proceeds forward", "B. ΔG > 0, reaction proceeds backward", "C. ΔG = 0, system is at equilibrium", "D. ΔG > 0, reaction proceeds forward"],
+      "correct_answer": "A",
+      "explanation": "When Q < K, the system has more reactants relative to equilibrium. Since ΔG° = -RT ln K, we have ΔG = -RT ln K + RT ln Q = RT ln(Q/K). When Q < K, ln(Q/K) < 0, so ΔG < 0, and the reaction proceeds spontaneously in the forward direction toward equilibrium.",
+      "concept_tags": ["gibbs-free-energy", "reaction-quotient", "equilibrium"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-07-039",
+      "question_text": "Heat flows from object A (at 80°C) to object B (at 20°C) when they are placed in contact. After thermal equilibrium is reached:",
+      "options": ["A. Object A lost more heat than object B gained", "B. Object A lost less heat than object B gained", "C. Object A lost the same amount of heat that object B gained", "D. No heat was transferred because entropy must increase"],
+      "correct_answer": "C",
+      "explanation": "According to the law of conservation of energy, heat lost by the hotter object equals heat gained by the cooler object (assuming no heat loss to surroundings): qA + qB = 0, or |qA| = |qB|. Energy is neither created nor destroyed.",
+      "concept_tags": ["heat-transfer", "conservation-of-energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-040",
+      "question_text": "For the dissolution of NaCl in water: NaCl(s) → Na⁺(aq) + Cl⁻(aq), ΔH is slightly positive but the process is still spontaneous at room temperature. This is because:",
+      "options": ["A. ΔS is negative and large in magnitude", "B. ΔS is positive and TΔS > ΔH", "C. The activation energy is very low", "D. The process is actually non-spontaneous"],
+      "correct_answer": "B",
+      "explanation": "Although dissolving NaCl is slightly endothermic (ΔH > 0), it is spontaneous because the entropy change is positive (ions become more dispersed in solution) and large enough that TΔS > ΔH, making ΔG = ΔH - TΔS negative.",
+      "concept_tags": ["gibbs-free-energy", "entropy", "dissolution", "spontaneity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-041",
+      "question_text": "Using Hess's law, calculate ΔH for: C(graphite) → C(diamond)\nGiven:\nC(graphite) + O₂(g) → CO₂(g), ΔH = -394 kJ\nC(diamond) + O₂(g) → CO₂(g), ΔH = -396 kJ",
+      "options": ["A. -790 kJ", "B. +2 kJ", "C. -2 kJ", "D. +790 kJ"],
+      "correct_answer": "B",
+      "explanation": "To get C(graphite) → C(diamond), reverse the second equation and add to the first: C(graphite) + O₂ → CO₂ (ΔH = -394 kJ) + CO₂ → C(diamond) + O₂ (ΔH = +396 kJ). Sum: C(graphite) → C(diamond), ΔH = -394 + 396 = +2 kJ.",
+      "concept_tags": ["hess-law", "allotropes", "enthalpy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-042",
+      "question_text": "Which of the following best explains why the enthalpy of vaporization is always greater than the enthalpy of fusion for the same substance?",
+      "options": ["A. Gases have higher kinetic energy than liquids", "B. More intermolecular forces must be overcome to go from liquid to gas than from solid to liquid", "C. The temperature change is greater during vaporization", "D. Pressure changes more during vaporization"],
+      "correct_answer": "B",
+      "explanation": "During fusion (melting), only some intermolecular forces are overcome as the rigid structure breaks down but molecules remain close. During vaporization, essentially all intermolecular forces must be overcome to separate molecules completely. Thus ΔHvap >> ΔHfus.",
+      "concept_tags": ["phase-transitions", "intermolecular-forces", "enthalpy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-043",
+      "question_text": "For a reaction with K = 1 at 298 K, which of the following must be TRUE?",
+      "options": ["A. ΔH° = 0", "B. ΔS° = 0", "C. ΔG° = 0", "D. ΔH° = TΔS°"],
+      "correct_answer": "C",
+      "explanation": "From the equation ΔG° = -RT ln K, when K = 1, ln K = ln 1 = 0, so ΔG° = 0. This means that at 298 K, the standard free energy change is zero. Note that individually ΔH° and ΔS° don't have to be zero, but ΔH° = TΔS° (option D) is also true since ΔG° = ΔH° - TΔS° = 0.",
+      "concept_tags": ["gibbs-free-energy", "equilibrium-constant"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-044",
+      "question_text": "A researcher measures the temperature change when 0.500 mol of an acid reacts with 0.500 mol of a base in 1.00 L of water. The temperature increases by 6.5°C. Assuming the solution has the same properties as water (d = 1.00 g/mL, c = 4.18 J/g·°C), what is the molar enthalpy of neutralization?",
+      "options": ["A. -27.2 kJ/mol", "B. -54.4 kJ/mol", "C. -13.6 kJ/mol", "D. +27.2 kJ/mol"],
+      "correct_answer": "B",
+      "explanation": "q = mcΔT = (1000 g)(4.18 J/g·°C)(6.5°C) = 27,170 J = 27.2 kJ. Since 0.500 mol of water is formed, ΔH = -27.2 kJ / 0.500 mol = -54.4 kJ/mol. The negative sign indicates the reaction is exothermic (temperature increased).",
+      "concept_tags": ["calorimetry", "neutralization", "enthalpy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-045",
+      "question_text": "For a chemical reaction, ΔS_universe is related to spontaneity. Which expression correctly describes this relationship?",
+      "options": ["A. ΔS_universe = ΔS_system + ΔS_surroundings > 0 for spontaneous processes", "B. ΔS_universe = ΔS_system - ΔS_surroundings > 0 for spontaneous processes", "C. ΔS_universe = ΔS_system + ΔS_surroundings < 0 for spontaneous processes", "D. ΔS_universe must equal zero for any real process"],
+      "correct_answer": "A",
+      "explanation": "The Second Law of Thermodynamics states that for any spontaneous process, the total entropy of the universe (system + surroundings) must increase: ΔS_universe = ΔS_system + ΔS_surroundings > 0. This is the fundamental criterion for spontaneity.",
+      "concept_tags": ["entropy", "second-law-thermodynamics", "spontaneity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-07-046",
+      "question_text": "The standard enthalpy of formation of H₂O(l) is -286 kJ/mol and of H₂O(g) is -242 kJ/mol. What is the enthalpy of vaporization of water?",
+      "options": ["A. -44 kJ/mol", "B. +44 kJ/mol", "C. -528 kJ/mol", "D. +528 kJ/mol"],
+      "correct_answer": "B",
+      "explanation": "The enthalpy of vaporization is for: H₂O(l) → H₂O(g). Using Hess's law: ΔHvap = ΔHf°[H₂O(g)] - ΔHf°[H₂O(l)] = -242 - (-286) = +44 kJ/mol. The positive value confirms vaporization is endothermic.",
+      "concept_tags": ["standard-enthalpy-of-formation", "phase-transitions", "hess-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-047",
+      "question_text": "A reaction is spontaneous (ΔG < 0) at high temperatures but non-spontaneous (ΔG > 0) at low temperatures. What are the signs of ΔH and ΔS?",
+      "options": ["A. ΔH > 0, ΔS > 0", "B. ΔH < 0, ΔS < 0", "C. ΔH > 0, ΔS < 0", "D. ΔH < 0, ΔS > 0"],
+      "correct_answer": "A",
+      "explanation": "For a reaction spontaneous at high T but not low T: ΔG = ΔH - TΔS. At high T, -TΔS must dominate to make ΔG negative, requiring ΔS > 0. At low T, ΔH dominates and makes ΔG positive, requiring ΔH > 0. Thus both ΔH and ΔS are positive.",
+      "concept_tags": ["gibbs-free-energy", "spontaneity", "temperature-dependence"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-07-048",
+      "question_text": "In an adiabatic process:",
+      "options": ["A. q = 0 and temperature remains constant", "B. q = 0 and ΔU = w", "C. w = 0 and ΔU = q", "D. Both q and w equal zero"],
+      "correct_answer": "B",
+      "explanation": "An adiabatic process is one in which no heat is transferred between the system and surroundings (q = 0). From the First Law, ΔU = q + w, so when q = 0, ΔU = w. Temperature generally changes in an adiabatic process (unlike isothermal).",
+      "concept_tags": ["adiabatic-process", "first-law-thermodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-049",
+      "question_text": "Calculate ΔG° at 298 K for a reaction with ΔH° = -120 kJ/mol and ΔS° = -150 J/(mol·K).",
+      "options": ["A. -165 kJ/mol", "B. -75 kJ/mol", "C. +75 kJ/mol", "D. -44,820 kJ/mol"],
+      "correct_answer": "B",
+      "explanation": "ΔG° = ΔH° - TΔS° = -120 kJ/mol - (298 K)(-0.150 kJ/mol·K) = -120 + 44.7 = -75.3 ≈ -75 kJ/mol. Note: ΔS° must be converted to kJ to match units with ΔH° (or convert ΔH° to J). The reaction is spontaneous at 298 K.",
+      "concept_tags": ["gibbs-free-energy", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-07-050",
+      "question_text": "The combustion of octane (C₈H₁₈) releases 5470 kJ/mol. If a car engine is 25% efficient at converting this chemical energy to mechanical work, how much useful work is obtained from burning 1.00 mol of octane?",
+      "options": ["A. 5470 kJ", "B. 2735 kJ", "C. 1368 kJ", "D. 4103 kJ"],
+      "correct_answer": "C",
+      "explanation": "Useful work = (efficiency)(total energy) = (0.25)(5470 kJ) = 1367.5 ≈ 1368 kJ. The remaining 75% of the energy is lost as heat. This illustrates why real heat engines cannot convert all chemical energy into work (Second Law of Thermodynamics).",
+      "concept_tags": ["thermodynamics", "efficiency", "combustion"],
+      "difficulty": "hard"
+    }
+  ]
+}

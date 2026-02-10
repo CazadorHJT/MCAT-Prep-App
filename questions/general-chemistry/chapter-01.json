@@ -1,0 +1,457 @@
+{
+  "book": "general-chemistry",
+  "chapter": 1,
+  "chapter_title": "Atomic Structure",
+  "questions": [
+    {
+      "id": "general-chemistry-01-001",
+      "question_text": "An atom has 17 protons and 18 neutrons. What is its mass number?",
+      "options": ["A. 17", "B. 18", "C. 35", "D. 1"],
+      "correct_answer": "C",
+      "explanation": "Mass number is the sum of protons and neutrons. 17 + 18 = 35. The atomic number (number of protons) is 17, identifying this as chlorine-35.",
+      "concept_tags": ["atomic-number", "mass-number", "subatomic-particles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-002",
+      "question_text": "Which subatomic particle has a relative charge of -1 and negligible mass compared to protons?",
+      "options": ["A. Proton", "B. Neutron", "C. Electron", "D. Positron"],
+      "correct_answer": "C",
+      "explanation": "Electrons have a charge of -1 and a mass of approximately 1/1836 that of a proton (about 9.11 x 10^-31 kg). Protons have a +1 charge, neutrons are neutral, and positrons are antimatter particles with +1 charge.",
+      "concept_tags": ["subatomic-particles", "electrons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-003",
+      "question_text": "Two atoms have the same number of protons but different numbers of neutrons. These atoms are called:",
+      "options": ["A. Isobars", "B. Isotopes", "C. Isomers", "D. Isotones"],
+      "correct_answer": "B",
+      "explanation": "Isotopes are atoms of the same element (same number of protons) with different numbers of neutrons. Isobars have the same mass number but different atomic numbers. Isomers are molecules with the same formula but different structures. Isotones have the same number of neutrons but different protons.",
+      "concept_tags": ["isotopes", "atomic-number", "mass-number"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-004",
+      "question_text": "What is the electron configuration of a neutral oxygen atom (Z = 8)?",
+      "options": ["A. 1s^2 2s^2 2p^2", "B. 1s^2 2s^2 2p^4", "C. 1s^2 2s^2 2p^6", "D. 1s^2 2s^2 2p^3"],
+      "correct_answer": "B",
+      "explanation": "Oxygen has 8 electrons. The filling order is 1s^2 (2 electrons), 2s^2 (2 electrons), then 2p^4 (4 electrons), giving the configuration 1s^2 2s^2 2p^4.",
+      "concept_tags": ["electron-configuration", "orbital-filling"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-005",
+      "question_text": "Which quantum number describes the shape of an orbital?",
+      "options": ["A. Principal quantum number (n)", "B. Angular momentum quantum number (l)", "C. Magnetic quantum number (ml)", "D. Spin quantum number (ms)"],
+      "correct_answer": "B",
+      "explanation": "The angular momentum quantum number (l) determines the shape of the orbital. l = 0 gives spherical s orbitals, l = 1 gives dumbbell-shaped p orbitals, l = 2 gives d orbitals, etc. n determines size/energy level, ml determines orientation, and ms determines electron spin.",
+      "concept_tags": ["quantum-numbers", "orbital-shapes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-006",
+      "question_text": "How many electrons can occupy a single orbital?",
+      "options": ["A. 1", "B. 2", "C. 4", "D. 8"],
+      "correct_answer": "B",
+      "explanation": "According to the Pauli exclusion principle, each orbital can hold a maximum of 2 electrons, and they must have opposite spins (+1/2 and -1/2).",
+      "concept_tags": ["orbital-filling", "pauli-exclusion-principle"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-007",
+      "question_text": "Which element has the highest electronegativity?",
+      "options": ["A. Oxygen", "B. Chlorine", "C. Fluorine", "D. Nitrogen"],
+      "correct_answer": "C",
+      "explanation": "Fluorine has the highest electronegativity of all elements (3.98 on the Pauling scale). Electronegativity generally increases going up and to the right in the periodic table, making fluorine (top right of reactive elements) the most electronegative.",
+      "concept_tags": ["electronegativity", "periodic-trends"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-008",
+      "question_text": "As you move down a group in the periodic table, atomic radius:",
+      "options": ["A. Decreases due to increased nuclear charge", "B. Increases due to addition of electron shells", "C. Remains constant", "D. Decreases due to increased electron-electron repulsion"],
+      "correct_answer": "B",
+      "explanation": "Moving down a group, each element has an additional electron shell, causing the outermost electrons to be farther from the nucleus. This increased distance results in larger atomic radii despite the increasing nuclear charge.",
+      "concept_tags": ["atomic-radius", "periodic-trends"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-009",
+      "question_text": "The atomic number of an element represents:",
+      "options": ["A. The total number of neutrons", "B. The total number of protons", "C. The sum of protons and neutrons", "D. The number of electron shells"],
+      "correct_answer": "B",
+      "explanation": "The atomic number (Z) equals the number of protons in the nucleus. This number defines the element and determines its position on the periodic table. In a neutral atom, it also equals the number of electrons.",
+      "concept_tags": ["atomic-number", "subatomic-particles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-010",
+      "question_text": "What is the maximum number of electrons that can occupy the n = 2 energy level?",
+      "options": ["A. 2", "B. 6", "C. 8", "D. 18"],
+      "correct_answer": "C",
+      "explanation": "The maximum number of electrons in an energy level is 2n^2. For n = 2: 2(2)^2 = 8 electrons. This includes 2 electrons in the 2s subshell and 6 electrons in the 2p subshell.",
+      "concept_tags": ["energy-levels", "electron-configuration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-011",
+      "question_text": "Which of the following represents a valid set of quantum numbers for an electron?",
+      "options": ["A. n = 2, l = 2, ml = 0, ms = +1/2", "B. n = 3, l = 1, ml = -2, ms = -1/2", "C. n = 4, l = 2, ml = -1, ms = +1/2", "D. n = 1, l = 1, ml = 0, ms = -1/2"],
+      "correct_answer": "C",
+      "explanation": "For valid quantum numbers: l can range from 0 to (n-1), and ml can range from -l to +l. Option C (n=4, l=2, ml=-1, ms=+1/2) is valid because l=2 is allowed for n=4, and ml=-1 is within the range -2 to +2. Option A is invalid (l cannot equal n). Option B is invalid (ml cannot be -2 when l=1). Option D is invalid (l cannot be 1 when n=1).",
+      "concept_tags": ["quantum-numbers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-012",
+      "question_text": "Carbon-12 and Carbon-14 differ in their:",
+      "options": ["A. Number of protons", "B. Number of electrons", "C. Number of neutrons", "D. Chemical properties"],
+      "correct_answer": "C",
+      "explanation": "Isotopes have the same number of protons (both have 6) but different numbers of neutrons. Carbon-12 has 6 neutrons (12-6=6) while Carbon-14 has 8 neutrons (14-6=8). Their chemical properties are essentially identical because they have the same electron configuration.",
+      "concept_tags": ["isotopes", "mass-number", "neutrons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-013",
+      "question_text": "According to Hund's rule, when filling orbitals of equal energy:",
+      "options": ["A. Electrons pair up before occupying empty orbitals", "B. Electrons occupy empty orbitals singly before pairing", "C. Electrons always have the same spin", "D. The orbital closest to the nucleus fills first"],
+      "correct_answer": "B",
+      "explanation": "Hund's rule states that electrons will occupy degenerate orbitals (orbitals of equal energy) singly with parallel spins before pairing up. This minimizes electron-electron repulsion and creates a more stable configuration.",
+      "concept_tags": ["electron-configuration", "hunds-rule", "orbital-filling"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-014",
+      "question_text": "What is the electron configuration of Fe^2+ (Z = 26)?",
+      "options": ["A. [Ar] 3d^6 4s^2", "B. [Ar] 3d^6", "C. [Ar] 3d^4 4s^2", "D. [Ar] 3d^5 4s^1"],
+      "correct_answer": "B",
+      "explanation": "Neutral Fe has the configuration [Ar] 3d^6 4s^2. When forming Fe^2+, electrons are removed from the 4s orbital first (even though 3d filled after 4s) because 4s has higher energy in transition metals when d orbitals are occupied. Removing 2 electrons from 4s gives [Ar] 3d^6.",
+      "concept_tags": ["electron-configuration", "transition-metals", "ions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-015",
+      "question_text": "The effective nuclear charge (Zeff) experienced by valence electrons:",
+      "options": ["A. Is always equal to the atomic number", "B. Is less than the atomic number due to shielding", "C. Decreases across a period", "D. Is independent of electron configuration"],
+      "correct_answer": "B",
+      "explanation": "Effective nuclear charge is the net positive charge experienced by valence electrons. Core electrons shield the valence electrons from the full nuclear charge, so Zeff is always less than Z. Zeff = Z - S, where S is the shielding constant.",
+      "concept_tags": ["effective-nuclear-charge", "shielding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-016",
+      "question_text": "Which of the following elements has the smallest atomic radius?",
+      "options": ["A. Na", "B. Mg", "C. Al", "D. Cl"],
+      "correct_answer": "D",
+      "explanation": "Atomic radius decreases across a period from left to right due to increasing effective nuclear charge with the same number of electron shells. Chlorine (Cl) is furthest right in period 3 among these choices, giving it the smallest atomic radius.",
+      "concept_tags": ["atomic-radius", "periodic-trends"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-017",
+      "question_text": "The first ionization energy of sodium is lower than that of magnesium because:",
+      "options": ["A. Sodium has more protons", "B. Sodium's valence electron is in a higher energy level", "C. Sodium has a lower effective nuclear charge on its valence electron", "D. Sodium has more electron shells"],
+      "correct_answer": "C",
+      "explanation": "Both Na and Mg have their valence electrons in the 3s orbital. However, Mg has 12 protons vs Na's 11, resulting in a higher effective nuclear charge. This makes Mg's valence electron more tightly held, requiring more energy to remove.",
+      "concept_tags": ["ionization-energy", "effective-nuclear-charge", "periodic-trends"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-018",
+      "question_text": "An element has the electron configuration [Ne] 3s^2 3p^5. This element is:",
+      "options": ["A. Sulfur", "B. Chlorine", "C. Argon", "D. Phosphorus"],
+      "correct_answer": "B",
+      "explanation": "Counting electrons: [Ne] = 10 electrons, plus 3s^2 (2) plus 3p^5 (5) = 17 electrons total. Element 17 is chlorine. Chlorine needs one more electron to achieve a noble gas configuration.",
+      "concept_tags": ["electron-configuration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-019",
+      "question_text": "Which orbital has the lowest energy in a multielectron atom?",
+      "options": ["A. 3s", "B. 3p", "C. 3d", "D. 4s"],
+      "correct_answer": "A",
+      "explanation": "In multielectron atoms, orbital energy depends on both n and l. Using the (n + l) rule: 3s (3+0=3), 3p (3+1=4), 3d (3+2=5), 4s (4+0=4). The lowest sum corresponds to lowest energy, so 3s has the lowest energy. When sums are equal, the lower n value has lower energy (3p < 4s).",
+      "concept_tags": ["energy-levels", "orbital-filling"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-020",
+      "question_text": "The spin quantum number (ms) can have values of:",
+      "options": ["A. 0, 1, 2, 3...", "B. -l to +l", "C. +1/2 or -1/2", "D. 1 to n"],
+      "correct_answer": "C",
+      "explanation": "The spin quantum number (ms) can only have two values: +1/2 (spin up) or -1/2 (spin down). This is an intrinsic property of electrons and is the basis for the Pauli exclusion principle, which states no two electrons can have the same four quantum numbers.",
+      "concept_tags": ["quantum-numbers", "electron-spin"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-021",
+      "question_text": "How many orbitals are in the d subshell?",
+      "options": ["A. 1", "B. 3", "C. 5", "D. 7"],
+      "correct_answer": "C",
+      "explanation": "For a d subshell (l = 2), ml can have values from -2 to +2 (-2, -1, 0, +1, +2), giving 5 orbitals. Each orbital can hold 2 electrons, so the d subshell can hold a maximum of 10 electrons.",
+      "concept_tags": ["orbital-shapes", "quantum-numbers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-022",
+      "question_text": "Which periodic trend correctly describes electronegativity?",
+      "options": ["A. Increases down a group and across a period", "B. Decreases down a group and increases across a period", "C. Increases down a group and decreases across a period", "D. Decreases down a group and across a period"],
+      "correct_answer": "B",
+      "explanation": "Electronegativity decreases down a group (valence electrons are farther from nucleus) and increases across a period (increasing nuclear charge attracts bonding electrons more strongly). Fluorine, in the top right, has the highest electronegativity.",
+      "concept_tags": ["electronegativity", "periodic-trends"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-023",
+      "question_text": "An atom of an element has 20 protons, 20 neutrons, and 18 electrons. What is this species?",
+      "options": ["A. Ca", "B. Ca^2+", "C. Ar", "D. K^+"],
+      "correct_answer": "B",
+      "explanation": "20 protons identifies this as calcium (Ca). With 18 electrons (2 fewer than protons), the species has a 2+ charge. This is Ca^2+, which has the same electron configuration as argon but is not argon because it has 20 protons.",
+      "concept_tags": ["ions", "atomic-number", "subatomic-particles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-024",
+      "question_text": "According to the Aufbau principle, which orbital fills immediately after 4s?",
+      "options": ["A. 4p", "B. 3d", "C. 5s", "D. 4d"],
+      "correct_answer": "B",
+      "explanation": "The Aufbau principle states electrons fill orbitals in order of increasing energy. Using the (n + l) rule: 4s (4+0=4), then 3d (3+2=5), then 4p (4+1=5). Since 3d and 4p have the same n+l sum, the one with lower n (3d) fills first.",
+      "concept_tags": ["orbital-filling", "aufbau-principle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-025",
+      "question_text": "Which of the following ions is isoelectronic with neon?",
+      "options": ["A. Na^+", "B. Cl^-", "C. Ca^2+", "D. K^+"],
+      "correct_answer": "A",
+      "explanation": "Neon has 10 electrons. Na^+ (11 - 1 = 10 electrons) is isoelectronic with neon. Cl^- has 18 electrons, Ca^2+ has 18 electrons, and K^+ has 18 electrons. All three of these are isoelectronic with argon, not neon.",
+      "concept_tags": ["ions", "electron-configuration", "isoelectronic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-026",
+      "question_text": "The shape of a p orbital is best described as:",
+      "options": ["A. Spherical", "B. Dumbbell or figure-eight", "C. Cloverleaf", "D. Ring-shaped"],
+      "correct_answer": "B",
+      "explanation": "P orbitals (l = 1) have a dumbbell or figure-eight shape with two lobes on opposite sides of the nucleus and a nodal plane through the nucleus. S orbitals are spherical, d orbitals have various shapes including cloverleaf patterns.",
+      "concept_tags": ["orbital-shapes", "p-orbitals"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-027",
+      "question_text": "Which statement about neutrons is correct?",
+      "options": ["A. Neutrons have a positive charge", "B. Neutrons contribute to the mass but not the charge of an atom", "C. Neutrons are found in the electron cloud", "D. The number of neutrons determines the element's identity"],
+      "correct_answer": "B",
+      "explanation": "Neutrons are electrically neutral (no charge) and are found in the nucleus along with protons. They contribute to atomic mass (approximately 1 amu each) but not to charge. The number of protons, not neutrons, determines the element's identity.",
+      "concept_tags": ["subatomic-particles", "neutrons", "mass-number"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-01-028",
+      "question_text": "The ionization energy of elements generally increases across a period because:",
+      "options": ["A. Electron shielding increases", "B. Atomic radius increases", "C. Effective nuclear charge increases", "D. The number of electron shells increases"],
+      "correct_answer": "C",
+      "explanation": "Across a period, protons are added to the nucleus while electrons are added to the same shell. The core electron shielding remains relatively constant, so effective nuclear charge increases. This pulls valence electrons closer to the nucleus, requiring more energy for removal.",
+      "concept_tags": ["ionization-energy", "effective-nuclear-charge", "periodic-trends"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-029",
+      "question_text": "What is the electron configuration of Cu (Z = 29)?",
+      "options": ["A. [Ar] 3d^9 4s^2", "B. [Ar] 3d^10 4s^1", "C. [Ar] 3d^10 4s^2", "D. [Ar] 3d^8 4s^2"],
+      "correct_answer": "B",
+      "explanation": "Copper is an exception to the expected filling order. Instead of [Ar] 3d^9 4s^2, the actual configuration is [Ar] 3d^10 4s^1. A completely filled d subshell (d^10) provides extra stability, making it energetically favorable to move one electron from 4s to 3d.",
+      "concept_tags": ["electron-configuration", "transition-metals", "exceptions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-030",
+      "question_text": "The principal quantum number (n) determines:",
+      "options": ["A. The shape of the orbital", "B. The orientation of the orbital in space", "C. The average distance of the electron from the nucleus", "D. The direction of electron spin"],
+      "correct_answer": "C",
+      "explanation": "The principal quantum number (n) determines the energy level and average distance of the electron from the nucleus. Higher n values mean greater average distance and higher energy. The shape is determined by l, orientation by ml, and spin by ms.",
+      "concept_tags": ["quantum-numbers", "energy-levels"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-031",
+      "question_text": "Which element would have the highest second ionization energy?",
+      "options": ["A. Na", "B. Mg", "C. Al", "D. K"],
+      "correct_answer": "A",
+      "explanation": "Sodium (Na) has configuration [Ne]3s^1. After losing one electron, Na^+ has the stable noble gas configuration of Ne. Removing a second electron would require breaking into this stable core, requiring enormous energy. Mg, Al, and K would still have valence electrons after losing one electron.",
+      "concept_tags": ["ionization-energy", "electron-configuration"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-032",
+      "question_text": "Using Slater's rules, estimate the effective nuclear charge experienced by a 3p electron in chlorine (Z = 17).",
+      "options": ["A. 17", "B. 10.9", "C. 6.1", "D. 2.5"],
+      "correct_answer": "C",
+      "explanation": "Using Slater's rules for Cl (1s^2 2s^2 2p^6 3s^2 3p^5): Each 3s/3p electron contributes 0.35 shielding (6 electrons x 0.35 = 2.1), the 2s/2p electrons contribute 0.85 each (8 x 0.85 = 6.8), and 1s contributes 1.0 each (2 x 1.0 = 2.0). Total S = 10.9. Zeff = 17 - 10.9 = 6.1.",
+      "concept_tags": ["effective-nuclear-charge", "shielding", "slaters-rules"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-033",
+      "question_text": "Which of the following has the largest ionic radius?",
+      "options": ["A. Na^+", "B. Mg^2+", "C. O^2-", "D. F^-"],
+      "correct_answer": "C",
+      "explanation": "For isoelectronic species (all have 10 electrons): O^2- has 8 protons, F^- has 9 protons, Na^+ has 11 protons, Mg^2+ has 12 protons. With fewer protons pulling on the same number of electrons, O^2- has the weakest nuclear attraction and therefore the largest radius.",
+      "concept_tags": ["ionic-radius", "isoelectronic", "periodic-trends"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-034",
+      "question_text": "The energy of a photon emitted when an electron transitions from n = 4 to n = 2 in hydrogen is approximately:",
+      "options": ["A. 0.85 eV", "B. 2.55 eV", "C. 10.2 eV", "D. 13.6 eV"],
+      "correct_answer": "B",
+      "explanation": "Using E = -13.6/n^2 eV for hydrogen: E4 = -13.6/16 = -0.85 eV, E2 = -13.6/4 = -3.4 eV. Energy emitted = E4 - E2 = -0.85 - (-3.4) = 2.55 eV. This transition produces visible blue-green light in the Balmer series.",
+      "concept_tags": ["energy-levels", "hydrogen-atom", "bohr-model"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-035",
+      "question_text": "The wavelength of maximum emission from a blackbody shifts to shorter wavelengths as temperature increases. This is described by:",
+      "options": ["A. Heisenberg uncertainty principle", "B. Wien's displacement law", "C. Planck's constant", "D. de Broglie equation"],
+      "correct_answer": "B",
+      "explanation": "Wien's displacement law states that the wavelength of maximum emission is inversely proportional to temperature: lambda_max = b/T, where b is Wien's displacement constant. As temperature increases, the peak wavelength decreases (shifts toward blue/UV).",
+      "concept_tags": ["quantum-theory", "electromagnetic-radiation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-036",
+      "question_text": "Which of the following electron configurations represents an excited state of carbon?",
+      "options": ["A. 1s^2 2s^2 2p^2", "B. 1s^2 2s^1 2p^3", "C. 1s^2 2s^2 2p^1 3s^1", "D. Both B and C"],
+      "correct_answer": "D",
+      "explanation": "The ground state of carbon is 1s^2 2s^2 2p^2. Both options B and C represent excited states: B has an electron promoted from 2s to 2p, and C has an electron promoted to the 3s orbital. Both have higher energy than the ground state configuration.",
+      "concept_tags": ["electron-configuration", "excited-states"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-037",
+      "question_text": "The Heisenberg uncertainty principle states that:",
+      "options": ["A. Electrons travel in circular orbits around the nucleus", "B. It is impossible to simultaneously know both the exact position and momentum of an electron", "C. Electrons behave only as particles", "D. The energy of an electron is quantized"],
+      "correct_answer": "B",
+      "explanation": "The Heisenberg uncertainty principle states that there is a fundamental limit to how precisely we can simultaneously know both the position and momentum of a particle. Mathematically: delta(x) * delta(p) >= h/4pi. This is why we describe electrons in terms of probability distributions (orbitals) rather than exact paths.",
+      "concept_tags": ["quantum-theory", "heisenberg-uncertainty"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-038",
+      "question_text": "For elements in the same period, which factor most directly causes the decrease in atomic radius from left to right?",
+      "options": ["A. Increasing number of electron shells", "B. Decreasing nuclear charge", "C. Increasing effective nuclear charge with constant shielding", "D. Increasing electron-electron repulsion"],
+      "correct_answer": "C",
+      "explanation": "Across a period, protons are added to the nucleus and electrons to the same shell. Since core electrons remain the same, shielding is relatively constant, but nuclear charge increases. This results in increased effective nuclear charge, pulling electrons closer to the nucleus and decreasing atomic radius.",
+      "concept_tags": ["atomic-radius", "effective-nuclear-charge", "periodic-trends"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-039",
+      "question_text": "The ground state electron configuration of chromium (Z = 24) is:",
+      "options": ["A. [Ar] 3d^4 4s^2", "B. [Ar] 3d^5 4s^1", "C. [Ar] 3d^6", "D. [Ar] 3d^3 4s^2 4p^1"],
+      "correct_answer": "B",
+      "explanation": "Chromium is an exception to the normal filling order. Instead of [Ar] 3d^4 4s^2, chromium has [Ar] 3d^5 4s^1 because a half-filled d subshell (d^5) has extra stability due to exchange energy. This same effect causes copper to be [Ar] 3d^10 4s^1.",
+      "concept_tags": ["electron-configuration", "transition-metals", "exceptions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-040",
+      "question_text": "The atomic radii of the noble gases are sometimes reported as larger than the preceding halogen. This is because:",
+      "options": ["A. Noble gases have more electrons", "B. Van der Waals radii are used for noble gases while covalent radii are used for halogens", "C. Noble gases have lower ionization energies", "D. The electron-electron repulsion is greater in noble gases"],
+      "correct_answer": "B",
+      "explanation": "Noble gases don't form covalent bonds under normal conditions, so their atomic radii are measured as van der Waals radii (based on non-bonded interactions), which are larger than covalent radii. Halogens have covalent radii measured from bonded atoms, making direct comparison problematic.",
+      "concept_tags": ["atomic-radius", "noble-gases", "measurement-methods"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-041",
+      "question_text": "The photoelectric effect demonstrates that:",
+      "options": ["A. Light behaves only as a wave", "B. Electrons are waves", "C. Light has particle-like properties", "D. All electromagnetic radiation has the same energy"],
+      "correct_answer": "C",
+      "explanation": "The photoelectric effect shows that light can eject electrons from a metal surface, but only if the light's frequency exceeds a threshold value. This cannot be explained by wave theory alone and requires treating light as packets of energy (photons), demonstrating light's particle nature.",
+      "concept_tags": ["quantum-theory", "photoelectric-effect"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-042",
+      "question_text": "Which of the following correctly orders the first ionization energies?",
+      "options": ["A. B < Be < N < O", "B. Be < B < O < N", "C. Be < B < N < O", "D. B < Be < O < N"],
+      "correct_answer": "D",
+      "explanation": "There are two exceptions to the general trend: B < Be because B loses a 2p electron (higher energy) while Be loses a 2s electron. O < N because nitrogen's half-filled 2p^3 configuration has extra stability, and oxygen's 2p^4 has electron pairing that creates repulsion. Correct order: B < Be < O < N.",
+      "concept_tags": ["ionization-energy", "periodic-trends", "exceptions"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-043",
+      "question_text": "The number of radial nodes in a 3p orbital is:",
+      "options": ["A. 0", "B. 1", "C. 2", "D. 3"],
+      "correct_answer": "B",
+      "explanation": "The number of radial nodes is (n - l - 1). For a 3p orbital: n = 3, l = 1. Radial nodes = 3 - 1 - 1 = 1. The total number of nodes is (n - 1), so a 3p orbital has 2 total nodes (1 radial and 1 angular).",
+      "concept_tags": ["orbital-shapes", "quantum-numbers", "nodes"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-044",
+      "question_text": "Electron affinity is most negative (most exothermic) for:",
+      "options": ["A. Noble gases", "B. Alkali metals", "C. Halogens", "D. Alkaline earth metals"],
+      "correct_answer": "C",
+      "explanation": "Halogens have the most negative (most exothermic) electron affinities because adding one electron gives them a stable noble gas configuration. Noble gases have positive (endothermic) electron affinities because they already have filled shells and would need to add an electron to a new, higher energy level.",
+      "concept_tags": ["electron-affinity", "periodic-trends", "halogens"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-045",
+      "question_text": "According to the de Broglie relationship, the wavelength of a particle is:",
+      "options": ["A. Directly proportional to its momentum", "B. Inversely proportional to its momentum", "C. Independent of its mass", "D. Equal to Planck's constant"],
+      "correct_answer": "B",
+      "explanation": "The de Broglie wavelength is given by lambda = h/p = h/(mv), where h is Planck's constant and p is momentum. The wavelength is inversely proportional to momentum, so faster or more massive particles have shorter wavelengths.",
+      "concept_tags": ["quantum-theory", "wave-particle-duality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-046",
+      "question_text": "The electron configuration [Xe] 6s^2 4f^14 5d^10 6p^2 corresponds to:",
+      "options": ["A. Tin (Sn)", "B. Lead (Pb)", "C. Carbon (C)", "D. Germanium (Ge)"],
+      "correct_answer": "B",
+      "explanation": "Counting electrons: [Xe] = 54, plus 6s^2 (2) + 4f^14 (14) + 5d^10 (10) + 6p^2 (2) = 82 total electrons. Element 82 is lead (Pb). Lead is in group 14 (like C, Si, Ge, Sn) but in period 6, so it includes f and d electrons.",
+      "concept_tags": ["electron-configuration", "periodic-table"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-01-047",
+      "question_text": "The paramagnetism of oxygen gas (O2) can be explained by its:",
+      "options": ["A. Large atomic radius", "B. Two unpaired electrons in pi antibonding orbitals", "C. High electronegativity", "D. Lack of electrons in bonding orbitals"],
+      "correct_answer": "B",
+      "explanation": "Molecular orbital theory shows that O2 has two unpaired electrons in the degenerate pi* antibonding orbitals. Unpaired electrons make O2 paramagnetic (attracted to magnetic fields). This cannot be explained by simple Lewis structures, which predict all electrons are paired.",
+      "concept_tags": ["paramagnetism", "molecular-orbitals", "electron-configuration"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-048",
+      "question_text": "Which transition in the hydrogen atom would produce light with the longest wavelength?",
+      "options": ["A. n = 3 to n = 1", "B. n = 4 to n = 3", "C. n = 5 to n = 4", "D. n = 2 to n = 1"],
+      "correct_answer": "C",
+      "explanation": "Longer wavelength corresponds to lower energy (E = hc/lambda). Energy differences between levels decrease as n increases (levels get closer together). The n = 5 to n = 4 transition has the smallest energy difference among the choices, producing the longest wavelength (infrared, in the Brackett series).",
+      "concept_tags": ["energy-levels", "hydrogen-atom", "electromagnetic-spectrum"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-049",
+      "question_text": "Lanthanide contraction refers to:",
+      "options": ["A. The decrease in atomic radius across the lanthanide series due to poor shielding by f electrons", "B. The increase in ionization energy down a group", "C. The compression of electron shells in noble gases", "D. The shrinking of nuclei in radioactive decay"],
+      "correct_answer": "A",
+      "explanation": "Lanthanide contraction is the gradual decrease in ionic and atomic radii across the lanthanide series. The f orbitals have poor shielding ability, so as protons are added, the effective nuclear charge increases significantly, pulling all electrons closer. This affects the size and properties of post-lanthanide elements.",
+      "concept_tags": ["atomic-radius", "effective-nuclear-charge", "lanthanides"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-01-050",
+      "question_text": "The electron affinity of chlorine is more negative than that of bromine primarily because:",
+      "options": ["A. Chlorine has more protons", "B. Chlorine's smaller size results in stronger attraction for an added electron", "C. Chlorine has fewer electron shells", "D. Both B and C are correct"],
+      "correct_answer": "D",
+      "explanation": "Chlorine has a more negative electron affinity because it is smaller than bromine (fewer electron shells, option C). This smaller size means the incoming electron is closer to the nucleus and experiences stronger attraction (option B). Both factors contribute to chlorine's greater tendency to gain an electron.",
+      "concept_tags": ["electron-affinity", "periodic-trends", "atomic-radius"],
+      "difficulty": "medium"
+    }
+  ]
+}

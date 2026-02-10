@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 8,
+  "chapter_title": "The Immune System",
+  "questions": [
+    {
+      "id": "biology-08-001",
+      "question_text": "Which of the following is considered a component of the innate immune system?",
+      "options": [
+        "A. T lymphocytes",
+        "B. B lymphocytes",
+        "C. Neutrophils",
+        "D. Plasma cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "Neutrophils are phagocytic white blood cells that are part of the innate immune system. They provide rapid, non-specific defense against pathogens. T lymphocytes and B lymphocytes are components of the adaptive immune system, which provides specific, targeted responses. Plasma cells are differentiated B cells that produce antibodies, also part of adaptive immunity.",
+      "concept_tags": ["innate-immunity", "neutrophils", "phagocytes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-002",
+      "question_text": "The skin functions as a barrier in innate immunity through all of the following mechanisms EXCEPT:",
+      "options": [
+        "A. physical obstruction by keratinized epithelium",
+        "B. secretion of antimicrobial peptides",
+        "C. production of antibodies",
+        "D. maintenance of acidic pH through sebaceous secretions"
+      ],
+      "correct_answer": "C",
+      "explanation": "The skin does not produce antibodies; antibody production is a function of the adaptive immune system, specifically by plasma cells derived from B lymphocytes. The skin provides innate immunity through physical barriers (keratinized epithelium), chemical barriers (antimicrobial peptides like defensins, and acidic sebum), and the normal microbiota that outcompete pathogens.",
+      "concept_tags": ["innate-immunity", "barriers", "skin", "physical-barriers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-003",
+      "question_text": "Which of the following correctly describes the sequence of events during inflammation?",
+      "options": [
+        "A. Vasoconstriction, decreased permeability, leukocyte migration",
+        "B. Vasodilation, increased permeability, leukocyte migration",
+        "C. Vasodilation, decreased permeability, antibody production",
+        "D. Vasoconstriction, increased permeability, complement activation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The inflammatory response involves vasodilation (widening of blood vessels), which increases blood flow to the affected area causing redness and heat. Increased vascular permeability allows plasma proteins and leukocytes to move into tissues. Leukocyte migration (extravasation) brings immune cells to the site of infection or injury. Vasoconstriction and antibody production are not characteristic of the acute inflammatory response.",
+      "concept_tags": ["inflammation", "innate-immunity", "vasodilation", "leukocyte-migration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-004",
+      "question_text": "Macrophages develop from which type of white blood cell?",
+      "options": [
+        "A. Neutrophils",
+        "B. Basophils",
+        "C. Monocytes",
+        "D. Eosinophils"
+      ],
+      "correct_answer": "C",
+      "explanation": "Macrophages develop from monocytes that leave the bloodstream and enter tissues. Monocytes circulate in the blood and differentiate into macrophages or dendritic cells when they migrate into tissues. Neutrophils, basophils, and eosinophils are granulocytes that do not give rise to macrophages.",
+      "concept_tags": ["macrophages", "monocytes", "phagocytes", "innate-immunity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-005",
+      "question_text": "The complement system enhances immune responses through all of the following mechanisms EXCEPT:",
+      "options": [
+        "A. opsonization of pathogens",
+        "B. formation of the membrane attack complex",
+        "C. production of immunoglobulins",
+        "D. recruitment of inflammatory cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "The complement system does not produce immunoglobulins (antibodies); that is the function of plasma cells. The complement system enhances immunity through opsonization (coating pathogens to enhance phagocytosis), forming the membrane attack complex (MAC) that lyses pathogens, and producing anaphylatoxins (C3a, C5a) that recruit inflammatory cells and promote inflammation.",
+      "concept_tags": ["complement-system", "innate-immunity", "opsonization", "membrane-attack-complex"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-006",
+      "question_text": "Interferons are cytokines that primarily function to:",
+      "options": [
+        "A. directly kill bacteria through membrane disruption",
+        "B. inhibit viral replication in neighboring cells",
+        "C. stimulate antibody production by B cells",
+        "D. promote allergic reactions"
+      ],
+      "correct_answer": "B",
+      "explanation": "Interferons (IFN-alpha and IFN-beta) are cytokines produced by virus-infected cells that signal neighboring cells to enter an antiviral state, inhibiting viral replication. They do not directly kill bacteria, stimulate antibody production (that requires T cell help), or promote allergic reactions (histamine and IgE are involved in allergies).",
+      "concept_tags": ["interferons", "innate-immunity", "cytokines", "antiviral-response"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-007",
+      "question_text": "Natural killer (NK) cells differ from cytotoxic T cells in that NK cells:",
+      "options": [
+        "A. require prior sensitization to kill target cells",
+        "B. recognize specific antigens through T cell receptors",
+        "C. can kill virus-infected cells without prior antigen exposure",
+        "D. only function in the adaptive immune response"
+      ],
+      "correct_answer": "C",
+      "explanation": "Natural killer cells are part of the innate immune system and can kill virus-infected cells and tumor cells without prior antigen exposure or sensitization. They recognize stressed cells through activating and inhibitory receptors. Cytotoxic T cells, in contrast, require prior sensitization and recognize specific antigens through T cell receptors as part of adaptive immunity.",
+      "concept_tags": ["natural-killer-cells", "innate-immunity", "cytotoxic-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-008",
+      "question_text": "Which pattern recognition receptor on macrophages recognizes lipopolysaccharide (LPS) from gram-negative bacteria?",
+      "options": [
+        "A. TLR4 (Toll-like receptor 4)",
+        "B. B cell receptor",
+        "C. T cell receptor",
+        "D. MHC class I"
+      ],
+      "correct_answer": "A",
+      "explanation": "Toll-like receptor 4 (TLR4) is a pattern recognition receptor that specifically recognizes lipopolysaccharide (LPS), a component of gram-negative bacterial cell walls. TLRs are part of the innate immune system and recognize pathogen-associated molecular patterns (PAMPs). B cell and T cell receptors are part of adaptive immunity, and MHC class I presents antigens.",
+      "concept_tags": ["toll-like-receptors", "pattern-recognition", "innate-immunity", "lps"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-08-009",
+      "question_text": "Helper T cells (CD4+ T cells) are activated when they recognize antigens presented by:",
+      "options": [
+        "A. MHC class I molecules",
+        "B. MHC class II molecules",
+        "C. Antibodies",
+        "D. Complement proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "Helper T cells (CD4+) recognize antigens presented by MHC class II molecules, which are found on professional antigen-presenting cells (dendritic cells, macrophages, and B cells). MHC class I molecules present antigens to cytotoxic T cells (CD8+). Antibodies and complement proteins do not present antigens to T cells.",
+      "concept_tags": ["helper-t-cells", "mhc-class-ii", "antigen-presentation", "cd4"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-010",
+      "question_text": "Cytotoxic T cells (CD8+ T cells) recognize antigens presented by:",
+      "options": [
+        "A. MHC class I molecules",
+        "B. MHC class II molecules",
+        "C. B cell receptors",
+        "D. Fc receptors"
+      ],
+      "correct_answer": "A",
+      "explanation": "Cytotoxic T cells (CD8+) recognize antigens presented by MHC class I molecules, which are found on all nucleated cells. This allows cytotoxic T cells to identify and kill any cell infected with intracellular pathogens. MHC class II molecules present antigens to helper T cells. B cell receptors and Fc receptors have different functions.",
+      "concept_tags": ["cytotoxic-t-cells", "mhc-class-i", "antigen-presentation", "cd8"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-011",
+      "question_text": "MHC class I molecules present antigens derived from:",
+      "options": [
+        "A. extracellular pathogens phagocytosed by the cell",
+        "B. intracellular proteins synthesized within the cell",
+        "C. antibody-antigen complexes",
+        "D. complement proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "MHC class I molecules present peptides derived from intracellular proteins, including those from viruses and intracellular bacteria that replicate inside cells. This endogenous pathway processes proteins synthesized within the cell. MHC class II molecules present antigens from extracellular pathogens that have been phagocytosed (exogenous pathway).",
+      "concept_tags": ["mhc-class-i", "antigen-presentation", "endogenous-pathway"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-012",
+      "question_text": "MHC class II molecules are found on which of the following cell types?",
+      "options": [
+        "A. All nucleated cells",
+        "B. Red blood cells only",
+        "C. Professional antigen-presenting cells (dendritic cells, macrophages, B cells)",
+        "D. Neurons only"
+      ],
+      "correct_answer": "C",
+      "explanation": "MHC class II molecules are expressed primarily on professional antigen-presenting cells: dendritic cells, macrophages, and B cells. MHC class I molecules are found on all nucleated cells. Red blood cells lack MHC molecules. This restricted expression of MHC II ensures that helper T cell activation is tightly controlled.",
+      "concept_tags": ["mhc-class-ii", "antigen-presenting-cells", "dendritic-cells", "macrophages"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-013",
+      "question_text": "B cells can recognize antigens:",
+      "options": [
+        "A. only when presented by MHC molecules",
+        "B. only after processing by antigen-presenting cells",
+        "C. directly in their native (unprocessed) form",
+        "D. only through T cell receptors"
+      ],
+      "correct_answer": "C",
+      "explanation": "B cells can recognize antigens directly in their native, unprocessed form through their B cell receptors (membrane-bound immunoglobulins). This differs from T cells, which can only recognize processed antigens presented by MHC molecules. B cells can bind to free-floating antigens, including proteins, polysaccharides, and other molecules.",
+      "concept_tags": ["b-cells", "b-cell-receptor", "antigen-recognition", "humoral-immunity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-014",
+      "question_text": "Clonal selection theory explains that:",
+      "options": [
+        "A. all lymphocytes respond to all antigens equally",
+        "B. antigens select and activate specific lymphocytes with matching receptors",
+        "C. lymphocytes change their receptors after antigen exposure",
+        "D. antibodies are produced before antigen exposure"
+      ],
+      "correct_answer": "B",
+      "explanation": "Clonal selection theory states that each lymphocyte has receptors for a specific antigen, and when that antigen enters the body, it selects and activates only the lymphocytes with matching receptors. These selected lymphocytes then proliferate (clonal expansion) to mount an immune response. Lymphocytes do not change their receptors after development.",
+      "concept_tags": ["clonal-selection", "adaptive-immunity", "lymphocyte-activation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-015",
+      "question_text": "Which immunoglobulin is the most abundant in serum and provides the majority of antibody-based immunity?",
+      "options": [
+        "A. IgM",
+        "B. IgA",
+        "C. IgG",
+        "D. IgE"
+      ],
+      "correct_answer": "C",
+      "explanation": "IgG is the most abundant immunoglobulin in serum (approximately 75-80% of serum antibodies) and provides the majority of antibody-based immunity against invading pathogens. It can cross the placenta to provide passive immunity to the fetus. IgM is the first antibody produced. IgA is found in secretions. IgE is involved in allergic reactions.",
+      "concept_tags": ["igg", "immunoglobulins", "antibodies", "humoral-immunity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-016",
+      "question_text": "IgM is characterized by which of the following features?",
+      "options": [
+        "A. It is the only antibody that can cross the placenta",
+        "B. It exists as a pentamer and is the first antibody produced in a primary response",
+        "C. It is the most abundant antibody in mucosal secretions",
+        "D. It mediates allergic reactions by binding to mast cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "IgM exists as a pentamer (five antibody units joined together) in serum and is the first antibody produced during a primary immune response. IgG, not IgM, can cross the placenta. IgA is the most abundant in mucosal secretions. IgE mediates allergic reactions. The pentameric structure of IgM makes it highly effective at agglutination and complement activation.",
+      "concept_tags": ["igm", "immunoglobulins", "primary-immune-response", "antibodies"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-017",
+      "question_text": "Which immunoglobulin is found in highest concentrations in secretions such as saliva, tears, and breast milk?",
+      "options": [
+        "A. IgG",
+        "B. IgA",
+        "C. IgE",
+        "D. IgD"
+      ],
+      "correct_answer": "B",
+      "explanation": "IgA is the predominant antibody in mucosal secretions including saliva, tears, breast milk, and intestinal secretions. It exists as a dimer with a secretory component that protects it from degradation. Secretory IgA provides protection at mucosal surfaces, which are common entry points for pathogens.",
+      "concept_tags": ["iga", "immunoglobulins", "mucosal-immunity", "secretory-antibodies"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-018",
+      "question_text": "IgE is primarily involved in:",
+      "options": [
+        "A. neutralizing toxins in the bloodstream",
+        "B. protecting mucosal surfaces",
+        "C. allergic reactions and defense against parasites",
+        "D. activating the complement system"
+      ],
+      "correct_answer": "C",
+      "explanation": "IgE is involved in allergic reactions (type I hypersensitivity) and defense against parasites, particularly helminths. IgE binds to Fc receptors on mast cells and basophils; when cross-linked by allergens, it triggers degranulation and release of histamine. IgG neutralizes toxins, IgA protects mucosal surfaces, and IgG and IgM activate complement.",
+      "concept_tags": ["ige", "immunoglobulins", "allergies", "parasites", "mast-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-019",
+      "question_text": "IgD is primarily found:",
+      "options": [
+        "A. in mucosal secretions",
+        "B. bound to mast cells",
+        "C. on the surface of mature naive B cells as an antigen receptor",
+        "D. crossing the placenta to the fetus"
+      ],
+      "correct_answer": "C",
+      "explanation": "IgD is primarily found on the surface of mature naive B cells, where it serves as an antigen receptor along with IgM. Its exact function is not completely understood, but it plays a role in B cell activation. IgA is in secretions, IgE binds mast cells, and IgG crosses the placenta.",
+      "concept_tags": ["igd", "immunoglobulins", "b-cells", "antigen-receptor"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-020",
+      "question_text": "The variable region of an antibody is responsible for:",
+      "options": [
+        "A. binding to Fc receptors on immune cells",
+        "B. determining the antibody class (isotype)",
+        "C. recognizing and binding to specific antigens",
+        "D. activating the complement system"
+      ],
+      "correct_answer": "C",
+      "explanation": "The variable regions of the heavy and light chains form the antigen-binding site and are responsible for recognizing and binding specific antigens. Each antibody has unique variable regions that determine its specificity. The constant region (Fc portion) determines the antibody class, binds to Fc receptors, and activates complement.",
+      "concept_tags": ["antibody-structure", "variable-region", "antigen-binding", "immunoglobulins"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-021",
+      "question_text": "The constant (Fc) region of an antibody determines:",
+      "options": [
+        "A. antigen specificity",
+        "B. the antibody class and effector functions",
+        "C. the type of pathogen recognized",
+        "D. the variable region sequence"
+      ],
+      "correct_answer": "B",
+      "explanation": "The constant (Fc) region of an antibody determines its class (IgG, IgM, IgA, IgE, IgD) and its effector functions, such as complement activation, binding to Fc receptors on phagocytes, and ability to cross the placenta. The variable region determines antigen specificity and the type of pathogen recognized.",
+      "concept_tags": ["antibody-structure", "constant-region", "fc-region", "effector-functions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-022",
+      "question_text": "Cell-mediated immunity primarily involves:",
+      "options": [
+        "A. antibody production by plasma cells",
+        "B. T cells directly attacking infected or abnormal cells",
+        "C. complement activation in the bloodstream",
+        "D. mast cell degranulation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cell-mediated immunity involves T cells directly attacking infected or abnormal cells. Cytotoxic T cells (CD8+) kill virus-infected cells and tumor cells, while helper T cells (CD4+) coordinate immune responses. Antibody production by plasma cells is humoral immunity. Complement activation and mast cell degranulation are part of innate immunity or allergic responses.",
+      "concept_tags": ["cell-mediated-immunity", "t-cells", "cytotoxic-t-cells", "adaptive-immunity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-023",
+      "question_text": "Humoral immunity is mediated by:",
+      "options": [
+        "A. cytotoxic T cells killing infected cells",
+        "B. natural killer cells destroying tumor cells",
+        "C. antibodies produced by plasma cells",
+        "D. macrophages phagocytosing bacteria"
+      ],
+      "correct_answer": "C",
+      "explanation": "Humoral immunity is mediated by antibodies produced by plasma cells (differentiated B cells). Antibodies circulate in blood and lymph (the humors) and neutralize pathogens, opsonize them for phagocytosis, and activate complement. Cytotoxic T cells and NK cells are part of cell-mediated immunity. Macrophage phagocytosis is part of innate immunity.",
+      "concept_tags": ["humoral-immunity", "antibodies", "plasma-cells", "b-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-024",
+      "question_text": "Which type of immunity would be most effective against an extracellular bacterial infection?",
+      "options": [
+        "A. Cell-mediated immunity with cytotoxic T cells",
+        "B. Humoral immunity with antibodies",
+        "C. Natural killer cell activity",
+        "D. Interferon production"
+      ],
+      "correct_answer": "B",
+      "explanation": "Humoral immunity with antibodies is most effective against extracellular pathogens, including bacteria in the bloodstream and tissues. Antibodies can neutralize toxins, opsonize bacteria for phagocytosis, and activate complement. Cell-mediated immunity is more effective against intracellular pathogens. NK cells target infected cells, and interferons combat viruses.",
+      "concept_tags": ["humoral-immunity", "antibodies", "extracellular-pathogens", "bacterial-infection"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-025",
+      "question_text": "Cell-mediated immunity would be most important for defense against:",
+      "options": [
+        "A. extracellular bacteria",
+        "B. bacterial toxins in the bloodstream",
+        "C. intracellular pathogens such as viruses",
+        "D. parasitic worms in the intestine"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cell-mediated immunity is most important for defense against intracellular pathogens such as viruses, intracellular bacteria, and fungi that hide inside host cells where antibodies cannot reach them. Cytotoxic T cells kill infected host cells. Humoral immunity with antibodies is better for extracellular pathogens and toxins. IgE and eosinophils target parasitic worms.",
+      "concept_tags": ["cell-mediated-immunity", "intracellular-pathogens", "viruses", "cytotoxic-t-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-026",
+      "question_text": "During a primary immune response, which antibody class appears first in the serum?",
+      "options": [
+        "A. IgG",
+        "B. IgA",
+        "C. IgM",
+        "D. IgE"
+      ],
+      "correct_answer": "C",
+      "explanation": "IgM is the first antibody class produced during a primary immune response because it is the default antibody made before class switching occurs. The presence of IgM against a pathogen typically indicates a recent or current infection. IgG appears later and predominates in the secondary response after class switching.",
+      "concept_tags": ["primary-immune-response", "igm", "antibody-production"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-027",
+      "question_text": "The secondary immune response differs from the primary response in that the secondary response:",
+      "options": [
+        "A. takes longer to develop",
+        "B. produces lower antibody titers",
+        "C. is faster and produces higher antibody titers",
+        "D. involves only innate immunity"
+      ],
+      "correct_answer": "C",
+      "explanation": "The secondary immune response is faster and produces higher antibody titers than the primary response due to the presence of memory B and T cells from the first exposure. Memory cells respond quickly upon re-exposure to the same antigen. The primary response takes longer because naive lymphocytes must be activated and proliferate first.",
+      "concept_tags": ["secondary-immune-response", "memory-cells", "antibody-titers", "immunological-memory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-028",
+      "question_text": "Memory B cells and memory T cells are important because they:",
+      "options": [
+        "A. provide immediate protection without prior exposure",
+        "B. enable faster and stronger responses upon re-exposure to an antigen",
+        "C. produce IgM antibodies continuously",
+        "D. are part of the innate immune system"
+      ],
+      "correct_answer": "B",
+      "explanation": "Memory B cells and memory T cells persist after an infection is cleared and enable faster and stronger immune responses upon re-exposure to the same antigen. This is the basis of immunological memory and vaccination. Memory cells are part of adaptive immunity and require prior exposure to develop.",
+      "concept_tags": ["memory-cells", "immunological-memory", "secondary-immune-response", "vaccination"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-029",
+      "question_text": "Active immunity results from:",
+      "options": [
+        "A. receiving antibodies from another individual",
+        "B. transfer of antibodies across the placenta",
+        "C. exposure to an antigen that stimulates the immune system",
+        "D. injection of preformed antibodies"
+      ],
+      "correct_answer": "C",
+      "explanation": "Active immunity results from exposure to an antigen (through infection or vaccination) that stimulates the immune system to produce its own antibodies and memory cells. This provides long-lasting protection. Passive immunity involves receiving preformed antibodies from another source (maternal antibodies, antibody injections) and does not produce memory.",
+      "concept_tags": ["active-immunity", "vaccination", "antigen-exposure", "adaptive-immunity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-030",
+      "question_text": "Passive immunity differs from active immunity in that passive immunity:",
+      "options": [
+        "A. results in long-lasting protection",
+        "B. involves the production of memory cells",
+        "C. provides immediate but temporary protection",
+        "D. requires exposure to live pathogens"
+      ],
+      "correct_answer": "C",
+      "explanation": "Passive immunity provides immediate but temporary protection because preformed antibodies are transferred without stimulating the recipient's immune system. No memory cells are produced, so protection wanes as the antibodies degrade. Examples include maternal antibodies crossing the placenta and injection of immune serum (antivenom, immunoglobulin therapy).",
+      "concept_tags": ["passive-immunity", "maternal-antibodies", "temporary-protection"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-031",
+      "question_text": "A newborn receives IgG antibodies from the mother across the placenta. This is an example of:",
+      "options": [
+        "A. natural active immunity",
+        "B. artificial active immunity",
+        "C. natural passive immunity",
+        "D. artificial passive immunity"
+      ],
+      "correct_answer": "C",
+      "explanation": "Transfer of maternal IgG antibodies across the placenta is natural passive immunity because it occurs naturally (not through medical intervention) and involves receiving preformed antibodies rather than generating an immune response. Artificial passive immunity would involve antibody injections. Active immunity requires the individual to mount their own immune response.",
+      "concept_tags": ["passive-immunity", "natural-immunity", "maternal-antibodies", "placental-transfer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-032",
+      "question_text": "Vaccination provides which type of immunity?",
+      "options": [
+        "A. Natural passive immunity",
+        "B. Artificial passive immunity",
+        "C. Natural active immunity",
+        "D. Artificial active immunity"
+      ],
+      "correct_answer": "D",
+      "explanation": "Vaccination provides artificial active immunity because it involves artificial exposure to antigens (through medical intervention) that stimulates the recipient's immune system to produce antibodies and memory cells. Natural active immunity comes from actual infection. Passive immunity involves receiving preformed antibodies.",
+      "concept_tags": ["vaccination", "active-immunity", "artificial-immunity", "immunization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-033",
+      "question_text": "The lymphatic system functions in immunity by:",
+      "options": [
+        "A. producing red blood cells",
+        "B. filtering blood to remove pathogens",
+        "C. transporting lymphocytes and antigens to lymph nodes where immune responses are initiated",
+        "D. producing platelets for blood clotting"
+      ],
+      "correct_answer": "C",
+      "explanation": "The lymphatic system transports lymph (containing lymphocytes, antigens, and antigen-presenting cells) to lymph nodes where adaptive immune responses are initiated. Lymph nodes contain T cells and B cells organized to facilitate antigen presentation and lymphocyte activation. The spleen filters blood. Bone marrow produces blood cells and platelets.",
+      "concept_tags": ["lymphatic-system", "lymph-nodes", "lymphocyte-circulation", "immune-response"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-034",
+      "question_text": "Lymph nodes are important sites for:",
+      "options": [
+        "A. red blood cell production",
+        "B. filtration and initiation of adaptive immune responses",
+        "C. production of complement proteins",
+        "D. storage of calcium"
+      ],
+      "correct_answer": "B",
+      "explanation": "Lymph nodes filter lymph and serve as sites where adaptive immune responses are initiated. Antigen-presenting cells (especially dendritic cells) bring antigens to lymph nodes and present them to T cells. B cells also reside in lymph nodes and can be activated there. Red blood cells are produced in bone marrow, and complement proteins are made by the liver.",
+      "concept_tags": ["lymph-nodes", "lymphatic-system", "adaptive-immunity", "antigen-presentation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-035",
+      "question_text": "The spleen functions in immunity primarily by:",
+      "options": [
+        "A. producing lymph fluid",
+        "B. filtering blood and mounting immune responses against blood-borne pathogens",
+        "C. producing T cells",
+        "D. absorbing nutrients from the digestive tract"
+      ],
+      "correct_answer": "B",
+      "explanation": "The spleen filters blood and is the primary site for mounting immune responses against blood-borne pathogens. It contains white pulp (lymphocytes organized for immune responses) and red pulp (macrophages that remove old red blood cells and pathogens from blood). T cells mature in the thymus, not the spleen.",
+      "concept_tags": ["spleen", "lymphatic-system", "blood-filtration", "immune-response"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-036",
+      "question_text": "The thymus is essential for:",
+      "options": [
+        "A. B cell maturation",
+        "B. T cell maturation and selection",
+        "C. antibody production",
+        "D. red blood cell destruction"
+      ],
+      "correct_answer": "B",
+      "explanation": "The thymus is essential for T cell maturation and selection. Immature T cells (thymocytes) migrate from bone marrow to the thymus, where they undergo positive and negative selection to ensure they recognize self-MHC but do not react against self-antigens. B cells mature in the bone marrow. Antibodies are produced by plasma cells. Red blood cells are destroyed in the spleen.",
+      "concept_tags": ["thymus", "t-cell-maturation", "lymphatic-system", "central-tolerance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-037",
+      "question_text": "Positive selection of T cells in the thymus ensures that:",
+      "options": [
+        "A. T cells that react strongly to self-antigens are eliminated",
+        "B. T cells can recognize self-MHC molecules",
+        "C. T cells produce high-affinity antibodies",
+        "D. T cells can directly phagocytose pathogens"
+      ],
+      "correct_answer": "B",
+      "explanation": "Positive selection ensures that T cells can recognize self-MHC molecules, which is necessary for T cells to function since they must interact with MHC-presented antigens. T cells that fail to recognize self-MHC die by neglect. Negative selection eliminates T cells that react too strongly to self-antigens. T cells do not produce antibodies or phagocytose pathogens.",
+      "concept_tags": ["positive-selection", "t-cell-maturation", "thymus", "mhc-recognition"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-08-038",
+      "question_text": "Negative selection of T cells in the thymus serves to:",
+      "options": [
+        "A. ensure T cells can recognize foreign antigens",
+        "B. eliminate T cells that strongly react to self-antigens, preventing autoimmunity",
+        "C. increase the number of T cells in circulation",
+        "D. promote T cell differentiation into helper cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Negative selection (clonal deletion) eliminates T cells that react strongly to self-antigens presented on thymic cells, preventing these potentially autoreactive T cells from entering circulation and causing autoimmune disease. This is a key mechanism of central tolerance. T cells that pass negative selection are released to the periphery.",
+      "concept_tags": ["negative-selection", "central-tolerance", "thymus", "autoimmunity-prevention"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-08-039",
+      "question_text": "An autoimmune disease results from:",
+      "options": [
+        "A. an overactive response against foreign pathogens",
+        "B. immune system attack on the body's own tissues",
+        "C. deficiency in antibody production",
+        "D. excessive production of histamine"
+      ],
+      "correct_answer": "B",
+      "explanation": "Autoimmune diseases result from the immune system attacking the body's own tissues due to a breakdown in self-tolerance. Examples include type 1 diabetes (attack on pancreatic beta cells), rheumatoid arthritis (attack on joint tissues), and multiple sclerosis (attack on myelin). Immunodeficiency involves reduced immune function, and excessive histamine causes allergies.",
+      "concept_tags": ["autoimmunity", "self-tolerance", "autoimmune-diseases"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-040",
+      "question_text": "Type I hypersensitivity (allergic reaction) is mediated by:",
+      "options": [
+        "A. IgG antibodies and complement",
+        "B. IgE antibodies and mast cell degranulation",
+        "C. Cytotoxic T cells",
+        "D. Immune complex deposition"
+      ],
+      "correct_answer": "B",
+      "explanation": "Type I hypersensitivity (immediate hypersensitivity/allergic reaction) is mediated by IgE antibodies bound to mast cells and basophils. When allergens cross-link the IgE, these cells degranulate and release histamine and other mediators causing allergic symptoms. Type II involves IgG/complement, Type III involves immune complexes, and Type IV involves T cells.",
+      "concept_tags": ["type-1-hypersensitivity", "allergies", "ige", "mast-cells", "histamine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-041",
+      "question_text": "Anaphylaxis is a severe systemic allergic reaction characterized by:",
+      "options": [
+        "A. localized swelling at the site of allergen exposure",
+        "B. widespread vasodilation, bronchoconstriction, and potential cardiovascular collapse",
+        "C. delayed response occurring days after exposure",
+        "D. increased blood pressure and vasoconstriction"
+      ],
+      "correct_answer": "B",
+      "explanation": "Anaphylaxis is a severe, life-threatening systemic allergic reaction (type I hypersensitivity) characterized by widespread mast cell degranulation leading to vasodilation (causing hypotension), bronchoconstriction (causing difficulty breathing), and potential cardiovascular collapse. It occurs rapidly after exposure and requires immediate treatment with epinephrine.",
+      "concept_tags": ["anaphylaxis", "allergies", "type-1-hypersensitivity", "mast-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-042",
+      "question_text": "Severe combined immunodeficiency (SCID) is characterized by:",
+      "options": [
+        "A. deficiency in only B cell function",
+        "B. deficiency in both T cell and B cell function",
+        "C. overproduction of antibodies",
+        "D. excessive inflammation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Severe combined immunodeficiency (SCID) is characterized by deficiency in both T cell and B cell function, resulting in severe susceptibility to infections. Without functional T cells and B cells, patients cannot mount adaptive immune responses. SCID can result from various genetic defects affecting lymphocyte development or function.",
+      "concept_tags": ["immunodeficiency", "scid", "t-cells", "b-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-043",
+      "question_text": "HIV (Human Immunodeficiency Virus) primarily infects:",
+      "options": [
+        "A. B cells",
+        "B. CD4+ helper T cells",
+        "C. Red blood cells",
+        "D. Neutrophils"
+      ],
+      "correct_answer": "B",
+      "explanation": "HIV primarily infects CD4+ helper T cells by using the CD4 molecule as its receptor (along with co-receptors CCR5 or CXCR4). Destruction of CD4+ T cells compromises the immune system because helper T cells are essential for coordinating both cell-mediated and humoral immune responses, leading to AIDS.",
+      "concept_tags": ["hiv", "immunodeficiency", "cd4", "helper-t-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-08-044",
+      "question_text": "The cardinal signs of inflammation include all of the following EXCEPT:",
+      "options": [
+        "A. redness (rubor)",
+        "B. swelling (tumor)",
+        "C. decreased function (functio laesa)",
+        "D. vasoconstriction"
+      ],
+      "correct_answer": "D",
+      "explanation": "The cardinal signs of inflammation are redness (rubor), swelling (tumor), heat (calor), pain (dolor), and loss of function (functio laesa). These result from vasodilation (not vasoconstriction) and increased vascular permeability. Vasodilation causes increased blood flow, leading to redness and heat, while increased permeability causes swelling.",
+      "concept_tags": ["inflammation", "cardinal-signs", "vasodilation", "innate-immunity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-045",
+      "question_text": "Opsonization enhances phagocytosis by:",
+      "options": [
+        "A. directly killing pathogens",
+        "B. coating pathogens with molecules that facilitate recognition by phagocytes",
+        "C. preventing pathogen reproduction",
+        "D. stimulating antibody production"
+      ],
+      "correct_answer": "B",
+      "explanation": "Opsonization is the coating of pathogens with molecules (opsonins) such as antibodies (IgG) or complement proteins (C3b) that are recognized by receptors on phagocytes, enhancing their ability to engulf and destroy the pathogen. Opsonization does not directly kill pathogens but marks them for destruction by phagocytes.",
+      "concept_tags": ["opsonization", "phagocytosis", "antibodies", "complement-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-046",
+      "question_text": "Class switching (isotype switching) in B cells:",
+      "options": [
+        "A. changes the antigen specificity of the antibody",
+        "B. changes the constant region while maintaining antigen specificity",
+        "C. occurs without T cell help",
+        "D. produces antibodies with higher affinity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Class switching changes the constant region (heavy chain) of an antibody, changing its class (e.g., from IgM to IgG) while maintaining the same antigen specificity determined by the variable region. This is stimulated by helper T cell cytokines. Affinity maturation (somatic hypermutation) produces higher affinity antibodies, which is a separate process.",
+      "concept_tags": ["class-switching", "isotype-switching", "b-cells", "antibodies"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-08-047",
+      "question_text": "Dendritic cells are important in immunity because they:",
+      "options": [
+        "A. produce antibodies against pathogens",
+        "B. are the most potent antigen-presenting cells for activating naive T cells",
+        "C. directly kill virus-infected cells",
+        "D. produce complement proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "Dendritic cells are the most potent professional antigen-presenting cells and are especially important for activating naive T cells. They capture antigens in peripheral tissues, migrate to lymph nodes, and present antigens on MHC molecules to T cells. B cells produce antibodies, cytotoxic T cells kill infected cells, and the liver produces complement.",
+      "concept_tags": ["dendritic-cells", "antigen-presenting-cells", "t-cell-activation", "adaptive-immunity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-048",
+      "question_text": "Cytotoxic T cells kill target cells primarily through:",
+      "options": [
+        "A. antibody-dependent cellular cytotoxicity",
+        "B. release of perforin and granzymes",
+        "C. complement-mediated lysis",
+        "D. phagocytosis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cytotoxic T cells kill target cells primarily by releasing perforin (which forms pores in the target cell membrane) and granzymes (which enter through the pores and activate apoptosis). They can also kill through Fas-FasL interactions. Cytotoxic T cells do not use complement or phagocytosis; ADCC is used by NK cells and other cells.",
+      "concept_tags": ["cytotoxic-t-cells", "perforin", "granzymes", "cell-killing", "apoptosis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-08-049",
+      "question_text": "Regulatory T cells (Tregs) function to:",
+      "options": [
+        "A. enhance immune responses against pathogens",
+        "B. suppress immune responses and maintain self-tolerance",
+        "C. produce antibodies against specific antigens",
+        "D. present antigens to other T cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Regulatory T cells (Tregs) suppress immune responses and help maintain self-tolerance, preventing autoimmune reactions. They produce immunosuppressive cytokines (IL-10, TGF-beta) and can directly suppress other immune cells. Tregs are important for preventing excessive inflammation and autoimmunity. They do not enhance responses or produce antibodies.",
+      "concept_tags": ["regulatory-t-cells", "immune-suppression", "self-tolerance", "autoimmunity-prevention"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-08-050",
+      "question_text": "The membrane attack complex (MAC) of the complement system kills pathogens by:",
+      "options": [
+        "A. enhancing phagocytosis",
+        "B. forming pores in the pathogen membrane causing lysis",
+        "C. neutralizing toxins",
+        "D. promoting inflammation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The membrane attack complex (MAC) consists of complement proteins (C5b, C6, C7, C8, and multiple C9 molecules) that form a pore in the pathogen's membrane, allowing ions and water to enter, causing osmotic lysis. Other complement functions include opsonization (C3b), inflammation promotion (C3a, C5a), but these are distinct from MAC-mediated killing.",
+      "concept_tags": ["membrane-attack-complex", "complement-system", "pathogen-lysis", "innate-immunity"],
+      "difficulty": "medium"
+    }
+  ]
+}

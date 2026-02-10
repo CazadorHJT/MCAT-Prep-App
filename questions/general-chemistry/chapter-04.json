@@ -1,0 +1,547 @@
+{
+  "book": "general-chemistry",
+  "chapter": 4,
+  "chapter_title": "Gases",
+  "questions": [
+    {
+      "id": "general-chemistry-04-001",
+      "question_text": "At STP, what is the molar volume of an ideal gas?",
+      "options": ["A. 11.2 L", "B. 22.4 L", "C. 44.8 L", "D. 1.00 L"],
+      "correct_answer": "B",
+      "explanation": "At Standard Temperature and Pressure (0°C or 273 K and 1 atm), one mole of an ideal gas occupies 22.4 L. This is a fundamental constant derived from the ideal gas law PV = nRT.",
+      "concept_tags": ["gases", "STP", "molar-volume"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-002",
+      "question_text": "According to Boyle's Law, if the volume of a gas at constant temperature is reduced to half its original value, the pressure will:",
+      "options": ["A. Decrease by half", "B. Remain the same", "C. Double", "D. Quadruple"],
+      "correct_answer": "C",
+      "explanation": "Boyle's Law states that at constant temperature, pressure and volume are inversely proportional (PV = constant). If volume is halved, pressure must double to maintain the constant product.",
+      "concept_tags": ["gases", "boyles-law", "pressure-volume"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-003",
+      "question_text": "Which of the following correctly states Charles's Law?",
+      "options": ["A. P₁V₁ = P₂V₂", "B. V₁/T₁ = V₂/T₂", "C. P₁/T₁ = P₂/T₂", "D. V₁/n₁ = V₂/n₂"],
+      "correct_answer": "B",
+      "explanation": "Charles's Law describes the direct relationship between volume and temperature at constant pressure. As temperature increases, volume increases proportionally, expressed as V₁/T₁ = V₂/T₂ (temperature must be in Kelvin).",
+      "concept_tags": ["gases", "charles-law", "temperature-volume"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-004",
+      "question_text": "In the ideal gas law equation PV = nRT, what is the value of R when pressure is measured in atm and volume in liters?",
+      "options": ["A. 8.314 J/(mol·K)", "B. 0.0821 L·atm/(mol·K)", "C. 62.4 L·torr/(mol·K)", "D. 1.987 cal/(mol·K)"],
+      "correct_answer": "B",
+      "explanation": "The gas constant R = 0.0821 L·atm/(mol·K) is used when pressure is in atmospheres and volume is in liters. Different units of R are used depending on the units of pressure, volume, and energy in the problem.",
+      "concept_tags": ["gases", "ideal-gas-law", "gas-constant"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-005",
+      "question_text": "According to Dalton's Law of Partial Pressures, the total pressure of a gas mixture equals:",
+      "options": ["A. The average of individual partial pressures", "B. The product of individual partial pressures", "C. The sum of individual partial pressures", "D. The highest partial pressure in the mixture"],
+      "correct_answer": "C",
+      "explanation": "Dalton's Law states that the total pressure of a gas mixture is the sum of the partial pressures of each component gas: P_total = P₁ + P₂ + P₃ + ... Each gas contributes to the total pressure independently.",
+      "concept_tags": ["gases", "daltons-law", "partial-pressures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-006",
+      "question_text": "Which assumption is NOT part of the kinetic molecular theory of ideal gases?",
+      "options": ["A. Gas particles have negligible volume", "B. Gas particles experience no intermolecular forces", "C. Collisions between particles are perfectly elastic", "D. All gas particles move at the same speed"],
+      "correct_answer": "D",
+      "explanation": "The kinetic molecular theory assumes gas particles have a distribution of speeds (Maxwell-Boltzmann distribution), not identical speeds. The theory does assume negligible particle volume, no intermolecular forces, and elastic collisions.",
+      "concept_tags": ["gases", "kinetic-molecular-theory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-007",
+      "question_text": "What are the conditions for Standard Temperature and Pressure (STP)?",
+      "options": ["A. 0°C and 1 atm", "B. 25°C and 1 atm", "C. 0°C and 760 torr", "D. Both A and C"],
+      "correct_answer": "D",
+      "explanation": "STP is defined as 0°C (273 K) and 1 atm pressure. Since 1 atm = 760 torr = 760 mmHg = 101.325 kPa, both options A and C correctly describe STP conditions.",
+      "concept_tags": ["gases", "STP", "standard-conditions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-008",
+      "question_text": "According to Avogadro's Law, equal volumes of gases at the same temperature and pressure contain:",
+      "options": ["A. Equal masses", "B. Equal numbers of molecules", "C. Equal densities", "D. Equal kinetic energies per molecule"],
+      "correct_answer": "B",
+      "explanation": "Avogadro's Law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules (or moles). This is true regardless of the identity of the gas.",
+      "concept_tags": ["gases", "avogadros-law", "molar-volume"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-009",
+      "question_text": "The average kinetic energy of gas molecules is directly proportional to:",
+      "options": ["A. Pressure", "B. Volume", "C. Temperature in Kelvin", "D. Molar mass"],
+      "correct_answer": "C",
+      "explanation": "According to kinetic molecular theory, the average kinetic energy of gas molecules is directly proportional to absolute temperature: KE_avg = (3/2)kT or (3/2)RT per mole. This relationship is independent of the gas's identity.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "temperature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-010",
+      "question_text": "Graham's Law of Effusion states that the rate of effusion of a gas is:",
+      "options": ["A. Directly proportional to its molar mass", "B. Inversely proportional to its molar mass", "C. Inversely proportional to the square root of its molar mass", "D. Directly proportional to the square root of its molar mass"],
+      "correct_answer": "C",
+      "explanation": "Graham's Law states that the rate of effusion is inversely proportional to the square root of molar mass: r₁/r₂ = √(M₂/M₁). Lighter gases effuse faster than heavier gases.",
+      "concept_tags": ["gases", "grahams-law", "effusion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-011",
+      "question_text": "A gas sample at 27°C is heated to 54°C at constant pressure. By what factor does the volume change?",
+      "options": ["A. 2.00", "B. 1.09", "C. 0.50", "D. 1.50"],
+      "correct_answer": "B",
+      "explanation": "Using Charles's Law, V₁/T₁ = V₂/T₂. Converting to Kelvin: T₁ = 300 K, T₂ = 327 K. The volume ratio is V₂/V₁ = T₂/T₁ = 327/300 = 1.09. The volume increases by a factor of 1.09.",
+      "concept_tags": ["gases", "charles-law", "temperature-volume"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-012",
+      "question_text": "What is the partial pressure of oxygen in air at 1 atm total pressure if oxygen makes up 21% of the atmosphere?",
+      "options": ["A. 0.21 atm", "B. 0.79 atm", "C. 159 mmHg", "D. Both A and C"],
+      "correct_answer": "D",
+      "explanation": "Partial pressure = mole fraction × total pressure. P_O₂ = 0.21 × 1 atm = 0.21 atm. Converting: 0.21 atm × 760 mmHg/atm = 159.6 mmHg ≈ 159 mmHg. Both A and C are correct.",
+      "concept_tags": ["gases", "daltons-law", "partial-pressures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-013",
+      "question_text": "In the van der Waals equation, the constant 'a' corrects for:",
+      "options": ["A. The finite volume of gas molecules", "B. Intermolecular attractive forces", "C. Non-elastic collisions", "D. Temperature variations"],
+      "correct_answer": "B",
+      "explanation": "In the van der Waals equation (P + an²/V²)(V - nb) = nRT, the constant 'a' corrects for intermolecular attractive forces that reduce the observed pressure below ideal. The constant 'b' corrects for molecular volume.",
+      "concept_tags": ["gases", "real-gases", "van-der-waals"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-014",
+      "question_text": "Which gas would behave most ideally at room temperature and 1 atm?",
+      "options": ["A. H₂O vapor", "B. NH₃", "C. He", "D. CO₂"],
+      "correct_answer": "C",
+      "explanation": "Helium behaves most ideally because it is a monatomic gas with very weak intermolecular forces and small size. Gases deviate from ideal behavior when they have strong intermolecular forces (like H₂O and NH₃) or are large molecules.",
+      "concept_tags": ["gases", "ideal-gas-law", "real-gases"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-015",
+      "question_text": "At constant temperature and pressure, if the number of moles of a gas is tripled, the volume will:",
+      "options": ["A. Decrease by one-third", "B. Remain constant", "C. Triple", "D. Increase by 50%"],
+      "correct_answer": "C",
+      "explanation": "According to Avogadro's Law, volume is directly proportional to the number of moles at constant temperature and pressure (V/n = constant). Tripling the moles triples the volume.",
+      "concept_tags": ["gases", "avogadros-law", "molar-volume"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-04-016",
+      "question_text": "A 5.0 L container holds 2.0 mol of an ideal gas at 300 K. What is the pressure?",
+      "options": ["A. 4.9 atm", "B. 9.9 atm", "C. 24.6 atm", "D. 0.49 atm"],
+      "correct_answer": "B",
+      "explanation": "Using PV = nRT: P = nRT/V = (2.0 mol)(0.0821 L·atm/mol·K)(300 K)/(5.0 L) = 49.26/5.0 = 9.85 atm ≈ 9.9 atm.",
+      "concept_tags": ["gases", "ideal-gas-law", "pressure-calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-017",
+      "question_text": "If the temperature of a gas is doubled and the pressure is tripled, how does the volume change?",
+      "options": ["A. Increases by a factor of 6", "B. Decreases by a factor of 1.5", "C. Increases by a factor of 2/3", "D. Decreases to 2/3 of the original"],
+      "correct_answer": "C",
+      "explanation": "Using the combined gas law: P₁V₁/T₁ = P₂V₂/T₂. If T₂ = 2T₁ and P₂ = 3P₁, then V₂ = V₁(P₁/P₂)(T₂/T₁) = V₁(1/3)(2) = 2V₁/3. The volume becomes 2/3 of the original.",
+      "concept_tags": ["gases", "combined-gas-law", "pressure-volume-temperature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-018",
+      "question_text": "A mixture contains 4.0 g of He (M = 4) and 32.0 g of O₂ (M = 32) in a 10.0 L container at 300 K. What is the total pressure?",
+      "options": ["A. 2.46 atm", "B. 4.92 atm", "C. 7.38 atm", "D. 9.84 atm"],
+      "correct_answer": "B",
+      "explanation": "Moles of He = 4.0/4 = 1.0 mol; moles of O₂ = 32.0/32 = 1.0 mol. Total moles = 2.0 mol. P = nRT/V = (2.0)(0.0821)(300)/10.0 = 4.93 atm ≈ 4.92 atm.",
+      "concept_tags": ["gases", "ideal-gas-law", "partial-pressures", "daltons-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-019",
+      "question_text": "The root-mean-square (rms) speed of gas molecules at temperature T is given by u_rms = √(3RT/M). If the temperature is quadrupled, the rms speed will:",
+      "options": ["A. Double", "B. Quadruple", "C. Increase by a factor of √2", "D. Increase by a factor of √3"],
+      "correct_answer": "A",
+      "explanation": "Since u_rms = √(3RT/M), if T is quadrupled: u_rms,new = √(3R(4T)/M) = √4 × √(3RT/M) = 2 × u_rms,original. The rms speed doubles.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "rms-speed"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-020",
+      "question_text": "What is the density of CO₂ gas (M = 44 g/mol) at STP?",
+      "options": ["A. 0.96 g/L", "B. 1.25 g/L", "C. 1.96 g/L", "D. 2.86 g/L"],
+      "correct_answer": "C",
+      "explanation": "At STP, 1 mole of gas occupies 22.4 L. Density = mass/volume = 44 g/22.4 L = 1.96 g/L. Alternatively, using d = PM/RT: d = (1 atm)(44 g/mol)/(0.0821 L·atm/mol·K)(273 K) = 1.96 g/L.",
+      "concept_tags": ["gases", "gas-density", "STP", "molar-mass"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-021",
+      "question_text": "Oxygen gas (M = 32) effuses through a small hole at a rate of 5.0 mL/min. At what rate would hydrogen gas (M = 2) effuse under the same conditions?",
+      "options": ["A. 1.25 mL/min", "B. 10.0 mL/min", "C. 20.0 mL/min", "D. 80.0 mL/min"],
+      "correct_answer": "C",
+      "explanation": "Using Graham's Law: r_H₂/r_O₂ = √(M_O₂/M_H₂) = √(32/2) = √16 = 4. Therefore, r_H₂ = 4 × 5.0 mL/min = 20.0 mL/min. Hydrogen effuses 4 times faster than oxygen.",
+      "concept_tags": ["gases", "grahams-law", "effusion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-022",
+      "question_text": "A gas collected over water at 25°C has a total pressure of 750 torr. If the vapor pressure of water at 25°C is 24 torr, what is the partial pressure of the dry gas?",
+      "options": ["A. 774 torr", "B. 750 torr", "C. 726 torr", "D. 24 torr"],
+      "correct_answer": "C",
+      "explanation": "When gas is collected over water, the total pressure includes water vapor. Using Dalton's Law: P_gas = P_total - P_water = 750 torr - 24 torr = 726 torr.",
+      "concept_tags": ["gases", "daltons-law", "partial-pressures", "vapor-pressure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-023",
+      "question_text": "Real gases deviate most from ideal behavior under which conditions?",
+      "options": ["A. High temperature and low pressure", "B. Low temperature and high pressure", "C. High temperature and high pressure", "D. Low temperature and low pressure"],
+      "correct_answer": "B",
+      "explanation": "Real gases deviate most from ideal behavior at low temperatures (when intermolecular forces become significant) and high pressures (when molecular volume becomes significant compared to container volume). Ideal behavior is best at high T and low P.",
+      "concept_tags": ["gases", "real-gases", "ideal-gas-deviations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-024",
+      "question_text": "In the van der Waals equation, the constant 'b' has units of:",
+      "options": ["A. L²·atm/mol²", "B. L/mol", "C. atm·L/mol", "D. mol/L"],
+      "correct_answer": "B",
+      "explanation": "In (P + an²/V²)(V - nb) = nRT, the term 'nb' must have the same units as V (liters). Since n is in moles, b must have units of L/mol to make nb have units of liters.",
+      "concept_tags": ["gases", "real-gases", "van-der-waals"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-025",
+      "question_text": "A balloon contains 2.0 L of gas at 20°C and 1.0 atm. The balloon rises to an altitude where the temperature is -20°C and the pressure is 0.50 atm. What is the new volume?",
+      "options": ["A. 1.7 L", "B. 3.5 L", "C. 4.0 L", "D. 8.0 L"],
+      "correct_answer": "B",
+      "explanation": "Using the combined gas law: V₂ = V₁(P₁/P₂)(T₂/T₁). Converting temps: T₁ = 293 K, T₂ = 253 K. V₂ = 2.0 L × (1.0/0.50) × (253/293) = 2.0 × 2.0 × 0.863 = 3.45 L ≈ 3.5 L.",
+      "concept_tags": ["gases", "combined-gas-law", "pressure-volume-temperature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-026",
+      "question_text": "Two gases, X and Y, have molar masses of 16 g/mol and 64 g/mol respectively. What is the ratio of their rms speeds at the same temperature?",
+      "options": ["A. 1:4", "B. 4:1", "C. 1:2", "D. 2:1"],
+      "correct_answer": "D",
+      "explanation": "Since u_rms = √(3RT/M), the ratio of rms speeds is u_X/u_Y = √(M_Y/M_X) = √(64/16) = √4 = 2. Gas X moves twice as fast as gas Y.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "rms-speed"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-027",
+      "question_text": "An unknown gas has a density of 1.43 g/L at STP. What is its molar mass?",
+      "options": ["A. 16 g/mol", "B. 28 g/mol", "C. 32 g/mol", "D. 44 g/mol"],
+      "correct_answer": "C",
+      "explanation": "At STP, M = d × 22.4 L/mol = 1.43 g/L × 22.4 L/mol = 32.0 g/mol. This corresponds to O₂ or S. Alternatively, using M = dRT/P: M = (1.43)(0.0821)(273)/1 = 32.0 g/mol.",
+      "concept_tags": ["gases", "gas-density", "molar-mass", "STP"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-028",
+      "question_text": "A 4.0 L sample of gas at 2.0 atm is compressed isothermally until its pressure is 8.0 atm. What is the final volume?",
+      "options": ["A. 0.5 L", "B. 1.0 L", "C. 2.0 L", "D. 16 L"],
+      "correct_answer": "B",
+      "explanation": "Using Boyle's Law for isothermal compression: P₁V₁ = P₂V₂. V₂ = P₁V₁/P₂ = (2.0 atm)(4.0 L)/(8.0 atm) = 1.0 L.",
+      "concept_tags": ["gases", "boyles-law", "isothermal-process"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-029",
+      "question_text": "The partial pressure of nitrogen in a gas mixture is 0.75 atm and the total pressure is 1.25 atm. What is the mole fraction of nitrogen?",
+      "options": ["A. 0.40", "B. 0.50", "C. 0.60", "D. 0.75"],
+      "correct_answer": "C",
+      "explanation": "Mole fraction = partial pressure/total pressure. X_N₂ = P_N₂/P_total = 0.75 atm/1.25 atm = 0.60.",
+      "concept_tags": ["gases", "daltons-law", "partial-pressures", "mole-fraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-030",
+      "question_text": "Which of the following gases would have the highest average molecular speed at 25°C?",
+      "options": ["A. N₂ (M = 28)", "B. O₂ (M = 32)", "C. CO₂ (M = 44)", "D. CH₄ (M = 16)"],
+      "correct_answer": "D",
+      "explanation": "Average molecular speed is inversely related to the square root of molar mass. CH₄ has the lowest molar mass (16 g/mol), so it has the highest average speed at a given temperature.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "molecular-speed"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-031",
+      "question_text": "How many moles of gas are present in a 2.0 L container at 400 K and 2.5 atm?",
+      "options": ["A. 0.076 mol", "B. 0.15 mol", "C. 0.38 mol", "D. 0.61 mol"],
+      "correct_answer": "B",
+      "explanation": "Using PV = nRT: n = PV/RT = (2.5 atm)(2.0 L)/[(0.0821 L·atm/mol·K)(400 K)] = 5.0/32.84 = 0.152 mol ≈ 0.15 mol.",
+      "concept_tags": ["gases", "ideal-gas-law", "mole-calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-032",
+      "question_text": "A gas mixture contains equal masses of H₂ (M = 2) and He (M = 4). What is the mole fraction of H₂?",
+      "options": ["A. 0.33", "B. 0.50", "C. 0.67", "D. 0.75"],
+      "correct_answer": "C",
+      "explanation": "If mass of each is m grams: moles H₂ = m/2, moles He = m/4. Total moles = m/2 + m/4 = 3m/4. Mole fraction H₂ = (m/2)/(3m/4) = (m/2) × (4/3m) = 2/3 = 0.67.",
+      "concept_tags": ["gases", "mole-fraction", "daltons-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-033",
+      "question_text": "At what temperature will the rms speed of oxygen molecules equal the rms speed of hydrogen molecules at 300 K?",
+      "options": ["A. 300 K", "B. 1200 K", "C. 2400 K", "D. 4800 K"],
+      "correct_answer": "D",
+      "explanation": "For equal rms speeds: √(3RT_O₂/M_O₂) = √(3RT_H₂/M_H₂). This gives T_O₂/M_O₂ = T_H₂/M_H₂. T_O₂ = T_H₂ × (M_O₂/M_H₂) = 300 K × (32/2) = 4800 K.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "rms-speed"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-034",
+      "question_text": "The compressibility factor Z = PV/nRT for an ideal gas is always equal to:",
+      "options": ["A. 0", "B. 1", "C. Greater than 1", "D. Less than 1"],
+      "correct_answer": "B",
+      "explanation": "For an ideal gas, PV = nRT, so Z = PV/nRT = 1. Deviations from Z = 1 indicate non-ideal behavior. Z > 1 suggests repulsive forces dominate; Z < 1 suggests attractive forces dominate.",
+      "concept_tags": ["gases", "ideal-gas-law", "compressibility-factor"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-035",
+      "question_text": "A gas at 2.00 atm and 27°C occupies 3.00 L. If the gas is cooled to -73°C at constant volume, what is the new pressure?",
+      "options": ["A. 0.67 atm", "B. 1.00 atm", "C. 1.33 atm", "D. 3.00 atm"],
+      "correct_answer": "C",
+      "explanation": "Using Gay-Lussac's Law: P₁/T₁ = P₂/T₂. Converting: T₁ = 300 K, T₂ = 200 K. P₂ = P₁(T₂/T₁) = 2.00 atm × (200/300) = 1.33 atm.",
+      "concept_tags": ["gases", "gay-lussacs-law", "pressure-temperature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-036",
+      "question_text": "Which statement about gas diffusion and effusion is correct?",
+      "options": ["A. Diffusion is faster than effusion for the same gas", "B. Both processes depend on molar mass according to Graham's Law", "C. Effusion occurs through large openings", "D. Diffusion is independent of molar mass"],
+      "correct_answer": "B",
+      "explanation": "Both diffusion (mixing of gases) and effusion (escape through a small hole) rates are inversely proportional to the square root of molar mass, as described by Graham's Law. Effusion specifically occurs through small openings.",
+      "concept_tags": ["gases", "grahams-law", "diffusion", "effusion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-037",
+      "question_text": "If the pressure on a gas is tripled while the absolute temperature is also tripled, the volume will:",
+      "options": ["A. Triple", "B. Remain unchanged", "C. Decrease to one-third", "D. Increase nine-fold"],
+      "correct_answer": "B",
+      "explanation": "Using the combined gas law: V₂/V₁ = (P₁/P₂)(T₂/T₁) = (1/3)(3) = 1. The volume remains unchanged because the effects of pressure and temperature changes cancel out.",
+      "concept_tags": ["gases", "combined-gas-law", "pressure-volume-temperature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-038",
+      "question_text": "Calculate the pressure exerted by 1.00 mol of CO₂ at 273 K in a 1.00 L container using the ideal gas law. Then, predict how the pressure from the van der Waals equation would compare (a = 3.59 L²·atm/mol²).",
+      "options": ["A. Ideal: 22.4 atm; van der Waals: higher", "B. Ideal: 22.4 atm; van der Waals: lower", "C. Ideal: 1.00 atm; van der Waals: higher", "D. Ideal: 1.00 atm; van der Waals: lower"],
+      "correct_answer": "B",
+      "explanation": "Ideal: P = nRT/V = (1.00)(0.0821)(273)/1.00 = 22.4 atm. The van der Waals equation corrects for attractive forces (using constant a), which reduce the observed pressure below ideal. Therefore, vdW pressure would be lower.",
+      "concept_tags": ["gases", "ideal-gas-law", "van-der-waals", "real-gases"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-039",
+      "question_text": "The Maxwell-Boltzmann distribution curve for gas molecules at higher temperatures compared to lower temperatures shows:",
+      "options": ["A. A narrower peak shifted to lower speeds", "B. A broader peak shifted to higher speeds", "C. The same shape but at higher speeds", "D. A narrower peak at the same speed"],
+      "correct_answer": "B",
+      "explanation": "At higher temperatures, the Maxwell-Boltzmann distribution becomes broader and flatter, with the peak (most probable speed) shifting to higher speeds. More molecules have higher speeds, and the distribution of speeds becomes wider.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "maxwell-boltzmann"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-040",
+      "question_text": "A rigid container holds a gas at 300 K. If the absolute temperature increases to 600 K, the average kinetic energy of the gas molecules:",
+      "options": ["A. Doubles", "B. Quadruples", "C. Increases by √2", "D. Remains the same"],
+      "correct_answer": "A",
+      "explanation": "Average kinetic energy is directly proportional to absolute temperature: KE_avg = (3/2)kT. If T doubles from 300 K to 600 K, the average kinetic energy also doubles.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "kinetic-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-041",
+      "question_text": "A sample of gas has a volume of 200 mL at 25°C and 760 torr. What volume will it occupy at STP?",
+      "options": ["A. 183 mL", "B. 200 mL", "C. 218 mL", "D. 244 mL"],
+      "correct_answer": "A",
+      "explanation": "Using combined gas law: V₂ = V₁(P₁/P₂)(T₂/T₁). T₁ = 298 K, T₂ = 273 K, P₁ = P₂ = 760 torr. V₂ = 200 mL × (760/760) × (273/298) = 200 × 0.916 = 183 mL.",
+      "concept_tags": ["gases", "combined-gas-law", "STP"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-042",
+      "question_text": "A mixture of Ne and Ar has a total pressure of 2.0 atm. If there are 3.0 mol of Ne and 1.0 mol of Ar, what is the partial pressure of Ne?",
+      "options": ["A. 0.5 atm", "B. 1.0 atm", "C. 1.5 atm", "D. 2.0 atm"],
+      "correct_answer": "C",
+      "explanation": "Mole fraction of Ne = 3.0/(3.0 + 1.0) = 0.75. P_Ne = X_Ne × P_total = 0.75 × 2.0 atm = 1.5 atm.",
+      "concept_tags": ["gases", "daltons-law", "partial-pressures", "mole-fraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-043",
+      "question_text": "A gas cylinder contains oxygen at 150 atm and 25°C. If the temperature rises to 50°C due to a fire, what will be the new pressure (assuming the cylinder doesn't burst)?",
+      "options": ["A. 162.5 atm", "B. 175 atm", "C. 300 atm", "D. 75 atm"],
+      "correct_answer": "A",
+      "explanation": "Using Gay-Lussac's Law at constant volume: P₁/T₁ = P₂/T₂. T₁ = 298 K, T₂ = 323 K. P₂ = 150 atm × (323/298) = 150 × 1.084 = 162.6 atm ≈ 162.5 atm.",
+      "concept_tags": ["gases", "gay-lussacs-law", "pressure-temperature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-044",
+      "question_text": "For a real gas with significant intermolecular attractive forces, the van der Waals constant 'a' would be expected to be:",
+      "options": ["A. Large and positive", "B. Small and positive", "C. Negative", "D. Zero"],
+      "correct_answer": "A",
+      "explanation": "The van der Waals constant 'a' represents the magnitude of intermolecular attractive forces. Gases with strong attractions (like polar molecules or those capable of hydrogen bonding) have large, positive 'a' values.",
+      "concept_tags": ["gases", "van-der-waals", "real-gases", "intermolecular-forces"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-045",
+      "question_text": "A gas sample weighing 0.440 g occupies 250 mL at STP. What is the molar mass of the gas?",
+      "options": ["A. 22 g/mol", "B. 32 g/mol", "C. 39 g/mol", "D. 44 g/mol"],
+      "correct_answer": "C",
+      "explanation": "At STP, moles = V/22.4 L = 0.250 L/22.4 L/mol = 0.01116 mol. Molar mass = mass/moles = 0.440 g/0.01116 mol = 39.4 g/mol ≈ 39 g/mol.",
+      "concept_tags": ["gases", "molar-mass", "STP", "gas-density"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-046",
+      "question_text": "A 10.0 L tank of helium at 20 atm is connected to an empty 5.0 L tank. After equilibration at constant temperature, what is the final pressure?",
+      "options": ["A. 6.67 atm", "B. 10.0 atm", "C. 13.3 atm", "D. 20.0 atm"],
+      "correct_answer": "C",
+      "explanation": "Using Boyle's Law: P₁V₁ = P₂V₂. Initial: 20 atm × 10.0 L = 200 L·atm. Final volume = 10.0 + 5.0 = 15.0 L. P₂ = 200/15.0 = 13.3 atm.",
+      "concept_tags": ["gases", "boyles-law", "pressure-volume"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-04-047",
+      "question_text": "At 500 K, what is the rms speed of nitrogen molecules (M = 28 g/mol)? (R = 8.314 J/mol·K)",
+      "options": ["A. 422 m/s", "B. 595 m/s", "C. 667 m/s", "D. 840 m/s"],
+      "correct_answer": "C",
+      "explanation": "u_rms = √(3RT/M) = √[(3)(8.314 J/mol·K)(500 K)/(0.028 kg/mol)] = √(12471/0.028) = √445393 = 667 m/s. Note: M must be in kg/mol when using R in J/mol·K.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "rms-speed"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-048",
+      "question_text": "A gas has a compressibility factor Z = 0.85 at certain conditions. This indicates that:",
+      "options": ["A. The gas behaves ideally", "B. Attractive forces dominate, and the actual volume is less than ideal", "C. Repulsive forces dominate, and the actual volume is greater than ideal", "D. The gas cannot be compressed further"],
+      "correct_answer": "B",
+      "explanation": "Z = PV/nRT. When Z < 1, the actual PV product is less than predicted by ideal behavior, meaning the actual volume is smaller than ideal. This occurs when attractive forces dominate, pulling molecules closer together.",
+      "concept_tags": ["gases", "compressibility-factor", "real-gases"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-049",
+      "question_text": "An unknown gas effuses at a rate of 4.0 mL/min while CO₂ (M = 44 g/mol) effuses at 2.0 mL/min under identical conditions. What is the molar mass of the unknown gas?",
+      "options": ["A. 11 g/mol", "B. 22 g/mol", "C. 88 g/mol", "D. 176 g/mol"],
+      "correct_answer": "A",
+      "explanation": "Graham's Law: r₁/r₂ = √(M₂/M₁). 4.0/2.0 = √(44/M₁). 2 = √(44/M₁). 4 = 44/M₁. M₁ = 44/4 = 11 g/mol.",
+      "concept_tags": ["gases", "grahams-law", "effusion", "molar-mass"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-050",
+      "question_text": "Using the van der Waals equation, calculate the pressure of 2.00 mol of CO₂ in a 4.00 L container at 300 K. Given: a = 3.59 L²·atm/mol², b = 0.0427 L/mol.",
+      "options": ["A. 10.0 atm", "B. 11.3 atm", "C. 12.3 atm", "D. 13.5 atm"],
+      "correct_answer": "B",
+      "explanation": "Van der Waals: P = [nRT/(V-nb)] - [an²/V²]. P = [(2.00)(0.0821)(300)/(4.00-2×0.0427)] - [(3.59)(4.00)/(16.0)] = [49.26/3.915] - [14.36/16.0] = 12.59 - 0.90 = 11.69 ≈ 11.3 atm.",
+      "concept_tags": ["gases", "van-der-waals", "real-gases"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-051",
+      "question_text": "In a mixture of gases at equilibrium, which property is the same for all component gases?",
+      "options": ["A. Average speed", "B. Average kinetic energy", "C. Rate of effusion", "D. Partial pressure"],
+      "correct_answer": "B",
+      "explanation": "At thermal equilibrium, all gases in a mixture have the same temperature and therefore the same average kinetic energy (KE = 3kT/2). Speed, effusion rate, and partial pressure depend on molar mass and/or mole fraction.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "thermal-equilibrium"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-052",
+      "question_text": "A container holds a gas at 2.0 atm. The gas is allowed to expand adiabatically (no heat transfer) into a vacuum, doubling its volume. What is the final pressure?",
+      "options": ["A. 1.0 atm", "B. 2.0 atm", "C. 0.5 atm", "D. Cannot be determined without knowing γ"],
+      "correct_answer": "A",
+      "explanation": "Free expansion into a vacuum is an irreversible process. For an ideal gas, internal energy depends only on temperature. No work is done (expansion against vacuum), and no heat transfers (adiabatic). Temperature remains constant, so P₁V₁ = P₂V₂: P₂ = 2.0 atm × (V/2V) = 1.0 atm.",
+      "concept_tags": ["gases", "free-expansion", "adiabatic-process"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-053",
+      "question_text": "A scuba tank contains 12 L of air at 200 atm and 25°C. What volume would this air occupy at the surface (1 atm, 25°C)?",
+      "options": ["A. 60 L", "B. 240 L", "C. 1200 L", "D. 2400 L"],
+      "correct_answer": "D",
+      "explanation": "At constant temperature, Boyle's Law applies: P₁V₁ = P₂V₂. V₂ = P₁V₁/P₂ = (200 atm)(12 L)/(1 atm) = 2400 L.",
+      "concept_tags": ["gases", "boyles-law", "pressure-volume"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-054",
+      "question_text": "The most probable speed, average speed, and rms speed of gas molecules are related as:",
+      "options": ["A. Most probable > average > rms", "B. rms > average > most probable", "C. Average > rms > most probable", "D. They are all equal"],
+      "correct_answer": "B",
+      "explanation": "For a Maxwell-Boltzmann distribution: u_rms > u_avg > u_mp. Specifically: u_mp = √(2RT/M), u_avg = √(8RT/πM), u_rms = √(3RT/M). The ratios are approximately 1:1.128:1.225.",
+      "concept_tags": ["gases", "kinetic-molecular-theory", "maxwell-boltzmann", "molecular-speed"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-055",
+      "question_text": "A gas sample at 27°C and 1.5 atm has a density of 2.5 g/L. What is the molar mass?",
+      "options": ["A. 28 g/mol", "B. 35 g/mol", "C. 41 g/mol", "D. 52 g/mol"],
+      "correct_answer": "C",
+      "explanation": "Using the density form of the ideal gas law: M = dRT/P = (2.5 g/L)(0.0821 L·atm/mol·K)(300 K)/(1.5 atm) = 61.575/1.5 = 41.05 g/mol ≈ 41 g/mol.",
+      "concept_tags": ["gases", "gas-density", "molar-mass", "ideal-gas-law"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-056",
+      "question_text": "A gas mixture contains 2.0 g H₂, 28.0 g N₂, and 32.0 g O₂. What is the total pressure if the mixture is in a 10.0 L container at 300 K?",
+      "options": ["A. 4.9 atm", "B. 7.4 atm", "C. 9.9 atm", "D. 12.3 atm"],
+      "correct_answer": "B",
+      "explanation": "Moles: H₂ = 2.0/2.0 = 1.0 mol; N₂ = 28.0/28.0 = 1.0 mol; O₂ = 32.0/32.0 = 1.0 mol. Total = 3.0 mol. P = nRT/V = (3.0)(0.0821)(300)/10.0 = 7.39 atm ≈ 7.4 atm.",
+      "concept_tags": ["gases", "ideal-gas-law", "daltons-law", "partial-pressures"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-057",
+      "question_text": "At high pressures, real gas behavior differs from ideal gas behavior primarily because:",
+      "options": ["A. Molecular speeds increase beyond the Maxwell-Boltzmann prediction", "B. The volume occupied by gas molecules becomes significant compared to the container volume", "C. Collisions between molecules become inelastic", "D. The temperature of the gas decreases"],
+      "correct_answer": "B",
+      "explanation": "At high pressures, gas molecules are forced close together, and their actual volume becomes a significant fraction of the container volume. The ideal gas assumption of negligible molecular volume fails, causing deviations from PV = nRT.",
+      "concept_tags": ["gases", "real-gases", "ideal-gas-deviations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-058",
+      "question_text": "A chemist collects 240 mL of hydrogen gas over water at 25°C and 755 torr. If the vapor pressure of water at 25°C is 24 torr, how many moles of dry H₂ were collected?",
+      "options": ["A. 0.0095 mol", "B. 0.0097 mol", "C. 0.0099 mol", "D. 0.0101 mol"],
+      "correct_answer": "A",
+      "explanation": "P_H₂ = P_total - P_H₂O = 755 - 24 = 731 torr = 0.962 atm. n = PV/RT = (0.962)(0.240)/[(0.0821)(298)] = 0.231/24.47 = 0.00943 mol ≈ 0.0095 mol.",
+      "concept_tags": ["gases", "daltons-law", "partial-pressures", "vapor-pressure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-059",
+      "question_text": "For which of the following gases would the ideal gas law give the most accurate results at 1 atm and 25°C?",
+      "options": ["A. HCl", "B. Ne", "C. NH₃", "D. H₂O vapor"],
+      "correct_answer": "B",
+      "explanation": "Noble gases like Ne have the weakest intermolecular forces and smallest molecular size, making them behave most ideally. HCl is polar, NH₃ forms hydrogen bonds, and H₂O vapor has strong hydrogen bonding, all causing deviations from ideal behavior.",
+      "concept_tags": ["gases", "ideal-gas-law", "real-gases", "intermolecular-forces"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-04-060",
+      "question_text": "Two identical balloons contain equal moles of H₂ and O₂ respectively at the same temperature and pressure. After 1 hour, the H₂ balloon has lost 20% of its gas by effusion. What percentage of O₂ has the other balloon lost?",
+      "options": ["A. 5%", "B. 10%", "C. 15%", "D. 20%"],
+      "correct_answer": "A",
+      "explanation": "Graham's Law: r_H₂/r_O₂ = √(M_O₂/M_H₂) = √(32/2) = 4. H₂ effuses 4 times faster than O₂. If H₂ lost 20%, O₂ lost 20%/4 = 5%.",
+      "concept_tags": ["gases", "grahams-law", "effusion"],
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 2,
+  "chapter_title": "Reproduction",
+  "questions": [
+    {
+      "id": "biology-02-001",
+      "question_text": "A human somatic cell in G1 phase contains how many chromosomes?",
+      "options": [
+        "A. 23",
+        "B. 46",
+        "C. 92",
+        "D. 23 pairs of sister chromatids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Human somatic cells are diploid (2n) and contain 46 chromosomes throughout most of the cell cycle. In G1, before DNA replication, each chromosome consists of a single chromatid. The number 23 represents the haploid number found in germ cells. After S phase, there are still 46 chromosomes, but each consists of 2 sister chromatids (92 chromatids total).",
+      "concept_tags": ["cell-cycle", "chromosomes", "ploidy", "g1-phase"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-002",
+      "question_text": "During which phase of the cell cycle does DNA replication occur?",
+      "options": [
+        "A. G1 phase",
+        "B. S phase",
+        "C. G2 phase",
+        "D. M phase"
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA replication occurs during the S (synthesis) phase of the cell cycle. G1 is the presynthetic gap where the cell grows and prepares for DNA synthesis. G2 is the postsynthetic gap where the cell prepares for division. M phase is mitosis, where the replicated chromosomes are separated.",
+      "concept_tags": ["cell-cycle", "dna-replication", "s-phase"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-003",
+      "question_text": "Cells that are not actively dividing remain in which stage?",
+      "options": [
+        "A. G0",
+        "B. G1",
+        "C. S phase",
+        "D. G2"
+      ],
+      "correct_answer": "A",
+      "explanation": "Cells that do not divide (like neurons and mature muscle cells) remain in G0, an offshoot of G1. In G0, cells carry out their normal functions without preparing for division. Some cells can re-enter the cell cycle from G0 if stimulated by appropriate signals.",
+      "concept_tags": ["cell-cycle", "g0-phase", "cell-division"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-004",
+      "question_text": "The restriction point in the cell cycle is located between:",
+      "options": [
+        "A. G0 and G1",
+        "B. G1 and S phase",
+        "C. S phase and G2",
+        "D. G2 and M phase"
+      ],
+      "correct_answer": "B",
+      "explanation": "The restriction point is located between G1 and S phase (G1/S checkpoint). At this point, the cell determines whether conditions are favorable for DNA replication. The cell must have the proper complement of DNA and adequate size before proceeding to S phase.",
+      "concept_tags": ["cell-cycle", "restriction-point", "checkpoint", "g1-s-checkpoint"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-005",
+      "question_text": "After DNA replication in S phase, a human cell contains:",
+      "options": [
+        "A. 23 chromosomes, each with 1 chromatid",
+        "B. 46 chromosomes, each with 1 chromatid",
+        "C. 46 chromosomes, each with 2 sister chromatids",
+        "D. 92 chromosomes, each with 1 chromatid"
+      ],
+      "correct_answer": "C",
+      "explanation": "After S phase, the cell still has 46 chromosomes (ploidy doesn't change), but each chromosome now consists of 2 identical sister chromatids joined at the centromere. This means there are 92 chromatids total, but they are organized as 46 chromosomes.",
+      "concept_tags": ["cell-cycle", "dna-replication", "sister-chromatids", "chromosomes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-006",
+      "question_text": "Which protein plays a key role in arresting the cell cycle when DNA damage is detected?",
+      "options": [
+        "A. Cyclin B",
+        "B. CDK1",
+        "C. p53",
+        "D. Histone H1"
+      ],
+      "correct_answer": "C",
+      "explanation": "p53 is a tumor suppressor protein that plays a crucial role in cell cycle arrest when DNA damage is detected. It functions at both the G1/S and G2/M checkpoints. Mutations in the TP53 gene (which encodes p53) are among the most common mutations found in cancer.",
+      "concept_tags": ["p53", "cell-cycle-control", "tumor-suppressor", "dna-damage"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-007",
+      "question_text": "Cyclins regulate the cell cycle by:",
+      "options": [
+        "A. directly phosphorylating DNA",
+        "B. binding to and activating cyclin-dependent kinases (CDKs)",
+        "C. degrading damaged chromosomes",
+        "D. synthesizing new DNA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cyclins bind to cyclin-dependent kinases (CDKs) to form active CDK-cyclin complexes. These complexes then phosphorylate transcription factors that promote transcription of genes required for the next stage of the cell cycle. Cyclin concentrations rise and fall at specific stages of the cell cycle.",
+      "concept_tags": ["cyclins", "cdk", "cell-cycle-control", "kinases"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-008",
+      "question_text": "During which phase of mitosis do chromosomes first become visible under a light microscope?",
+      "options": [
+        "A. Interphase",
+        "B. Prophase",
+        "C. Metaphase",
+        "D. Anaphase"
+      ],
+      "correct_answer": "B",
+      "explanation": "During prophase, chromatin condenses into visible chromosomes. In interphase, DNA exists as less condensed chromatin that is not visible as distinct chromosomes under light microscopy. The condensation of chromatin into chromosomes is one of the first events of prophase.",
+      "concept_tags": ["mitosis", "prophase", "chromosome-condensation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-009",
+      "question_text": "The spindle apparatus is composed primarily of:",
+      "options": [
+        "A. actin filaments",
+        "B. intermediate filaments",
+        "C. microtubules",
+        "D. collagen fibers"
+      ],
+      "correct_answer": "C",
+      "explanation": "The spindle apparatus is composed of microtubules that extend from the centrioles. These include kinetochore fibers that attach to chromosomes, polar fibers that overlap in the middle of the cell, and aster fibers that anchor centrioles to the cell membrane.",
+      "concept_tags": ["spindle-apparatus", "microtubules", "mitosis", "centrioles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-010",
+      "question_text": "Kinetochores are protein structures that:",
+      "options": [
+        "A. connect sister chromatids together",
+        "B. serve as attachment points for spindle fibers on chromosomes",
+        "C. form the nuclear envelope",
+        "D. synthesize spindle fibers"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kinetochores are protein structures located on the centromeres of chromosomes that serve as attachment points for kinetochore fibers of the spindle apparatus. This connection allows chromosomes to be moved during cell division. Centromeres connect sister chromatids; centrioles organize spindle fibers.",
+      "concept_tags": ["kinetochore", "centromere", "spindle-fibers", "mitosis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-011",
+      "question_text": "During which phase of mitosis are chromosomes aligned at the cell's equator?",
+      "options": [
+        "A. Prophase",
+        "B. Metaphase",
+        "C. Anaphase",
+        "D. Telophase"
+      ],
+      "correct_answer": "B",
+      "explanation": "During metaphase, chromosomes align at the metaphase plate (equatorial plate), which is equidistant from the two poles of the cell. The kinetochore fibers from opposite poles attach to sister chromatids and position them at this central plane before separation.",
+      "concept_tags": ["mitosis", "metaphase", "metaphase-plate", "chromosome-alignment"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-012",
+      "question_text": "Sister chromatids separate and move to opposite poles during:",
+      "options": [
+        "A. Prophase",
+        "B. Metaphase",
+        "C. Anaphase",
+        "D. Telophase"
+      ],
+      "correct_answer": "C",
+      "explanation": "During anaphase, centromeres split and sister chromatids separate, becoming individual chromosomes. Kinetochore fibers shorten, pulling the separated chromatids toward opposite poles of the cell. This ensures each daughter cell receives an identical set of chromosomes.",
+      "concept_tags": ["mitosis", "anaphase", "sister-chromatid-separation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-013",
+      "question_text": "Which of the following events occurs during telophase?",
+      "options": [
+        "A. Chromosome condensation",
+        "B. Nuclear envelope reformation",
+        "C. Chromosome alignment at the metaphase plate",
+        "D. Separation of sister chromatids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Telophase is essentially the reverse of prophase. The nuclear envelope reforms around each set of chromosomes, nucleoli reappear, chromosomes decondense back to chromatin, and the spindle apparatus disappears. Condensation occurs in prophase; alignment in metaphase; separation in anaphase.",
+      "concept_tags": ["mitosis", "telophase", "nuclear-envelope"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-014",
+      "question_text": "Cytokinesis in animal cells is accomplished by:",
+      "options": [
+        "A. formation of a cell plate",
+        "B. constriction of a cleavage furrow",
+        "C. dissolution of the nuclear membrane",
+        "D. separation of centrioles"
+      ],
+      "correct_answer": "B",
+      "explanation": "In animal cells, cytokinesis occurs through constriction of a cleavage furrow, which is formed by a contractile ring of actin and myosin filaments. This pinches the cell in half. Plant cells form a cell plate from the inside out. Nuclear membrane dissolution occurs in prophase; centriole separation also occurs in prophase.",
+      "concept_tags": ["cytokinesis", "cleavage-furrow", "cell-division"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-015",
+      "question_text": "A mutation in the TP53 gene would most likely result in:",
+      "options": [
+        "A. inability to replicate DNA",
+        "B. failure to arrest the cell cycle when DNA is damaged",
+        "C. inability to form spindle fibers",
+        "D. excessive chromosome condensation"
+      ],
+      "correct_answer": "B",
+      "explanation": "TP53 encodes the p53 protein, which arrests the cell cycle when DNA damage is detected. Mutations in TP53 prevent this checkpoint function, allowing cells with damaged DNA to continue dividing. This can lead to accumulation of mutations and cancer development.",
+      "concept_tags": ["p53", "tp53", "tumor-suppressor", "cancer", "cell-cycle-control"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-016",
+      "question_text": "The centrosome functions as:",
+      "options": [
+        "A. the site of DNA replication",
+        "B. the microtubule organizing center",
+        "C. the location of protein synthesis",
+        "D. the attachment point for sister chromatids"
+      ],
+      "correct_answer": "B",
+      "explanation": "The centrosome, which contains two centrioles, serves as the microtubule organizing center (MTOC) of the cell. During cell division, the centrosome organizes the spindle apparatus. DNA replication occurs in the nucleus; protein synthesis on ribosomes; sister chromatid attachment at centromeres.",
+      "concept_tags": ["centrosome", "centrioles", "mtoc", "microtubules"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-017",
+      "question_text": "Interphase includes which of the following stages?",
+      "options": [
+        "A. Prophase, metaphase, and anaphase",
+        "B. G1, S, and G2",
+        "C. Metaphase, anaphase, and telophase",
+        "D. S, G2, and M"
+      ],
+      "correct_answer": "B",
+      "explanation": "Interphase consists of G1 (presynthetic gap), S (synthesis), and G2 (postsynthetic gap). Interphase is the longest part of the cell cycle, comprising about 90% of the total cycle time in actively dividing cells. M phase (mitosis) is not part of interphase.",
+      "concept_tags": ["interphase", "cell-cycle", "g1-phase", "s-phase", "g2-phase"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-018",
+      "question_text": "During G2 phase, the cell primarily:",
+      "options": [
+        "A. replicates its DNA",
+        "B. divides into two daughter cells",
+        "C. checks DNA replication fidelity and prepares for division",
+        "D. remains dormant"
+      ],
+      "correct_answer": "C",
+      "explanation": "During G2, the cell passes through a quality control checkpoint to ensure DNA replication proceeded correctly and that there are enough organelles and cytoplasm for two daughter cells. DNA replication occurs in S phase; division occurs in M phase; dormancy is characteristic of G0.",
+      "concept_tags": ["g2-phase", "cell-cycle", "checkpoint"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-019",
+      "question_text": "Cancer cells often exhibit uncontrolled division because they:",
+      "options": [
+        "A. have enhanced DNA repair mechanisms",
+        "B. have mutations in genes controlling the cell cycle",
+        "C. spend more time in G0",
+        "D. have fewer chromosomes than normal cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cancer cells often have mutations in oncogenes or tumor suppressor genes (like TP53) that control the cell cycle. This allows them to bypass checkpoints and divide continuously without proper quality control. Cancer cells typically have impaired DNA repair and rarely enter G0.",
+      "concept_tags": ["cancer", "cell-cycle-control", "oncogenes", "tumor-suppressors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-020",
+      "question_text": "Metastasis refers to the process by which cancer cells:",
+      "options": [
+        "A. undergo apoptosis",
+        "B. repair damaged DNA",
+        "C. spread to distant sites in the body",
+        "D. stop dividing"
+      ],
+      "correct_answer": "C",
+      "explanation": "Metastasis is the spread of cancer cells from the primary tumor to distant sites through the bloodstream or lymphatic system. This requires cancer cells to acquire abilities like producing proteases to digest basement membranes and factors that encourage blood vessel formation (angiogenesis).",
+      "concept_tags": ["metastasis", "cancer", "tumor-invasion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-021",
+      "question_text": "Meiosis differs from mitosis in that meiosis:",
+      "options": [
+        "A. produces two identical diploid cells",
+        "B. produces four genetically unique haploid cells",
+        "C. occurs in all body cells",
+        "D. does not involve DNA replication"
+      ],
+      "correct_answer": "B",
+      "explanation": "Meiosis produces four genetically unique haploid (n) cells from one diploid (2n) cell. This occurs through two rounds of division (meiosis I and II) following one round of DNA replication. Mitosis produces two identical diploid cells and occurs in somatic cells. Both processes require DNA replication.",
+      "concept_tags": ["meiosis", "mitosis", "haploid", "genetic-diversity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-022",
+      "question_text": "Crossing over during meiosis occurs between:",
+      "options": [
+        "A. sister chromatids of the same chromosome",
+        "B. non-sister chromatids of homologous chromosomes",
+        "C. chromosomes from different chromosome pairs",
+        "D. the centromeres of sister chromatids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Crossing over occurs during prophase I of meiosis between non-sister chromatids of homologous chromosomes. This exchange of genetic material increases genetic diversity. Crossing over does not typically occur between sister chromatids (which are identical) or between non-homologous chromosomes.",
+      "concept_tags": ["crossing-over", "meiosis", "recombination", "genetic-diversity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-023",
+      "question_text": "Homologous chromosomes separate during:",
+      "options": [
+        "A. Anaphase of mitosis",
+        "B. Anaphase I of meiosis",
+        "C. Anaphase II of meiosis",
+        "D. Metaphase I of meiosis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Homologous chromosomes separate during anaphase I of meiosis. This reduces the chromosome number from diploid to haploid. In anaphase of mitosis and anaphase II of meiosis, sister chromatids separate. During metaphase I, homologs align but don't separate.",
+      "concept_tags": ["meiosis", "anaphase-i", "homologous-chromosomes", "chromosome-separation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-024",
+      "question_text": "Sister chromatids separate during:",
+      "options": [
+        "A. Anaphase I only",
+        "B. Anaphase II only",
+        "C. Both anaphase of mitosis and anaphase II of meiosis",
+        "D. Prophase I"
+      ],
+      "correct_answer": "C",
+      "explanation": "Sister chromatids separate during anaphase of mitosis and anaphase II of meiosis. During anaphase I, homologous chromosomes separate, but sister chromatids remain joined at their centromeres. The second division of meiosis resembles mitosis in that sister chromatids separate.",
+      "concept_tags": ["sister-chromatids", "anaphase", "mitosis", "meiosis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-025",
+      "question_text": "Independent assortment of chromosomes occurs during:",
+      "options": [
+        "A. S phase",
+        "B. Metaphase of mitosis",
+        "C. Metaphase I of meiosis",
+        "D. Telophase II of meiosis"
+      ],
+      "correct_answer": "C",
+      "explanation": "Independent assortment occurs during metaphase I of meiosis when homologous pairs align randomly at the metaphase plate. Each pair's orientation is independent of other pairs, creating 2^n possible combinations (where n is the haploid number). This does not occur in mitosis, where there are no homologous pairs aligning.",
+      "concept_tags": ["independent-assortment", "meiosis", "metaphase-i", "genetic-diversity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-026",
+      "question_text": "After meiosis I is complete, each cell contains:",
+      "options": [
+        "A. 46 chromosomes, each with one chromatid",
+        "B. 23 chromosomes, each with two sister chromatids",
+        "C. 46 chromosomes, each with two sister chromatids",
+        "D. 23 chromosomes, each with one chromatid"
+      ],
+      "correct_answer": "B",
+      "explanation": "After meiosis I, each cell is haploid (23 chromosomes in humans), but each chromosome still consists of two sister chromatids joined at the centromere. The sister chromatids don't separate until anaphase II. The reduction in chromosome number (diploid to haploid) occurs in meiosis I.",
+      "concept_tags": ["meiosis-i", "haploid", "sister-chromatids", "chromosome-number"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-027",
+      "question_text": "The genetic diversity produced by meiosis results from:",
+      "options": [
+        "A. crossing over and independent assortment only",
+        "B. random mutations during DNA replication only",
+        "C. crossing over, independent assortment, and random fertilization",
+        "D. mitotic errors"
+      ],
+      "correct_answer": "C",
+      "explanation": "Genetic diversity from sexual reproduction results from three main mechanisms: crossing over (recombination during prophase I), independent assortment (random orientation of homologs at metaphase I), and random fertilization (any sperm can fertilize any egg). While mutations occur, they are not the primary source of meiotic diversity.",
+      "concept_tags": ["genetic-diversity", "crossing-over", "independent-assortment", "fertilization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-028",
+      "question_text": "A tetrad consists of:",
+      "options": [
+        "A. four separate chromosomes",
+        "B. two homologous chromosomes, each with two sister chromatids",
+        "C. four non-homologous chromosomes",
+        "D. one chromosome with four chromatids"
+      ],
+      "correct_answer": "B",
+      "explanation": "A tetrad (or bivalent) consists of two homologous chromosomes paired together, with each chromosome having two sister chromatids (four chromatids total). Tetrads form during prophase I of meiosis and are the structures where crossing over occurs.",
+      "concept_tags": ["tetrad", "bivalent", "meiosis", "homologous-chromosomes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-029",
+      "question_text": "The chiasmata observed during meiosis are the physical sites of:",
+      "options": [
+        "A. centromere formation",
+        "B. crossing over",
+        "C. spindle fiber attachment",
+        "D. nuclear envelope breakdown"
+      ],
+      "correct_answer": "B",
+      "explanation": "Chiasmata (singular: chiasma) are the visible X-shaped structures where non-sister chromatids of homologous chromosomes have exchanged segments through crossing over. They can be observed during late prophase I and metaphase I of meiosis.",
+      "concept_tags": ["chiasmata", "crossing-over", "meiosis", "recombination"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-030",
+      "question_text": "Nondisjunction during meiosis I would result in gametes with:",
+      "options": [
+        "A. the normal number of chromosomes",
+        "B. either an extra chromosome or a missing chromosome",
+        "C. twice the normal number of chromosomes",
+        "D. no chromosomes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nondisjunction is the failure of chromosomes to separate properly. If it occurs in meiosis I (homologs fail to separate), the resulting gametes will have either an extra chromosome (n+1) or be missing a chromosome (n-1). Fertilization with such gametes leads to aneuploidy.",
+      "concept_tags": ["nondisjunction", "aneuploidy", "meiosis", "chromosomal-abnormalities"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-031",
+      "question_text": "The male gonads, which produce sperm and testosterone, are the:",
+      "options": [
+        "A. prostate glands",
+        "B. seminal vesicles",
+        "C. testes",
+        "D. epididymis"
+      ],
+      "correct_answer": "C",
+      "explanation": "The testes are the male gonads responsible for producing sperm (spermatogenesis) and testosterone. The prostate and seminal vesicles produce seminal fluid. The epididymis is where sperm mature and are stored after leaving the testes.",
+      "concept_tags": ["testes", "male-reproductive-system", "spermatogenesis", "testosterone"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-032",
+      "question_text": "Spermatogenesis occurs in the:",
+      "options": [
+        "A. epididymis",
+        "B. seminiferous tubules",
+        "C. vas deferens",
+        "D. prostate gland"
+      ],
+      "correct_answer": "B",
+      "explanation": "Spermatogenesis occurs in the seminiferous tubules of the testes. Sertoli cells within these tubules support and nourish developing sperm. The epididymis stores mature sperm, the vas deferens transports sperm, and the prostate produces seminal fluid.",
+      "concept_tags": ["spermatogenesis", "seminiferous-tubules", "testes", "male-reproductive-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-033",
+      "question_text": "The cells that produce testosterone in the testes are:",
+      "options": [
+        "A. Sertoli cells",
+        "B. Leydig cells (interstitial cells)",
+        "C. spermatogonia",
+        "D. spermatids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Leydig cells (interstitial cells), located between the seminiferous tubules, produce testosterone in response to luteinizing hormone (LH). Sertoli cells support developing sperm. Spermatogonia are stem cells that give rise to sperm. Spermatids are immature sperm cells.",
+      "concept_tags": ["leydig-cells", "testosterone", "testes", "male-reproductive-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-034",
+      "question_text": "The female gonads, which produce eggs and hormones, are the:",
+      "options": [
+        "A. fallopian tubes",
+        "B. uterus",
+        "C. ovaries",
+        "D. cervix"
+      ],
+      "correct_answer": "C",
+      "explanation": "The ovaries are the female gonads that produce eggs (oocytes) through oogenesis and secrete estrogen and progesterone. The fallopian tubes transport eggs to the uterus, where implantation occurs. The cervix is the lower portion of the uterus.",
+      "concept_tags": ["ovaries", "female-reproductive-system", "oogenesis", "hormones"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-035",
+      "question_text": "Oogenesis differs from spermatogenesis in that oogenesis produces:",
+      "options": [
+        "A. four functional gametes from each primary oocyte",
+        "B. one functional egg and polar bodies from each primary oocyte",
+        "C. gametes continuously throughout life",
+        "D. diploid gametes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Oogenesis produces one functional egg and typically three polar bodies from each primary oocyte. The unequal division ensures the egg receives most of the cytoplasm. Spermatogenesis produces four functional sperm from each primary spermatocyte. Oogenesis is largely completed before birth, not continuous.",
+      "concept_tags": ["oogenesis", "polar-bodies", "spermatogenesis", "gamete-formation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-036",
+      "question_text": "Fertilization typically occurs in the:",
+      "options": [
+        "A. ovary",
+        "B. fallopian tube (oviduct)",
+        "C. uterus",
+        "D. vagina"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fertilization typically occurs in the fallopian tube (oviduct), usually in the ampulla (widest part). The fertilized egg (zygote) then travels to the uterus for implantation. The ovary releases the egg, and the uterus is the site of implantation and fetal development.",
+      "concept_tags": ["fertilization", "fallopian-tube", "female-reproductive-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-02-037",
+      "question_text": "The menstrual cycle is regulated primarily by hormones from the:",
+      "options": [
+        "A. thyroid and adrenal glands",
+        "B. hypothalamus, anterior pituitary, and ovaries",
+        "C. posterior pituitary and kidneys",
+        "D. pancreas and liver"
+      ],
+      "correct_answer": "B",
+      "explanation": "The menstrual cycle is regulated by the hypothalamic-pituitary-ovarian axis. The hypothalamus releases GnRH, which stimulates the anterior pituitary to release FSH and LH, which act on the ovaries. The ovaries produce estrogen and progesterone, which provide feedback to the hypothalamus and pituitary.",
+      "concept_tags": ["menstrual-cycle", "hormones", "hypothalamus", "pituitary", "ovaries"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-038",
+      "question_text": "During the follicular phase of the menstrual cycle, the primary hormone produced by the developing follicle is:",
+      "options": [
+        "A. progesterone",
+        "B. testosterone",
+        "C. estrogen",
+        "D. human chorionic gonadotropin (hCG)"
+      ],
+      "correct_answer": "C",
+      "explanation": "During the follicular phase, the developing follicle produces increasing amounts of estrogen, which stimulates the growth of the uterine lining (endometrium). Progesterone is primarily produced during the luteal phase by the corpus luteum. hCG is produced during pregnancy.",
+      "concept_tags": ["follicular-phase", "estrogen", "menstrual-cycle", "ovarian-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-039",
+      "question_text": "Ovulation is triggered by a surge in:",
+      "options": [
+        "A. FSH only",
+        "B. LH",
+        "C. progesterone",
+        "D. estrogen only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ovulation is triggered by a surge in luteinizing hormone (LH) from the anterior pituitary. This LH surge is induced by high estrogen levels during the late follicular phase (positive feedback). The LH surge causes the mature follicle to rupture and release the egg.",
+      "concept_tags": ["ovulation", "lh-surge", "menstrual-cycle", "hormones"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-040",
+      "question_text": "The corpus luteum forms from:",
+      "options": [
+        "A. the unfertilized egg",
+        "B. the remnant of the follicle after ovulation",
+        "C. the uterine lining",
+        "D. the anterior pituitary"
+      ],
+      "correct_answer": "B",
+      "explanation": "After ovulation, the remnant of the follicle transforms into the corpus luteum, which secretes progesterone and some estrogen to maintain the uterine lining. If pregnancy doesn't occur, the corpus luteum degenerates, hormone levels drop, and menstruation begins.",
+      "concept_tags": ["corpus-luteum", "ovulation", "progesterone", "menstrual-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-041",
+      "question_text": "During the luteal phase, the corpus luteum primarily secretes:",
+      "options": [
+        "A. FSH and LH",
+        "B. estrogen only",
+        "C. progesterone and estrogen",
+        "D. GnRH"
+      ],
+      "correct_answer": "C",
+      "explanation": "The corpus luteum secretes progesterone (primarily) and estrogen during the luteal phase. Progesterone maintains the endometrium, preparing it for possible implantation. FSH and LH are pituitary hormones. GnRH is a hypothalamic hormone.",
+      "concept_tags": ["luteal-phase", "corpus-luteum", "progesterone", "estrogen"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-042",
+      "question_text": "Menstruation occurs when:",
+      "options": [
+        "A. the egg is fertilized",
+        "B. progesterone and estrogen levels drop due to corpus luteum degeneration",
+        "C. LH levels reach their peak",
+        "D. the follicle begins developing"
+      ],
+      "correct_answer": "B",
+      "explanation": "If pregnancy doesn't occur, the corpus luteum degenerates, causing progesterone and estrogen levels to drop. Without these hormones to maintain it, the endometrial lining breaks down and is shed during menstruation, marking the beginning of a new cycle.",
+      "concept_tags": ["menstruation", "progesterone", "corpus-luteum", "menstrual-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-043",
+      "question_text": "If fertilization occurs, the corpus luteum is maintained by:",
+      "options": [
+        "A. FSH from the pituitary",
+        "B. LH from the pituitary",
+        "C. human chorionic gonadotropin (hCG) from the embryo",
+        "D. prolactin from the pituitary"
+      ],
+      "correct_answer": "C",
+      "explanation": "If fertilization occurs, the developing embryo (specifically the trophoblast) secretes human chorionic gonadotropin (hCG), which maintains the corpus luteum. This allows continued progesterone production to maintain the endometrium until the placenta can take over hormone production.",
+      "concept_tags": ["hcg", "corpus-luteum", "pregnancy", "progesterone"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-044",
+      "question_text": "The acrosome of a sperm cell contains:",
+      "options": [
+        "A. genetic material",
+        "B. enzymes that help penetrate the egg",
+        "C. mitochondria for energy",
+        "D. flagellar proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "The acrosome is a cap-like structure over the sperm head that contains hydrolytic enzymes (including hyaluronidase and acrosin) that help the sperm penetrate the protective layers around the egg (corona radiata and zona pellucida). Genetic material is in the nucleus; mitochondria are in the midpiece.",
+      "concept_tags": ["acrosome", "sperm", "fertilization", "enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-045",
+      "question_text": "The zona pellucida is:",
+      "options": [
+        "A. the membrane surrounding the sperm",
+        "B. a glycoprotein layer surrounding the egg",
+        "C. the lining of the uterus",
+        "D. the outer layer of the embryo"
+      ],
+      "correct_answer": "B",
+      "explanation": "The zona pellucida is a glycoprotein layer that surrounds the egg (and later the early embryo). Sperm must penetrate this layer for fertilization. After fertilization, the zona pellucida changes to prevent polyspermy (fertilization by multiple sperm).",
+      "concept_tags": ["zona-pellucida", "egg", "fertilization", "glycoprotein"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-046",
+      "question_text": "The cortical reaction after fertilization functions to:",
+      "options": [
+        "A. stimulate cell division",
+        "B. prevent polyspermy",
+        "C. initiate implantation",
+        "D. produce hormones"
+      ],
+      "correct_answer": "B",
+      "explanation": "The cortical reaction is a series of changes in the egg's cortical granules that occur after sperm entry. These changes modify the zona pellucida and egg membrane to prevent additional sperm from entering, thus preventing polyspermy (fertilization by multiple sperm).",
+      "concept_tags": ["cortical-reaction", "polyspermy", "fertilization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-047",
+      "question_text": "Sexual differentiation in males is primarily driven by:",
+      "options": [
+        "A. estrogen",
+        "B. progesterone",
+        "C. testosterone and anti-Müllerian hormone",
+        "D. FSH only"
+      ],
+      "correct_answer": "C",
+      "explanation": "Male sexual differentiation is driven by testosterone (which promotes development of male structures from Wolffian ducts) and anti-Müllerian hormone (AMH, which causes regression of Müllerian ducts that would otherwise form female structures). Both are produced by the developing testes.",
+      "concept_tags": ["sexual-differentiation", "testosterone", "anti-mullerian-hormone", "development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-048",
+      "question_text": "In the absence of testosterone and anti-Müllerian hormone, the default developmental pathway leads to:",
+      "options": [
+        "A. male phenotype",
+        "B. female phenotype",
+        "C. neither male nor female development",
+        "D. development of both male and female structures"
+      ],
+      "correct_answer": "B",
+      "explanation": "The default developmental pathway in mammals is female. Without testosterone to stimulate male structure development and without anti-Müllerian hormone to suppress female structure development, the embryo develops female internal and external genitalia regardless of genetic sex.",
+      "concept_tags": ["sexual-differentiation", "female-development", "default-pathway"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-049",
+      "question_text": "The mitotic spindle checkpoint ensures that:",
+      "options": [
+        "A. DNA has been replicated completely",
+        "B. all chromosomes are properly attached to spindle fibers before anaphase",
+        "C. the cell has adequate size",
+        "D. the nuclear envelope has reformed"
+      ],
+      "correct_answer": "B",
+      "explanation": "The mitotic spindle checkpoint (also called the spindle assembly checkpoint) occurs at the metaphase-to-anaphase transition. It ensures that all chromosomes are properly attached to spindle fibers from both poles before sister chromatid separation proceeds. This prevents aneuploidy.",
+      "concept_tags": ["spindle-checkpoint", "mitosis", "chromosome-attachment", "cell-cycle-control"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-02-050",
+      "question_text": "Which of the following correctly describes the relationship between haploid and diploid cells?",
+      "options": [
+        "A. Haploid cells have twice as many chromosomes as diploid cells",
+        "B. Diploid cells contain two sets of chromosomes; haploid cells contain one set",
+        "C. All human cells are diploid",
+        "D. Haploid cells can undergo mitosis to produce diploid cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Diploid cells (2n) contain two sets of chromosomes (one from each parent), while haploid cells (n) contain one set. In humans, diploid cells have 46 chromosomes and haploid cells (gametes) have 23. Gametes are haploid, so not all human cells are diploid. Mitosis maintains ploidy; it cannot convert haploid to diploid.",
+      "concept_tags": ["haploid", "diploid", "ploidy", "chromosomes"],
+      "difficulty": "easy"
+    }
+  ]
+}

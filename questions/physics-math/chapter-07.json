@@ -1,0 +1,547 @@
+{
+  "book": "physics-math",
+  "chapter": 7,
+  "chapter_title": "Waves and Sound",
+  "questions": [
+    {
+      "id": "physics-math-07-001",
+      "question_text": "A wave has a frequency of 500 Hz and a wavelength of 0.68 m. What is the speed of this wave?",
+      "options": ["A. 340 m/s", "B. 735 m/s", "C. 170 m/s", "D. 500 m/s"],
+      "correct_answer": "A",
+      "explanation": "Using the wave equation v = fλ, we get v = (500 Hz)(0.68 m) = 340 m/s. This is consistent with the speed of sound in air at room temperature.",
+      "concept_tags": ["wave equation", "frequency", "wavelength"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-002",
+      "question_text": "Which of the following correctly describes the relationship between period and frequency of a wave?",
+      "options": ["A. T = f", "B. T = 1/f", "C. T = 2πf", "D. T = f²"],
+      "correct_answer": "B",
+      "explanation": "Period (T) and frequency (f) are reciprocals of each other. T = 1/f, where T is measured in seconds and f is measured in Hertz (cycles per second).",
+      "concept_tags": ["period", "frequency", "wave properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-003",
+      "question_text": "In a transverse wave, the particles of the medium move:",
+      "options": ["A. Parallel to the direction of wave propagation", "B. Perpendicular to the direction of wave propagation", "C. In circular paths", "D. Randomly in all directions"],
+      "correct_answer": "B",
+      "explanation": "In a transverse wave, particles oscillate perpendicular to the direction of wave propagation. Examples include waves on a string and electromagnetic waves.",
+      "concept_tags": ["transverse waves", "wave motion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-004",
+      "question_text": "Sound waves traveling through air are an example of:",
+      "options": ["A. Transverse waves", "B. Longitudinal waves", "C. Surface waves", "D. Electromagnetic waves"],
+      "correct_answer": "B",
+      "explanation": "Sound waves in air are longitudinal waves where air molecules oscillate parallel to the direction of wave propagation, creating compressions and rarefactions.",
+      "concept_tags": ["longitudinal waves", "sound waves"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-005",
+      "question_text": "The amplitude of a wave is defined as:",
+      "options": ["A. The distance between two consecutive crests", "B. The maximum displacement from equilibrium", "C. The number of cycles per second", "D. The speed of the wave"],
+      "correct_answer": "B",
+      "explanation": "Amplitude is the maximum displacement of particles in the medium from their equilibrium position. It determines the energy and intensity of the wave.",
+      "concept_tags": ["amplitude", "wave properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-006",
+      "question_text": "If the frequency of a wave is doubled while the wave speed remains constant, the wavelength will:",
+      "options": ["A. Double", "B. Remain the same", "C. Be halved", "D. Quadruple"],
+      "correct_answer": "C",
+      "explanation": "From v = fλ, if v is constant and f doubles, then λ must be halved to maintain the equation. Wavelength and frequency are inversely proportional when velocity is constant.",
+      "concept_tags": ["wave equation", "frequency", "wavelength"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-007",
+      "question_text": "The speed of sound in air at room temperature (20°C) is approximately:",
+      "options": ["A. 100 m/s", "B. 343 m/s", "C. 1500 m/s", "D. 3000 m/s"],
+      "correct_answer": "B",
+      "explanation": "The speed of sound in air at 20°C is approximately 343 m/s. Sound travels faster in liquids (~1500 m/s in water) and solids (~5000 m/s in steel) due to closer molecular spacing.",
+      "concept_tags": ["speed of sound", "sound waves"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-008",
+      "question_text": "What is the wavelength of a sound wave with a frequency of 440 Hz traveling at 343 m/s?",
+      "options": ["A. 0.78 m", "B. 1.28 m", "C. 0.44 m", "D. 343 m"],
+      "correct_answer": "A",
+      "explanation": "Using λ = v/f = 343 m/s ÷ 440 Hz = 0.78 m. This is the wavelength of the musical note A4, commonly used for tuning instruments.",
+      "concept_tags": ["wavelength", "wave equation", "sound waves"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-009",
+      "question_text": "Which property of a wave determines its pitch when perceived by the human ear?",
+      "options": ["A. Amplitude", "B. Wavelength", "C. Frequency", "D. Speed"],
+      "correct_answer": "C",
+      "explanation": "Frequency determines the pitch of a sound. Higher frequencies are perceived as higher pitches. The human ear can detect frequencies between approximately 20 Hz and 20,000 Hz.",
+      "concept_tags": ["frequency", "pitch", "sound perception"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-010",
+      "question_text": "The loudness of a sound is primarily determined by the:",
+      "options": ["A. Frequency of the wave", "B. Wavelength of the wave", "C. Amplitude of the wave", "D. Speed of the wave"],
+      "correct_answer": "C",
+      "explanation": "The amplitude of a sound wave determines its loudness or intensity. Greater amplitude means more energy, which we perceive as louder sound.",
+      "concept_tags": ["amplitude", "loudness", "intensity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-011",
+      "question_text": "A wave completes 20 cycles in 4 seconds. What is its frequency?",
+      "options": ["A. 80 Hz", "B. 5 Hz", "C. 0.2 Hz", "D. 20 Hz"],
+      "correct_answer": "B",
+      "explanation": "Frequency = number of cycles / time = 20 cycles / 4 seconds = 5 Hz. This means 5 complete wave cycles pass a point every second.",
+      "concept_tags": ["frequency", "wave properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-012",
+      "question_text": "What is the period of a wave with a frequency of 250 Hz?",
+      "options": ["A. 250 s", "B. 0.004 s", "C. 4 s", "D. 0.25 s"],
+      "correct_answer": "B",
+      "explanation": "Period T = 1/f = 1/250 Hz = 0.004 seconds. This means one complete wave cycle takes 4 milliseconds.",
+      "concept_tags": ["period", "frequency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-013",
+      "question_text": "In which medium does sound travel fastest?",
+      "options": ["A. Air", "B. Water", "C. Steel", "D. Vacuum"],
+      "correct_answer": "C",
+      "explanation": "Sound travels fastest in solids like steel (~5000 m/s), followed by liquids like water (~1500 m/s), and slowest in gases like air (~343 m/s). Sound cannot travel in a vacuum.",
+      "concept_tags": ["speed of sound", "medium"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-014",
+      "question_text": "The distance between two consecutive compressions in a longitudinal wave is called the:",
+      "options": ["A. Amplitude", "B. Period", "C. Wavelength", "D. Frequency"],
+      "correct_answer": "C",
+      "explanation": "The wavelength of a longitudinal wave is the distance between two consecutive compressions (or two consecutive rarefactions). It represents one complete wave cycle.",
+      "concept_tags": ["wavelength", "longitudinal waves"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-015",
+      "question_text": "A sound intensity increases by a factor of 100. By how many decibels does the sound level increase?",
+      "options": ["A. 2 dB", "B. 10 dB", "C. 20 dB", "D. 100 dB"],
+      "correct_answer": "C",
+      "explanation": "The decibel scale is logarithmic: ΔdB = 10 log(I₂/I₁) = 10 log(100) = 10 × 2 = 20 dB. A 100-fold increase in intensity corresponds to a 20 dB increase.",
+      "concept_tags": ["intensity", "decibels"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-016",
+      "question_text": "An ambulance siren produces a sound at 700 Hz. As the ambulance approaches you at 30 m/s, what frequency do you hear? (Speed of sound = 340 m/s)",
+      "options": ["A. 768 Hz", "B. 637 Hz", "C. 700 Hz", "D. 730 Hz"],
+      "correct_answer": "A",
+      "explanation": "Using the Doppler equation for approaching source: f' = f × v/(v - vs) = 700 × 340/(340 - 30) = 700 × 340/310 = 768 Hz. The frequency increases when the source approaches.",
+      "concept_tags": ["Doppler effect", "frequency shift"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-017",
+      "question_text": "Two waves with frequencies of 256 Hz and 260 Hz are played simultaneously. What is the beat frequency?",
+      "options": ["A. 516 Hz", "B. 258 Hz", "C. 4 Hz", "D. 2 Hz"],
+      "correct_answer": "C",
+      "explanation": "Beat frequency = |f₁ - f₂| = |256 - 260| = 4 Hz. Beats occur when two waves of slightly different frequencies interfere, producing a periodic variation in loudness.",
+      "concept_tags": ["beats", "interference", "frequency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-018",
+      "question_text": "A string fixed at both ends has a fundamental frequency of 100 Hz. What is the frequency of the third harmonic?",
+      "options": ["A. 100 Hz", "B. 200 Hz", "C. 300 Hz", "D. 400 Hz"],
+      "correct_answer": "C",
+      "explanation": "For a string fixed at both ends, harmonics occur at integer multiples of the fundamental frequency. Third harmonic = 3 × 100 Hz = 300 Hz.",
+      "concept_tags": ["standing waves", "harmonics", "resonance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-019",
+      "question_text": "When two waves meet and their displacements add together, this is called:",
+      "options": ["A. Reflection", "B. Refraction", "C. Superposition", "D. Diffraction"],
+      "correct_answer": "C",
+      "explanation": "The principle of superposition states that when two or more waves meet, the resultant displacement is the algebraic sum of the individual displacements.",
+      "concept_tags": ["superposition", "interference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-020",
+      "question_text": "The intensity of a sound wave is proportional to:",
+      "options": ["A. The amplitude", "B. The square of the amplitude", "C. The frequency", "D. The wavelength"],
+      "correct_answer": "B",
+      "explanation": "Sound intensity is proportional to the square of the amplitude (I ∝ A²). Doubling the amplitude quadruples the intensity.",
+      "concept_tags": ["intensity", "amplitude"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-021",
+      "question_text": "A pipe open at both ends has a length of 0.5 m. What is its fundamental frequency? (Speed of sound = 340 m/s)",
+      "options": ["A. 170 Hz", "B. 340 Hz", "C. 680 Hz", "D. 85 Hz"],
+      "correct_answer": "B",
+      "explanation": "For a pipe open at both ends, the fundamental wavelength λ = 2L = 1.0 m. Using f = v/λ = 340/1.0 = 340 Hz.",
+      "concept_tags": ["standing waves", "resonance", "open pipe"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-022",
+      "question_text": "A closed pipe (closed at one end) has a length of 0.425 m. What is its fundamental frequency? (Speed of sound = 340 m/s)",
+      "options": ["A. 100 Hz", "B. 200 Hz", "C. 400 Hz", "D. 800 Hz"],
+      "correct_answer": "B",
+      "explanation": "For a closed pipe, the fundamental wavelength λ = 4L = 4 × 0.425 = 1.7 m. Using f = v/λ = 340/1.7 = 200 Hz.",
+      "concept_tags": ["standing waves", "resonance", "closed pipe"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-023",
+      "question_text": "Which harmonics are present in a pipe closed at one end?",
+      "options": ["A. All harmonics", "B. Only even harmonics", "C. Only odd harmonics", "D. Only the fundamental"],
+      "correct_answer": "C",
+      "explanation": "A closed pipe only produces odd harmonics (1st, 3rd, 5th, etc.) because of the boundary conditions: a node at the closed end and an antinode at the open end.",
+      "concept_tags": ["harmonics", "closed pipe", "standing waves"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-024",
+      "question_text": "The speed of sound in air increases with:",
+      "options": ["A. Decreasing temperature", "B. Increasing temperature", "C. Increasing frequency", "D. Decreasing amplitude"],
+      "correct_answer": "B",
+      "explanation": "The speed of sound in air increases with temperature because molecules move faster at higher temperatures. The relationship is v ≈ 331 + 0.6T m/s, where T is in °C.",
+      "concept_tags": ["speed of sound", "temperature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-025",
+      "question_text": "A standing wave on a string has 4 nodes, including the two at the fixed ends. What harmonic is this?",
+      "options": ["A. First harmonic", "B. Second harmonic", "C. Third harmonic", "D. Fourth harmonic"],
+      "correct_answer": "C",
+      "explanation": "For a string fixed at both ends, the number of nodes equals n + 1, where n is the harmonic number. With 4 nodes, n = 3, so this is the third harmonic.",
+      "concept_tags": ["standing waves", "nodes", "harmonics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-026",
+      "question_text": "Constructive interference occurs when two waves are:",
+      "options": ["A. Exactly out of phase", "B. In phase", "C. Different frequencies", "D. Different amplitudes"],
+      "correct_answer": "B",
+      "explanation": "Constructive interference occurs when waves are in phase (phase difference of 0° or multiples of 360°). Their amplitudes add together, producing a larger resultant amplitude.",
+      "concept_tags": ["interference", "constructive interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-027",
+      "question_text": "Destructive interference occurs when the phase difference between two waves is:",
+      "options": ["A. 0°", "B. 90°", "C. 180°", "D. 360°"],
+      "correct_answer": "C",
+      "explanation": "Destructive interference occurs when waves are 180° (or π radians) out of phase. The waves cancel each other, resulting in zero or reduced amplitude.",
+      "concept_tags": ["interference", "destructive interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-028",
+      "question_text": "A guitar string is tuned to 440 Hz. If the tension in the string is increased by a factor of 4, what is the new frequency?",
+      "options": ["A. 220 Hz", "B. 440 Hz", "C. 880 Hz", "D. 1760 Hz"],
+      "correct_answer": "C",
+      "explanation": "Frequency is proportional to the square root of tension: f ∝ √T. If tension increases by 4, frequency increases by √4 = 2. New frequency = 440 × 2 = 880 Hz.",
+      "concept_tags": ["frequency", "tension", "string waves"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-029",
+      "question_text": "The decibel level of a sound is 60 dB. If another identical sound source is added, what is the new decibel level?",
+      "options": ["A. 63 dB", "B. 90 dB", "C. 120 dB", "D. 60 dB"],
+      "correct_answer": "A",
+      "explanation": "Adding identical sound sources doubles the intensity. ΔdB = 10 log(2) ≈ 3 dB. New level = 60 + 3 = 63 dB. Each doubling of intensity adds about 3 dB.",
+      "concept_tags": ["decibels", "intensity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-030",
+      "question_text": "A police car siren has a frequency of 800 Hz. As it moves away from you at 25 m/s, what frequency do you hear? (v = 340 m/s)",
+      "options": ["A. 745 Hz", "B. 800 Hz", "C. 855 Hz", "D. 860 Hz"],
+      "correct_answer": "A",
+      "explanation": "For a receding source: f' = f × v/(v + vs) = 800 × 340/(340 + 25) = 800 × 340/365 ≈ 745 Hz. Frequency decreases when the source moves away.",
+      "concept_tags": ["Doppler effect", "frequency shift"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-031",
+      "question_text": "An observer moves toward a stationary sound source at 20 m/s. If the source frequency is 500 Hz, what frequency does the observer hear? (v = 340 m/s)",
+      "options": ["A. 529 Hz", "B. 471 Hz", "C. 500 Hz", "D. 540 Hz"],
+      "correct_answer": "A",
+      "explanation": "For a moving observer approaching a stationary source: f' = f × (v + vo)/v = 500 × (340 + 20)/340 = 500 × 360/340 ≈ 529 Hz.",
+      "concept_tags": ["Doppler effect", "moving observer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-032",
+      "question_text": "The intensity of sound at a distance of 2 m from a point source is 4 W/m². What is the intensity at 4 m?",
+      "options": ["A. 1 W/m²", "B. 2 W/m²", "C. 8 W/m²", "D. 16 W/m²"],
+      "correct_answer": "A",
+      "explanation": "Sound intensity follows the inverse square law: I ∝ 1/r². When distance doubles, intensity decreases by a factor of 4. I₂ = 4 W/m² × (2/4)² = 1 W/m².",
+      "concept_tags": ["intensity", "inverse square law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-033",
+      "question_text": "A string has a fundamental frequency of 200 Hz. If the length of the string is halved while keeping tension constant, the new fundamental frequency is:",
+      "options": ["A. 100 Hz", "B. 200 Hz", "C. 400 Hz", "D. 800 Hz"],
+      "correct_answer": "C",
+      "explanation": "Frequency is inversely proportional to length for a string: f ∝ 1/L. Halving the length doubles the frequency. New frequency = 200 × 2 = 400 Hz.",
+      "concept_tags": ["string waves", "frequency", "length"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-034",
+      "question_text": "Ultrasound waves used in medical imaging typically have frequencies:",
+      "options": ["A. Below 20 Hz", "B. Between 20 Hz and 20,000 Hz", "C. Above 20,000 Hz", "D. Exactly 1000 Hz"],
+      "correct_answer": "C",
+      "explanation": "Ultrasound refers to sound waves with frequencies above the human hearing range (>20,000 Hz). Medical ultrasound typically uses frequencies of 1-20 MHz.",
+      "concept_tags": ["ultrasound", "frequency range"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-035",
+      "question_text": "What is the wavelength of a 1000 Hz sound wave in water? (Speed of sound in water = 1500 m/s)",
+      "options": ["A. 0.67 m", "B. 1.5 m", "C. 0.34 m", "D. 3.0 m"],
+      "correct_answer": "B",
+      "explanation": "Using λ = v/f = 1500 m/s ÷ 1000 Hz = 1.5 m. Sound waves have longer wavelengths in water than in air due to the higher speed of sound in water.",
+      "concept_tags": ["wavelength", "speed of sound", "water"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-036",
+      "question_text": "A sound has an intensity level of 80 dB. What is its intensity in W/m²? (Reference intensity I₀ = 10⁻¹² W/m²)",
+      "options": ["A. 10⁻⁸ W/m²", "B. 10⁻⁴ W/m²", "C. 10⁻² W/m²", "D. 80 W/m²"],
+      "correct_answer": "B",
+      "explanation": "Using dB = 10 log(I/I₀): 80 = 10 log(I/10⁻¹²). Therefore, log(I/10⁻¹²) = 8, so I/10⁻¹² = 10⁸, and I = 10⁻⁴ W/m².",
+      "concept_tags": ["decibels", "intensity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-037",
+      "question_text": "The phenomenon where a wave bends around obstacles or through openings is called:",
+      "options": ["A. Reflection", "B. Refraction", "C. Diffraction", "D. Interference"],
+      "correct_answer": "C",
+      "explanation": "Diffraction is the bending of waves around obstacles or through openings. It is most pronounced when the wavelength is comparable to the size of the obstacle or opening.",
+      "concept_tags": ["diffraction", "wave behavior"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-038",
+      "question_text": "Two tuning forks produce sounds at 512 Hz and 515 Hz. A listener will perceive:",
+      "options": ["A. A constant tone at 513.5 Hz", "B. A tone that varies in loudness 3 times per second", "C. Two separate distinct tones", "D. No sound at all"],
+      "correct_answer": "B",
+      "explanation": "The listener will hear beats at a frequency of |515 - 512| = 3 Hz. This means the loudness will oscillate (increase and decrease) 3 times per second.",
+      "concept_tags": ["beats", "interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-039",
+      "question_text": "In a standing wave, the points of maximum displacement are called:",
+      "options": ["A. Nodes", "B. Antinodes", "C. Crests", "D. Troughs"],
+      "correct_answer": "B",
+      "explanation": "Antinodes are points in a standing wave where the displacement is maximum. Nodes are points where displacement is always zero.",
+      "concept_tags": ["standing waves", "antinodes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-040",
+      "question_text": "A source and observer are both moving toward each other. The source emits at 600 Hz and moves at 20 m/s while the observer moves at 15 m/s. What frequency does the observer hear? (v = 340 m/s)",
+      "options": ["A. 665 Hz", "B. 543 Hz", "C. 628 Hz", "D. 600 Hz"],
+      "correct_answer": "A",
+      "explanation": "When both source and observer move toward each other: f' = f × (v + vo)/(v - vs) = 600 × (340 + 15)/(340 - 20) = 600 × 355/320 ≈ 665 Hz.",
+      "concept_tags": ["Doppler effect", "moving source and observer"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-041",
+      "question_text": "The fundamental frequency of a string depends on all of the following EXCEPT:",
+      "options": ["A. Length of the string", "B. Tension in the string", "C. Mass per unit length of the string", "D. Amplitude of vibration"],
+      "correct_answer": "D",
+      "explanation": "The fundamental frequency f = (1/2L)√(T/μ) depends on length (L), tension (T), and linear mass density (μ), but not on amplitude. Amplitude affects loudness, not pitch.",
+      "concept_tags": ["string waves", "frequency", "wave properties"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-042",
+      "question_text": "A pipe open at both ends resonates at frequencies of 300 Hz, 600 Hz, and 900 Hz. What is its fundamental frequency?",
+      "options": ["A. 100 Hz", "B. 150 Hz", "C. 300 Hz", "D. 600 Hz"],
+      "correct_answer": "C",
+      "explanation": "An open pipe produces all harmonics (integer multiples of fundamental). The given frequencies are in ratio 1:2:3, indicating 300 Hz is the fundamental.",
+      "concept_tags": ["harmonics", "open pipe", "resonance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-043",
+      "question_text": "The power output of a sound source is 10 W. At what distance is the intensity 0.01 W/m²?",
+      "options": ["A. 8.9 m", "B. 17.8 m", "C. 10 m", "D. 100 m"],
+      "correct_answer": "A",
+      "explanation": "Using I = P/(4πr²), solve for r: r = √(P/4πI) = √(10/(4π × 0.01)) = √(250/π) ≈ 8.9 m.",
+      "concept_tags": ["intensity", "power", "inverse square law"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-044",
+      "question_text": "What happens to the wavelength of sound when it travels from air into water?",
+      "options": ["A. Wavelength decreases", "B. Wavelength increases", "C. Wavelength stays the same", "D. Wavelength becomes zero"],
+      "correct_answer": "B",
+      "explanation": "Frequency remains constant when sound enters a new medium. Since v = fλ and the speed of sound is higher in water, the wavelength must increase proportionally.",
+      "concept_tags": ["wavelength", "speed of sound", "medium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-045",
+      "question_text": "A resonance tube closed at one end has a first resonance at a length of 17 cm. At what length will the next resonance occur?",
+      "options": ["A. 34 cm", "B. 51 cm", "C. 68 cm", "D. 85 cm"],
+      "correct_answer": "B",
+      "explanation": "For a closed tube, resonances occur at odd multiples of λ/4. First resonance: L₁ = λ/4 = 17 cm. Next resonance: L₂ = 3λ/4 = 3 × 17 = 51 cm.",
+      "concept_tags": ["resonance", "closed pipe", "standing waves"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-046",
+      "question_text": "The phenomenon responsible for the change in pitch heard when a vehicle with a siren passes by is:",
+      "options": ["A. Diffraction", "B. Interference", "C. Doppler effect", "D. Resonance"],
+      "correct_answer": "C",
+      "explanation": "The Doppler effect causes the apparent change in frequency/pitch. As the vehicle approaches, pitch is higher; as it recedes, pitch is lower.",
+      "concept_tags": ["Doppler effect", "frequency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-07-047",
+      "question_text": "A string vibrates in its second harmonic. How many antinodes are present?",
+      "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+      "correct_answer": "B",
+      "explanation": "For a string fixed at both ends, the nth harmonic has n antinodes. The second harmonic (first overtone) has 2 antinodes.",
+      "concept_tags": ["harmonics", "antinodes", "standing waves"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-048",
+      "question_text": "The threshold of hearing (0 dB) corresponds to an intensity of:",
+      "options": ["A. 0 W/m²", "B. 1 W/m²", "C. 10⁻¹² W/m²", "D. 10⁻⁶ W/m²"],
+      "correct_answer": "C",
+      "explanation": "The threshold of hearing, defined as 0 dB, corresponds to an intensity of 10⁻¹² W/m², which is the reference intensity (I₀) used in the decibel scale.",
+      "concept_tags": ["decibels", "intensity", "threshold of hearing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-049",
+      "question_text": "An open organ pipe has a fundamental frequency of 256 Hz. If one end is closed, what is the new fundamental frequency?",
+      "options": ["A. 64 Hz", "B. 128 Hz", "C. 256 Hz", "D. 512 Hz"],
+      "correct_answer": "B",
+      "explanation": "An open pipe has fundamental λ = 2L. A closed pipe has fundamental λ = 4L (twice as long). With the same length, closing one end halves the fundamental frequency: 256/2 = 128 Hz.",
+      "concept_tags": ["resonance", "open pipe", "closed pipe"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-050",
+      "question_text": "Two speakers separated by 4 meters emit identical sounds in phase at 850 Hz. An observer stands at a point equidistant from both speakers. The observer will experience:",
+      "options": ["A. Destructive interference", "B. Constructive interference", "C. Beats", "D. No sound"],
+      "correct_answer": "B",
+      "explanation": "At a point equidistant from both speakers, waves arrive in phase (path difference = 0). This results in constructive interference with maximum amplitude.",
+      "concept_tags": ["interference", "constructive interference", "path difference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-051",
+      "question_text": "A wave on a string has the equation y = 0.03 sin(2πx - 100πt) where x and y are in meters and t in seconds. What is the wave speed?",
+      "options": ["A. 50 m/s", "B. 100 m/s", "C. 2π m/s", "D. 100π m/s"],
+      "correct_answer": "A",
+      "explanation": "From the wave equation y = A sin(kx - ωt), k = 2π rad/m and ω = 100π rad/s. Wave speed v = ω/k = 100π/(2π) = 50 m/s.",
+      "concept_tags": ["wave equation", "wave speed", "angular frequency"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-052",
+      "question_text": "The energy carried by a wave is proportional to:",
+      "options": ["A. Amplitude", "B. Amplitude squared", "C. Frequency", "D. Wavelength"],
+      "correct_answer": "B",
+      "explanation": "The energy (and intensity) of a wave is proportional to the square of its amplitude (E ∝ A²). Doubling the amplitude quadruples the energy.",
+      "concept_tags": ["energy", "amplitude", "wave properties"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-053",
+      "question_text": "An observer moves at 30 m/s away from a stationary source emitting 1000 Hz. What frequency does the observer hear? (v = 340 m/s)",
+      "options": ["A. 912 Hz", "B. 1088 Hz", "C. 1000 Hz", "D. 970 Hz"],
+      "correct_answer": "A",
+      "explanation": "For observer moving away from stationary source: f' = f × (v - vo)/v = 1000 × (340 - 30)/340 = 1000 × 310/340 ≈ 912 Hz.",
+      "concept_tags": ["Doppler effect", "moving observer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-054",
+      "question_text": "A pipe closed at one end resonates at 170 Hz (fundamental). What is the frequency of its first overtone?",
+      "options": ["A. 340 Hz", "B. 510 Hz", "C. 680 Hz", "D. 255 Hz"],
+      "correct_answer": "B",
+      "explanation": "A closed pipe only produces odd harmonics. The first overtone is the third harmonic: 3 × 170 Hz = 510 Hz. (The second harmonic at 340 Hz does not exist for closed pipes.)",
+      "concept_tags": ["closed pipe", "overtones", "harmonics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-055",
+      "question_text": "If the intensity of sound increases from 10⁻⁸ W/m² to 10⁻⁴ W/m², what is the change in sound level in decibels?",
+      "options": ["A. 4 dB", "B. 10 dB", "C. 40 dB", "D. 100 dB"],
+      "correct_answer": "C",
+      "explanation": "ΔdB = 10 log(I₂/I₁) = 10 log(10⁻⁴/10⁻⁸) = 10 log(10⁴) = 10 × 4 = 40 dB. Each factor of 10 in intensity corresponds to 10 dB.",
+      "concept_tags": ["decibels", "intensity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-056",
+      "question_text": "A speaker produces sound waves at 2000 Hz. If the speaker moves toward a stationary observer at 17 m/s, by what percent does the observed frequency increase? (v = 340 m/s)",
+      "options": ["A. 5%", "B. 10%", "C. 17%", "D. 50%"],
+      "correct_answer": "A",
+      "explanation": "f' = f × v/(v - vs) = 2000 × 340/323 ≈ 2105 Hz. Percent increase = (2105 - 2000)/2000 × 100% = 5.3% ≈ 5%.",
+      "concept_tags": ["Doppler effect", "percent change"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-057",
+      "question_text": "Standing waves are produced when:",
+      "options": ["A. A wave reflects and interferes with itself", "B. Two waves of different frequencies meet", "C. A wave passes through a narrow opening", "D. A wave changes speed in a new medium"],
+      "correct_answer": "A",
+      "explanation": "Standing waves form when a wave reflects back on itself and the incident and reflected waves interfere. This creates stable patterns of nodes and antinodes.",
+      "concept_tags": ["standing waves", "reflection", "interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-058",
+      "question_text": "What is the relationship between intensity (I) and distance (r) from a point sound source?",
+      "options": ["A. I ∝ r", "B. I ∝ 1/r", "C. I ∝ r²", "D. I ∝ 1/r²"],
+      "correct_answer": "D",
+      "explanation": "Sound intensity follows the inverse square law: I = P/(4πr²), so I ∝ 1/r². This is because sound energy spreads over a spherical surface whose area increases as r².",
+      "concept_tags": ["intensity", "inverse square law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-07-059",
+      "question_text": "A string of length 80 cm is fixed at both ends and vibrates in its third harmonic at 900 Hz. What is the speed of waves on this string?",
+      "options": ["A. 240 m/s", "B. 360 m/s", "C. 480 m/s", "D. 720 m/s"],
+      "correct_answer": "C",
+      "explanation": "For the nth harmonic, L = nλ/2. For n=3: λ = 2L/3 = 2(0.8)/3 = 0.533 m. Wave speed v = fλ = 900 × 0.533 = 480 m/s.",
+      "concept_tags": ["harmonics", "wave speed", "string waves"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-07-060",
+      "question_text": "Two identical loudspeakers are connected to the same signal generator. At a point where the path difference is half a wavelength, the listener experiences:",
+      "options": ["A. Maximum loudness due to constructive interference", "B. Minimum loudness due to destructive interference", "C. Normal loudness with no interference effect", "D. Beats"],
+      "correct_answer": "B",
+      "explanation": "When path difference equals λ/2 (or any odd multiple of λ/2), waves arrive 180° out of phase, causing destructive interference and minimum loudness.",
+      "concept_tags": ["interference", "path difference", "destructive interference"],
+      "difficulty": "hard"
+    }
+  ]
+}

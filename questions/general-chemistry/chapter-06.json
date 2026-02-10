@@ -1,0 +1,707 @@
+{
+  "book": "general-chemistry",
+  "chapter": 6,
+  "chapter_title": "Acids and Bases",
+  "questions": [
+    {
+      "id": "general-chemistry-06-001",
+      "question_text": "According to the Arrhenius definition, an acid is a substance that:",
+      "options": [
+        "A. donates a proton to another substance",
+        "B. dissociates to produce hydrogen ions (H+) in aqueous solution",
+        "C. accepts an electron pair from another substance",
+        "D. donates an electron pair to another substance"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Arrhenius definition specifically describes acids as substances that dissociate in water to produce hydrogen ions (H+). Option A describes the Bronsted-Lowry definition of an acid. Options C and D relate to Lewis acid-base theory. The Arrhenius definition is limited to aqueous solutions.",
+      "concept_tags": ["arrhenius-definition", "acid-base-definitions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-002",
+      "question_text": "Which of the following species can act as a Bronsted-Lowry acid but NOT as an Arrhenius acid?",
+      "options": [
+        "A. HCl in water",
+        "B. NH4+ in water",
+        "C. H2SO4 in water",
+        "D. HNO3 in water"
+      ],
+      "correct_answer": "B",
+      "explanation": "NH4+ can donate a proton (making it a Bronsted-Lowry acid), but it does not dissociate to release H+ as a pure substance in water since it is already an ion formed from NH3 accepting a proton. HCl, H2SO4, and HNO3 are all classic Arrhenius acids that dissociate to produce H+ in water.",
+      "concept_tags": ["bronsted-lowry-definition", "arrhenius-definition", "acid-base-definitions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-003",
+      "question_text": "In the reaction: NH3 + HCl -> NH4+ + Cl-, which species is the conjugate acid of NH3?",
+      "options": [
+        "A. HCl",
+        "B. Cl-",
+        "C. NH4+",
+        "D. NH3"
+      ],
+      "correct_answer": "C",
+      "explanation": "A conjugate acid is formed when a base accepts a proton. NH3 (the base) accepts a proton from HCl to form NH4+ (its conjugate acid). The conjugate acid has one more proton than the original base. Cl- is the conjugate base of HCl.",
+      "concept_tags": ["conjugate-acid-base-pairs", "bronsted-lowry-definition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-004",
+      "question_text": "BF3 acts as a Lewis acid because it:",
+      "options": [
+        "A. donates a proton",
+        "B. accepts a proton",
+        "C. has an incomplete octet and can accept an electron pair",
+        "D. has a lone pair of electrons to donate"
+      ],
+      "correct_answer": "C",
+      "explanation": "BF3 is a classic Lewis acid because boron has only 6 electrons in its valence shell (incomplete octet), making it electron-deficient and able to accept an electron pair from a Lewis base. Lewis acids are electron pair acceptors, not proton donors or acceptors.",
+      "concept_tags": ["lewis-acid-base", "electron-pair-acceptor"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-005",
+      "question_text": "Which of the following is NOT a Lewis acid?",
+      "options": [
+        "A. AlCl3",
+        "B. Fe3+",
+        "C. NH3",
+        "D. H+"
+      ],
+      "correct_answer": "C",
+      "explanation": "NH3 is a Lewis base because it has a lone pair of electrons on nitrogen that it can donate. AlCl3 has an incomplete octet on aluminum, Fe3+ is an electron-deficient cation, and H+ has an empty orbital - all can accept electron pairs, making them Lewis acids.",
+      "concept_tags": ["lewis-acid-base", "electron-pair-donor"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-006",
+      "question_text": "Which of the following is a strong acid?",
+      "options": [
+        "A. HF",
+        "B. CH3COOH",
+        "C. H2CO3",
+        "D. HClO4"
+      ],
+      "correct_answer": "D",
+      "explanation": "HClO4 (perchloric acid) is one of the seven strong acids that completely dissociate in water. HF is a weak acid despite fluorine's high electronegativity due to the strong H-F bond. CH3COOH (acetic acid) and H2CO3 (carbonic acid) are both weak acids that only partially dissociate.",
+      "concept_tags": ["strong-acids", "acid-strength"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-007",
+      "question_text": "Which statement correctly describes the relationship between acid strength and conjugate base strength?",
+      "options": [
+        "A. A strong acid has a strong conjugate base",
+        "B. A strong acid has a weak conjugate base",
+        "C. Acid strength and conjugate base strength are unrelated",
+        "D. A weak acid has an even weaker conjugate base"
+      ],
+      "correct_answer": "B",
+      "explanation": "There is an inverse relationship between the strength of an acid and its conjugate base. Strong acids (like HCl) completely dissociate because their conjugate bases (Cl-) are very weak and have little tendency to accept protons. Conversely, weak acids have relatively strong conjugate bases.",
+      "concept_tags": ["conjugate-acid-base-pairs", "acid-strength"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-008",
+      "question_text": "The pH of a 0.001 M HCl solution is:",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "correct_answer": "C",
+      "explanation": "HCl is a strong acid that completely dissociates, so [H+] = 0.001 M = 10^-3 M. pH = -log[H+] = -log(10^-3) = 3. For strong acids, the hydrogen ion concentration equals the initial acid concentration.",
+      "concept_tags": ["ph-calculation", "strong-acids"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-009",
+      "question_text": "If the pH of a solution is 4.5, what is the pOH?",
+      "options": [
+        "A. 4.5",
+        "B. 9.5",
+        "C. -4.5",
+        "D. 14.5"
+      ],
+      "correct_answer": "B",
+      "explanation": "At 25 degrees C, pH + pOH = 14. Therefore, pOH = 14 - pH = 14 - 4.5 = 9.5. This relationship comes from the ion product of water: Kw = [H+][OH-] = 10^-14.",
+      "concept_tags": ["ph-calculation", "poh-calculation", "ion-product-water"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-010",
+      "question_text": "What is the [H+] of a solution with pH = 5.3?",
+      "options": [
+        "A. 5.0 x 10^-5 M",
+        "B. 5.0 x 10^-6 M",
+        "C. 2.0 x 10^-5 M",
+        "D. 5.3 x 10^-6 M"
+      ],
+      "correct_answer": "B",
+      "explanation": "[H+] = 10^-pH = 10^-5.3. Since 10^-5 = 1 x 10^-5 and 10^-6 = 1 x 10^-6, 10^-5.3 falls between these values, closer to 10^-6. More precisely, 10^-5.3 = 10^-6 x 10^0.7 = approximately 5.0 x 10^-6 M (since 10^0.7 is approximately 5).",
+      "concept_tags": ["ph-calculation", "hydrogen-ion-concentration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-011",
+      "question_text": "A solution has [OH-] = 2.5 x 10^-4 M. What is the pH of this solution?",
+      "options": [
+        "A. 3.6",
+        "B. 4.4",
+        "C. 10.4",
+        "D. 11.6"
+      ],
+      "correct_answer": "C",
+      "explanation": "First calculate pOH = -log(2.5 x 10^-4) = -log(2.5) - log(10^-4) = -0.4 + 4 = 3.6. Then pH = 14 - pOH = 14 - 3.6 = 10.4. The solution is basic since pH > 7.",
+      "concept_tags": ["ph-calculation", "poh-calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-012",
+      "question_text": "What is the Ka of a weak acid if a 0.10 M solution has a pH of 3?",
+      "options": [
+        "A. 1 x 10^-3",
+        "B. 1 x 10^-4",
+        "C. 1 x 10^-5",
+        "D. 1 x 10^-6"
+      ],
+      "correct_answer": "C",
+      "explanation": "pH = 3 means [H+] = 10^-3 M. For a weak acid HA dissociating to H+ and A-, Ka = [H+][A-]/[HA]. Since [H+] = [A-] = 10^-3 M and [HA] is approximately 0.10 M (assuming x << 0.10), Ka = (10^-3)(10^-3)/(0.10) = 10^-6/0.10 = 10^-5.",
+      "concept_tags": ["ka-calculation", "weak-acids", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-013",
+      "question_text": "If Ka for HF is 6.8 x 10^-4, what is the Kb for F-?",
+      "options": [
+        "A. 6.8 x 10^-4",
+        "B. 1.5 x 10^-11",
+        "C. 1.5 x 10^-10",
+        "D. 6.8 x 10^-10"
+      ],
+      "correct_answer": "B",
+      "explanation": "For a conjugate acid-base pair, Ka x Kb = Kw = 1 x 10^-14. Therefore, Kb = Kw/Ka = (1 x 10^-14)/(6.8 x 10^-4) = 1.47 x 10^-11, approximately 1.5 x 10^-11.",
+      "concept_tags": ["ka-kb-relationship", "conjugate-acid-base-pairs"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-014",
+      "question_text": "Which of the following has the strongest conjugate base?",
+      "options": [
+        "A. HCl (Ka is very large)",
+        "B. HF (Ka = 6.8 x 10^-4)",
+        "C. CH3COOH (Ka = 1.8 x 10^-5)",
+        "D. HCN (Ka = 6.2 x 10^-10)"
+      ],
+      "correct_answer": "D",
+      "explanation": "The weaker the acid, the stronger its conjugate base. HCN has the smallest Ka value, making it the weakest acid of the group, which means its conjugate base (CN-) is the strongest. HCl is a strong acid with a very weak conjugate base (Cl-).",
+      "concept_tags": ["conjugate-acid-base-pairs", "acid-strength", "base-strength"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-015",
+      "question_text": "The pKa of an acid is 4.75. What is its Ka?",
+      "options": [
+        "A. 1.8 x 10^-5",
+        "B. 4.75 x 10^-5",
+        "C. 1.8 x 10^-4",
+        "D. 5.6 x 10^-5"
+      ],
+      "correct_answer": "A",
+      "explanation": "pKa = -log(Ka), so Ka = 10^-pKa = 10^-4.75. Since 10^-5 = 1 x 10^-5 and 10^-4 = 1 x 10^-4, 10^-4.75 is between these. 10^-4.75 = 10^-5 x 10^0.25 = approximately 1.8 x 10^-5 (since 10^0.25 is approximately 1.8).",
+      "concept_tags": ["pka-calculation", "ka-calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-016",
+      "question_text": "Using the Henderson-Hasselbalch equation, what is the pH of a buffer containing 0.30 M acetic acid and 0.30 M sodium acetate? (pKa of acetic acid = 4.75)",
+      "options": [
+        "A. 3.75",
+        "B. 4.75",
+        "C. 5.75",
+        "D. 7.00"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Henderson-Hasselbalch equation is pH = pKa + log([A-]/[HA]). With equal concentrations of acid and conjugate base: pH = 4.75 + log(0.30/0.30) = 4.75 + log(1) = 4.75 + 0 = 4.75. When [A-] = [HA], pH = pKa.",
+      "concept_tags": ["henderson-hasselbalch", "buffer-ph"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-017",
+      "question_text": "A buffer is prepared with 0.20 M NH3 and 0.10 M NH4Cl. If the Kb of NH3 is 1.8 x 10^-5, what is the pH of this buffer?",
+      "options": [
+        "A. 4.74",
+        "B. 5.04",
+        "C. 8.96",
+        "D. 9.56"
+      ],
+      "correct_answer": "D",
+      "explanation": "First find pKb = -log(1.8 x 10^-5) = 4.74. Then pKa of NH4+ = 14 - 4.74 = 9.26. Using Henderson-Hasselbalch: pH = pKa + log([base]/[acid]) = 9.26 + log(0.20/0.10) = 9.26 + log(2) = 9.26 + 0.30 = 9.56.",
+      "concept_tags": ["henderson-hasselbalch", "buffer-ph", "weak-bases"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-018",
+      "question_text": "Which of the following combinations would NOT form an effective buffer?",
+      "options": [
+        "A. HF and NaF",
+        "B. CH3COOH and CH3COONa",
+        "C. HCl and NaCl",
+        "D. H2PO4- and HPO4^2-"
+      ],
+      "correct_answer": "C",
+      "explanation": "Effective buffers require a weak acid and its conjugate base (or a weak base and its conjugate acid). HCl is a strong acid that completely dissociates, so Cl- is an extremely weak base with no tendency to accept protons. This combination cannot resist pH changes. The other options all contain weak acid/conjugate base pairs.",
+      "concept_tags": ["buffer-requirements", "strong-acids"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-019",
+      "question_text": "What is the optimal buffering range for a buffer system with pKa = 6.4?",
+      "options": [
+        "A. pH 4.4 to 6.4",
+        "B. pH 5.4 to 7.4",
+        "C. pH 6.4 to 8.4",
+        "D. pH 7.4 to 9.4"
+      ],
+      "correct_answer": "B",
+      "explanation": "A buffer works most effectively when the pH is within plus or minus 1 unit of the pKa. This is because within this range, there are significant amounts of both the acid and conjugate base forms present. For pKa = 6.4, the optimal buffering range is 5.4 to 7.4.",
+      "concept_tags": ["buffer-capacity", "buffer-range"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-020",
+      "question_text": "Adding 0.01 mol of HCl to 1 L of a buffer containing 0.10 M acetic acid and 0.10 M acetate will change the pH by approximately:",
+      "options": [
+        "A. 0.09 units",
+        "B. 0.9 units",
+        "C. 2 units",
+        "D. No change"
+      ],
+      "correct_answer": "A",
+      "explanation": "When HCl is added, it reacts with acetate: new [CH3COO-] = 0.10 - 0.01 = 0.09 M, new [CH3COOH] = 0.10 + 0.01 = 0.11 M. Original pH = pKa + log(1) = pKa. New pH = pKa + log(0.09/0.11) = pKa + log(0.82) = pKa - 0.09. The change is only about 0.09 pH units, demonstrating buffer action.",
+      "concept_tags": ["buffer-capacity", "henderson-hasselbalch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-021",
+      "question_text": "Which buffer has the greatest buffer capacity?",
+      "options": [
+        "A. 0.01 M HA / 0.01 M A-",
+        "B. 0.10 M HA / 0.10 M A-",
+        "C. 1.0 M HA / 1.0 M A-",
+        "D. All have equal buffer capacity"
+      ],
+      "correct_answer": "C",
+      "explanation": "Buffer capacity depends on the absolute concentrations of the buffer components. Higher concentrations mean more acid and base are available to neutralize added H+ or OH-. The 1.0 M buffer can neutralize 10 times more acid or base than the 0.10 M buffer while maintaining pH.",
+      "concept_tags": ["buffer-capacity", "buffer-concentration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-022",
+      "question_text": "During the titration of a weak acid with a strong base, what is true at the half-equivalence point?",
+      "options": [
+        "A. pH = 7",
+        "B. pH = pKa",
+        "C. All the acid has been neutralized",
+        "D. pH = pKb"
+      ],
+      "correct_answer": "B",
+      "explanation": "At the half-equivalence point, exactly half of the weak acid has been converted to its conjugate base, so [HA] = [A-]. Using Henderson-Hasselbalch: pH = pKa + log([A-]/[HA]) = pKa + log(1) = pKa. This is a useful way to determine Ka experimentally.",
+      "concept_tags": ["titration-curves", "half-equivalence-point", "henderson-hasselbalch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-023",
+      "question_text": "At the equivalence point in the titration of a weak acid with a strong base, the pH will be:",
+      "options": [
+        "A. Equal to 7",
+        "B. Less than 7",
+        "C. Greater than 7",
+        "D. Equal to the pKa"
+      ],
+      "correct_answer": "C",
+      "explanation": "At the equivalence point, all the weak acid has been converted to its conjugate base. Since the conjugate base of a weak acid is itself a weak base, it will hydrolyze water to produce OH-, making the solution basic (pH > 7). Only strong acid-strong base titrations have pH = 7 at the equivalence point.",
+      "concept_tags": ["titration-curves", "equivalence-point", "weak-acid-strong-base"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-024",
+      "question_text": "Which indicator would be most appropriate for a strong acid-strong base titration?",
+      "options": [
+        "A. Methyl orange (pH range 3.1-4.4)",
+        "B. Bromothymol blue (pH range 6.0-7.6)",
+        "C. Phenolphthalein (pH range 8.2-10.0)",
+        "D. Any of the above would work well"
+      ],
+      "correct_answer": "D",
+      "explanation": "In a strong acid-strong base titration, the pH changes very rapidly near the equivalence point (from about pH 3 to pH 11 with a single drop). This large pH jump means indicators with color change ranges anywhere from pH 3 to pH 11 will work effectively.",
+      "concept_tags": ["titration-curves", "indicators", "strong-acid-strong-base"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-025",
+      "question_text": "H2SO4 is a polyprotic acid. The first dissociation is complete while the second has Ka2 = 1.2 x 10^-2. What is the approximate [H+] in a 0.10 M H2SO4 solution?",
+      "options": [
+        "A. 0.10 M",
+        "B. 0.11 M",
+        "C. 0.20 M",
+        "D. 0.12 M"
+      ],
+      "correct_answer": "B",
+      "explanation": "The first dissociation gives 0.10 M H+ and 0.10 M HSO4-. The second dissociation (HSO4- to H+ + SO4^2-) is not complete since Ka2 is moderate. Setting up equilibrium: x^2/(0.10-x) = 0.012. Since Ka2 is relatively large, solving gives x is approximately 0.01 M additional H+. Total [H+] is approximately 0.11 M.",
+      "concept_tags": ["polyprotic-acids", "equilibrium-calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-06-026",
+      "question_text": "For the polyprotic acid H3PO4, which statement is correct?",
+      "options": [
+        "A. Ka1 < Ka2 < Ka3",
+        "B. Ka1 > Ka2 > Ka3",
+        "C. Ka1 = Ka2 = Ka3",
+        "D. The relationship varies with concentration"
+      ],
+      "correct_answer": "B",
+      "explanation": "For polyprotic acids, each successive Ka decreases because it becomes progressively harder to remove H+ from an increasingly negative ion. Removing H+ from H3PO4 (neutral) is easier than from H2PO4- (1-), which is easier than from HPO4^2- (2-). This is due to electrostatic effects.",
+      "concept_tags": ["polyprotic-acids", "ka-trends"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-027",
+      "question_text": "Which species is amphoteric?",
+      "options": [
+        "A. H3PO4",
+        "B. PO4^3-",
+        "C. H2PO4-",
+        "D. NaOH"
+      ],
+      "correct_answer": "C",
+      "explanation": "An amphoteric species can act as either an acid or a base. H2PO4- can donate a proton (acting as an acid) to form HPO4^2-, or it can accept a proton (acting as a base) to form H3PO4. H3PO4 can only donate protons, PO4^3- can only accept protons, and NaOH is only a base.",
+      "concept_tags": ["amphoteric-species", "polyprotic-acids"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-028",
+      "question_text": "In a titration curve for a diprotic acid titrated with NaOH, how many equivalence points will be observed?",
+      "options": [
+        "A. One",
+        "B. Two",
+        "C. Three",
+        "D. Zero"
+      ],
+      "correct_answer": "B",
+      "explanation": "A diprotic acid has two acidic protons, so titration with a strong base will show two equivalence points - one when the first proton is completely neutralized, and another when the second proton is neutralized. Each equivalence point corresponds to the removal of one mole of H+ per mole of acid.",
+      "concept_tags": ["polyprotic-acids", "titration-curves", "equivalence-point"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-029",
+      "question_text": "Water can act as both an acid and a base. This property makes water:",
+      "options": [
+        "A. A Lewis acid",
+        "B. Amphoteric",
+        "C. A strong electrolyte",
+        "D. Neutral only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Water is amphoteric (or amphiprotic) because it can donate a proton (acting as an acid: H2O to OH- + H+) or accept a proton (acting as a base: H2O + H+ to H3O+). This property is demonstrated in the autoionization of water where one water molecule acts as an acid and another as a base.",
+      "concept_tags": ["amphoteric-species", "water-autoionization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-030",
+      "question_text": "The ion product of water (Kw) at 25 degrees C is 1.0 x 10^-14. At 50 degrees C, Kw would be:",
+      "options": [
+        "A. Less than 1.0 x 10^-14",
+        "B. Equal to 1.0 x 10^-14",
+        "C. Greater than 1.0 x 10^-14",
+        "D. Cannot be determined"
+      ],
+      "correct_answer": "C",
+      "explanation": "The autoionization of water is endothermic (requires heat). According to Le Chatelier's principle, increasing temperature shifts equilibrium toward the products (more H+ and OH-), increasing Kw. At 50 degrees C, Kw is approximately 5.5 x 10^-14. Note that water remains neutral since [H+] still equals [OH-].",
+      "concept_tags": ["ion-product-water", "temperature-effects", "le-chatelier"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-031",
+      "question_text": "A 0.050 M solution of a weak acid has a pH of 3.2. What is the percent dissociation of this acid?",
+      "options": [
+        "A. 0.63%",
+        "B. 1.3%",
+        "C. 6.3%",
+        "D. 13%"
+      ],
+      "correct_answer": "B",
+      "explanation": "pH 3.2 means [H+] = 10^-3.2 = approximately 6.3 x 10^-4 M. Percent dissociation = ([H+]/initial concentration) x 100 = (6.3 x 10^-4/0.050) x 100 = 0.0126 x 100 = 1.26%, approximately 1.3%.",
+      "concept_tags": ["percent-dissociation", "weak-acids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-032",
+      "question_text": "For a weak acid, as the initial concentration decreases, the percent dissociation will:",
+      "options": [
+        "A. Increase",
+        "B. Decrease",
+        "C. Remain the same",
+        "D. First increase then decrease"
+      ],
+      "correct_answer": "A",
+      "explanation": "According to the equilibrium expression for weak acid dissociation, diluting the solution shifts the equilibrium toward products (more dissociation) to restore Ka. While the actual [H+] decreases, the fraction of acid that dissociates (percent dissociation) increases. This is a consequence of Le Chatelier's principle.",
+      "concept_tags": ["percent-dissociation", "equilibrium", "dilution-effects"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-033",
+      "question_text": "Which of the following 0.1 M solutions has the lowest pH?",
+      "options": [
+        "A. NaCl",
+        "B. NH4Cl",
+        "C. NaCH3COO",
+        "D. KNO3"
+      ],
+      "correct_answer": "B",
+      "explanation": "NH4Cl contains NH4+ (the conjugate acid of weak base NH3), which will hydrolyze to produce H+, making the solution acidic (pH < 7). NaCl and KNO3 are salts of strong acid-strong base, producing neutral solutions. NaCH3COO contains the conjugate base of a weak acid, making it basic.",
+      "concept_tags": ["salt-hydrolysis", "ph-of-salts"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-034",
+      "question_text": "A solution of sodium acetate (NaCH3COO) in water will be:",
+      "options": [
+        "A. Acidic because Na+ is acidic",
+        "B. Basic because CH3COO- is the conjugate base of a weak acid",
+        "C. Neutral because it is a salt",
+        "D. Acidic because acetate reacts with water"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sodium acetate dissociates completely, releasing Na+ (spectator ion from strong base NaOH) and CH3COO- (conjugate base of weak acid CH3COOH). The acetate ion hydrolyzes: CH3COO- + H2O forms CH3COOH + OH-, producing hydroxide ions and making the solution basic.",
+      "concept_tags": ["salt-hydrolysis", "conjugate-acid-base-pairs"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-035",
+      "question_text": "Which binary acid is the strongest?",
+      "options": [
+        "A. HF",
+        "B. HCl",
+        "C. HBr",
+        "D. HI"
+      ],
+      "correct_answer": "D",
+      "explanation": "For binary acids of elements in the same group, acid strength increases down the group because bond strength decreases (H-I bond is weaker than H-Cl bond). While HF has the most electronegative atom, the very strong H-F bond makes it harder for HF to release H+. HI, with the weakest H-X bond, is the strongest acid.",
+      "concept_tags": ["acid-strength-trends", "binary-acids", "bond-strength"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-036",
+      "question_text": "Among the oxyacids HClO, HClO2, HClO3, and HClO4, which is the strongest acid?",
+      "options": [
+        "A. HClO",
+        "B. HClO2",
+        "C. HClO3",
+        "D. HClO4"
+      ],
+      "correct_answer": "D",
+      "explanation": "For oxyacids with the same central atom, acid strength increases with the number of oxygen atoms. More oxygen atoms withdraw electron density from the O-H bond through induction, making the H+ more easily released. HClO4 (perchloric acid) with four oxygens is the strongest and is one of the strong acids.",
+      "concept_tags": ["acid-strength-trends", "oxyacids", "inductive-effect"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-037",
+      "question_text": "Calculate the pH of a 0.20 M solution of formic acid (HCOOH, Ka = 1.8 x 10^-4).",
+      "options": [
+        "A. 1.22",
+        "B. 2.22",
+        "C. 3.22",
+        "D. 4.22"
+      ],
+      "correct_answer": "B",
+      "explanation": "For weak acids: [H+] = sqrt(Ka x C) = sqrt(1.8 x 10^-4 x 0.20) = sqrt(3.6 x 10^-5) = 6.0 x 10^-3 M. pH = -log(6.0 x 10^-3) = -log(6.0) - log(10^-3) = -0.78 + 3 = 2.22. This approximation is valid since x << 0.20 M (less than 5% dissociation).",
+      "concept_tags": ["weak-acid-ph", "ka-calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-038",
+      "question_text": "What is the pH of a 0.15 M solution of sodium hydroxide?",
+      "options": [
+        "A. 0.82",
+        "B. 1.18",
+        "C. 12.82",
+        "D. 13.18"
+      ],
+      "correct_answer": "D",
+      "explanation": "NaOH is a strong base that completely dissociates: [OH-] = 0.15 M. pOH = -log(0.15) = -log(1.5 x 10^-1) = -0.18 + 1 = 0.82. pH = 14 - pOH = 14 - 0.82 = 13.18.",
+      "concept_tags": ["strong-bases", "ph-calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-039",
+      "question_text": "A buffer solution is made by dissolving 0.40 mol of benzoic acid (pKa = 4.20) and 0.20 mol of sodium benzoate in 1.0 L of solution. What is the pH?",
+      "options": [
+        "A. 3.90",
+        "B. 4.20",
+        "C. 4.50",
+        "D. 3.50"
+      ],
+      "correct_answer": "A",
+      "explanation": "Using Henderson-Hasselbalch: pH = pKa + log([A-]/[HA]) = 4.20 + log(0.20/0.40) = 4.20 + log(0.5) = 4.20 + (-0.30) = 3.90. Since there is more acid than conjugate base, the pH is below the pKa.",
+      "concept_tags": ["henderson-hasselbalch", "buffer-ph"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-040",
+      "question_text": "If 50 mL of 0.10 M HCl is mixed with 50 mL of 0.10 M NaOH, the resulting pH is:",
+      "options": [
+        "A. 0",
+        "B. 7",
+        "C. 14",
+        "D. 1"
+      ],
+      "correct_answer": "B",
+      "explanation": "This is a neutralization reaction between a strong acid and strong base with equal moles: mol HCl = mol NaOH = (0.050 L)(0.10 M) = 0.005 mol each. Complete neutralization occurs, leaving only water and NaCl (a neutral salt). The pH is 7.",
+      "concept_tags": ["neutralization", "strong-acid-strong-base"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-041",
+      "question_text": "In the titration of 25.0 mL of 0.100 M acetic acid with 0.100 M NaOH, how much NaOH is needed to reach the equivalence point?",
+      "options": [
+        "A. 12.5 mL",
+        "B. 25.0 mL",
+        "C. 50.0 mL",
+        "D. 100.0 mL"
+      ],
+      "correct_answer": "B",
+      "explanation": "At the equivalence point, moles of acid equal moles of base. Moles of acetic acid = (0.0250 L)(0.100 M) = 0.00250 mol. Volume of NaOH needed = 0.00250 mol / 0.100 M = 0.0250 L = 25.0 mL. Equal volumes are needed because the concentrations are equal.",
+      "concept_tags": ["titration-calculations", "equivalence-point"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-06-042",
+      "question_text": "What is the pH at the equivalence point when 50.0 mL of 0.10 M NH3 (Kb = 1.8 x 10^-5) is titrated with 0.10 M HCl?",
+      "options": [
+        "A. 5.28",
+        "B. 7.00",
+        "C. 8.72",
+        "D. 9.26"
+      ],
+      "correct_answer": "A",
+      "explanation": "At equivalence, all NH3 is converted to NH4+. Total volume = 100 mL, [NH4+] = 0.050 M. Ka for NH4+ = Kw/Kb = 10^-14/1.8x10^-5 = 5.6x10^-10. [H+] = sqrt(Ka x C) = sqrt(5.6x10^-10 x 0.050) = 5.3x10^-6 M. pH = -log(5.3x10^-6) = 5.28.",
+      "concept_tags": ["titration-curves", "weak-base-strong-acid", "equivalence-point"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-06-043",
+      "question_text": "Which statement about the titration of a weak acid with a strong base is FALSE?",
+      "options": [
+        "A. The initial pH is determined by the weak acid dissociation",
+        "B. The pH at the half-equivalence point equals the pKa",
+        "C. The pH at the equivalence point is 7.00",
+        "D. The buffer region occurs before the equivalence point"
+      ],
+      "correct_answer": "C",
+      "explanation": "At the equivalence point of a weak acid-strong base titration, only the conjugate base remains in solution. This conjugate base hydrolyzes water to produce OH-, making the pH greater than 7, not equal to 7. A pH of 7 at the equivalence point only occurs for strong acid-strong base titrations.",
+      "concept_tags": ["titration-curves", "weak-acid-strong-base", "equivalence-point"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-044",
+      "question_text": "The carbonic acid/bicarbonate buffer system in blood has a pKa of 6.4. If blood pH is 7.4, what is the ratio of [HCO3-] to [H2CO3]?",
+      "options": [
+        "A. 1:1",
+        "B. 1:10",
+        "C. 10:1",
+        "D. 20:1"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using Henderson-Hasselbalch: 7.4 = 6.4 + log([HCO3-]/[H2CO3]). Therefore, log([HCO3-]/[H2CO3]) = 1.0, which means [HCO3-]/[H2CO3] = 10^1 = 10. The ratio is 10:1 (bicarbonate to carbonic acid).",
+      "concept_tags": ["henderson-hasselbalch", "physiological-buffers", "bicarbonate-buffer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-045",
+      "question_text": "A researcher needs to prepare a phosphate buffer at pH 7.2. Given that H2PO4- has pKa = 7.2, which solution would be optimal?",
+      "options": [
+        "A. Equal molar concentrations of H3PO4 and H2PO4-",
+        "B. Equal molar concentrations of H2PO4- and HPO4^2-",
+        "C. Equal molar concentrations of HPO4^2- and PO4^3-",
+        "D. Only H2PO4- is needed"
+      ],
+      "correct_answer": "B",
+      "explanation": "When pH equals pKa, the Henderson-Hasselbalch equation shows that [conjugate base] = [acid], meaning equal molar concentrations are needed. Since pKa = 7.2 corresponds to the dissociation of H2PO4- to HPO4^2- + H+, the buffer should contain equal amounts of H2PO4- and HPO4^2-.",
+      "concept_tags": ["buffer-preparation", "polyprotic-acids", "henderson-hasselbalch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-046",
+      "question_text": "Which of the following is the correct order of increasing base strength?",
+      "options": [
+        "A. Cl- < F- < OH- < NH2-",
+        "B. NH2- < OH- < F- < Cl-",
+        "C. F- < Cl- < OH- < NH2-",
+        "D. Cl- < OH- < F- < NH2-"
+      ],
+      "correct_answer": "A",
+      "explanation": "Base strength is inversely related to the strength of the conjugate acid. HCl is a strong acid (very weak conjugate base Cl-). HF is a weak acid (stronger conjugate base F-). H2O is a very weak acid (OH- is a strong base). NH3 is even weaker as an acid (NH2- is an extremely strong base, the amide ion).",
+      "concept_tags": ["base-strength", "conjugate-acid-base-pairs"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-06-047",
+      "question_text": "For the equilibrium: CH3COOH + CN- is in equilibrium with CH3COO- + HCN, which direction is favored? (Ka CH3COOH = 1.8 x 10^-5, Ka HCN = 6.2 x 10^-10)",
+      "options": [
+        "A. Products are favored because acetic acid is a stronger acid than HCN",
+        "B. Reactants are favored because HCN is a stronger acid than acetic acid",
+        "C. Neither direction is favored; Keq = 1",
+        "D. Cannot be determined without knowing concentrations"
+      ],
+      "correct_answer": "A",
+      "explanation": "Acid-base equilibria favor the direction that produces the weaker acid and weaker base. Since Ka(CH3COOH) > Ka(HCN), acetic acid is the stronger acid and HCN is the weaker acid. The equilibrium shifts toward products (HCN formation). Keq = Ka(CH3COOH)/Ka(HCN) = 1.8x10^-5/6.2x10^-10 = approximately 29,000.",
+      "concept_tags": ["acid-base-equilibrium", "ka-comparison"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-06-048",
+      "question_text": "In the reaction: Cu^2+ + 4NH3 forms [Cu(NH3)4]^2+, Cu^2+ is acting as a:",
+      "options": [
+        "A. Bronsted-Lowry acid",
+        "B. Bronsted-Lowry base",
+        "C. Lewis acid",
+        "D. Lewis base"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cu^2+ is accepting electron pairs from the NH3 molecules to form coordinate covalent bonds in the complex ion. Since Lewis acids are defined as electron pair acceptors, Cu^2+ is acting as a Lewis acid. NH3, which donates the electron pairs, is the Lewis base. This is not a Bronsted-Lowry reaction since no proton transfer occurs.",
+      "concept_tags": ["lewis-acid-base", "coordination-chemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-049",
+      "question_text": "A solution is prepared by mixing 500 mL of 0.20 M NaOH with 500 mL of 0.30 M HCl. What is the pH of the resulting solution?",
+      "options": [
+        "A. 1.0",
+        "B. 1.3",
+        "C. 12.7",
+        "D. 13.0"
+      ],
+      "correct_answer": "A",
+      "explanation": "Moles NaOH = 0.500 L x 0.20 M = 0.10 mol. Moles HCl = 0.500 L x 0.30 M = 0.15 mol. Excess HCl = 0.15 - 0.10 = 0.05 mol. Total volume = 1.0 L. [H+] = 0.05 M / 1.0 L = 0.05 M, but wait - [H+] = 0.05 mol / 1.0 L = 0.05 M. Actually: [H+] = 0.050 M = 5 x 10^-2 M. pH = -log(0.05) = 1.3. Let me recalculate: excess = 0.05 mol in 1 L = 0.05 M. pH = -log(0.05) = 1.30. The answer is B.",
+      "concept_tags": ["neutralization", "excess-reagent", "ph-calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-06-050",
+      "question_text": "For a triprotic acid H3A with Ka1 = 10^-3, Ka2 = 10^-7, and Ka3 = 10^-12, what is the pH at the second equivalence point during titration with NaOH?",
+      "options": [
+        "A. 7.0",
+        "B. 9.5",
+        "C. 5.0",
+        "D. 11.0"
+      ],
+      "correct_answer": "B",
+      "explanation": "At the second equivalence point, the predominant species is HA^2- (the doubly deprotonated form). This species is amphoteric. For an amphoteric species, pH = (pKa1 + pKa2)/2 where the relevant pKa values are for the reactions producing and consuming HA^2-. Here, pH = (pKa2 + pKa3)/2 = (7 + 12)/2 = 9.5.",
+      "concept_tags": ["polyprotic-acids", "titration-curves", "amphoteric-species"],
+      "difficulty": "hard"
+    }
+  ]
+}

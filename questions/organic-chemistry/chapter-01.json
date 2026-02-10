@@ -1,0 +1,457 @@
+{
+  "book": "organic-chemistry",
+  "chapter": 1,
+  "chapter_title": "Structure and Bonding",
+  "questions": [
+    {
+      "id": "organic-chemistry-01-001",
+      "question_text": "Carbon forms four bonds because it has:",
+      "options": ["A. Four protons", "B. Four valence electrons", "C. Four electron shells", "D. Four neutrons"],
+      "correct_answer": "B",
+      "explanation": "Carbon has four valence electrons and needs four more to complete its octet. It forms four covalent bonds by sharing electrons.",
+      "concept_tags": ["carbon", "valence-electrons", "bonding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-002",
+      "question_text": "An sp³ hybridized carbon has what geometry?",
+      "options": ["A. Linear", "B. Trigonal planar", "C. Tetrahedral", "D. Octahedral"],
+      "correct_answer": "C",
+      "explanation": "sp³ hybridization creates four equivalent hybrid orbitals arranged tetrahedrally with 109.5° bond angles. Found in alkanes and saturated carbons.",
+      "concept_tags": ["hybridization", "sp3", "geometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-003",
+      "question_text": "The bond angle in an sp² hybridized carbon is approximately:",
+      "options": ["A. 90°", "B. 109.5°", "C. 120°", "D. 180°"],
+      "correct_answer": "C",
+      "explanation": "sp² hybridization results in trigonal planar geometry with 120° bond angles. Found in alkenes and carbonyls. One p orbital remains unhybridized for π bonding.",
+      "concept_tags": ["hybridization", "sp2", "bond-angle"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-004",
+      "question_text": "A triple bond consists of:",
+      "options": ["A. Three sigma bonds", "B. One sigma and two pi bonds", "C. Two sigma and one pi bond", "D. Three pi bonds"],
+      "correct_answer": "B",
+      "explanation": "A triple bond contains one sigma bond (head-on overlap) and two pi bonds (side-by-side p orbital overlap). Found in alkynes.",
+      "concept_tags": ["triple-bond", "sigma-bond", "pi-bond"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-005",
+      "question_text": "Electronegativity increases:",
+      "options": ["A. Down a group and left across a period", "B. Up a group and right across a period", "C. Down a group and right across a period", "D. Up a group and left across a period"],
+      "correct_answer": "B",
+      "explanation": "Electronegativity increases going up a group (smaller atoms, electrons closer to nucleus) and right across a period (more protons, stronger nuclear pull).",
+      "concept_tags": ["electronegativity", "periodic-trends", "bonding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-006",
+      "question_text": "A polar covalent bond results when:",
+      "options": ["A. Electrons are shared equally", "B. Electrons are transferred completely", "C. Electrons are shared unequally", "D. No electrons are shared"],
+      "correct_answer": "C",
+      "explanation": "Polar covalent bonds form when atoms with different electronegativities share electrons unequally. The more electronegative atom has a partial negative charge.",
+      "concept_tags": ["polar-bond", "electronegativity", "dipole"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-007",
+      "question_text": "Resonance structures differ only in:",
+      "options": ["A. Arrangement of atoms", "B. Arrangement of electrons", "C. Molecular formula", "D. Hybridization of all atoms"],
+      "correct_answer": "B",
+      "explanation": "Resonance structures have the same arrangement of atoms but different distributions of electrons (particularly pi electrons and lone pairs).",
+      "concept_tags": ["resonance", "electron-delocalization", "structures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-008",
+      "question_text": "Formal charge is calculated as:",
+      "options": ["A. Valence electrons + bonds + lone pair electrons", "B. Valence electrons - bonds - lone pair electrons", "C. Valence electrons - bonds - (lone pair electrons ÷ 2)", "D. Valence electrons - bonds + lone pair electrons"],
+      "correct_answer": "B",
+      "explanation": "Formal charge = valence electrons - number of bonds - nonbonding electrons. This helps determine the best Lewis structure.",
+      "concept_tags": ["formal-charge", "lewis-structures", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-009",
+      "question_text": "Constitutional (structural) isomers have:",
+      "options": ["A. Same connectivity but different spatial arrangement", "B. Different connectivity of atoms", "C. Same molecular formula and same structure", "D. Mirror image relationship"],
+      "correct_answer": "B",
+      "explanation": "Constitutional isomers have the same molecular formula but different connectivity—atoms bonded to different partners. Example: butane and isobutane.",
+      "concept_tags": ["constitutional-isomers", "connectivity", "isomerism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-010",
+      "question_text": "The C-H bond in methane is best described as:",
+      "options": ["A. Ionic", "B. Polar covalent", "C. Nonpolar covalent", "D. Hydrogen bond"],
+      "correct_answer": "B",
+      "explanation": "C-H bonds are slightly polar (C is slightly more electronegative than H), but the difference is small (~0.4). Often treated as essentially nonpolar in practice.",
+      "concept_tags": ["C-H-bond", "polarity", "methane"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-011",
+      "question_text": "Sigma bonds are formed by:",
+      "options": ["A. Side-by-side overlap of p orbitals", "B. Head-on overlap of orbitals", "C. Overlap of d orbitals only", "D. No orbital overlap"],
+      "correct_answer": "B",
+      "explanation": "Sigma bonds form from head-on (end-to-end) overlap of orbitals along the internuclear axis. They're stronger than pi bonds and allow free rotation.",
+      "concept_tags": ["sigma-bond", "orbital-overlap", "bonding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-012",
+      "question_text": "Pi bonds are:",
+      "options": ["A. Stronger than sigma bonds", "B. Formed by head-on overlap", "C. Formed by side-by-side overlap of p orbitals", "D. Present in single bonds"],
+      "correct_answer": "C",
+      "explanation": "Pi bonds form from side-by-side (lateral) overlap of parallel p orbitals. They're weaker than sigma bonds, restrict rotation, and are found in double and triple bonds.",
+      "concept_tags": ["pi-bond", "orbital-overlap", "double-bond"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-013",
+      "question_text": "An sp hybridized carbon is found in:",
+      "options": ["A. Methane", "B. Ethene", "C. Ethyne (acetylene)", "D. Ethane"],
+      "correct_answer": "C",
+      "explanation": "sp hybridization occurs in alkynes (triple bonds) and nitriles. It creates two hybrid orbitals in a linear geometry (180°) with two unhybridized p orbitals for pi bonds.",
+      "concept_tags": ["sp-hybridization", "alkynes", "linear"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-014",
+      "question_text": "The most stable carbocation is:",
+      "options": ["A. Methyl carbocation", "B. Primary carbocation", "C. Secondary carbocation", "D. Tertiary carbocation"],
+      "correct_answer": "D",
+      "explanation": "Carbocation stability: tertiary > secondary > primary > methyl. More alkyl groups stabilize the positive charge through hyperconjugation and inductive effects.",
+      "concept_tags": ["carbocation", "stability", "hyperconjugation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-015",
+      "question_text": "Inductive effect refers to:",
+      "options": ["A. Electron movement through pi bonds", "B. Electron movement through sigma bonds", "C. Resonance stabilization", "D. Hyperconjugation"],
+      "correct_answer": "B",
+      "explanation": "The inductive effect is electron density shift through sigma bonds due to electronegativity differences. It decreases with distance.",
+      "concept_tags": ["inductive-effect", "sigma-bonds", "electron-withdrawal"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-016",
+      "question_text": "Which functional group contains a carbonyl (C=O)?",
+      "options": ["A. Alcohol", "B. Ether", "C. Ketone", "D. Alkene"],
+      "correct_answer": "C",
+      "explanation": "Ketones contain a carbonyl group (C=O) with two carbon substituents. Aldehydes, carboxylic acids, and esters also contain carbonyls.",
+      "concept_tags": ["carbonyl", "ketone", "functional-groups"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-017",
+      "question_text": "Alkanes are characterized by:",
+      "options": ["A. C=C double bonds", "B. Only C-C single bonds and C-H bonds", "C. Triple bonds", "D. Aromatic rings"],
+      "correct_answer": "B",
+      "explanation": "Alkanes are saturated hydrocarbons containing only carbon-carbon single bonds and carbon-hydrogen bonds. General formula: CnH2n+2.",
+      "concept_tags": ["alkanes", "saturated", "single-bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-018",
+      "question_text": "The molecular orbital that results from constructive overlap is called:",
+      "options": ["A. Antibonding orbital", "B. Bonding orbital", "C. Non-bonding orbital", "D. Hybrid orbital"],
+      "correct_answer": "B",
+      "explanation": "Constructive overlap (in-phase combination) creates a bonding molecular orbital with electron density between nuclei, lower in energy than the original atomic orbitals.",
+      "concept_tags": ["molecular-orbital", "bonding", "constructive-overlap"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-019",
+      "question_text": "The acidity of carboxylic acids compared to alcohols is due to:",
+      "options": ["A. The carbonyl group only", "B. Resonance stabilization of the conjugate base", "C. The C-O single bond", "D. The hydroxyl group"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids are more acidic because their conjugate base (carboxylate) is resonance-stabilized—the negative charge is delocalized over two oxygen atoms.",
+      "concept_tags": ["acidity", "resonance-stabilization", "carboxylic-acid"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-020",
+      "question_text": "Geometric (cis-trans) isomers arise from:",
+      "options": ["A. Free rotation around double bonds", "B. Restricted rotation around double bonds", "C. Different molecular formulas", "D. Chiral centers"],
+      "correct_answer": "B",
+      "explanation": "The pi bond in a double bond prevents rotation, so groups can be on the same side (cis) or opposite sides (trans) of the double bond.",
+      "concept_tags": ["geometric-isomers", "cis-trans", "double-bond"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-021",
+      "question_text": "Conformational isomers differ by:",
+      "options": ["A. Rotation around double bonds", "B. Rotation around single bonds", "C. Different connectivity", "D. Mirror image relationship"],
+      "correct_answer": "B",
+      "explanation": "Conformational isomers (conformers) interconvert through rotation around single bonds. Examples: staggered vs. eclipsed ethane, chair vs. boat cyclohexane.",
+      "concept_tags": ["conformational-isomers", "rotation", "single-bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-022",
+      "question_text": "London dispersion forces are strongest for molecules that are:",
+      "options": ["A. Small and spherical", "B. Large with high surface area", "C. Polar", "D. Ionic"],
+      "correct_answer": "B",
+      "explanation": "London dispersion forces increase with molecular size and surface area (more electrons, more polarizable). Long chains have stronger LDFs than compact spheres of same MW.",
+      "concept_tags": ["london-dispersion", "intermolecular-forces", "molecular-size"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-023",
+      "question_text": "Hydrogen bonding requires:",
+      "options": ["A. Any hydrogen atom", "B. H bonded to F, O, or N and a lone pair acceptor", "C. Only oxygen atoms", "D. Ionic compounds"],
+      "correct_answer": "B",
+      "explanation": "Hydrogen bonds form when H is bonded to highly electronegative F, O, or N, and interacts with a lone pair on another F, O, or N.",
+      "concept_tags": ["hydrogen-bonding", "intermolecular-forces", "FON"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-024",
+      "question_text": "The hybridization of carbon in a carbonyl group is:",
+      "options": ["A. sp", "B. sp²", "C. sp³", "D. sp³d"],
+      "correct_answer": "B",
+      "explanation": "The carbonyl carbon is sp² hybridized with trigonal planar geometry. One p orbital forms the pi bond with oxygen.",
+      "concept_tags": ["carbonyl", "hybridization", "sp2"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-025",
+      "question_text": "Which species is the most stable carbanion?",
+      "options": ["A. Methyl carbanion", "B. Primary carbanion", "C. Secondary carbanion", "D. Tertiary carbanion"],
+      "correct_answer": "A",
+      "explanation": "Carbanion stability is opposite to carbocations: methyl > primary > secondary > tertiary. Alkyl groups are electron-donating and destabilize negative charge.",
+      "concept_tags": ["carbanion", "stability", "inductive-effect"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-026",
+      "question_text": "An electron-withdrawing group (EWG):",
+      "options": ["A. Donates electron density", "B. Stabilizes positive charges", "C. Stabilizes negative charges", "D. Has no effect on reactivity"],
+      "correct_answer": "C",
+      "explanation": "EWGs withdraw electron density, stabilizing nearby negative charges (anions) and destabilizing positive charges. Examples: -NO2, -CN, -CF3.",
+      "concept_tags": ["electron-withdrawing", "substituent-effects", "stability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-027",
+      "question_text": "Aldehydes differ from ketones in that aldehydes have:",
+      "options": ["A. No carbonyl group", "B. At least one hydrogen on the carbonyl carbon", "C. Two alkyl groups on the carbonyl", "D. A hydroxyl group"],
+      "correct_answer": "B",
+      "explanation": "Aldehydes have at least one H attached to the carbonyl carbon (at the end of a chain). Ketones have two carbon groups (alkyl or aryl) attached to the carbonyl.",
+      "concept_tags": ["aldehydes", "ketones", "carbonyl"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-028",
+      "question_text": "Ethers have the general structure:",
+      "options": ["A. R-OH", "B. R-O-R'", "C. R-CHO", "D. R-COOH"],
+      "correct_answer": "B",
+      "explanation": "Ethers have an oxygen atom bonded to two carbon groups (R-O-R'). They're relatively unreactive and often used as solvents.",
+      "concept_tags": ["ethers", "functional-groups", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-029",
+      "question_text": "The formal charge on nitrogen in ammonium ion (NH4+) is:",
+      "options": ["A. 0", "B. +1", "C. -1", "D. +2"],
+      "correct_answer": "B",
+      "explanation": "FC = valence e⁻ - bonds - lone pairs = 5 - 4 - 0 = +1. Nitrogen has 5 valence electrons, forms 4 bonds, and has no lone pairs in NH4+.",
+      "concept_tags": ["formal-charge", "ammonium", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-030",
+      "question_text": "A primary carbon is bonded to:",
+      "options": ["A. No other carbons", "B. One other carbon", "C. Two other carbons", "D. Three other carbons"],
+      "correct_answer": "B",
+      "explanation": "Primary carbon: bonded to 1 other carbon. Secondary: 2 carbons. Tertiary: 3 carbons. Quaternary: 4 carbons.",
+      "concept_tags": ["primary-carbon", "carbon-classification", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-031",
+      "question_text": "Bond dissociation energy is:",
+      "options": ["A. Energy released when a bond forms", "B. Energy required to break a bond homolytically", "C. Energy required to break a bond heterolytically", "D. Free energy of reaction"],
+      "correct_answer": "B",
+      "explanation": "Bond dissociation energy (BDE) is the energy required to homolytically break a bond, producing two radicals. Higher BDE means stronger bond.",
+      "concept_tags": ["bond-dissociation-energy", "bond-strength", "homolytic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-032",
+      "question_text": "Which bond is most polar?",
+      "options": ["A. C-H", "B. C-C", "C. C-O", "D. C-N"],
+      "correct_answer": "C",
+      "explanation": "Bond polarity depends on electronegativity difference. C-O is most polar because O is most electronegative. Electronegativity: O > N > C ≈ H.",
+      "concept_tags": ["bond-polarity", "electronegativity", "C-O-bond"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-033",
+      "question_text": "Resonance delocalization typically involves:",
+      "options": ["A. Movement of atoms", "B. Movement of sigma bond electrons", "C. Movement of pi electrons and lone pairs", "D. Changes in hybridization"],
+      "correct_answer": "C",
+      "explanation": "Resonance involves delocalization of pi electrons and lone pairs—they can be shown in different positions in different resonance structures. Sigma bonds and atoms stay fixed.",
+      "concept_tags": ["resonance", "pi-electrons", "delocalization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-034",
+      "question_text": "Amines are classified as primary, secondary, or tertiary based on:",
+      "options": ["A. The carbon to which they're attached", "B. Number of carbons attached to nitrogen", "C. Number of hydrogens on nitrogen", "D. Position in a chain"],
+      "correct_answer": "B",
+      "explanation": "Amine classification is based on number of C atoms bonded to N: primary (1C), secondary (2C), tertiary (3C). This differs from carbon classification.",
+      "concept_tags": ["amines", "classification", "nitrogen"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-035",
+      "question_text": "Dipole moment is zero for:",
+      "options": ["A. All polar molecules", "B. Molecules with symmetric geometry that cancel individual dipoles", "C. All nonpolar bonds", "D. All organic molecules"],
+      "correct_answer": "B",
+      "explanation": "Even molecules with polar bonds can have zero net dipole if the geometry is symmetric and individual bond dipoles cancel (e.g., CO2, CCl4).",
+      "concept_tags": ["dipole-moment", "symmetry", "polarity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-036",
+      "question_text": "The HOMO-LUMO gap is important for:",
+      "options": ["A. Only ionic compounds", "B. Reactivity and light absorption", "C. Bond length only", "D. Molecular weight"],
+      "correct_answer": "B",
+      "explanation": "The HOMO-LUMO gap (highest occupied-lowest unoccupied molecular orbital) determines light absorption (color) and affects chemical reactivity.",
+      "concept_tags": ["HOMO-LUMO", "molecular-orbitals", "reactivity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-01-037",
+      "question_text": "Allylic carbons are:",
+      "options": ["A. Part of the double bond", "B. Adjacent to a double bond", "C. Part of an aromatic ring", "D. At the end of a chain"],
+      "correct_answer": "B",
+      "explanation": "Allylic position is the carbon adjacent to a C=C double bond. Allylic carbocations and radicals are stabilized by resonance with the pi system.",
+      "concept_tags": ["allylic", "double-bond", "position"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-038",
+      "question_text": "Aromaticity requires:",
+      "options": ["A. Any cyclic structure", "B. Planar, cyclic, fully conjugated, with 4n+2 pi electrons", "C. 4n pi electrons", "D. Only benzene rings"],
+      "correct_answer": "B",
+      "explanation": "Hückel's rule: aromatic compounds are cyclic, planar, fully conjugated, and have 4n+2 pi electrons. This gives exceptional stability.",
+      "concept_tags": ["aromaticity", "huckels-rule", "conjugation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-039",
+      "question_text": "Benzene has how many pi electrons?",
+      "options": ["A. 2", "B. 4", "C. 6", "D. 8"],
+      "correct_answer": "C",
+      "explanation": "Benzene has 6 pi electrons (4n+2 where n=1). Each of the 6 carbon atoms contributes one electron from its unhybridized p orbital.",
+      "concept_tags": ["benzene", "pi-electrons", "aromaticity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-040",
+      "question_text": "Vinylic carbons are:",
+      "options": ["A. Adjacent to a double bond", "B. Part of the C=C double bond", "C. Part of an aromatic ring", "D. sp³ hybridized"],
+      "correct_answer": "B",
+      "explanation": "Vinylic position refers to carbons that are part of the C=C double bond (sp² hybridized). Allylic is adjacent to the double bond.",
+      "concept_tags": ["vinylic", "double-bond", "position"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-041",
+      "question_text": "The C-C bond length in ethane compared to ethene is:",
+      "options": ["A. Shorter", "B. Longer", "C. The same", "D. Cannot be compared"],
+      "correct_answer": "B",
+      "explanation": "Single bonds are longer than double bonds. Ethane C-C: ~1.54 Å. Ethene C=C: ~1.34 Å. Triple bonds are even shorter (~1.20 Å).",
+      "concept_tags": ["bond-length", "single-vs-double", "comparison"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-042",
+      "question_text": "Conjugation stabilizes molecules by:",
+      "options": ["A. Localizing electrons", "B. Delocalizing pi electrons over multiple atoms", "C. Breaking bonds", "D. Increasing bond angles"],
+      "correct_answer": "B",
+      "explanation": "Conjugation allows pi electrons to delocalize over several atoms, lowering energy and increasing stability. Requires alternating single and double bonds.",
+      "concept_tags": ["conjugation", "delocalization", "stability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-043",
+      "question_text": "A carboxylic acid has the structure:",
+      "options": ["A. R-CHO", "B. R-COOH", "C. R-CO-R'", "D. R-OH"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids contain a carboxyl group (-COOH): a carbonyl with a hydroxyl attached to the same carbon. They're acidic due to resonance stabilization of the conjugate base.",
+      "concept_tags": ["carboxylic-acid", "functional-groups", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-044",
+      "question_text": "Esters are formed from:",
+      "options": ["A. Aldehydes and alcohols", "B. Carboxylic acids and alcohols", "C. Ketones and amines", "D. Alkenes and water"],
+      "correct_answer": "B",
+      "explanation": "Esters form by condensation of a carboxylic acid and an alcohol, with loss of water. General structure: R-COO-R'.",
+      "concept_tags": ["esters", "condensation", "carboxylic-acids"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-045",
+      "question_text": "Amides contain:",
+      "options": ["A. A carbonyl bonded to nitrogen", "B. An amine group only", "C. A carboxylic acid only", "D. An ether linkage"],
+      "correct_answer": "A",
+      "explanation": "Amides have a carbonyl carbon bonded to a nitrogen atom. They're less reactive than other carbonyl compounds due to resonance with the nitrogen lone pair.",
+      "concept_tags": ["amides", "carbonyl", "nitrogen"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-046",
+      "question_text": "The pKa of a stronger acid is:",
+      "options": ["A. Higher", "B. Lower", "C. The same for all acids", "D. Not related to acid strength"],
+      "correct_answer": "B",
+      "explanation": "pKa = -log Ka. Stronger acids have larger Ka values and therefore lower pKa values. HCl (strong acid) has pKa ≈ -7; acetic acid (weak) has pKa ≈ 4.75.",
+      "concept_tags": ["pKa", "acid-strength", "equilibrium"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-047",
+      "question_text": "Electron-donating groups (EDGs):",
+      "options": ["A. Stabilize carbanions", "B. Destabilize carbocations", "C. Stabilize carbocations", "D. Have no effect on stability"],
+      "correct_answer": "C",
+      "explanation": "EDGs donate electron density, stabilizing positive charges (carbocations) and destabilizing negative charges (carbanions). Examples: -OH, -NH2, -alkyl.",
+      "concept_tags": ["electron-donating", "substituent-effects", "carbocation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-01-048",
+      "question_text": "The most electronegative element in organic chemistry is typically:",
+      "options": ["A. Carbon", "B. Hydrogen", "C. Nitrogen", "D. Oxygen"],
+      "correct_answer": "D",
+      "explanation": "Among common elements in organic molecules, oxygen (3.44) > nitrogen (3.04) > carbon (2.55) > hydrogen (2.20) in electronegativity.",
+      "concept_tags": ["electronegativity", "oxygen", "comparison"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-049",
+      "question_text": "A nitrile functional group contains:",
+      "options": ["A. C=N double bond", "B. C≡N triple bond", "C. N-O bond", "D. N-N bond"],
+      "correct_answer": "B",
+      "explanation": "Nitriles (R-C≡N) contain a carbon-nitrogen triple bond. The carbon is sp hybridized with linear geometry.",
+      "concept_tags": ["nitriles", "triple-bond", "functional-groups"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-01-050",
+      "question_text": "Antibonding orbitals are denoted by:",
+      "options": ["A. σ or π", "B. σ* or π*", "C. sp or sp²", "D. HOMO"],
+      "correct_answer": "B",
+      "explanation": "Antibonding orbitals are designated with an asterisk (*): σ* and π*. They result from destructive overlap and have a node between nuclei.",
+      "concept_tags": ["antibonding", "molecular-orbitals", "notation"],
+      "difficulty": "easy"
+    }
+  ]
+}

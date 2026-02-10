@@ -1,0 +1,707 @@
+{
+  "book": "physics-math",
+  "chapter": 12,
+  "chapter_title": "Statistics",
+  "questions": [
+    {
+      "id": "physics-math-12-001",
+      "question_text": "The mean of a dataset is calculated by:",
+      "options": [
+        "A. Finding the middle value when data is arranged in order",
+        "B. Summing all values and dividing by the number of values",
+        "C. Finding the most frequently occurring value",
+        "D. Subtracting the minimum from the maximum"
+      ],
+      "correct_answer": "B",
+      "explanation": "The mean (arithmetic average) is calculated by summing all values and dividing by the number of values. The median is the middle value, the mode is the most frequent value, and the range is the difference between maximum and minimum values.",
+      "concept_tags": ["mean", "central-tendency", "descriptive-statistics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-002",
+      "question_text": "In a dataset of patient blood pressure readings: 120, 125, 130, 135, 200 mmHg, which measure of central tendency would be most affected by the outlier?",
+      "options": [
+        "A. Median",
+        "B. Mode",
+        "C. Mean",
+        "D. All would be equally affected"
+      ],
+      "correct_answer": "C",
+      "explanation": "The mean is most affected by outliers because every value contributes to its calculation. The extreme value of 200 pulls the mean upward significantly. The median (130) is resistant to outliers because it only considers the middle position, not the actual values of extremes.",
+      "concept_tags": ["mean", "median", "outliers", "central-tendency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-003",
+      "question_text": "The median of a dataset is best described as:",
+      "options": [
+        "A. The average of all values",
+        "B. The value that appears most frequently",
+        "C. The middle value when data is arranged in order",
+        "D. The difference between the highest and lowest values"
+      ],
+      "correct_answer": "C",
+      "explanation": "The median is the middle value when data is arranged in numerical order. For an even number of values, it is the average of the two middle values. The median is more robust to outliers than the mean and is preferred for skewed distributions.",
+      "concept_tags": ["median", "central-tendency", "descriptive-statistics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-004",
+      "question_text": "A researcher measures enzyme activity in 7 samples and obtains: 12, 15, 15, 18, 20, 22, 25 units. What is the mode of this dataset?",
+      "options": [
+        "A. 18",
+        "B. 15",
+        "C. 18.14",
+        "D. 13"
+      ],
+      "correct_answer": "B",
+      "explanation": "The mode is the value that appears most frequently. In this dataset, 15 appears twice while all other values appear once, making 15 the mode. The median would be 18 (middle value) and the mean would be approximately 18.14.",
+      "concept_tags": ["mode", "central-tendency", "descriptive-statistics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-005",
+      "question_text": "Which of the following datasets has no mode?",
+      "options": [
+        "A. 2, 3, 3, 4, 5",
+        "B. 1, 2, 3, 4, 5",
+        "C. 5, 5, 5, 5, 5",
+        "D. 1, 1, 2, 2, 3"
+      ],
+      "correct_answer": "B",
+      "explanation": "A dataset has no mode when all values appear with equal frequency. In dataset B, each value appears exactly once, so there is no mode. Dataset A has mode 3, dataset C has mode 5, and dataset D is bimodal with modes 1 and 2.",
+      "concept_tags": ["mode", "central-tendency", "data-distribution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-006",
+      "question_text": "Standard deviation measures:",
+      "options": [
+        "A. The central value of a dataset",
+        "B. The spread or dispersion of data around the mean",
+        "C. The probability of a random event",
+        "D. The relationship between two variables"
+      ],
+      "correct_answer": "B",
+      "explanation": "Standard deviation quantifies the spread or dispersion of data points around the mean. A small standard deviation indicates data points are clustered close to the mean, while a large standard deviation indicates they are spread out over a wider range.",
+      "concept_tags": ["standard-deviation", "variability", "dispersion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-007",
+      "question_text": "The variance of a dataset is:",
+      "options": [
+        "A. The square root of the standard deviation",
+        "B. The square of the standard deviation",
+        "C. The same as the standard deviation",
+        "D. The average of the data values"
+      ],
+      "correct_answer": "B",
+      "explanation": "Variance is the square of the standard deviation (or equivalently, standard deviation is the square root of variance). Variance measures the average squared deviation from the mean. Standard deviation is preferred for interpretation because it has the same units as the original data.",
+      "concept_tags": ["variance", "standard-deviation", "dispersion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-008",
+      "question_text": "Two laboratory instruments measure the same quantity. Instrument A has measurements with a standard deviation of 2.5, while Instrument B has a standard deviation of 0.8. Which statement is correct?",
+      "options": [
+        "A. Instrument A is more precise",
+        "B. Instrument B is more precise",
+        "C. Both instruments are equally precise",
+        "D. Precision cannot be determined from standard deviation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Precision refers to the reproducibility of measurements and is reflected in the standard deviation. A smaller standard deviation indicates more consistent, reproducible measurements. Instrument B with SD = 0.8 produces more precise (less variable) measurements than Instrument A with SD = 2.5.",
+      "concept_tags": ["standard-deviation", "precision", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-009",
+      "question_text": "In a normal distribution, approximately what percentage of data falls within one standard deviation of the mean?",
+      "options": [
+        "A. 50%",
+        "B. 68%",
+        "C. 95%",
+        "D. 99.7%"
+      ],
+      "correct_answer": "B",
+      "explanation": "The empirical rule (68-95-99.7 rule) states that in a normal distribution: approximately 68% of data falls within 1 SD of the mean, 95% within 2 SDs, and 99.7% within 3 SDs. This is fundamental for interpreting normal distributions on the MCAT.",
+      "concept_tags": ["normal-distribution", "standard-deviation", "empirical-rule"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-010",
+      "question_text": "A normal distribution is characterized by all of the following EXCEPT:",
+      "options": [
+        "A. Symmetry about the mean",
+        "B. Mean, median, and mode are equal",
+        "C. Bell-shaped curve",
+        "D. The majority of data lies in the tails"
+      ],
+      "correct_answer": "D",
+      "explanation": "A normal distribution is symmetric and bell-shaped, with equal mean, median, and mode at the center. Most data lies near the center (within 1-2 standard deviations), not in the tails. Only about 5% of data lies beyond 2 standard deviations from the mean.",
+      "concept_tags": ["normal-distribution", "distribution-properties", "central-tendency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-011",
+      "question_text": "In a normal distribution, approximately what percentage of data falls within two standard deviations of the mean?",
+      "options": [
+        "A. 68%",
+        "B. 75%",
+        "C. 95%",
+        "D. 99%"
+      ],
+      "correct_answer": "C",
+      "explanation": "According to the empirical rule, approximately 95% of data in a normal distribution falls within two standard deviations of the mean. This means only about 5% of values are more extreme (2.5% in each tail).",
+      "concept_tags": ["normal-distribution", "empirical-rule", "standard-deviation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-012",
+      "question_text": "A z-score of +2.0 indicates that a data point is:",
+      "options": [
+        "A. 2 units above the mean",
+        "B. 2 standard deviations above the mean",
+        "C. Twice the mean value",
+        "D. 2 standard deviations below the mean"
+      ],
+      "correct_answer": "B",
+      "explanation": "A z-score indicates how many standard deviations a value is from the mean. Z = (X - mean)/SD. A z-score of +2.0 means the value is 2 standard deviations above the mean. Positive z-scores are above the mean; negative are below.",
+      "concept_tags": ["z-score", "standard-deviation", "standardization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-013",
+      "question_text": "A patient's cholesterol level is 240 mg/dL. If the population mean is 200 mg/dL with a standard deviation of 20 mg/dL, what is the patient's z-score?",
+      "options": [
+        "A. 0.5",
+        "B. 1.0",
+        "C. 2.0",
+        "D. 4.0"
+      ],
+      "correct_answer": "C",
+      "explanation": "Z-score = (X - mean)/SD = (240 - 200)/20 = 40/20 = 2.0. This means the patient's cholesterol is 2 standard deviations above the population mean, which is quite high (only about 2.5% of the population would have higher levels).",
+      "concept_tags": ["z-score", "calculation", "standard-deviation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-014",
+      "question_text": "If a z-score is negative, the data point is:",
+      "options": [
+        "A. Above the mean",
+        "B. Below the mean",
+        "C. Equal to the mean",
+        "D. An outlier"
+      ],
+      "correct_answer": "B",
+      "explanation": "A negative z-score indicates the data point is below the mean. The z-score formula is z = (X - mean)/SD. If X < mean, the numerator is negative, resulting in a negative z-score. A z-score of 0 means the value equals the mean.",
+      "concept_tags": ["z-score", "interpretation", "mean"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-015",
+      "question_text": "A test score has a z-score of -1.5. If the mean score is 80 and the standard deviation is 10, what is the actual test score?",
+      "options": [
+        "A. 65",
+        "B. 70",
+        "C. 78.5",
+        "D. 95"
+      ],
+      "correct_answer": "A",
+      "explanation": "Using z = (X - mean)/SD, solve for X: X = mean + (z)(SD) = 80 + (-1.5)(10) = 80 - 15 = 65. A z-score of -1.5 means the score is 1.5 standard deviations below the mean.",
+      "concept_tags": ["z-score", "calculation", "reverse-calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-016",
+      "question_text": "The correlation coefficient (r) can range from:",
+      "options": [
+        "A. 0 to 1",
+        "B. -1 to 0",
+        "C. -1 to +1",
+        "D. Negative infinity to positive infinity"
+      ],
+      "correct_answer": "C",
+      "explanation": "The correlation coefficient (r) ranges from -1 to +1. A value of +1 indicates a perfect positive correlation, -1 indicates a perfect negative correlation, and 0 indicates no linear correlation. The magnitude indicates the strength of the relationship.",
+      "concept_tags": ["correlation", "correlation-coefficient", "relationships"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-017",
+      "question_text": "A correlation coefficient of r = -0.85 indicates:",
+      "options": [
+        "A. A weak positive relationship",
+        "B. A strong negative relationship",
+        "C. No relationship",
+        "D. A weak negative relationship"
+      ],
+      "correct_answer": "B",
+      "explanation": "A correlation of r = -0.85 indicates a strong negative (inverse) relationship. The negative sign shows that as one variable increases, the other decreases. The magnitude of 0.85 (close to 1) indicates this relationship is strong.",
+      "concept_tags": ["correlation", "negative-correlation", "interpretation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-018",
+      "question_text": "If the correlation between hours of sleep and test performance is r = 0.6, what is the coefficient of determination (r²)?",
+      "options": [
+        "A. 0.24",
+        "B. 0.36",
+        "C. 0.60",
+        "D. 0.77"
+      ],
+      "correct_answer": "B",
+      "explanation": "The coefficient of determination r² = (0.6)² = 0.36. This means 36% of the variance in test performance can be explained by hours of sleep. The remaining 64% is due to other factors or random variation.",
+      "concept_tags": ["correlation", "coefficient-of-determination", "variance-explained"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-019",
+      "question_text": "A researcher finds a strong positive correlation between ice cream sales and drowning deaths. This most likely represents:",
+      "options": [
+        "A. Causation (ice cream causes drowning)",
+        "B. A confounding variable (temperature affects both)",
+        "C. Random chance",
+        "D. A negative correlation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Correlation does not imply causation. Hot weather is a confounding variable that increases both ice cream sales and swimming (leading to more drowning). This classic example illustrates why researchers must identify confounding variables before drawing causal conclusions.",
+      "concept_tags": ["correlation", "causation", "confounding-variables"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-020",
+      "question_text": "In linear regression, the line of best fit minimizes:",
+      "options": [
+        "A. The sum of all data points",
+        "B. The sum of squared residuals (vertical distances from points to line)",
+        "C. The number of data points",
+        "D. The correlation coefficient"
+      ],
+      "correct_answer": "B",
+      "explanation": "Linear regression uses the least squares method, which minimizes the sum of squared residuals (the squared vertical distances between data points and the regression line). This method gives more weight to larger deviations and always produces a unique solution.",
+      "concept_tags": ["regression", "least-squares", "line-of-best-fit"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-021",
+      "question_text": "The regression equation y = 3x + 5 predicts that when x increases by 1 unit:",
+      "options": [
+        "A. y increases by 5 units",
+        "B. y increases by 3 units",
+        "C. y increases by 8 units",
+        "D. y decreases by 3 units"
+      ],
+      "correct_answer": "B",
+      "explanation": "In the equation y = mx + b, the slope (m = 3) indicates the change in y for each unit change in x. The y-intercept (b = 5) is the value of y when x = 0. When x increases by 1, y increases by 3 (the slope).",
+      "concept_tags": ["regression", "slope", "linear-equations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-022",
+      "question_text": "If you flip a fair coin three times, what is the probability of getting exactly two heads?",
+      "options": [
+        "A. 1/8",
+        "B. 1/4",
+        "C. 3/8",
+        "D. 1/2"
+      ],
+      "correct_answer": "C",
+      "explanation": "For 3 coin flips, there are 2³ = 8 possible outcomes. The sequences with exactly 2 heads are: HHT, HTH, THH (3 sequences). Probability = 3/8. This can also be calculated using the binomial formula: C(3,2) x (0.5)² x (0.5)¹ = 3 x 0.25 x 0.5 = 0.375.",
+      "concept_tags": ["probability", "binomial", "combinations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-023",
+      "question_text": "The probability of event A OR event B occurring (when mutually exclusive) is:",
+      "options": [
+        "A. P(A) x P(B)",
+        "B. P(A) + P(B)",
+        "C. P(A) - P(B)",
+        "D. P(A) / P(B)"
+      ],
+      "correct_answer": "B",
+      "explanation": "For mutually exclusive events (cannot occur simultaneously), the probability of A OR B is the sum of their individual probabilities: P(A or B) = P(A) + P(B). If events are not mutually exclusive, you must subtract P(A and B) to avoid double-counting.",
+      "concept_tags": ["probability", "addition-rule", "mutually-exclusive"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-024",
+      "question_text": "If the probability of developing a disease is 0.02, what is the probability of NOT developing the disease?",
+      "options": [
+        "A. 0.02",
+        "B. 0.20",
+        "C. 0.98",
+        "D. 2.00"
+      ],
+      "correct_answer": "C",
+      "explanation": "The probability of an event not occurring is 1 minus the probability of it occurring: P(not A) = 1 - P(A) = 1 - 0.02 = 0.98. The sum of probabilities for all possible outcomes must equal 1.",
+      "concept_tags": ["probability", "complement", "basic-probability"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-025",
+      "question_text": "Two independent events A and B have probabilities P(A) = 0.3 and P(B) = 0.4. What is P(A AND B)?",
+      "options": [
+        "A. 0.10",
+        "B. 0.12",
+        "C. 0.70",
+        "D. 0.58"
+      ],
+      "correct_answer": "B",
+      "explanation": "For independent events, the probability of both occurring is the product of their individual probabilities: P(A and B) = P(A) x P(B) = 0.3 x 0.4 = 0.12. Independence means the occurrence of one event does not affect the probability of the other.",
+      "concept_tags": ["probability", "multiplication-rule", "independent-events"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-026",
+      "question_text": "A null hypothesis typically states that:",
+      "options": [
+        "A. There is a significant difference between groups",
+        "B. There is no significant difference or effect",
+        "C. The alternative hypothesis is true",
+        "D. The experiment has failed"
+      ],
+      "correct_answer": "B",
+      "explanation": "The null hypothesis (H₀) states that there is no significant difference, effect, or relationship. It represents the status quo or no change. Statistical tests evaluate whether evidence is strong enough to reject the null hypothesis in favor of the alternative hypothesis.",
+      "concept_tags": ["hypothesis-testing", "null-hypothesis", "statistical-inference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-027",
+      "question_text": "A p-value of 0.03 indicates:",
+      "options": [
+        "A. There is a 3% chance the null hypothesis is true",
+        "B. There is a 3% probability of obtaining these results if the null hypothesis were true",
+        "C. The effect size is 3%",
+        "D. 97% of the data supports the alternative hypothesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "The p-value is the probability of obtaining results as extreme as or more extreme than observed, assuming the null hypothesis is true. A p-value of 0.03 means there's only a 3% chance of seeing these results by chance if there's truly no effect.",
+      "concept_tags": ["p-value", "hypothesis-testing", "statistical-significance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-028",
+      "question_text": "If a study uses a significance level (alpha) of 0.05 and obtains a p-value of 0.02, the researchers should:",
+      "options": [
+        "A. Fail to reject the null hypothesis",
+        "B. Reject the null hypothesis",
+        "C. Accept the null hypothesis",
+        "D. Increase the sample size"
+      ],
+      "correct_answer": "B",
+      "explanation": "When p-value < alpha (0.02 < 0.05), we reject the null hypothesis. The result is considered statistically significant. This means the observed effect is unlikely to have occurred by chance alone. Note: we 'fail to reject' rather than 'accept' the null when p > alpha.",
+      "concept_tags": ["p-value", "significance-level", "hypothesis-testing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-029",
+      "question_text": "A Type I error occurs when:",
+      "options": [
+        "A. The null hypothesis is rejected when it is actually true (false positive)",
+        "B. The null hypothesis is not rejected when it is actually false (false negative)",
+        "C. The sample size is too small",
+        "D. The data is normally distributed"
+      ],
+      "correct_answer": "A",
+      "explanation": "A Type I error (false positive) occurs when we incorrectly reject a true null hypothesis. We conclude there is an effect when there actually isn't one. The probability of a Type I error is equal to alpha (the significance level), typically 0.05.",
+      "concept_tags": ["type-i-error", "false-positive", "hypothesis-testing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-030",
+      "question_text": "A Type II error occurs when:",
+      "options": [
+        "A. The null hypothesis is rejected when it is actually true",
+        "B. The null hypothesis is not rejected when it is actually false (false negative)",
+        "C. The p-value is exactly 0.05",
+        "D. The sample is not random"
+      ],
+      "correct_answer": "B",
+      "explanation": "A Type II error (false negative) occurs when we fail to reject a false null hypothesis. We conclude there is no effect when there actually is one. The probability of a Type II error is denoted as beta. Power (1 - beta) is the probability of correctly detecting a true effect.",
+      "concept_tags": ["type-ii-error", "false-negative", "hypothesis-testing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-031",
+      "question_text": "A screening test for a disease has a high sensitivity. This means:",
+      "options": [
+        "A. It has a low false positive rate",
+        "B. It correctly identifies most people WITH the disease (low false negative rate)",
+        "C. It correctly identifies most people WITHOUT the disease",
+        "D. It has high specificity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sensitivity is the true positive rate - the proportion of people with the disease who test positive. High sensitivity means few false negatives (Type II errors). A sensitive test is good for ruling OUT a disease (if negative, you likely don't have it).",
+      "concept_tags": ["sensitivity", "screening-tests", "true-positive-rate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-032",
+      "question_text": "Specificity of a diagnostic test refers to:",
+      "options": [
+        "A. The proportion of sick individuals correctly identified",
+        "B. The proportion of healthy individuals correctly identified as negative",
+        "C. The overall accuracy of the test",
+        "D. The prevalence of the disease"
+      ],
+      "correct_answer": "B",
+      "explanation": "Specificity is the true negative rate - the proportion of people without the disease who correctly test negative. High specificity means few false positives (Type I errors). A specific test is good for ruling IN a disease (if positive, you likely have it).",
+      "concept_tags": ["specificity", "screening-tests", "true-negative-rate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-033",
+      "question_text": "The power of a statistical test is:",
+      "options": [
+        "A. The probability of making a Type I error",
+        "B. The probability of correctly rejecting a false null hypothesis",
+        "C. The p-value of the test",
+        "D. The sample size required"
+      ],
+      "correct_answer": "B",
+      "explanation": "Statistical power is the probability of correctly rejecting the null hypothesis when it is false (correctly detecting a true effect). Power = 1 - beta, where beta is the probability of a Type II error. Higher power means a better chance of detecting real effects.",
+      "concept_tags": ["power", "type-ii-error", "hypothesis-testing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-034",
+      "question_text": "Which of the following would increase the power of a statistical test?",
+      "options": [
+        "A. Decreasing the sample size",
+        "B. Increasing the significance level from 0.01 to 0.05",
+        "C. Increasing the variance in the data",
+        "D. Decreasing the effect size"
+      ],
+      "correct_answer": "B",
+      "explanation": "Power increases with: larger sample size, larger effect size, less variance, and higher alpha (significance level). Increasing alpha from 0.01 to 0.05 makes it easier to reject the null hypothesis, increasing power but also increasing Type I error risk.",
+      "concept_tags": ["power", "sample-size", "significance-level"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-12-035",
+      "question_text": "A distribution with a long tail extending to the right is said to be:",
+      "options": [
+        "A. Negatively skewed",
+        "B. Positively skewed",
+        "C. Normal",
+        "D. Bimodal"
+      ],
+      "correct_answer": "B",
+      "explanation": "A positively skewed (right-skewed) distribution has a long tail extending to the right, with most values clustered on the left. The mean is pulled toward the tail, so mean > median > mode. Income distributions are typically positively skewed.",
+      "concept_tags": ["skewness", "distribution-shape", "descriptive-statistics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-036",
+      "question_text": "In a positively skewed distribution, the relationship between mean, median, and mode is typically:",
+      "options": [
+        "A. Mean = Median = Mode",
+        "B. Mean < Median < Mode",
+        "C. Mode < Median < Mean",
+        "D. Median < Mode < Mean"
+      ],
+      "correct_answer": "C",
+      "explanation": "In a positively skewed distribution, the mean is pulled toward the right tail. The order is: Mode < Median < Mean. The mode is at the peak, the median is in the middle, and the mean is shifted toward the tail by extreme high values.",
+      "concept_tags": ["skewness", "mean", "median", "mode"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-037",
+      "question_text": "The standard error of the mean (SEM) is calculated by:",
+      "options": [
+        "A. Dividing the standard deviation by the sample size",
+        "B. Dividing the standard deviation by the square root of the sample size",
+        "C. Multiplying the standard deviation by the sample size",
+        "D. Squaring the standard deviation"
+      ],
+      "correct_answer": "B",
+      "explanation": "SEM = SD/sqrt(n), where SD is the standard deviation and n is the sample size. SEM estimates how much the sample mean varies from the true population mean. It decreases as sample size increases, reflecting more precise estimates with larger samples.",
+      "concept_tags": ["standard-error", "sample-size", "sampling-distribution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-038",
+      "question_text": "A 95% confidence interval for a mean indicates that:",
+      "options": [
+        "A. 95% of the data falls within this interval",
+        "B. There is a 95% probability the true population mean lies within this interval",
+        "C. If we repeated the study many times, 95% of calculated intervals would contain the true mean",
+        "D. The sample mean is accurate 95% of the time"
+      ],
+      "correct_answer": "C",
+      "explanation": "A 95% CI means that if we repeated the sampling procedure many times, approximately 95% of the calculated confidence intervals would contain the true population parameter. It's about the reliability of the method, not a probability statement about any single interval.",
+      "concept_tags": ["confidence-interval", "statistical-inference", "interpretation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-12-039",
+      "question_text": "As sample size increases, the standard error of the mean:",
+      "options": [
+        "A. Increases",
+        "B. Decreases",
+        "C. Stays the same",
+        "D. Becomes negative"
+      ],
+      "correct_answer": "B",
+      "explanation": "Since SEM = SD/sqrt(n), as n increases, SEM decreases. Larger samples provide more precise estimates of the population mean. Quadrupling the sample size halves the standard error.",
+      "concept_tags": ["standard-error", "sample-size", "precision"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-040",
+      "question_text": "A researcher wants to study drug effectiveness but excludes patients who drop out due to side effects. This introduces:",
+      "options": [
+        "A. Random error",
+        "B. Selection bias",
+        "C. Increased power",
+        "D. Higher precision"
+      ],
+      "correct_answer": "B",
+      "explanation": "Selection bias occurs when the sample is not representative of the population. Excluding dropouts (often those with adverse effects) may artificially inflate the drug's apparent effectiveness. This is a form of systematic error that distorts results.",
+      "concept_tags": ["bias", "selection-bias", "study-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-041",
+      "question_text": "In a dataset of 100 values, approximately how many would you expect to have z-scores greater than +2 in a normal distribution?",
+      "options": [
+        "A. About 2-3",
+        "B. About 5",
+        "C. About 16",
+        "D. About 32"
+      ],
+      "correct_answer": "A",
+      "explanation": "In a normal distribution, about 95% of values fall within 2 SDs of the mean, leaving about 5% in both tails combined. Since the distribution is symmetric, about 2.5% (2-3 out of 100) would have z-scores greater than +2.",
+      "concept_tags": ["z-score", "normal-distribution", "empirical-rule"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-042",
+      "question_text": "A clinical trial finds p = 0.049 for a new treatment. Which conclusion is most appropriate?",
+      "options": [
+        "A. The treatment definitely works",
+        "B. The result is statistically significant at alpha = 0.05, but clinical significance should also be evaluated",
+        "C. The treatment has no effect",
+        "D. The null hypothesis is proven false"
+      ],
+      "correct_answer": "B",
+      "explanation": "A p-value of 0.049 is just below the 0.05 threshold, making it statistically significant. However, statistical significance doesn't prove an effect exists or that it's clinically meaningful. Effect size and clinical relevance must be considered. Also, p-values near 0.05 warrant caution.",
+      "concept_tags": ["p-value", "statistical-significance", "clinical-significance"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-12-043",
+      "question_text": "The coefficient of determination (r²) = 0.81 for a regression model. This means:",
+      "options": [
+        "A. The correlation is 0.81",
+        "B. 81% of the variance in the dependent variable is explained by the model",
+        "C. The slope of the regression line is 0.81",
+        "D. There is an 81% chance the prediction is correct"
+      ],
+      "correct_answer": "B",
+      "explanation": "The coefficient of determination (r²) represents the proportion of variance in the dependent variable that is explained by the independent variable(s). Here, 81% of the variability in Y can be explained by the regression model, while 19% remains unexplained.",
+      "concept_tags": ["coefficient-of-determination", "regression", "variance-explained"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-044",
+      "question_text": "A pharmaceutical company tests a drug and finds a non-significant result (p = 0.15). A subsequent larger study finds a significant effect. The first study likely had:",
+      "options": [
+        "A. A Type I error",
+        "B. Insufficient statistical power (Type II error)",
+        "C. Selection bias",
+        "D. A smaller effect size"
+      ],
+      "correct_answer": "B",
+      "explanation": "When a small study fails to detect an effect that a larger study later confirms, the small study likely lacked power (had a Type II error). Small sample sizes reduce power, making it harder to detect true effects. The larger study had more power to detect the effect.",
+      "concept_tags": ["power", "type-ii-error", "sample-size"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-12-045",
+      "question_text": "Which scenario represents independent events?",
+      "options": [
+        "A. Drawing two cards from a deck without replacement",
+        "B. Flipping a coin twice",
+        "C. Selecting two siblings from a family",
+        "D. Measuring blood pressure before and after treatment"
+      ],
+      "correct_answer": "B",
+      "explanation": "Independent events are those where the outcome of one does not affect the probability of the other. Coin flips are independent - each flip has a 50% chance regardless of previous results. Drawing without replacement, related measurements, and genetic relatives are all dependent.",
+      "concept_tags": ["probability", "independent-events", "dependent-events"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-12-046",
+      "question_text": "A study finds that a new drug reduces blood pressure by 5 mmHg with a 95% confidence interval of -8 to -2 mmHg. Since zero is not in the interval:",
+      "options": [
+        "A. The result is not statistically significant",
+        "B. The result is statistically significant at the 0.05 level",
+        "C. The sample size was too small",
+        "D. A Type I error occurred"
+      ],
+      "correct_answer": "B",
+      "explanation": "When a 95% CI does not include zero (or the null value), the result is statistically significant at alpha = 0.05. The entire interval shows a reduction (negative values), indicating the drug significantly lowers blood pressure compared to placebo.",
+      "concept_tags": ["confidence-interval", "statistical-significance", "interpretation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-12-047",
+      "question_text": "What is the probability of rolling an even number on a fair six-sided die?",
+      "options": [
+        "A. 1/6",
+        "B. 1/3",
+        "C. 1/2",
+        "D. 2/3"
+      ],
+      "correct_answer": "C",
+      "explanation": "The even numbers on a die are 2, 4, and 6 (3 outcomes). With 6 possible equally likely outcomes, P(even) = 3/6 = 1/2. This is a basic probability calculation using the formula P = favorable outcomes / total outcomes.",
+      "concept_tags": ["probability", "basic-probability", "equally-likely-outcomes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-048",
+      "question_text": "A laboratory test has sensitivity of 90% and specificity of 80%. If a patient tests positive, you can conclude:",
+      "options": [
+        "A. The patient definitely has the disease",
+        "B. There is a 90% chance the patient has the disease",
+        "C. The patient may or may not have the disease; positive predictive value depends on prevalence",
+        "D. There is a 20% chance of a false negative"
+      ],
+      "correct_answer": "C",
+      "explanation": "Sensitivity and specificity describe test performance, but they don't tell us the probability a positive patient truly has the disease. The positive predictive value (PPV) depends on disease prevalence. In low-prevalence conditions, even good tests have many false positives.",
+      "concept_tags": ["sensitivity", "specificity", "positive-predictive-value", "prevalence"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-12-049",
+      "question_text": "Two datasets have the same mean but different standard deviations. Dataset A has SD = 5 and Dataset B has SD = 15. Which statement is true?",
+      "options": [
+        "A. Dataset A has more spread in its values",
+        "B. Dataset B has more spread in its values",
+        "C. Both datasets have the same spread",
+        "D. The datasets cannot be compared"
+      ],
+      "correct_answer": "B",
+      "explanation": "Standard deviation measures the spread of data around the mean. Dataset B (SD = 15) has values that are more spread out from the mean than Dataset A (SD = 5). A larger SD indicates greater variability in the data.",
+      "concept_tags": ["standard-deviation", "variability", "comparison"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-12-050",
+      "question_text": "A researcher performs 20 independent statistical tests at alpha = 0.05 without adjusting for multiple comparisons. Approximately how many false positives would be expected by chance alone?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 5",
+        "D. 10"
+      ],
+      "correct_answer": "B",
+      "explanation": "At alpha = 0.05, there is a 5% chance of a Type I error for each test. With 20 tests, expected false positives = 20 x 0.05 = 1. This is why multiple comparison corrections (like Bonferroni) are used to control the overall false positive rate.",
+      "concept_tags": ["multiple-comparisons", "type-i-error", "bonferroni-correction"],
+      "difficulty": "hard"
+    }
+  ]
+}

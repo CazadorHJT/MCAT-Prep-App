@@ -1,0 +1,457 @@
+{
+  "book": "biochemistry",
+  "chapter": 3,
+  "chapter_title": "Carbohydrates",
+  "questions": [
+    {
+      "id": "biochemistry-03-001",
+      "question_text": "Which of the following monosaccharides is classified as a ketose?",
+      "options": ["A. Glucose", "B. Galactose", "C. Fructose", "D. Ribose"],
+      "correct_answer": "C",
+      "explanation": "Fructose is a ketose because it contains a ketone group (carbonyl on C2). Glucose, galactose, and ribose are all aldoses because they contain an aldehyde group (carbonyl on C1).",
+      "concept_tags": ["monosaccharides", "ketoses", "aldoses", "fructose"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-002",
+      "question_text": "What is the relationship between D-glucose and L-glucose?",
+      "options": ["A. Anomers", "B. Epimers", "C. Enantiomers", "D. Diastereomers"],
+      "correct_answer": "C",
+      "explanation": "D-glucose and L-glucose are enantiomers (mirror images) of each other. The D and L designations refer to the configuration at the chiral center farthest from the carbonyl group. Enantiomers have opposite configurations at ALL chiral centers.",
+      "concept_tags": ["D-L-configuration", "enantiomers", "stereochemistry", "glucose"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-003",
+      "question_text": "Alpha-D-glucose and beta-D-glucose differ in the configuration at which carbon?",
+      "options": ["A. C1", "B. C2", "C. C4", "D. C6"],
+      "correct_answer": "A",
+      "explanation": "Alpha and beta anomers differ in the configuration at the anomeric carbon (C1 in glucose). In alpha-D-glucose, the hydroxyl group at C1 is axial (pointing down in the standard Haworth projection), while in beta-D-glucose, it is equatorial (pointing up).",
+      "concept_tags": ["anomers", "glucose", "anomeric-carbon", "stereochemistry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-004",
+      "question_text": "Which disaccharide is composed of glucose and galactose joined by a beta-1,4-glycosidic bond?",
+      "options": ["A. Sucrose", "B. Maltose", "C. Lactose", "D. Cellobiose"],
+      "correct_answer": "C",
+      "explanation": "Lactose (milk sugar) consists of galactose and glucose joined by a beta-1,4-glycosidic bond. Sucrose contains glucose and fructose, maltose contains two glucose units with an alpha-1,4 bond, and cellobiose contains two glucose units with a beta-1,4 bond.",
+      "concept_tags": ["disaccharides", "lactose", "glycosidic-bonds", "galactose"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-005",
+      "question_text": "Which polysaccharide serves as the primary storage form of glucose in animals?",
+      "options": ["A. Starch", "B. Cellulose", "C. Glycogen", "D. Chitin"],
+      "correct_answer": "C",
+      "explanation": "Glycogen is the primary storage polysaccharide in animals, stored mainly in liver and muscle. Starch is the storage polysaccharide in plants, cellulose is a structural polysaccharide in plants, and chitin is a structural polysaccharide in arthropod exoskeletons.",
+      "concept_tags": ["polysaccharides", "glycogen", "energy-storage"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-006",
+      "question_text": "The enzyme lactase cleaves which type of glycosidic bond?",
+      "options": ["A. Alpha-1,4", "B. Beta-1,4", "C. Alpha-1,6", "D. Alpha-1,2"],
+      "correct_answer": "B",
+      "explanation": "Lactase cleaves the beta-1,4-glycosidic bond in lactose, releasing glucose and galactose. Lactose intolerance results from insufficient lactase activity.",
+      "concept_tags": ["carbohydrate-digestion", "lactase", "glycosidic-bonds", "lactose"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-007",
+      "question_text": "Which of the following is a reducing sugar?",
+      "options": ["A. Sucrose", "B. Maltose", "C. Trehalose", "D. None of the above"],
+      "correct_answer": "B",
+      "explanation": "Maltose is a reducing sugar because it has a free anomeric carbon that can open to expose an aldehyde group. Sucrose and trehalose are non-reducing sugars because both anomeric carbons are involved in the glycosidic bond.",
+      "concept_tags": ["reducing-sugars", "maltose", "anomeric-carbon", "disaccharides"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-008",
+      "question_text": "D-glucose and D-galactose are epimers that differ in configuration at which carbon?",
+      "options": ["A. C1", "B. C2", "C. C3", "D. C4"],
+      "correct_answer": "D",
+      "explanation": "D-glucose and D-galactose are C4 epimers, meaning they differ only in the configuration at carbon 4. Epimers are diastereomers that differ at only one chiral center.",
+      "concept_tags": ["epimers", "glucose", "galactose", "stereochemistry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-009",
+      "question_text": "Amylose is a component of starch that consists of:",
+      "options": ["A. Branched chains of glucose with alpha-1,4 and alpha-1,6 bonds", "B. Unbranched chains of glucose with alpha-1,4 bonds", "C. Unbranched chains of glucose with beta-1,4 bonds", "D. Branched chains of glucose with beta-1,4 and beta-1,6 bonds"],
+      "correct_answer": "B",
+      "explanation": "Amylose is the unbranched component of starch, consisting of glucose units linked by alpha-1,4 glycosidic bonds. Amylopectin is the branched component with both alpha-1,4 and alpha-1,6 bonds.",
+      "concept_tags": ["polysaccharides", "starch", "amylose", "glycosidic-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-010",
+      "question_text": "Which enzyme initiates carbohydrate digestion in the mouth?",
+      "options": ["A. Pepsin", "B. Salivary amylase", "C. Lactase", "D. Sucrase"],
+      "correct_answer": "B",
+      "explanation": "Salivary amylase (ptyalin) initiates carbohydrate digestion in the mouth by cleaving alpha-1,4 glycosidic bonds in starch. Pepsin is a protease, while lactase and sucrase are intestinal brush border enzymes.",
+      "concept_tags": ["carbohydrate-digestion", "amylase", "enzymes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-011",
+      "question_text": "The cyclic form of glucose is primarily a:",
+      "options": ["A. Five-membered furanose ring", "B. Six-membered pyranose ring", "C. Seven-membered ring", "D. Four-membered ring"],
+      "correct_answer": "B",
+      "explanation": "Glucose predominantly exists as a six-membered pyranose ring in aqueous solution. Fructose can form either a furanose (five-membered) or pyranose ring, but in sucrose, fructose is in the furanose form.",
+      "concept_tags": ["monosaccharides", "glucose", "pyranose", "ring-structures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-012",
+      "question_text": "Mutarotation refers to:",
+      "options": ["A. The conversion between D and L forms of a sugar", "B. The interconversion between alpha and beta anomers through the open-chain form", "C. The conversion of an aldose to a ketose", "D. The epimerization at any carbon of a sugar"],
+      "correct_answer": "B",
+      "explanation": "Mutarotation is the interconversion between alpha and beta anomers that occurs through the open-chain form of the sugar. This process causes a change in optical rotation until equilibrium is reached.",
+      "concept_tags": ["mutarotation", "anomers", "stereochemistry", "monosaccharides"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-013",
+      "question_text": "Which of the following correctly describes the structure of sucrose?",
+      "options": ["A. Glucose-alpha-1,4-glucose", "B. Glucose-alpha-1,2-fructose", "C. Galactose-beta-1,4-glucose", "D. Glucose-beta-1,4-glucose"],
+      "correct_answer": "B",
+      "explanation": "Sucrose consists of glucose and fructose joined by an alpha-1,2-glycosidic bond (alpha from the glucose C1, beta from the fructose C2). This linkage involves both anomeric carbons, making sucrose a non-reducing sugar.",
+      "concept_tags": ["disaccharides", "sucrose", "glycosidic-bonds", "fructose"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-014",
+      "question_text": "Cellulose cannot be digested by humans because:",
+      "options": ["A. It contains fructose instead of glucose", "B. Humans lack enzymes to cleave beta-1,4-glycosidic bonds", "C. It is insoluble in water", "D. It contains alpha-1,6 branch points"],
+      "correct_answer": "B",
+      "explanation": "Humans cannot digest cellulose because we lack cellulase, the enzyme needed to cleave beta-1,4-glycosidic bonds. Our digestive enzymes (amylases) can only cleave alpha-glycosidic bonds.",
+      "concept_tags": ["cellulose", "polysaccharides", "carbohydrate-digestion", "glycosidic-bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-015",
+      "question_text": "In the Haworth projection of beta-D-glucopyranose, the hydroxyl group at C1 is oriented:",
+      "options": ["A. Below the plane of the ring (axial, same side as CH2OH)", "B. Above the plane of the ring (equatorial, same side as CH2OH)", "C. In the plane of the ring", "D. Opposite to the CH2OH group"],
+      "correct_answer": "B",
+      "explanation": "In beta-D-glucopyranose, the C1 hydroxyl is above the ring plane (equatorial position), on the same side as the CH2OH group. In the alpha anomer, the C1 hydroxyl is below the ring plane (axial position).",
+      "concept_tags": ["anomers", "Haworth-projection", "glucose", "stereochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-016",
+      "question_text": "Which monosaccharide is the most abundant in nature?",
+      "options": ["A. Fructose", "B. Galactose", "C. Glucose", "D. Mannose"],
+      "correct_answer": "C",
+      "explanation": "Glucose is the most abundant monosaccharide in nature. It is the primary product of photosynthesis, the main fuel for cellular respiration, and the building block of major polysaccharides like starch, glycogen, and cellulose.",
+      "concept_tags": ["monosaccharides", "glucose", "carbohydrates"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-017",
+      "question_text": "Glycogen has more branch points than amylopectin. What is the biological advantage of this?",
+      "options": ["A. It makes glycogen more soluble", "B. It provides more non-reducing ends for rapid glucose mobilization", "C. It makes glycogen more resistant to enzymatic degradation", "D. It allows glycogen to store more energy per unit mass"],
+      "correct_answer": "B",
+      "explanation": "The highly branched structure of glycogen provides many non-reducing ends where glycogen phosphorylase can simultaneously act to rapidly release glucose units. This allows for quick glucose mobilization during energy demands.",
+      "concept_tags": ["glycogen", "polysaccharides", "energy-storage", "branching"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-018",
+      "question_text": "The D designation in D-glucose refers to:",
+      "options": ["A. The direction the molecule rotates plane-polarized light", "B. The configuration at the chiral center farthest from the carbonyl group", "C. The position of the carbonyl group", "D. The number of carbon atoms"],
+      "correct_answer": "B",
+      "explanation": "The D or L designation refers to the configuration at the chiral center farthest from the carbonyl group (C5 in glucose). If the hydroxyl group on this carbon is on the right in a Fischer projection, it is D; if on the left, it is L.",
+      "concept_tags": ["D-L-configuration", "stereochemistry", "Fischer-projection", "glucose"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-019",
+      "question_text": "Which of the following enzymes is responsible for cleaving the alpha-1,6 glycosidic bonds in glycogen?",
+      "options": ["A. Glycogen phosphorylase", "B. Debranching enzyme", "C. Glycogen synthase", "D. Branching enzyme"],
+      "correct_answer": "B",
+      "explanation": "Debranching enzyme has two activities: a transferase activity that moves a trisaccharide unit, and an alpha-1,6-glucosidase activity that cleaves the alpha-1,6 bonds at branch points. Glycogen phosphorylase only cleaves alpha-1,4 bonds.",
+      "concept_tags": ["glycogen", "carbohydrate-digestion", "enzymes", "glycosidic-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-020",
+      "question_text": "Fructose is absorbed in the small intestine primarily via:",
+      "options": ["A. SGLT1 (sodium-dependent transport)", "B. GLUT2", "C. GLUT5", "D. Active transport using ATP"],
+      "correct_answer": "C",
+      "explanation": "Fructose is absorbed primarily through GLUT5, a facilitated diffusion transporter specific for fructose. SGLT1 is responsible for the active transport of glucose and galactose. GLUT2 facilitates exit of sugars from enterocytes into blood.",
+      "concept_tags": ["fructose", "carbohydrate-digestion", "transporters", "absorption"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-021",
+      "question_text": "A patient presents with symptoms of bloating and diarrhea after consuming dairy products. Which enzyme deficiency is most likely responsible?",
+      "options": ["A. Sucrase", "B. Maltase", "C. Lactase", "D. Amylase"],
+      "correct_answer": "C",
+      "explanation": "Lactase deficiency (lactose intolerance) causes inability to digest lactose in dairy products. Undigested lactose is fermented by gut bacteria, producing gas (bloating) and drawing water into the intestine (diarrhea).",
+      "concept_tags": ["carbohydrate-digestion", "lactase", "lactose", "clinical"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-022",
+      "question_text": "Which of the following statements about glycosidic bond formation is correct?",
+      "options": ["A. It is a hydrolysis reaction", "B. It releases a molecule of water (condensation reaction)", "C. It requires no enzyme catalysis", "D. It breaks the ring structure of both sugars"],
+      "correct_answer": "B",
+      "explanation": "Glycosidic bond formation is a condensation (dehydration) reaction that releases one molecule of water. The reaction occurs between the anomeric carbon of one sugar and a hydroxyl group of another sugar.",
+      "concept_tags": ["glycosidic-bonds", "condensation-reaction", "carbohydrate-chemistry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-023",
+      "question_text": "Which carbon atom becomes the anomeric carbon when glucose cyclizes?",
+      "options": ["A. C1", "B. C2", "C. C4", "D. C6"],
+      "correct_answer": "A",
+      "explanation": "When glucose (an aldose) cyclizes, the aldehyde carbon (C1) reacts with the C5 hydroxyl to form a hemiacetal. C1 becomes the anomeric carbon, which can have alpha or beta configuration.",
+      "concept_tags": ["anomeric-carbon", "glucose", "cyclization", "monosaccharides"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-024",
+      "question_text": "In the chair conformation of beta-D-glucopyranose, most of the hydroxyl groups are in the:",
+      "options": ["A. Axial position", "B. Equatorial position", "C. Half are axial and half are equatorial", "D. Alternating axial and equatorial positions"],
+      "correct_answer": "B",
+      "explanation": "In beta-D-glucopyranose, all the bulky groups (including the CH2OH and all hydroxyl groups) are in the equatorial position. This makes beta-D-glucose the most stable hexose, as equatorial substituents minimize steric strain.",
+      "concept_tags": ["glucose", "chair-conformation", "stereochemistry", "stability"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-025",
+      "question_text": "Which of the following is NOT a component of starch?",
+      "options": ["A. Amylose", "B. Amylopectin", "C. Glycogen", "D. Both A and B are components"],
+      "correct_answer": "C",
+      "explanation": "Starch consists of two components: amylose (unbranched) and amylopectin (branched). Glycogen is a separate polysaccharide that serves as the animal storage form of glucose, not a component of plant starch.",
+      "concept_tags": ["starch", "polysaccharides", "amylose", "amylopectin"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-026",
+      "question_text": "The alpha-1,6 branch points in glycogen occur approximately every:",
+      "options": ["A. 4-6 glucose residues", "B. 8-12 glucose residues", "C. 24-30 glucose residues", "D. 50-60 glucose residues"],
+      "correct_answer": "B",
+      "explanation": "In glycogen, alpha-1,6 branch points occur approximately every 8-12 glucose residues. In amylopectin (plant starch), branches occur less frequently, about every 24-30 residues.",
+      "concept_tags": ["glycogen", "branching", "polysaccharides", "structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-027",
+      "question_text": "D-glucose and D-mannose are epimers that differ at which carbon?",
+      "options": ["A. C1", "B. C2", "C. C3", "D. C4"],
+      "correct_answer": "B",
+      "explanation": "D-glucose and D-mannose are C2 epimers, differing only in the configuration at carbon 2. This is in contrast to glucose and galactose, which are C4 epimers.",
+      "concept_tags": ["epimers", "glucose", "mannose", "stereochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-028",
+      "question_text": "Pancreatic amylase continues the digestion of starch in the small intestine by cleaving:",
+      "options": ["A. Alpha-1,4 glycosidic bonds only", "B. Beta-1,4 glycosidic bonds only", "C. Alpha-1,6 glycosidic bonds only", "D. Both alpha-1,4 and alpha-1,6 glycosidic bonds"],
+      "correct_answer": "A",
+      "explanation": "Pancreatic amylase, like salivary amylase, cleaves only alpha-1,4 glycosidic bonds. It cannot cleave alpha-1,6 bonds at branch points or bonds near branch points, leaving limit dextrins that require debranching enzyme.",
+      "concept_tags": ["carbohydrate-digestion", "amylase", "glycosidic-bonds", "enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-029",
+      "question_text": "Which of the following is classified as a hexose?",
+      "options": ["A. Ribose", "B. Erythrose", "C. Fructose", "D. Glyceraldehyde"],
+      "correct_answer": "C",
+      "explanation": "Fructose is a hexose (6-carbon sugar). Ribose is a pentose (5 carbons), erythrose is a tetrose (4 carbons), and glyceraldehyde is a triose (3 carbons).",
+      "concept_tags": ["monosaccharides", "fructose", "classification", "hexose"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-030",
+      "question_text": "The glycosidic bond in maltose is:",
+      "options": ["A. Alpha-1,2", "B. Alpha-1,4", "C. Beta-1,4", "D. Alpha-1,6"],
+      "correct_answer": "B",
+      "explanation": "Maltose consists of two glucose units joined by an alpha-1,4 glycosidic bond. Maltose is produced during starch digestion by amylase.",
+      "concept_tags": ["disaccharides", "maltose", "glycosidic-bonds", "glucose"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-03-031",
+      "question_text": "A molecule that is optically active must have:",
+      "options": ["A. At least one double bond", "B. At least one chiral center", "C. At least six carbon atoms", "D. A ring structure"],
+      "correct_answer": "B",
+      "explanation": "Optical activity requires a molecule to be chiral, which typically means having at least one chiral center (a carbon with four different substituents). Chiral molecules rotate plane-polarized light.",
+      "concept_tags": ["stereochemistry", "chirality", "optical-activity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-032",
+      "question_text": "SGLT1 in intestinal epithelial cells transports glucose using energy from:",
+      "options": ["A. ATP hydrolysis directly", "B. The sodium gradient established by Na+/K+-ATPase", "C. The proton gradient", "D. Facilitated diffusion (no energy required)"],
+      "correct_answer": "B",
+      "explanation": "SGLT1 is a secondary active transporter that uses the sodium gradient (established by Na+/K+-ATPase) to drive glucose uptake against its concentration gradient. Two sodium ions are co-transported with each glucose molecule.",
+      "concept_tags": ["carbohydrate-digestion", "transporters", "SGLT1", "absorption"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-033",
+      "question_text": "Which of the following carbohydrates would give a positive Benedict's test?",
+      "options": ["A. Sucrose", "B. Starch", "C. Galactose", "D. Cellulose"],
+      "correct_answer": "C",
+      "explanation": "Galactose is a reducing sugar with a free anomeric carbon that can reduce Cu2+ to Cu+ in Benedict's reagent. Sucrose is a non-reducing sugar (both anomeric carbons are involved in the glycosidic bond), and polysaccharides like starch and cellulose have very few reducing ends relative to their mass.",
+      "concept_tags": ["reducing-sugars", "Benedict-test", "galactose", "carbohydrate-chemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-034",
+      "question_text": "The liver can release free glucose into the bloodstream because it contains:",
+      "options": ["A. Hexokinase", "B. Glucose-6-phosphatase", "C. Glucokinase only", "D. Glycogen phosphorylase only"],
+      "correct_answer": "B",
+      "explanation": "Glucose-6-phosphatase converts glucose-6-phosphate to free glucose, which can then exit the cell. This enzyme is present in liver and kidney but absent in muscle, allowing the liver to maintain blood glucose levels.",
+      "concept_tags": ["glycogen", "liver-metabolism", "glucose-6-phosphatase", "enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-035",
+      "question_text": "Which structural feature distinguishes cellulose from amylose?",
+      "options": ["A. Cellulose contains fructose while amylose contains glucose", "B. Cellulose has beta-1,4 linkages while amylose has alpha-1,4 linkages", "C. Cellulose is branched while amylose is linear", "D. Cellulose contains nitrogen while amylose does not"],
+      "correct_answer": "B",
+      "explanation": "Both cellulose and amylose are linear polymers of glucose, but cellulose has beta-1,4 glycosidic bonds while amylose has alpha-1,4 bonds. This difference in bond configuration dramatically affects their structures and digestibility.",
+      "concept_tags": ["cellulose", "amylose", "glycosidic-bonds", "polysaccharides"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-036",
+      "question_text": "In a Fischer projection of D-glucose, the hydroxyl group on C5 points to the:",
+      "options": ["A. Left", "B. Right", "C. Up", "D. Down"],
+      "correct_answer": "B",
+      "explanation": "In a Fischer projection of D-glucose, the hydroxyl group on C5 (the reference carbon for D/L designation) points to the right. This rightward orientation defines the D configuration.",
+      "concept_tags": ["Fischer-projection", "D-L-configuration", "glucose", "stereochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-037",
+      "question_text": "Which enzyme converts fructose-6-phosphate to fructose-1,6-bisphosphate in glycolysis?",
+      "options": ["A. Hexokinase", "B. Phosphofructokinase-1 (PFK-1)", "C. Aldolase", "D. Phosphoglucose isomerase"],
+      "correct_answer": "B",
+      "explanation": "Phosphofructokinase-1 (PFK-1) catalyzes the phosphorylation of fructose-6-phosphate to fructose-1,6-bisphosphate, using ATP. This is the committed step of glycolysis and a major regulatory point.",
+      "concept_tags": ["fructose", "glycolysis", "enzymes", "regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-038",
+      "question_text": "Isomaltose is a disaccharide that contains:",
+      "options": ["A. Two glucose units linked by alpha-1,4 bond", "B. Two glucose units linked by alpha-1,6 bond", "C. Glucose and fructose linked by alpha-1,2 bond", "D. Two galactose units linked by beta-1,4 bond"],
+      "correct_answer": "B",
+      "explanation": "Isomaltose consists of two glucose units linked by an alpha-1,6 glycosidic bond. It is produced during the digestion of branch points in starch and glycogen.",
+      "concept_tags": ["disaccharides", "isomaltose", "glycosidic-bonds", "glucose"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-039",
+      "question_text": "Which of the following is TRUE about the anomeric carbon?",
+      "options": ["A. It is always C1 in all sugars", "B. It is the carbonyl carbon that becomes a new chiral center upon ring formation", "C. It cannot participate in glycosidic bond formation", "D. It is only found in aldoses, not ketoses"],
+      "correct_answer": "B",
+      "explanation": "The anomeric carbon is the carbonyl carbon that becomes a new chiral center when the sugar cyclizes. In aldoses like glucose, this is C1; in ketoses like fructose, this is C2. The anomeric carbon participates in glycosidic bond formation.",
+      "concept_tags": ["anomeric-carbon", "cyclization", "stereochemistry", "monosaccharides"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-040",
+      "question_text": "Glycosaminoglycans (GAGs) such as heparin and hyaluronic acid are characterized by:",
+      "options": ["A. Being composed only of glucose residues", "B. Repeating disaccharide units containing an amino sugar", "C. Lacking any charged groups", "D. Being easily digested by humans"],
+      "correct_answer": "B",
+      "explanation": "Glycosaminoglycans are composed of repeating disaccharide units, typically containing an amino sugar (like N-acetylglucosamine) and a uronic acid. They are highly charged due to sulfate and carboxyl groups.",
+      "concept_tags": ["glycosaminoglycans", "amino-sugars", "polysaccharides", "structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-041",
+      "question_text": "The product of complete starch digestion by amylase and brush border enzymes is:",
+      "options": ["A. Maltose only", "B. Glucose only", "C. Glucose and galactose", "D. Fructose only"],
+      "correct_answer": "B",
+      "explanation": "Complete digestion of starch yields only glucose, as starch is a polymer of glucose. Amylase produces maltose, maltotriose, and limit dextrins, which brush border enzymes (maltase, isomaltase) convert to free glucose.",
+      "concept_tags": ["carbohydrate-digestion", "starch", "glucose", "enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-042",
+      "question_text": "Which of the following monosaccharides is NOT found in the human body under normal conditions?",
+      "options": ["A. D-glucose", "B. D-fructose", "C. L-glucose", "D. D-galactose"],
+      "correct_answer": "C",
+      "explanation": "L-glucose is not metabolized in the human body because our enzymes are specific for D-sugars. D-glucose, D-fructose, and D-galactose are all common sugars in human metabolism.",
+      "concept_tags": ["D-L-configuration", "monosaccharides", "metabolism", "stereochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-043",
+      "question_text": "The main structural difference between glycogen and amylopectin is that glycogen:",
+      "options": ["A. Contains beta-glycosidic bonds", "B. Has more frequent branch points", "C. Is composed of different monosaccharides", "D. Is linear rather than branched"],
+      "correct_answer": "B",
+      "explanation": "Both glycogen and amylopectin are branched polymers of glucose with alpha-1,4 and alpha-1,6 linkages. However, glycogen has branch points every 8-12 residues, while amylopectin has branches every 24-30 residues.",
+      "concept_tags": ["glycogen", "amylopectin", "branching", "polysaccharides"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-044",
+      "question_text": "A scientist synthesizes a disaccharide with a beta-1,4 linkage between two glucose molecules. This disaccharide is:",
+      "options": ["A. Maltose", "B. Isomaltose", "C. Cellobiose", "D. Sucrose"],
+      "correct_answer": "C",
+      "explanation": "Cellobiose consists of two glucose units linked by a beta-1,4 glycosidic bond. It is the repeating unit of cellulose. Maltose has an alpha-1,4 bond, and isomaltose has an alpha-1,6 bond.",
+      "concept_tags": ["disaccharides", "cellobiose", "glycosidic-bonds", "glucose"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-045",
+      "question_text": "Galactosemia is a genetic disorder caused by deficiency of which enzyme?",
+      "options": ["A. Lactase", "B. Galactokinase or galactose-1-phosphate uridylyltransferase", "C. Hexokinase", "D. Sucrase"],
+      "correct_answer": "B",
+      "explanation": "Classic galactosemia is caused by deficiency of galactose-1-phosphate uridylyltransferase. Other forms result from galactokinase deficiency. Lactase deficiency causes lactose intolerance, not galactosemia.",
+      "concept_tags": ["galactose", "metabolism", "clinical", "enzymes"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-046",
+      "question_text": "Which of the following represents the correct order of enzymes in carbohydrate digestion?",
+      "options": ["A. Salivary amylase → sucrase → pancreatic amylase", "B. Pancreatic amylase → salivary amylase → brush border enzymes", "C. Salivary amylase → pancreatic amylase → brush border enzymes", "D. Brush border enzymes → salivary amylase → pancreatic amylase"],
+      "correct_answer": "C",
+      "explanation": "Carbohydrate digestion begins with salivary amylase in the mouth, continues with pancreatic amylase in the small intestine, and is completed by brush border enzymes (maltase, sucrase, lactase, isomaltase) in the intestinal epithelium.",
+      "concept_tags": ["carbohydrate-digestion", "enzymes", "sequence", "digestion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-047",
+      "question_text": "The conversion of galactose to glucose-6-phosphate involves which intermediate?",
+      "options": ["A. Galactose-1-phosphate", "B. Fructose-6-phosphate", "C. Mannose-6-phosphate", "D. Sorbitol"],
+      "correct_answer": "A",
+      "explanation": "Galactose is first phosphorylated to galactose-1-phosphate by galactokinase, then converted to glucose-1-phosphate via UDP-galactose intermediates, and finally to glucose-6-phosphate by phosphoglucomutase.",
+      "concept_tags": ["galactose", "metabolism", "intermediates", "phosphorylation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-048",
+      "question_text": "Which type of isomerism exists between D-fructose and D-glucose?",
+      "options": ["A. Anomers", "B. Epimers", "C. Constitutional isomers (structural isomers)", "D. Enantiomers"],
+      "correct_answer": "C",
+      "explanation": "D-fructose and D-glucose are constitutional isomers (same molecular formula C6H12O6 but different structural arrangements). Glucose is an aldohexose while fructose is a ketohexose.",
+      "concept_tags": ["isomers", "glucose", "fructose", "aldoses", "ketoses"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-03-049",
+      "question_text": "The hemiacetal functional group in cyclic glucose is formed by reaction between:",
+      "options": ["A. Two hydroxyl groups", "B. An aldehyde and a hydroxyl group", "C. A ketone and a carboxyl group", "D. Two aldehyde groups"],
+      "correct_answer": "B",
+      "explanation": "A hemiacetal is formed when an aldehyde reacts with an alcohol (hydroxyl group). In glucose, the aldehyde at C1 reacts with the hydroxyl at C5 to form a cyclic hemiacetal with a new chiral center at the anomeric carbon.",
+      "concept_tags": ["hemiacetal", "cyclization", "glucose", "functional-groups"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-03-050",
+      "question_text": "During vigorous exercise, muscle glycogen is broken down to provide glucose. Which statement is correct about this process?",
+      "options": ["A. Free glucose is released directly into the blood", "B. Glucose-6-phosphate is produced but cannot leave the muscle cell", "C. The liver is the primary source of muscle glucose during exercise", "D. Glycogenolysis in muscle requires insulin stimulation"],
+      "correct_answer": "B",
+      "explanation": "Muscle lacks glucose-6-phosphatase, so glycogenolysis produces glucose-6-phosphate that cannot leave the cell and must be used for glycolysis within the muscle. Only liver can release free glucose into the blood. Glycogenolysis is stimulated by glucagon (liver) and epinephrine (muscle), not insulin.",
+      "concept_tags": ["glycogen", "muscle-metabolism", "glucose-6-phosphatase", "exercise"],
+      "difficulty": "hard"
+    }
+  ]
+}

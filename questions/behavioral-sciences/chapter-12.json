@@ -1,0 +1,457 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 12,
+  "chapter_title": "Health and Healthcare Disparities",
+  "questions": [
+    {
+      "id": "behavioral-sciences-12-001",
+      "question_text": "Health disparities refer to:",
+      "options": ["A. Natural variation in health outcomes", "B. Preventable differences in health among population groups", "C. Different health insurance plans", "D. Medical treatment preferences"],
+      "correct_answer": "B",
+      "explanation": "Health disparities are preventable differences in health outcomes and their determinants between different segments of the population, often linked to social disadvantage.",
+      "concept_tags": ["health disparities", "health equity", "population health"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-002",
+      "question_text": "Social determinants of health include all EXCEPT:",
+      "options": ["A. Socioeconomic status", "B. Neighborhood environment", "C. Blood type", "D. Access to healthcare"],
+      "correct_answer": "C",
+      "explanation": "Social determinants are non-medical factors affecting health, including SES, environment, education, and healthcare access. Blood type is a biological, not social, factor.",
+      "concept_tags": ["social determinants", "health factors", "environment"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-003",
+      "question_text": "The leading causes of death in developed countries are primarily:",
+      "options": ["A. Infectious diseases", "B. Chronic diseases", "C. Accidents", "D. Malnutrition"],
+      "correct_answer": "B",
+      "explanation": "Developed countries have undergone the epidemiological transition, with chronic diseases (heart disease, cancer, stroke) replacing infectious diseases as leading causes of death.",
+      "concept_tags": ["chronic disease", "epidemiological transition", "mortality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-004",
+      "question_text": "Morbidity refers to:",
+      "options": ["A. Death rate", "B. Presence of disease or illness", "C. Birth rate", "D. Recovery rate"],
+      "correct_answer": "B",
+      "explanation": "Morbidity refers to the state of having a disease or the rate of disease in a population, in contrast to mortality (death rate).",
+      "concept_tags": ["morbidity", "disease prevalence", "epidemiology"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-005",
+      "question_text": "Incidence measures:",
+      "options": ["A. Total number of cases in a population", "B. New cases occurring in a time period", "C. Deaths from a disease", "D. Recovery from disease"],
+      "correct_answer": "B",
+      "explanation": "Incidence is the rate of new cases of a disease occurring in a population during a specific time period, different from prevalence (total existing cases).",
+      "concept_tags": ["incidence", "epidemiology", "disease measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-006",
+      "question_text": "Prevalence measures:",
+      "options": ["A. Only new cases", "B. Total existing cases at a point in time", "C. Deaths from a condition", "D. Risk of developing disease"],
+      "correct_answer": "B",
+      "explanation": "Prevalence is the total number of cases (new and existing) of a disease in a population at a specific point in time or period.",
+      "concept_tags": ["prevalence", "epidemiology", "disease burden"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-007",
+      "question_text": "A chronic disease with high survival will have:",
+      "options": ["A. Low prevalence", "B. High incidence but low prevalence", "C. High prevalence relative to incidence", "D. Equal incidence and prevalence"],
+      "correct_answer": "C",
+      "explanation": "Diseases with long duration and high survival accumulate cases over time, leading to high prevalence relative to incidence (prevalence = incidence × duration).",
+      "concept_tags": ["prevalence", "incidence", "disease duration"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-12-008",
+      "question_text": "Health literacy refers to:",
+      "options": ["A. Medical professional education", "B. Ability to obtain, understand, and use health information", "C. Knowing medical terminology", "D. Reading ability in general"],
+      "correct_answer": "B",
+      "explanation": "Health literacy is the capacity to obtain, process, and understand basic health information and services needed to make appropriate health decisions.",
+      "concept_tags": ["health literacy", "health communication", "patient education"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-009",
+      "question_text": "Low health literacy is associated with:",
+      "options": ["A. Better health outcomes", "B. Higher healthcare utilization efficiency", "C. Poorer health outcomes and more hospitalizations", "D. Lower healthcare costs"],
+      "correct_answer": "C",
+      "explanation": "Low health literacy is linked to poorer health outcomes, more hospitalizations, less preventive care use, and difficulty managing chronic conditions.",
+      "concept_tags": ["health literacy", "health outcomes", "disparities"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-010",
+      "question_text": "Healthcare access refers to:",
+      "options": ["A. Physical proximity to hospitals only", "B. Multiple dimensions including availability, accessibility, and affordability", "C. Having health insurance only", "D. Emergency room availability"],
+      "correct_answer": "B",
+      "explanation": "Healthcare access encompasses availability of services, geographic accessibility, affordability, acceptability, and quality of care.",
+      "concept_tags": ["healthcare access", "availability", "affordability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-011",
+      "question_text": "Barriers to healthcare access include all EXCEPT:",
+      "options": ["A. Lack of insurance", "B. Transportation difficulties", "C. Universal healthcare coverage", "D. Language barriers"],
+      "correct_answer": "C",
+      "explanation": "Universal coverage would reduce barriers, not create them. Barriers include lack of insurance, transportation, language/cultural barriers, and provider shortages.",
+      "concept_tags": ["barriers to care", "healthcare access", "insurance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-012",
+      "question_text": "The sick role, according to Parsons, includes:",
+      "options": ["A. Responsibility for causing illness", "B. Exemption from normal responsibilities and obligation to seek help", "C. Permanent disability status", "D. Financial compensation"],
+      "correct_answer": "B",
+      "explanation": "Parsons' sick role includes exemption from normal social responsibilities, not being blamed for illness, obligation to try to get well, and seeking competent help.",
+      "concept_tags": ["sick role", "Parsons", "medical sociology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-013",
+      "question_text": "Illness behavior refers to:",
+      "options": ["A. Biological disease processes", "B. How people perceive and respond to symptoms", "C. Medical treatment protocols", "D. Hospital procedures"],
+      "correct_answer": "B",
+      "explanation": "Illness behavior encompasses how individuals perceive, evaluate, and respond to symptoms, including decisions about seeking care.",
+      "concept_tags": ["illness behavior", "symptom perception", "health-seeking"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-014",
+      "question_text": "Patient-practitioner relationships can be characterized as:",
+      "options": ["A. Always paternalistic", "B. Ranging from paternalistic to mutual participation", "C. Always equal", "D. Primarily financial"],
+      "correct_answer": "B",
+      "explanation": "Patient-practitioner relationships range from paternalistic (doctor decides) to guidance-cooperation to mutual participation (shared decision-making).",
+      "concept_tags": ["patient-practitioner relationship", "medical encounter", "shared decision-making"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-015",
+      "question_text": "Medicalization refers to:",
+      "options": ["A. Improving medical care", "B. Defining non-medical problems as medical issues", "C. Medical education", "D. Hospital expansion"],
+      "correct_answer": "B",
+      "explanation": "Medicalization is the process by which non-medical conditions or behaviors come to be defined and treated as medical problems (e.g., ADHD, alcoholism).",
+      "concept_tags": ["medicalization", "social construction", "medical sociology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-016",
+      "question_text": "An example of medicalization would be:",
+      "options": ["A. Treating a broken bone", "B. Defining childhood restlessness as ADHD", "C. Performing surgery for appendicitis", "D. Prescribing antibiotics for infection"],
+      "correct_answer": "B",
+      "explanation": "Defining normal childhood behavior variations as a medical disorder (ADHD) exemplifies medicalization, where medical frameworks are applied to everyday life issues.",
+      "concept_tags": ["medicalization", "ADHD", "social construction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-017",
+      "question_text": "The biomedical model of health focuses on:",
+      "options": ["A. Social determinants of health", "B. Biological factors and disease pathology", "C. Patient beliefs and values", "D. Environmental factors"],
+      "correct_answer": "B",
+      "explanation": "The biomedical model focuses on biological causes of disease, treating the body as a machine and emphasizing diagnosis and treatment of physical pathology.",
+      "concept_tags": ["biomedical model", "biological reductionism", "disease"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-018",
+      "question_text": "The biopsychosocial model differs from the biomedical model by:",
+      "options": ["A. Ignoring biological factors", "B. Including psychological and social factors in health", "C. Focusing only on mental health", "D. Rejecting medical treatment"],
+      "correct_answer": "B",
+      "explanation": "The biopsychosocial model incorporates biological, psychological, and social factors in understanding health and illness, providing a more holistic approach.",
+      "concept_tags": ["biopsychosocial model", "holistic health", "integrated care"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-019",
+      "question_text": "Implicit bias in healthcare refers to:",
+      "options": ["A. Conscious discrimination", "B. Unconscious attitudes affecting clinical decisions", "C. Explicit prejudice", "D. Intentional unequal treatment"],
+      "correct_answer": "B",
+      "explanation": "Implicit bias involves unconscious attitudes and stereotypes that can affect healthcare providers' perceptions, decisions, and behaviors toward patients.",
+      "concept_tags": ["implicit bias", "healthcare disparities", "unconscious attitudes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-020",
+      "question_text": "Research shows that minority patients often receive:",
+      "options": ["A. Better preventive care", "B. Less aggressive treatment for similar conditions", "C. More diagnostic tests", "D. Longer hospital stays by choice"],
+      "correct_answer": "B",
+      "explanation": "Studies document that minority patients often receive less aggressive treatment, fewer procedures, and different care recommendations compared to white patients with similar conditions.",
+      "concept_tags": ["healthcare disparities", "racial disparities", "treatment differences"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-021",
+      "question_text": "Socioeconomic status (SES) affects health through:",
+      "options": ["A. Genetics alone", "B. Multiple pathways including access, stress, and behavior", "C. Education only", "D. Age differences"],
+      "correct_answer": "B",
+      "explanation": "SES affects health through multiple mechanisms: healthcare access, health behaviors, chronic stress, environmental exposures, and working conditions.",
+      "concept_tags": ["SES", "health pathways", "gradient"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-022",
+      "question_text": "The SES-health gradient shows that:",
+      "options": ["A. Only the poor have worse health", "B. Health improves at each step up the SES ladder", "C. Wealth has no effect on health", "D. Middle class has worst health"],
+      "correct_answer": "B",
+      "explanation": "The gradient shows health improves incrementally with each increase in SES, not just a threshold effect between poor and non-poor.",
+      "concept_tags": ["SES gradient", "health inequality", "social class"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-023",
+      "question_text": "Food insecurity is associated with:",
+      "options": ["A. Better nutrition choices", "B. Higher rates of chronic disease and poor health", "C. Lower healthcare costs", "D. Improved mental health"],
+      "correct_answer": "B",
+      "explanation": "Food insecurity is linked to poor nutrition, higher rates of chronic diseases (diabetes, obesity, hypertension), mental health problems, and developmental issues in children.",
+      "concept_tags": ["food insecurity", "nutrition", "chronic disease"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-024",
+      "question_text": "Weathering hypothesis explains racial health disparities as resulting from:",
+      "options": ["A. Climate differences", "B. Cumulative effects of chronic stress and discrimination", "C. Genetic factors", "D. Healthcare preferences"],
+      "correct_answer": "B",
+      "explanation": "The weathering hypothesis (Geronimus) proposes that chronic exposure to social and economic adversity and discrimination causes cumulative physiological deterioration.",
+      "concept_tags": ["weathering", "chronic stress", "racial disparities"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-12-025",
+      "question_text": "Allostatic load refers to:",
+      "options": ["A. Physical exercise burden", "B. Cumulative physiological toll of chronic stress", "C. Healthcare costs", "D. Genetic predisposition"],
+      "correct_answer": "B",
+      "explanation": "Allostatic load is the cumulative wear and tear on the body from chronic stress exposure, measured through biomarkers of cardiovascular, metabolic, and immune function.",
+      "concept_tags": ["allostatic load", "chronic stress", "physiological burden"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-026",
+      "question_text": "Health behaviors influenced by social factors include:",
+      "options": ["A. Genetic diseases", "B. Diet, exercise, smoking, and alcohol use", "C. Blood type", "D. Age at death"],
+      "correct_answer": "B",
+      "explanation": "Health behaviors like diet, physical activity, smoking, alcohol use, and preventive care are shaped by social, economic, and environmental factors.",
+      "concept_tags": ["health behaviors", "lifestyle factors", "social influence"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-027",
+      "question_text": "The leading preventable cause of death in the United States is:",
+      "options": ["A. Poor diet", "B. Tobacco use", "C. Alcohol use", "D. Drug overdose"],
+      "correct_answer": "B",
+      "explanation": "Tobacco use remains the leading preventable cause of death in the US, causing about 480,000 deaths annually through cancer, heart disease, and respiratory disease.",
+      "concept_tags": ["tobacco", "preventable death", "public health"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-028",
+      "question_text": "Healthcare utilization is influenced by:",
+      "options": ["A. Only biological need", "B. Multiple factors including access, beliefs, and social support", "C. Doctor availability only", "D. Insurance status only"],
+      "correct_answer": "B",
+      "explanation": "Healthcare utilization depends on perceived need, enabling factors (insurance, income, access), and predisposing factors (beliefs, demographics, social support).",
+      "concept_tags": ["healthcare utilization", "Andersen model", "access"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-029",
+      "question_text": "Cultural competence in healthcare involves:",
+      "options": ["A. Speaking multiple languages only", "B. Understanding and respecting cultural differences in care", "C. Treating everyone exactly the same", "D. Avoiding cultural discussions"],
+      "correct_answer": "B",
+      "explanation": "Cultural competence involves understanding diverse cultural beliefs, values, and practices and integrating this understanding into healthcare delivery.",
+      "concept_tags": ["cultural competence", "diversity", "patient-centered care"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-030",
+      "question_text": "Explanatory models of illness refer to:",
+      "options": ["A. Medical textbook definitions", "B. Patients' beliefs about cause, course, and treatment of illness", "C. Doctor's diagnoses", "D. Insurance categories"],
+      "correct_answer": "B",
+      "explanation": "Explanatory models are patients' culturally-informed beliefs about illness causation, expected symptoms, severity, prognosis, and appropriate treatment.",
+      "concept_tags": ["explanatory models", "illness beliefs", "culture"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-031",
+      "question_text": "Health belief model components include all EXCEPT:",
+      "options": ["A. Perceived susceptibility", "B. Perceived severity", "C. Blood pressure levels", "D. Cues to action"],
+      "correct_answer": "C",
+      "explanation": "The Health Belief Model includes perceived susceptibility, severity, benefits, barriers, cues to action, and self-efficacy—all psychological factors, not biological measures.",
+      "concept_tags": ["health belief model", "behavior theory", "health psychology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-032",
+      "question_text": "Self-efficacy in health behavior refers to:",
+      "options": ["A. Doctor's skill level", "B. Confidence in one's ability to perform health behaviors", "C. Healthcare system efficiency", "D. Medical treatment effectiveness"],
+      "correct_answer": "B",
+      "explanation": "Self-efficacy is an individual's belief in their capability to successfully perform a specific behavior, a key predictor of health behavior change.",
+      "concept_tags": ["self-efficacy", "Bandura", "behavior change"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-033",
+      "question_text": "Locus of control in health refers to:",
+      "options": ["A. Hospital governance", "B. Beliefs about who/what controls health outcomes", "C. Medical record location", "D. Healthcare regulation"],
+      "correct_answer": "B",
+      "explanation": "Health locus of control refers to beliefs about whether health is controlled by oneself (internal), powerful others, or chance/fate (external).",
+      "concept_tags": ["locus of control", "health beliefs", "behavior"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-034",
+      "question_text": "The transtheoretical model (stages of change) suggests behavior change occurs through:",
+      "options": ["A. A single decision", "B. Progressive stages from precontemplation to maintenance", "C. Doctor's orders", "D. Immediate transformation"],
+      "correct_answer": "B",
+      "explanation": "The transtheoretical model describes stages: precontemplation, contemplation, preparation, action, and maintenance, with possible relapse at any point.",
+      "concept_tags": ["stages of change", "transtheoretical model", "behavior change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-035",
+      "question_text": "Social support affects health by:",
+      "options": ["A. Replacing medical care", "B. Buffering stress and promoting healthy behaviors", "C. Eliminating disease", "D. Providing financial resources only"],
+      "correct_answer": "B",
+      "explanation": "Social support affects health through stress buffering, emotional support, informational support, and promoting healthy behaviors and healthcare utilization.",
+      "concept_tags": ["social support", "stress buffering", "health outcomes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-036",
+      "question_text": "Health disparities between racial groups persist even after controlling for SES because:",
+      "options": ["A. SES fully explains racial differences", "B. Discrimination, stress, and other factors contribute independently", "C. Racial groups have different genetic makeups", "D. Healthcare is equal for all"],
+      "correct_answer": "B",
+      "explanation": "Even at the same SES level, racial disparities persist due to discrimination, racism-related stress, differential treatment in healthcare, and historical factors.",
+      "concept_tags": ["racial disparities", "discrimination", "residual effects"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-12-037",
+      "question_text": "Geographic health disparities exist between:",
+      "options": ["A. Only international comparisons", "B. Urban/rural areas and different regions", "C. Different hospitals only", "D. Male and female areas"],
+      "correct_answer": "B",
+      "explanation": "Geographic disparities exist between urban and rural areas, different states/regions, and neighborhoods, affecting access to care and health outcomes.",
+      "concept_tags": ["geographic disparities", "rural health", "regional variation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-038",
+      "question_text": "Rural health challenges include:",
+      "options": ["A. Too many specialists", "B. Provider shortages, distance to care, and limited services", "C. Overcrowded hospitals", "D. Excessive health insurance options"],
+      "correct_answer": "B",
+      "explanation": "Rural areas face healthcare provider shortages, long distances to facilities, limited specialty services, and often higher rates of certain health conditions.",
+      "concept_tags": ["rural health", "provider shortage", "access barriers"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-039",
+      "question_text": "LGBT health disparities include higher rates of:",
+      "options": ["A. Only physical health problems", "B. Mental health issues, substance use, and certain cancers", "C. Exclusively HIV/AIDS", "D. No documented disparities"],
+      "correct_answer": "B",
+      "explanation": "LGBT populations face higher rates of mental health issues, substance use, certain cancers, and other conditions, often related to discrimination and minority stress.",
+      "concept_tags": ["LGBT health", "minority stress", "disparities"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-040",
+      "question_text": "The inverse care law states that:",
+      "options": ["A. More care leads to less health", "B. Those who need care most often receive it least", "C. Healthcare costs decrease with need", "D. Prevention is better than treatment"],
+      "correct_answer": "B",
+      "explanation": "The inverse care law (Julian Tudor Hart) states that availability of good medical care tends to vary inversely with the need for it in the population.",
+      "concept_tags": ["inverse care law", "healthcare access", "need"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-041",
+      "question_text": "Patient adherence to treatment is affected by:",
+      "options": ["A. Medication factors only", "B. Multiple factors including beliefs, complexity, side effects, and support", "C. Doctor's orders alone", "D. Insurance coverage only"],
+      "correct_answer": "B",
+      "explanation": "Adherence is influenced by patient beliefs, treatment complexity, side effects, patient-provider relationship, social support, and practical barriers.",
+      "concept_tags": ["adherence", "compliance", "treatment barriers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-042",
+      "question_text": "Informed consent requires:",
+      "options": ["A. Patient signature only", "B. Disclosure, understanding, voluntariness, and competence", "C. Doctor's recommendation", "D. Family approval"],
+      "correct_answer": "B",
+      "explanation": "Informed consent requires adequate disclosure of information, patient understanding, voluntary decision-making, and patient competence to make decisions.",
+      "concept_tags": ["informed consent", "patient autonomy", "medical ethics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-043",
+      "question_text": "Advance directives are:",
+      "options": ["A. Hospital admission procedures", "B. Legal documents expressing healthcare wishes if incapacitated", "C. Insurance forms", "D. Doctor's orders"],
+      "correct_answer": "B",
+      "explanation": "Advance directives (living wills, healthcare proxies) are legal documents specifying healthcare preferences or designating decision-makers if one becomes incapacitated.",
+      "concept_tags": ["advance directives", "end-of-life", "patient autonomy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-044",
+      "question_text": "Hospice care focuses on:",
+      "options": ["A. Aggressive treatment to cure disease", "B. Comfort and quality of life for terminally ill patients", "C. Surgical interventions", "D. Diagnostic testing"],
+      "correct_answer": "B",
+      "explanation": "Hospice provides palliative care focusing on comfort, pain management, and quality of life for patients with terminal illness, rather than curative treatment.",
+      "concept_tags": ["hospice", "palliative care", "end-of-life"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-12-045",
+      "question_text": "The epidemiology of aging populations includes increased:",
+      "options": ["A. Infectious disease only", "B. Chronic disease, disability, and healthcare needs", "C. Birth rates", "D. Acute illness only"],
+      "correct_answer": "B",
+      "explanation": "Aging populations experience increased chronic disease prevalence, functional disability, cognitive decline, and complex healthcare needs requiring long-term care.",
+      "concept_tags": ["aging", "chronic disease", "geriatric care"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-046",
+      "question_text": "Mental health parity laws address:",
+      "options": ["A. Physical health only", "B. Equal insurance coverage for mental and physical health", "C. Mental health facilities", "D. Psychiatric training"],
+      "correct_answer": "B",
+      "explanation": "Mental health parity laws require health insurers to provide equal coverage for mental health and substance use disorders as for physical health conditions.",
+      "concept_tags": ["mental health parity", "insurance", "policy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-047",
+      "question_text": "Stigma affects help-seeking for mental health by:",
+      "options": ["A. Encouraging treatment", "B. Creating barriers through fear of discrimination and shame", "C. Improving outcomes", "D. Having no effect"],
+      "correct_answer": "B",
+      "explanation": "Mental health stigma creates barriers to seeking treatment through fear of discrimination, shame, self-stigma, and concerns about social consequences.",
+      "concept_tags": ["stigma", "mental health", "help-seeking"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-048",
+      "question_text": "Community health workers can reduce disparities by:",
+      "options": ["A. Replacing physicians", "B. Bridging cultural gaps and improving access in underserved communities", "C. Performing surgeries", "D. Writing prescriptions"],
+      "correct_answer": "B",
+      "explanation": "Community health workers serve as liaisons between healthcare systems and communities, providing culturally appropriate health education, navigation, and support.",
+      "concept_tags": ["community health workers", "access", "cultural bridge"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-049",
+      "question_text": "Health equity differs from health equality in that equity:",
+      "options": ["A. Treats everyone identically", "B. Provides resources based on need to achieve similar outcomes", "C. Ignores social factors", "D. Is less fair"],
+      "correct_answer": "B",
+      "explanation": "Health equity focuses on allocating resources based on need to achieve equal outcomes, while equality means treating everyone the same regardless of different needs.",
+      "concept_tags": ["health equity", "health equality", "fairness"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-12-050",
+      "question_text": "Social epidemiology studies:",
+      "options": ["A. Infectious disease transmission only", "B. How social factors affect health and disease distribution", "C. Individual genetics", "D. Hospital infection control"],
+      "correct_answer": "B",
+      "explanation": "Social epidemiology examines how social structures, institutions, and relationships influence health, disease distribution, and health disparities in populations.",
+      "concept_tags": ["social epidemiology", "social determinants", "population health"],
+      "difficulty": "medium"
+    }
+  ]
+}

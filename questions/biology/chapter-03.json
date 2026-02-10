@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 3,
+  "chapter_title": "Embryogenesis and Development",
+  "questions": [
+    {
+      "id": "biology-03-001",
+      "question_text": "Fertilization typically occurs in which part of the female reproductive tract?",
+      "options": [
+        "A. Ovary",
+        "B. Ampulla of the fallopian tube",
+        "C. Uterus",
+        "D. Cervix"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fertilization usually occurs in the ampulla, the widest part of the fallopian tube. The egg is released from the ovary and can be fertilized for up to 24 hours. The zygote then travels to the uterus for implantation.",
+      "concept_tags": ["fertilization", "fallopian-tube", "ampulla", "female-reproductive-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-002",
+      "question_text": "The cortical reaction that occurs after sperm penetration serves to:",
+      "options": [
+        "A. increase the egg's metabolic rate and prevent polyspermy",
+        "B. initiate meiosis I in the egg",
+        "C. break down the zona pellucida completely",
+        "D. stimulate implantation"
+      ],
+      "correct_answer": "A",
+      "explanation": "The cortical reaction releases calcium ions that depolarize the egg membrane, preventing additional sperm from entering (preventing polyspermy) and increasing the metabolic rate of the newly formed zygote. The depolarized membrane is called the fertilization membrane.",
+      "concept_tags": ["cortical-reaction", "polyspermy", "fertilization", "calcium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-003",
+      "question_text": "Monozygotic twins result from:",
+      "options": [
+        "A. fertilization of two eggs by two different sperm",
+        "B. division of a single zygote into two embryos",
+        "C. fusion of two zygotes",
+        "D. fertilization of one egg by two sperm"
+      ],
+      "correct_answer": "B",
+      "explanation": "Monozygotic (identical) twins form when a single zygote splits into two during early development. Because they originate from the same zygote, they have identical genomes. Dizygotic (fraternal) twins result from fertilization of two different eggs by two different sperm.",
+      "concept_tags": ["monozygotic-twins", "identical-twins", "zygote", "development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-004",
+      "question_text": "Dizygotic twins are:",
+      "options": [
+        "A. genetically identical",
+        "B. no more genetically similar than any other siblings",
+        "C. always the same sex",
+        "D. formed from splitting of one embryo"
+      ],
+      "correct_answer": "B",
+      "explanation": "Dizygotic (fraternal) twins form from fertilization of two different eggs by two different sperm during one ovulatory cycle. Each develops from a separate zygote, so they are no more genetically similar than any other pair of siblings and may be different sexes.",
+      "concept_tags": ["dizygotic-twins", "fraternal-twins", "genetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-005",
+      "question_text": "During cleavage, the embryo:",
+      "options": [
+        "A. increases dramatically in overall size",
+        "B. undergoes rapid mitotic divisions without significant size increase",
+        "C. undergoes meiosis",
+        "D. implants in the uterine wall"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cleavage involves rapid mitotic cell divisions without an increase in overall embryo size. The cells become progressively smaller, increasing both the nuclear-to-cytoplasmic ratio and the surface area-to-volume ratio for improved gas and nutrient exchange.",
+      "concept_tags": ["cleavage", "cell-division", "embryonic-development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-006",
+      "question_text": "Indeterminate cleavage produces cells that:",
+      "options": [
+        "A. are committed to specific cell fates",
+        "B. can still develop into complete organisms",
+        "C. have completed differentiation",
+        "D. cannot divide further"
+      ],
+      "correct_answer": "B",
+      "explanation": "Indeterminate cleavage produces cells that retain the ability to develop into complete organisms. This is why monozygotic twins can form from early cell divisions. Determinate cleavage produces cells that are already committed to specific developmental fates.",
+      "concept_tags": ["indeterminate-cleavage", "determinate-cleavage", "cell-fate", "totipotency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-007",
+      "question_text": "The morula is best described as:",
+      "options": [
+        "A. a hollow ball of cells with a fluid-filled cavity",
+        "B. a solid ball of cells",
+        "C. a three-layered embryo",
+        "D. an embryo with a neural tube"
+      ],
+      "correct_answer": "B",
+      "explanation": "The morula is a solid ball of cells that forms after several rounds of cleavage. Its name comes from the Latin word for mulberry. The morula then undergoes blastulation to form the blastula, which has a fluid-filled cavity.",
+      "concept_tags": ["morula", "cleavage", "embryonic-development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-008",
+      "question_text": "The blastocoel is:",
+      "options": [
+        "A. the solid mass of cells in early development",
+        "B. the fluid-filled cavity within the blastula",
+        "C. the outer layer of cells in the blastocyst",
+        "D. the primitive gut"
+      ],
+      "correct_answer": "B",
+      "explanation": "The blastocoel is the fluid-filled cavity that forms within the blastula during blastulation. In mammals, the blastula is called a blastocyst. The blastocoel provides space for cell migration during gastrulation.",
+      "concept_tags": ["blastocoel", "blastula", "blastocyst", "cavity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-009",
+      "question_text": "The trophoblast cells of the blastocyst give rise to:",
+      "options": [
+        "A. the embryo proper",
+        "B. the chorion and placenta",
+        "C. the three germ layers",
+        "D. the neural tube"
+      ],
+      "correct_answer": "B",
+      "explanation": "The trophoblast cells surround the blastocoel and give rise to the chorion, which later develops into the placenta. The inner cell mass, not the trophoblast, gives rise to the embryo itself.",
+      "concept_tags": ["trophoblast", "chorion", "placenta", "blastocyst"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-010",
+      "question_text": "The inner cell mass of the blastocyst will develop into:",
+      "options": [
+        "A. only the placenta",
+        "B. the organism itself",
+        "C. only extraembryonic membranes",
+        "D. the uterine lining"
+      ],
+      "correct_answer": "B",
+      "explanation": "The inner cell mass (also called the embryoblast) protrudes into the blastocoel and gives rise to the embryo/organism itself. The trophoblast cells give rise to extraembryonic structures like the chorion and placenta.",
+      "concept_tags": ["inner-cell-mass", "embryoblast", "blastocyst", "embryonic-development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-011",
+      "question_text": "An ectopic pregnancy most commonly occurs in the:",
+      "options": [
+        "A. ovary",
+        "B. fallopian tube",
+        "C. cervix",
+        "D. abdominal cavity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Over 95% of ectopic pregnancies occur in the fallopian tube. Ectopic pregnancies are generally not viable because the narrow tube cannot support proper embryonic growth. If the embryo doesn't spontaneously abort, the tube may rupture, causing dangerous hemorrhaging.",
+      "concept_tags": ["ectopic-pregnancy", "fallopian-tube", "implantation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-012",
+      "question_text": "Chorionic villi function to:",
+      "options": [
+        "A. protect the embryo from mechanical shock",
+        "B. support maternal-fetal gas exchange",
+        "C. store nutrients for the embryo",
+        "D. produce amniotic fluid"
+      ],
+      "correct_answer": "B",
+      "explanation": "Chorionic villi are microscopic finger-like projections from the trophoblast that penetrate the endometrium. As they develop into the placenta, they support gas exchange, nutrient transfer, and waste removal between maternal and fetal blood.",
+      "concept_tags": ["chorionic-villi", "placenta", "gas-exchange", "maternal-fetal-interface"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-013",
+      "question_text": "The umbilical cord contains:",
+      "options": [
+        "A. one artery and one vein",
+        "B. two arteries and one vein",
+        "C. one artery and two veins",
+        "D. two arteries and two veins"
+      ],
+      "correct_answer": "B",
+      "explanation": "The umbilical cord contains two umbilical arteries and one umbilical vein. The vein carries oxygenated blood and nutrients from the placenta to the fetus, while the arteries carry deoxygenated blood and waste from the fetus to the placenta.",
+      "concept_tags": ["umbilical-cord", "umbilical-artery", "umbilical-vein", "fetal-circulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-014",
+      "question_text": "The yolk sac in human embryos functions in:",
+      "options": [
+        "A. early nutrition (as the main nutrient source)",
+        "B. early blood cell development",
+        "C. gas exchange",
+        "D. hormone production"
+      ],
+      "correct_answer": "B",
+      "explanation": "In humans, the yolk sac is the site of early blood cell development and supports the embryo until the placenta becomes functional. Unlike birds and reptiles, human embryos don't rely on the yolk sac as a major nutrient source since the placenta takes over this role.",
+      "concept_tags": ["yolk-sac", "hematopoiesis", "blood-cell-development", "extraembryonic-membranes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-015",
+      "question_text": "The amnion contains:",
+      "options": [
+        "A. blood vessels for nutrient exchange",
+        "B. amniotic fluid that serves as a shock absorber",
+        "C. the developing placenta",
+        "D. maternal blood"
+      ],
+      "correct_answer": "B",
+      "explanation": "The amnion is a thin, tough membrane filled with amniotic fluid. This fluid serves as a shock absorber during pregnancy, protecting the developing embryo from mechanical trauma caused by maternal movement.",
+      "concept_tags": ["amnion", "amniotic-fluid", "extraembryonic-membranes", "protection"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-016",
+      "question_text": "Gastrulation results in the formation of:",
+      "options": [
+        "A. the blastocoel",
+        "B. three primary germ layers",
+        "C. the neural tube",
+        "D. the placenta"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gastrulation is the process that generates three distinct cell layers (germ layers): ectoderm, mesoderm, and endoderm. These layers will differentiate into all the tissues and organs of the body. The blastocoel forms during blastulation; the neural tube forms during neurulation.",
+      "concept_tags": ["gastrulation", "germ-layers", "ectoderm", "mesoderm", "endoderm"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-017",
+      "question_text": "The archenteron develops into:",
+      "options": [
+        "A. the nervous system",
+        "B. the gut",
+        "C. the heart",
+        "D. the skin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The archenteron is the membrane invagination that forms during gastrulation. It eventually develops into the gut (digestive tract). The opening of the archenteron is called the blastopore.",
+      "concept_tags": ["archenteron", "gastrulation", "gut-development", "digestive-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-018",
+      "question_text": "In deuterostomes like humans, the blastopore develops into the:",
+      "options": [
+        "A. mouth",
+        "B. anus",
+        "C. neural tube",
+        "D. heart"
+      ],
+      "correct_answer": "B",
+      "explanation": "In deuterostomes (including humans), the blastopore develops into the anus, and the mouth forms secondarily at the opposite end. In protostomes, the blastopore develops into the mouth. This is a fundamental distinction between these two groups of animals.",
+      "concept_tags": ["deuterostome", "blastopore", "anus", "gastrulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-019",
+      "question_text": "The ectoderm gives rise to all of the following EXCEPT:",
+      "options": [
+        "A. nervous system",
+        "B. epidermis of skin",
+        "C. lining of the digestive tract",
+        "D. tooth enamel"
+      ],
+      "correct_answer": "C",
+      "explanation": "The ectoderm gives rise to the nervous system, epidermis, hair, nails, tooth enamel, and sensory organs. The lining of the digestive tract is derived from the endoderm. The mesoderm gives rise to muscles, bones, and the circulatory system.",
+      "concept_tags": ["ectoderm", "germ-layers", "tissue-derivatives"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-020",
+      "question_text": "The mesoderm gives rise to:",
+      "options": [
+        "A. the nervous system",
+        "B. the lining of the digestive tract",
+        "C. muscles, bones, and the circulatory system",
+        "D. the epidermis"
+      ],
+      "correct_answer": "C",
+      "explanation": "The mesoderm gives rise to muscles, bones, cartilage, the circulatory system (heart, blood vessels, blood), kidneys, gonads, and connective tissue. The nervous system and epidermis come from ectoderm; the digestive lining comes from endoderm.",
+      "concept_tags": ["mesoderm", "germ-layers", "tissue-derivatives"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-021",
+      "question_text": "The endoderm gives rise to:",
+      "options": [
+        "A. skeletal muscle",
+        "B. the brain and spinal cord",
+        "C. the linings of the digestive and respiratory tracts",
+        "D. the dermis of the skin"
+      ],
+      "correct_answer": "C",
+      "explanation": "The endoderm gives rise to the epithelial linings of the digestive tract, respiratory tract, and associated organs (liver, pancreas, thyroid, bladder lining). Skeletal muscle comes from mesoderm; brain and spinal cord from ectoderm; dermis from mesoderm.",
+      "concept_tags": ["endoderm", "germ-layers", "tissue-derivatives"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-022",
+      "question_text": "Neural crest cells are derived from the:",
+      "options": [
+        "A. endoderm",
+        "B. mesoderm",
+        "C. ectoderm",
+        "D. trophoblast"
+      ],
+      "correct_answer": "C",
+      "explanation": "Neural crest cells are derived from the ectoderm, specifically from the edges of the neural plate during neurulation. These cells migrate throughout the body and give rise to diverse structures including peripheral nervous system neurons, melanocytes, and some facial bones.",
+      "concept_tags": ["neural-crest", "ectoderm", "neurulation", "cell-migration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-023",
+      "question_text": "Neural crest cells give rise to all of the following EXCEPT:",
+      "options": [
+        "A. peripheral nervous system ganglia",
+        "B. melanocytes",
+        "C. cardiac muscle",
+        "D. adrenal medulla"
+      ],
+      "correct_answer": "C",
+      "explanation": "Neural crest cells give rise to peripheral nervous system components (including ganglia), melanocytes, some skull bones, adrenal medulla, and other structures. Cardiac muscle is derived from mesoderm, not neural crest.",
+      "concept_tags": ["neural-crest", "neural-crest-derivatives", "mesoderm"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-024",
+      "question_text": "Neurulation results in the formation of:",
+      "options": [
+        "A. the three germ layers",
+        "B. the neural tube",
+        "C. the blastocyst",
+        "D. the placenta"
+      ],
+      "correct_answer": "B",
+      "explanation": "Neurulation is the process by which the neural plate folds to form the neural tube, which will develop into the central nervous system (brain and spinal cord). The three germ layers form during gastrulation; the blastocyst forms during blastulation.",
+      "concept_tags": ["neurulation", "neural-tube", "cns-development", "nervous-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-025",
+      "question_text": "Failure of the neural tube to close properly can result in:",
+      "options": [
+        "A. Down syndrome",
+        "B. spina bifida or anencephaly",
+        "C. sickle cell disease",
+        "D. cystic fibrosis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Neural tube defects result from failure of the neural tube to close properly during development. Spina bifida occurs when the posterior portion fails to close; anencephaly occurs when the anterior portion fails to close. Folic acid supplementation helps prevent these defects.",
+      "concept_tags": ["neural-tube-defects", "spina-bifida", "anencephaly", "neurulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-026",
+      "question_text": "Induction in development refers to:",
+      "options": [
+        "A. cell division without growth",
+        "B. one group of cells influencing the development of another",
+        "C. the formation of the blastocoel",
+        "D. implantation into the uterine wall"
+      ],
+      "correct_answer": "B",
+      "explanation": "Induction occurs when one group of cells (the inducer) influences the developmental fate of another group of cells. This cell-cell communication is essential for proper development and differentiation. A classic example is the optic vesicle inducing lens formation.",
+      "concept_tags": ["induction", "cell-signaling", "differentiation", "development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-027",
+      "question_text": "Stem cells that can differentiate into any cell type in the body are called:",
+      "options": [
+        "A. unipotent",
+        "B. multipotent",
+        "C. pluripotent",
+        "D. totipotent"
+      ],
+      "correct_answer": "C",
+      "explanation": "Pluripotent stem cells can differentiate into any cell type in the body but cannot form extraembryonic tissues. Totipotent cells can form any cell type plus extraembryonic tissues. Multipotent cells can form multiple but limited cell types. Unipotent cells can only form one cell type.",
+      "concept_tags": ["stem-cells", "pluripotent", "differentiation", "cell-potency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-028",
+      "question_text": "Totipotent cells differ from pluripotent cells in that totipotent cells can:",
+      "options": [
+        "A. only form one cell type",
+        "B. form any body cell type",
+        "C. form any body cell type AND extraembryonic tissues",
+        "D. only form blood cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "Totipotent cells have the greatest developmental potential and can form any cell type including extraembryonic tissues (like the placenta). Only the zygote and cells from the first few cleavage divisions are truly totipotent. Pluripotent cells can form any body cell but not extraembryonic tissues.",
+      "concept_tags": ["totipotent", "pluripotent", "stem-cells", "cell-potency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-029",
+      "question_text": "Apoptosis during development is important for:",
+      "options": [
+        "A. increasing the number of cells",
+        "B. sculpting tissues, such as forming individual fingers",
+        "C. increasing cell size",
+        "D. producing stem cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Apoptosis (programmed cell death) is essential for sculpting tissues during development. For example, apoptosis eliminates the webbing between developing fingers and toes. It's also important for eliminating cells that are damaged or no longer needed.",
+      "concept_tags": ["apoptosis", "programmed-cell-death", "development", "morphogenesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-030",
+      "question_text": "The notochord is significant in development because it:",
+      "options": [
+        "A. becomes the spinal cord",
+        "B. induces the formation of the neural tube",
+        "C. forms the digestive tract",
+        "D. becomes the heart"
+      ],
+      "correct_answer": "B",
+      "explanation": "The notochord is a mesoderm-derived structure that induces the overlying ectoderm to form the neural plate, which folds to become the neural tube. In vertebrates, the notochord is largely replaced by the vertebral column, with remnants forming the nucleus pulposus of intervertebral discs.",
+      "concept_tags": ["notochord", "induction", "neural-tube", "mesoderm"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-031",
+      "question_text": "In fetal circulation, the foramen ovale allows blood to flow from:",
+      "options": [
+        "A. the left atrium to the right atrium",
+        "B. the right atrium to the left atrium",
+        "C. the pulmonary artery to the aorta",
+        "D. the aorta to the pulmonary artery"
+      ],
+      "correct_answer": "B",
+      "explanation": "The foramen ovale is an opening in the interatrial septum that allows blood to flow from the right atrium directly to the left atrium, bypassing the non-functional fetal lungs. This shunt closes shortly after birth when the lungs begin functioning.",
+      "concept_tags": ["foramen-ovale", "fetal-circulation", "cardiac-shunts"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-032",
+      "question_text": "The ductus arteriosus in fetal circulation connects:",
+      "options": [
+        "A. the umbilical artery to the umbilical vein",
+        "B. the pulmonary artery to the aorta",
+        "C. the right atrium to the left atrium",
+        "D. the liver to the inferior vena cava"
+      ],
+      "correct_answer": "B",
+      "explanation": "The ductus arteriosus connects the pulmonary artery to the aorta, allowing blood to bypass the non-functional fetal lungs. Blood flows from the pulmonary artery into the aorta for systemic circulation. After birth, this shunt closes and becomes the ligamentum arteriosum.",
+      "concept_tags": ["ductus-arteriosus", "fetal-circulation", "cardiac-shunts"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-033",
+      "question_text": "The ductus venosus allows fetal blood to bypass the:",
+      "options": [
+        "A. lungs",
+        "B. liver",
+        "C. heart",
+        "D. kidneys"
+      ],
+      "correct_answer": "B",
+      "explanation": "The ductus venosus allows oxygenated blood from the umbilical vein to bypass the liver and flow directly into the inferior vena cava. This ensures that highly oxygenated blood from the placenta reaches the fetal heart quickly.",
+      "concept_tags": ["ductus-venosus", "fetal-circulation", "liver-bypass"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-034",
+      "question_text": "In fetal circulation, the most highly oxygenated blood is found in the:",
+      "options": [
+        "A. umbilical arteries",
+        "B. umbilical vein",
+        "C. pulmonary artery",
+        "D. superior vena cava"
+      ],
+      "correct_answer": "B",
+      "explanation": "The umbilical vein carries freshly oxygenated blood from the placenta to the fetus, making it the most oxygenated blood in fetal circulation. The umbilical arteries carry deoxygenated blood back to the placenta. This is opposite of typical vessel naming conventions.",
+      "concept_tags": ["umbilical-vein", "fetal-circulation", "oxygenation", "placenta"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-035",
+      "question_text": "Fetal hemoglobin (HbF) differs from adult hemoglobin in that it:",
+      "options": [
+        "A. has lower oxygen affinity",
+        "B. has higher oxygen affinity",
+        "C. cannot bind oxygen",
+        "D. is found only in red blood cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fetal hemoglobin (HbF) has a higher oxygen affinity than adult hemoglobin (HbA). This allows the fetus to extract oxygen from maternal blood at the placenta, where oxygen tension is relatively low. After birth, HbF is gradually replaced by HbA.",
+      "concept_tags": ["fetal-hemoglobin", "oxygen-affinity", "gas-exchange", "placenta"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-036",
+      "question_text": "The first trimester of pregnancy is most critical for:",
+      "options": [
+        "A. fetal weight gain",
+        "B. organogenesis (formation of organs)",
+        "C. lung maturation",
+        "D. fat deposition"
+      ],
+      "correct_answer": "B",
+      "explanation": "The first trimester is the period of organogenesis when all major organ systems form. This makes it the most critical period for teratogen exposure, as developing organs are highly susceptible to damage. Later trimesters focus more on growth and maturation.",
+      "concept_tags": ["first-trimester", "organogenesis", "teratogens", "development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-037",
+      "question_text": "A teratogen is an agent that:",
+      "options": [
+        "A. promotes normal development",
+        "B. causes birth defects",
+        "C. accelerates fetal growth",
+        "D. strengthens the immune system"
+      ],
+      "correct_answer": "B",
+      "explanation": "Teratogens are agents that can cause birth defects or developmental abnormalities when the fetus is exposed during pregnancy. Examples include alcohol, certain drugs, infections (like rubella), and radiation. The first trimester is the period of highest vulnerability.",
+      "concept_tags": ["teratogens", "birth-defects", "development", "pregnancy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-038",
+      "question_text": "Surfactant production in the fetal lungs typically becomes adequate for breathing around:",
+      "options": [
+        "A. 16-20 weeks",
+        "B. 24-28 weeks",
+        "C. 32-35 weeks",
+        "D. 40 weeks"
+      ],
+      "correct_answer": "C",
+      "explanation": "Surfactant production typically becomes adequate around 32-35 weeks of gestation. Surfactant reduces surface tension in the alveoli, preventing collapse. Premature infants born before surfactant production is adequate may develop respiratory distress syndrome.",
+      "concept_tags": ["surfactant", "lung-development", "premature-birth", "respiratory-distress"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-039",
+      "question_text": "Oxytocin released during labor primarily acts to:",
+      "options": [
+        "A. dilate the cervix",
+        "B. stimulate uterine contractions",
+        "C. produce milk",
+        "D. decrease pain sensation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Oxytocin stimulates uterine smooth muscle contractions during labor. It operates through a positive feedback loop: contractions stimulate more oxytocin release, leading to stronger contractions. Oxytocin also stimulates milk ejection (let-down reflex) during breastfeeding.",
+      "concept_tags": ["oxytocin", "labor", "uterine-contractions", "positive-feedback"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-040",
+      "question_text": "The allantois contributes to the formation of:",
+      "options": [
+        "A. the placenta",
+        "B. the umbilical cord blood vessels",
+        "C. the amniotic fluid",
+        "D. the yolk sac"
+      ],
+      "correct_answer": "B",
+      "explanation": "The allantois is an extraembryonic membrane involved in early fluid exchange. In humans, remnants of the allantois contribute to the formation of the umbilical cord along with remnants of the yolk sac. The blood vessels of the umbilical cord develop from allantoic vessels.",
+      "concept_tags": ["allantois", "umbilical-cord", "extraembryonic-membranes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-041",
+      "question_text": "Amniocentesis is a procedure used to:",
+      "options": [
+        "A. induce labor",
+        "B. examine fetal cells for chromosomal abnormalities",
+        "C. deliver nutrients to the fetus",
+        "D. remove excess amniotic fluid"
+      ],
+      "correct_answer": "B",
+      "explanation": "Amniocentesis involves aspirating amniotic fluid with a thin needle. The fluid contains fetal cells that can be examined for chromosomal abnormalities and used for sex determination. It's recommended for individuals over 35 or those with abnormal screening results.",
+      "concept_tags": ["amniocentesis", "prenatal-testing", "chromosomal-abnormalities", "amniotic-fluid"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-042",
+      "question_text": "Which of the following correctly matches a germ layer with its derivative?",
+      "options": [
+        "A. Ectoderm → cardiac muscle",
+        "B. Mesoderm → lining of the gut",
+        "C. Endoderm → liver",
+        "D. Ectoderm → blood cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "The liver develops from the endoderm, which also gives rise to the lining of the digestive and respiratory tracts. Cardiac muscle and blood cells come from mesoderm. The ectoderm gives rise to the nervous system and epidermis, not cardiac muscle or blood cells.",
+      "concept_tags": ["germ-layers", "endoderm", "liver", "tissue-derivatives"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-043",
+      "question_text": "Somites are mesodermal structures that give rise to:",
+      "options": [
+        "A. the brain and spinal cord",
+        "B. vertebrae, skeletal muscle, and dermis",
+        "C. the lining of blood vessels",
+        "D. the epidermis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Somites are blocks of mesoderm that form along the developing neural tube. They differentiate into sclerotome (which forms vertebrae), myotome (which forms skeletal muscle), and dermatome (which forms the dermis of the skin).",
+      "concept_tags": ["somites", "mesoderm", "vertebrae", "skeletal-muscle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-044",
+      "question_text": "Cell senescence refers to:",
+      "options": [
+        "A. rapid cell division",
+        "B. programmed cell death",
+        "C. the loss of a cell's ability to divide",
+        "D. cell differentiation"
+      ],
+      "correct_answer": "C",
+      "explanation": "Senescence refers to the loss of a cell's ability to divide, often associated with aging. Senescent cells remain metabolically active but no longer replicate. This is distinct from apoptosis (programmed cell death) and differentiation (cell specialization).",
+      "concept_tags": ["senescence", "aging", "cell-division", "telomeres"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-045",
+      "question_text": "During the second trimester, the fetus primarily:",
+      "options": [
+        "A. undergoes organogenesis",
+        "B. gains fat stores for temperature regulation",
+        "C. grows in size and develops movement",
+        "D. prepares the lungs for breathing"
+      ],
+      "correct_answer": "C",
+      "explanation": "During the second trimester, the fetus grows significantly in size, and fetal movements become detectable (quickening). Organogenesis is largely complete by this time (first trimester). Fat deposition and final lung maturation occur mainly in the third trimester.",
+      "concept_tags": ["second-trimester", "fetal-development", "quickening", "growth"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-046",
+      "question_text": "The third trimester is characterized by:",
+      "options": [
+        "A. formation of all organ systems",
+        "B. rapid brain development and weight gain",
+        "C. gastrulation",
+        "D. implantation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The third trimester is characterized by rapid fetal growth, weight gain (including fat deposition), and brain development. Organ formation occurs in the first trimester, gastrulation occurs very early in development, and implantation occurs during the first week.",
+      "concept_tags": ["third-trimester", "fetal-development", "brain-development", "weight-gain"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-047",
+      "question_text": "Prostaglandins released during labor contribute to:",
+      "options": [
+        "A. fetal lung development",
+        "B. cervical softening and uterine contractions",
+        "C. milk production",
+        "D. placental formation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Prostaglandins help soften and ripen the cervix and contribute to uterine contractions during labor. They work in conjunction with oxytocin to facilitate delivery. Synthetic prostaglandins are sometimes used medically to induce labor.",
+      "concept_tags": ["prostaglandins", "labor", "cervix", "uterine-contractions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-048",
+      "question_text": "After birth, the foramen ovale closes primarily because:",
+      "options": [
+        "A. blood pressure in the left atrium increases relative to the right",
+        "B. blood pressure in the right atrium increases",
+        "C. oxytocin stimulates closure",
+        "D. the umbilical cord is cut"
+      ],
+      "correct_answer": "A",
+      "explanation": "After birth, the baby's first breaths increase pulmonary blood flow, which increases blood return to the left atrium. The increased left atrial pressure pushes the flap of the foramen ovale closed. Over time, the tissue fuses to permanently close the opening.",
+      "concept_tags": ["foramen-ovale", "birth", "cardiac-changes", "pressure-changes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-03-049",
+      "question_text": "Regeneration in humans is limited, but which of the following tissues has the greatest regenerative capacity?",
+      "options": [
+        "A. Cardiac muscle",
+        "B. Neural tissue in the brain",
+        "C. Liver",
+        "D. Spinal cord"
+      ],
+      "correct_answer": "C",
+      "explanation": "The liver has remarkable regenerative capacity and can regrow to its original size even after significant damage or partial removal. Cardiac muscle and neural tissue in the CNS (brain and spinal cord) have very limited regenerative ability in humans.",
+      "concept_tags": ["regeneration", "liver", "tissue-repair", "healing"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-03-050",
+      "question_text": "Human chorionic gonadotropin (hCG), the hormone detected in pregnancy tests, is produced by:",
+      "options": [
+        "A. the corpus luteum",
+        "B. the anterior pituitary",
+        "C. the trophoblast/developing placenta",
+        "D. the ovary"
+      ],
+      "correct_answer": "C",
+      "explanation": "hCG is produced by the trophoblast cells (and later the placenta) of the developing embryo. It maintains the corpus luteum, ensuring continued progesterone production in early pregnancy. Detection of hCG in blood or urine is the basis for pregnancy tests.",
+      "concept_tags": ["hcg", "pregnancy-test", "trophoblast", "placenta"],
+      "difficulty": "easy"
+    }
+  ]
+}

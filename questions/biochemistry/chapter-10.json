@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 10,
+  "chapter_title": "Biotechnology and Laboratory Techniques",
+  "questions": [
+    {
+      "id": "biochemistry-10-001",
+      "question_text": "Which of the following is NOT a required component for a standard PCR reaction?",
+      "options": [
+        "A. DNA template",
+        "B. RNA polymerase",
+        "C. dNTPs",
+        "D. Primers"
+      ],
+      "correct_answer": "B",
+      "explanation": "PCR requires DNA polymerase (specifically a thermostable polymerase like Taq), not RNA polymerase. The essential components of PCR are: DNA template, thermostable DNA polymerase, forward and reverse primers, dNTPs (deoxynucleotide triphosphates), and appropriate buffer with Mg2+ ions.",
+      "concept_tags": ["pcr", "molecular-biology", "dna-amplification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-002",
+      "question_text": "During which step of PCR does the double-stranded DNA separate into single strands?",
+      "options": [
+        "A. Annealing",
+        "B. Extension",
+        "C. Denaturation",
+        "D. Ligation"
+      ],
+      "correct_answer": "C",
+      "explanation": "Denaturation is the first step of each PCR cycle, typically performed at 94-98 degrees Celsius. At this high temperature, the hydrogen bonds between complementary base pairs break, causing the double-stranded DNA to separate into single strands. Annealing involves primer binding, and extension involves DNA synthesis.",
+      "concept_tags": ["pcr", "denaturation", "dna-amplification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-003",
+      "question_text": "The annealing temperature in PCR is primarily determined by:",
+      "options": [
+        "A. The length of the template DNA",
+        "B. The melting temperature (Tm) of the primers",
+        "C. The concentration of Taq polymerase",
+        "D. The number of cycles to be performed"
+      ],
+      "correct_answer": "B",
+      "explanation": "The annealing temperature is typically set 3-5 degrees Celsius below the melting temperature (Tm) of the primers. The Tm depends on primer length, GC content, and salt concentration. Setting the correct annealing temperature ensures specific primer binding to the template while minimizing non-specific binding.",
+      "concept_tags": ["pcr", "primer-design", "annealing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-004",
+      "question_text": "Why is Taq polymerase used in PCR instead of E. coli DNA polymerase?",
+      "options": [
+        "A. Taq polymerase has proofreading activity",
+        "B. Taq polymerase is thermostable and survives the denaturation step",
+        "C. Taq polymerase synthesizes DNA faster",
+        "D. Taq polymerase does not require primers"
+      ],
+      "correct_answer": "B",
+      "explanation": "Taq polymerase, isolated from the thermophilic bacterium Thermus aquaticus, is thermostable and remains active even after exposure to the high temperatures (94-98 degrees Celsius) used in the denaturation step. E. coli DNA polymerase would be denatured at these temperatures. Notably, Taq polymerase lacks 3' to 5' proofreading activity.",
+      "concept_tags": ["pcr", "taq-polymerase", "thermostability"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-005",
+      "question_text": "After 20 cycles of PCR starting with a single DNA molecule, approximately how many copies of the target sequence would be produced?",
+      "options": [
+        "A. 20",
+        "B. 40",
+        "C. 2^20 (approximately 1 million)",
+        "D. 10^20"
+      ],
+      "correct_answer": "C",
+      "explanation": "PCR amplification is exponential. After n cycles, the theoretical yield is 2^n copies of the target sequence. After 20 cycles, this equals 2^20 = 1,048,576 copies, approximately one million. This exponential amplification is what makes PCR such a powerful technique for detecting small amounts of DNA.",
+      "concept_tags": ["pcr", "exponential-amplification", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-006",
+      "question_text": "In gel electrophoresis, DNA fragments migrate toward the:",
+      "options": [
+        "A. Negative electrode (cathode) because DNA is positively charged",
+        "B. Positive electrode (anode) because DNA is negatively charged",
+        "C. Negative electrode (cathode) because DNA is negatively charged",
+        "D. Positive electrode (anode) because DNA is positively charged"
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA is negatively charged due to its phosphate backbone. Each phosphate group carries a negative charge at physiological pH. In gel electrophoresis, when an electric field is applied, DNA migrates toward the positive electrode (anode). This is a fundamental principle of nucleic acid electrophoresis.",
+      "concept_tags": ["gel-electrophoresis", "dna-charge", "separation-techniques"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-007",
+      "question_text": "Which factor has the GREATEST effect on the separation of DNA fragments during agarose gel electrophoresis?",
+      "options": [
+        "A. DNA sequence composition",
+        "B. Fragment size (molecular weight)",
+        "C. Temperature of the gel",
+        "D. Concentration of ethidium bromide"
+      ],
+      "correct_answer": "B",
+      "explanation": "In agarose gel electrophoresis, DNA fragments are separated primarily based on their size (molecular weight). Smaller fragments migrate faster through the gel matrix than larger fragments because they encounter less resistance. DNA sequence has minimal effect since all DNA fragments have similar charge-to-mass ratios.",
+      "concept_tags": ["gel-electrophoresis", "dna-separation", "molecular-weight"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-008",
+      "question_text": "A researcher wants to separate DNA fragments ranging from 100 bp to 500 bp. Which gel would provide the best resolution?",
+      "options": [
+        "A. 0.5% agarose gel",
+        "B. 1% agarose gel",
+        "C. 2% agarose gel",
+        "D. 3% agarose gel"
+      ],
+      "correct_answer": "C",
+      "explanation": "Higher percentage agarose gels have smaller pore sizes and provide better resolution for smaller DNA fragments. A 2% gel is optimal for separating fragments in the 100-500 bp range. Lower percentage gels (0.5-1%) are better for larger fragments (1-20 kb), while very high percentages (3%+) may be too restrictive.",
+      "concept_tags": ["gel-electrophoresis", "agarose-concentration", "resolution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-009",
+      "question_text": "Ethidium bromide is used in gel electrophoresis to:",
+      "options": [
+        "A. Increase DNA migration speed",
+        "B. Visualize DNA under UV light by intercalating between base pairs",
+        "C. Cut DNA at specific restriction sites",
+        "D. Denature the DNA into single strands"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ethidium bromide (EtBr) is a fluorescent dye that intercalates between the stacked base pairs of DNA. When exposed to UV light, the EtBr-DNA complex fluoresces orange-pink, allowing visualization of DNA bands. EtBr is a mutagen and should be handled with care. SYBR Safe is a less toxic alternative.",
+      "concept_tags": ["gel-electrophoresis", "dna-visualization", "ethidium-bromide"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-010",
+      "question_text": "Southern blotting is used to detect:",
+      "options": [
+        "A. Specific RNA sequences",
+        "B. Specific DNA sequences",
+        "C. Specific protein sequences",
+        "D. Enzyme activity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Southern blotting, developed by Edwin Southern, is used to detect specific DNA sequences. DNA is separated by gel electrophoresis, transferred to a membrane, and hybridized with a labeled probe complementary to the target sequence. Northern blotting detects RNA, and Western blotting detects proteins.",
+      "concept_tags": ["southern-blotting", "dna-detection", "hybridization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-011",
+      "question_text": "In a Southern blot, the DNA is transferred from the gel to the membrane by:",
+      "options": [
+        "A. Electrophoresis",
+        "B. Centrifugation",
+        "C. Capillary action or vacuum transfer",
+        "D. PCR amplification"
+      ],
+      "correct_answer": "C",
+      "explanation": "After gel electrophoresis, DNA is transferred to a nitrocellulose or nylon membrane by capillary action (traditional method) or vacuum/electroblotting (faster methods). In capillary transfer, buffer moves through the gel carrying DNA to the membrane. The DNA is then immobilized by UV crosslinking or baking.",
+      "concept_tags": ["southern-blotting", "membrane-transfer", "capillary-action"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-012",
+      "question_text": "Northern blotting differs from Southern blotting in that Northern blotting:",
+      "options": [
+        "A. Uses DNA probes instead of RNA probes",
+        "B. Detects RNA instead of DNA",
+        "C. Does not require gel electrophoresis",
+        "D. Is used to detect proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "Northern blotting is used to detect specific RNA sequences, while Southern blotting detects DNA. The procedures are similar: RNA is separated by electrophoresis, transferred to a membrane, and hybridized with a labeled probe. Northern blotting is useful for studying gene expression by measuring mRNA levels.",
+      "concept_tags": ["northern-blotting", "rna-detection", "gene-expression"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-013",
+      "question_text": "Western blotting uses which type of probe for detection?",
+      "options": [
+        "A. Labeled DNA oligonucleotides",
+        "B. Labeled RNA oligonucleotides",
+        "C. Antibodies",
+        "D. Restriction enzymes"
+      ],
+      "correct_answer": "C",
+      "explanation": "Western blotting detects proteins using antibodies. After proteins are separated by SDS-PAGE and transferred to a membrane, they are probed with a primary antibody specific to the target protein. A labeled secondary antibody (conjugated to an enzyme or fluorophore) is then used for detection.",
+      "concept_tags": ["western-blotting", "protein-detection", "antibodies"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-014",
+      "question_text": "In SDS-PAGE, proteins are separated primarily based on:",
+      "options": [
+        "A. Their native charge",
+        "B. Their biological function",
+        "C. Their molecular weight",
+        "D. Their isoelectric point"
+      ],
+      "correct_answer": "C",
+      "explanation": "SDS (sodium dodecyl sulfate) is an anionic detergent that denatures proteins and coats them with negative charges proportional to their length. This gives all proteins a similar charge-to-mass ratio, so they separate based on molecular weight alone. Smaller proteins migrate faster through the polyacrylamide gel.",
+      "concept_tags": ["sds-page", "protein-separation", "molecular-weight"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-015",
+      "question_text": "Which technique would be most appropriate for studying whether a gene is being expressed at the mRNA level?",
+      "options": [
+        "A. Southern blotting",
+        "B. Northern blotting",
+        "C. Western blotting",
+        "D. DNA sequencing"
+      ],
+      "correct_answer": "B",
+      "explanation": "Northern blotting detects specific RNA sequences and is used to study gene expression at the mRNA level. It can show whether a gene is transcribed and reveal the size and abundance of the transcript. Southern blotting detects DNA, Western blotting detects proteins, and DNA sequencing reveals nucleotide sequences.",
+      "concept_tags": ["northern-blotting", "gene-expression", "mrna-analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-016",
+      "question_text": "Sanger sequencing relies on the incorporation of:",
+      "options": [
+        "A. Radioactive dNTPs",
+        "B. Dideoxynucleotides (ddNTPs) that terminate chain elongation",
+        "C. RNA primers only",
+        "D. Restriction enzymes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sanger sequencing (chain-termination method) uses dideoxynucleotides (ddNTPs), which lack the 3'-OH group necessary for forming phosphodiester bonds. When a ddNTP is incorporated, DNA synthesis terminates. By using a mixture of dNTPs and ddNTPs, fragments of all lengths are generated, revealing the sequence.",
+      "concept_tags": ["dna-sequencing", "sanger-sequencing", "ddntps"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-017",
+      "question_text": "Dideoxynucleotides terminate DNA synthesis because they lack:",
+      "options": [
+        "A. The 5'-phosphate group",
+        "B. The nitrogenous base",
+        "C. The 3'-OH group needed for phosphodiester bond formation",
+        "D. The 2'-OH group"
+      ],
+      "correct_answer": "C",
+      "explanation": "Dideoxynucleotides (ddNTPs) lack the 3'-hydroxyl group that is essential for forming the phosphodiester bond with the next incoming nucleotide. Without the 3'-OH, the DNA polymerase cannot add another nucleotide, terminating chain elongation at that position.",
+      "concept_tags": ["dna-sequencing", "ddntps", "chain-termination"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-018",
+      "question_text": "In modern automated Sanger sequencing, each of the four ddNTPs is labeled with:",
+      "options": [
+        "A. A different radioactive isotope",
+        "B. A different fluorescent dye",
+        "C. A different enzyme",
+        "D. A different restriction site"
+      ],
+      "correct_answer": "B",
+      "explanation": "Modern automated Sanger sequencing uses four different fluorescent dyes, each attached to a different ddNTP (ddATP, ddGTP, ddCTP, ddTTP). This allows all four reactions to be run in a single tube and detected by a laser that excites the fluorophores, identifying which nucleotide terminated each fragment.",
+      "concept_tags": ["dna-sequencing", "fluorescent-labeling", "automation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-019",
+      "question_text": "Next-generation sequencing (NGS) differs from Sanger sequencing primarily in its ability to:",
+      "options": [
+        "A. Sequence only one strand of DNA",
+        "B. Perform massively parallel sequencing of millions of fragments simultaneously",
+        "C. Use only RNA templates",
+        "D. Sequence without using any polymerase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Next-generation sequencing (NGS) technologies can sequence millions to billions of DNA fragments simultaneously (massively parallel sequencing). This dramatically increases throughput and reduces cost compared to Sanger sequencing, which sequences one fragment at a time. NGS has revolutionized genomics research.",
+      "concept_tags": ["dna-sequencing", "next-generation-sequencing", "high-throughput"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-020",
+      "question_text": "Restriction enzymes recognize and cut DNA at:",
+      "options": [
+        "A. Random locations throughout the genome",
+        "B. Specific palindromic sequences",
+        "C. Only the ends of chromosomes",
+        "D. Sites marked by methylation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Restriction enzymes (restriction endonucleases) recognize specific palindromic DNA sequences, typically 4-8 base pairs long, and cut the DNA at or near these recognition sites. Palindromic sequences read the same on both strands in the 5' to 3' direction. Different enzymes produce either blunt or sticky ends.",
+      "concept_tags": ["restriction-enzymes", "dna-cloning", "palindromic-sequences"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-021",
+      "question_text": "EcoRI recognizes the sequence 5'-GAATTC-3'. This is considered palindromic because:",
+      "options": [
+        "A. It contains only purines",
+        "B. The complementary strand reads the same in the 5' to 3' direction",
+        "C. It can be read backwards and forwards",
+        "D. It contains an equal number of A-T and G-C base pairs"
+      ],
+      "correct_answer": "B",
+      "explanation": "A DNA palindrome has a sequence where the complementary strand reads the same in the 5' to 3' direction. For 5'-GAATTC-3', the complementary strand is 3'-CTTAAG-5', which when read 5' to 3' is also GAATTC. This two-fold symmetry allows the restriction enzyme to cut both strands.",
+      "concept_tags": ["restriction-enzymes", "palindromic-sequences", "ecori"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-022",
+      "question_text": "Sticky ends produced by restriction enzymes are useful in cloning because they:",
+      "options": [
+        "A. Cannot be ligated",
+        "B. Allow complementary ends to base pair, facilitating ligation",
+        "C. Destroy the vector DNA",
+        "D. Prevent bacterial transformation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sticky ends (cohesive ends) are short, single-stranded overhangs produced by certain restriction enzymes. These overhangs can base pair with complementary sticky ends from another DNA fragment cut with the same enzyme, holding the pieces together and facilitating ligation by DNA ligase.",
+      "concept_tags": ["restriction-enzymes", "sticky-ends", "dna-cloning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-023",
+      "question_text": "DNA ligase functions to:",
+      "options": [
+        "A. Cut DNA at specific sequences",
+        "B. Unwind the DNA double helix",
+        "C. Join DNA fragments by forming phosphodiester bonds",
+        "D. Add nucleotides to the 3' end of DNA"
+      ],
+      "correct_answer": "C",
+      "explanation": "DNA ligase catalyzes the formation of phosphodiester bonds between the 3'-hydroxyl of one DNA fragment and the 5'-phosphate of another, joining DNA fragments together. This enzyme is essential for DNA cloning, connecting insert DNA to vector DNA, and is also important in DNA replication and repair.",
+      "concept_tags": ["dna-ligase", "dna-cloning", "phosphodiester-bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-024",
+      "question_text": "A plasmid cloning vector must contain all of the following EXCEPT:",
+      "options": [
+        "A. An origin of replication",
+        "B. A selectable marker (such as an antibiotic resistance gene)",
+        "C. A multiple cloning site",
+        "D. A eukaryotic centromere"
+      ],
+      "correct_answer": "D",
+      "explanation": "Plasmid vectors require: (1) an origin of replication for autonomous replication in bacteria, (2) a selectable marker to identify transformed cells, and (3) a multiple cloning site (MCS) with unique restriction sites for inserting foreign DNA. A eukaryotic centromere is not needed for bacterial plasmids.",
+      "concept_tags": ["cloning-vectors", "plasmids", "recombinant-dna"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-025",
+      "question_text": "Blue-white screening in cloning relies on:",
+      "options": [
+        "A. The presence of antibiotic resistance",
+        "B. Insertional inactivation of the lacZ gene encoding beta-galactosidase",
+        "C. The size of the inserted DNA",
+        "D. The fluorescence of the DNA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Blue-white screening uses vectors with the lacZ gene (encoding beta-galactosidase) and its MCS within this gene. Successful insertion disrupts lacZ, preventing beta-galactosidase production. On plates with X-gal and IPTG, colonies with intact lacZ are blue, while those with inserts (disrupted lacZ) are white.",
+      "concept_tags": ["cloning", "blue-white-screening", "lacz"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-026",
+      "question_text": "Transformation in molecular biology refers to:",
+      "options": [
+        "A. The conversion of RNA to DNA",
+        "B. The uptake of exogenous DNA by bacterial cells",
+        "C. The change in protein structure",
+        "D. The replication of plasmid DNA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Transformation is the process by which bacterial cells take up exogenous DNA from their environment. In molecular cloning, bacteria are made competent (able to take up DNA) by chemical treatment or electroporation, then exposed to plasmid DNA containing the gene of interest.",
+      "concept_tags": ["transformation", "cloning", "bacterial-genetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-027",
+      "question_text": "A cDNA library differs from a genomic library in that a cDNA library:",
+      "options": [
+        "A. Contains all DNA sequences including introns",
+        "B. Contains only sequences derived from mRNA (no introns)",
+        "C. Can only be made from bacterial cells",
+        "D. Contains larger DNA fragments"
+      ],
+      "correct_answer": "B",
+      "explanation": "A cDNA (complementary DNA) library is made by reverse transcribing mRNA, so it contains only sequences that were expressed and processed (exons only, no introns). A genomic library contains all DNA sequences, including introns, regulatory regions, and non-coding sequences. cDNA libraries are useful for studying gene expression.",
+      "concept_tags": ["cdna-library", "genomic-library", "gene-expression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-028",
+      "question_text": "Reverse transcriptase is used to:",
+      "options": [
+        "A. Synthesize DNA from an RNA template",
+        "B. Synthesize RNA from a DNA template",
+        "C. Degrade RNA",
+        "D. Ligate DNA fragments"
+      ],
+      "correct_answer": "A",
+      "explanation": "Reverse transcriptase is an RNA-dependent DNA polymerase that synthesizes DNA from an RNA template. It is used to create cDNA from mRNA in the laboratory. This enzyme was originally discovered in retroviruses, which use it to convert their RNA genome into DNA for integration into the host genome.",
+      "concept_tags": ["reverse-transcriptase", "cdna-synthesis", "retroviruses"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-029",
+      "question_text": "The CRISPR-Cas9 system requires which of the following components for gene editing?",
+      "options": [
+        "A. Only the Cas9 nuclease",
+        "B. Cas9 nuclease and a guide RNA complementary to the target sequence",
+        "C. Restriction enzymes and DNA ligase",
+        "D. Reverse transcriptase and primers"
+      ],
+      "correct_answer": "B",
+      "explanation": "CRISPR-Cas9 gene editing requires the Cas9 nuclease and a guide RNA (gRNA) that is complementary to the target DNA sequence. The gRNA directs Cas9 to the specific genomic location, where Cas9 creates a double-strand break. The cell's repair mechanisms then modify the sequence.",
+      "concept_tags": ["crispr", "cas9", "gene-editing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-030",
+      "question_text": "The PAM (protospacer adjacent motif) sequence in CRISPR-Cas9 gene editing:",
+      "options": [
+        "A. Is part of the guide RNA",
+        "B. Is a short DNA sequence adjacent to the target site required for Cas9 binding",
+        "C. Codes for the Cas9 protein",
+        "D. Is found in all organisms that can be edited"
+      ],
+      "correct_answer": "B",
+      "explanation": "The PAM sequence is a short (typically 2-6 bp) DNA sequence immediately adjacent to the target sequence that is required for Cas9 recognition and binding. For S. pyogenes Cas9, the PAM is 5'-NGG-3'. Without a PAM sequence, Cas9 cannot bind and cleave the DNA, limiting potential target sites.",
+      "concept_tags": ["crispr", "pam-sequence", "cas9"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-10-031",
+      "question_text": "After CRISPR-Cas9 creates a double-strand break, gene knockout typically results from repair by:",
+      "options": [
+        "A. Homology-directed repair (HDR)",
+        "B. Non-homologous end joining (NHEJ)",
+        "C. Base excision repair",
+        "D. Mismatch repair"
+      ],
+      "correct_answer": "B",
+      "explanation": "Non-homologous end joining (NHEJ) is an error-prone repair pathway that often introduces small insertions or deletions (indels) at the break site. These indels can cause frameshift mutations that disrupt the gene, resulting in knockout. HDR, in contrast, uses a template for precise editing but is less efficient.",
+      "concept_tags": ["crispr", "nhej", "gene-knockout"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-10-032",
+      "question_text": "Column chromatography separates proteins based on:",
+      "options": [
+        "A. Only their size",
+        "B. Only their charge",
+        "C. Various properties depending on the type of chromatography used",
+        "D. Only their color"
+      ],
+      "correct_answer": "C",
+      "explanation": "Different types of column chromatography separate proteins based on different properties: size exclusion chromatography separates by size, ion exchange by charge, affinity chromatography by specific binding interactions, and hydrophobic interaction chromatography by hydrophobicity. The choice depends on the protein's properties.",
+      "concept_tags": ["protein-purification", "chromatography", "separation-techniques"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-033",
+      "question_text": "In size exclusion chromatography, which proteins elute first?",
+      "options": [
+        "A. The smallest proteins",
+        "B. The largest proteins",
+        "C. The most positively charged proteins",
+        "D. The most hydrophobic proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "In size exclusion (gel filtration) chromatography, large proteins cannot enter the pores of the beads and travel around them, eluting first. Smaller proteins enter the pores and take a longer path through the column, eluting later. This is opposite to gel electrophoresis, where smaller molecules move faster.",
+      "concept_tags": ["size-exclusion-chromatography", "protein-purification", "gel-filtration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-034",
+      "question_text": "Ion exchange chromatography separates proteins based on:",
+      "options": [
+        "A. Molecular weight",
+        "B. Hydrophobicity",
+        "C. Net charge",
+        "D. Specific ligand binding"
+      ],
+      "correct_answer": "C",
+      "explanation": "Ion exchange chromatography separates proteins based on their net charge. Cation exchange resins have negative charges and bind positively charged proteins. Anion exchange resins have positive charges and bind negatively charged proteins. Proteins are eluted by increasing salt concentration or changing pH.",
+      "concept_tags": ["ion-exchange-chromatography", "protein-purification", "charge"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-035",
+      "question_text": "Affinity chromatography purifies proteins based on:",
+      "options": [
+        "A. Size differences",
+        "B. Charge differences",
+        "C. Specific binding interactions with an immobilized ligand",
+        "D. Differences in hydrophobicity"
+      ],
+      "correct_answer": "C",
+      "explanation": "Affinity chromatography exploits specific binding interactions between a protein and a ligand immobilized on the column matrix. Examples include antibody-antigen interactions, enzyme-substrate interactions, or His-tag binding to nickel. This technique can achieve high purity in a single step.",
+      "concept_tags": ["affinity-chromatography", "protein-purification", "specific-binding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-036",
+      "question_text": "A researcher wants to purify a His-tagged recombinant protein. Which chromatography method would be most appropriate?",
+      "options": [
+        "A. Size exclusion chromatography",
+        "B. Anion exchange chromatography",
+        "C. Nickel affinity chromatography",
+        "D. Hydrophobic interaction chromatography"
+      ],
+      "correct_answer": "C",
+      "explanation": "His-tagged proteins contain a polyhistidine tag (usually 6 histidines) that binds with high affinity to immobilized metal ions, particularly Ni2+. Nickel affinity chromatography (IMAC - immobilized metal affinity chromatography) can purify His-tagged proteins with high specificity. Imidazole is used to elute the protein.",
+      "concept_tags": ["affinity-chromatography", "his-tag", "protein-purification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-037",
+      "question_text": "Dialysis is used in protein purification to:",
+      "options": [
+        "A. Separate proteins by size",
+        "B. Remove small molecules and change buffer conditions",
+        "C. Denature proteins",
+        "D. Add affinity tags to proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "Dialysis uses a semipermeable membrane to remove small molecules (salts, buffer components, imidazole) from protein solutions while retaining the protein. It is commonly used to exchange buffers or desalt protein preparations. The membrane's molecular weight cutoff determines which molecules can pass through.",
+      "concept_tags": ["dialysis", "protein-purification", "buffer-exchange"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-038",
+      "question_text": "UV-Vis spectroscopy measures the absorbance of light by molecules at wavelengths in the:",
+      "options": [
+        "A. X-ray region (0.01-10 nm)",
+        "B. Ultraviolet and visible region (200-800 nm)",
+        "C. Infrared region (700-1000000 nm)",
+        "D. Microwave region (1-300 mm)"
+      ],
+      "correct_answer": "B",
+      "explanation": "UV-Vis spectroscopy measures light absorption in the ultraviolet (200-400 nm) and visible (400-800 nm) regions of the electromagnetic spectrum. Proteins absorb at 280 nm (aromatic amino acids), nucleic acids at 260 nm (nitrogenous bases), and various compounds have characteristic visible absorption spectra.",
+      "concept_tags": ["uv-vis-spectroscopy", "spectroscopy", "light-absorption"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-039",
+      "question_text": "The absorbance of proteins at 280 nm is primarily due to:",
+      "options": [
+        "A. Peptide bonds",
+        "B. Aromatic amino acids (tryptophan, tyrosine, phenylalanine)",
+        "C. Disulfide bonds",
+        "D. Carbohydrate modifications"
+      ],
+      "correct_answer": "B",
+      "explanation": "Proteins absorb UV light at 280 nm primarily due to the aromatic amino acids tryptophan, tyrosine, and to a lesser extent phenylalanine. Tryptophan has the strongest absorbance. This property is commonly used to estimate protein concentration using the Beer-Lambert law.",
+      "concept_tags": ["uv-vis-spectroscopy", "protein-quantification", "aromatic-amino-acids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-040",
+      "question_text": "According to the Beer-Lambert law, absorbance is directly proportional to:",
+      "options": [
+        "A. Wavelength and temperature",
+        "B. Concentration and path length",
+        "C. Molecular weight and charge",
+        "D. pH and ionic strength"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Beer-Lambert law states that A = epsilon x c x l, where A is absorbance, epsilon is the molar extinction coefficient, c is concentration, and l is the path length. Absorbance is directly proportional to both the concentration of the absorbing species and the path length of light through the sample.",
+      "concept_tags": ["beer-lambert-law", "spectroscopy", "quantification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-041",
+      "question_text": "NMR spectroscopy is most commonly used to determine:",
+      "options": [
+        "A. The molecular weight of proteins",
+        "B. The three-dimensional structure of molecules in solution",
+        "C. The DNA sequence of a gene",
+        "D. The rate of enzyme reactions"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nuclear magnetic resonance (NMR) spectroscopy is used to determine the three-dimensional structure of molecules in solution. Unlike X-ray crystallography, NMR does not require crystals and can provide information about protein dynamics. NMR is most useful for smaller proteins (typically <50 kDa).",
+      "concept_tags": ["nmr-spectroscopy", "structural-biology", "protein-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-042",
+      "question_text": "Mass spectrometry determines the:",
+      "options": [
+        "A. Three-dimensional structure of proteins",
+        "B. Mass-to-charge ratio (m/z) of ionized molecules",
+        "C. UV absorbance of molecules",
+        "D. NMR chemical shifts"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mass spectrometry measures the mass-to-charge ratio (m/z) of ionized molecules. It can precisely determine molecular weights, identify unknown compounds, quantify known compounds, and determine the amino acid sequence of peptides. Common ionization methods include electrospray (ESI) and MALDI.",
+      "concept_tags": ["mass-spectrometry", "molecular-weight", "proteomics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-043",
+      "question_text": "In MALDI-TOF mass spectrometry, proteins are ionized by:",
+      "options": [
+        "A. Electron bombardment",
+        "B. Laser excitation of a matrix that transfers energy to the analyte",
+        "C. High voltage electrical discharge",
+        "D. Chemical ionization"
+      ],
+      "correct_answer": "B",
+      "explanation": "MALDI (Matrix-Assisted Laser Desorption/Ionization) uses a laser to excite a matrix (typically a small organic molecule that absorbs UV light). The matrix transfers energy to the analyte (protein), causing ionization with minimal fragmentation. TOF (Time-of-Flight) then separates ions by their m/z ratio.",
+      "concept_tags": ["mass-spectrometry", "maldi", "ionization"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-10-044",
+      "question_text": "Tandem mass spectrometry (MS/MS) is particularly useful for:",
+      "options": [
+        "A. Determining protein crystal structure",
+        "B. Sequencing peptides by fragmenting them between amino acids",
+        "C. Measuring protein-protein interactions",
+        "D. Visualizing protein localization in cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Tandem mass spectrometry (MS/MS) involves two stages of mass analysis. The first stage selects a specific ion, which is then fragmented (typically at peptide bonds). The second stage analyzes the fragments, allowing determination of the amino acid sequence. This is essential for proteomics studies.",
+      "concept_tags": ["mass-spectrometry", "peptide-sequencing", "tandem-ms"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-10-045",
+      "question_text": "A researcher observes that a protein migrates as a single band at 50 kDa on SDS-PAGE under reducing conditions, but as a band at 100 kDa under non-reducing conditions. This suggests that the native protein is:",
+      "options": [
+        "A. A monomer with no disulfide bonds",
+        "B. A homodimer linked by disulfide bonds",
+        "C. A tetramer linked by non-covalent interactions",
+        "D. A denatured protein aggregate"
+      ],
+      "correct_answer": "B",
+      "explanation": "The protein runs at 100 kDa without reducing agent (intact disulfide bonds) but at 50 kDa with reducing agent (disulfide bonds broken). This indicates the native protein is a dimer of two 50 kDa subunits linked by intermolecular disulfide bonds. Reducing agents like DTT or beta-mercaptoethanol break disulfide bonds.",
+      "concept_tags": ["sds-page", "disulfide-bonds", "protein-structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-10-046",
+      "question_text": "RT-PCR (reverse transcription PCR) is used to:",
+      "options": [
+        "A. Amplify DNA directly from genomic samples",
+        "B. Amplify DNA from RNA templates after reverse transcription",
+        "C. Sequence DNA using the Sanger method",
+        "D. Clone DNA into plasmid vectors"
+      ],
+      "correct_answer": "B",
+      "explanation": "RT-PCR combines reverse transcription with PCR. First, reverse transcriptase converts RNA (usually mRNA) into cDNA. Then, PCR amplifies the cDNA. This technique is used to detect and quantify gene expression at the RNA level. Quantitative RT-PCR (qRT-PCR) allows real-time measurement.",
+      "concept_tags": ["rt-pcr", "gene-expression", "reverse-transcription"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-047",
+      "question_text": "In isoelectric focusing (IEF), proteins are separated based on:",
+      "options": [
+        "A. Their molecular weight",
+        "B. Their isoelectric point (pI)",
+        "C. Their hydrophobicity",
+        "D. Their biological activity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Isoelectric focusing separates proteins based on their isoelectric point (pI), the pH at which the protein has no net charge. Proteins migrate through a pH gradient until they reach their pI, where they stop moving. IEF is often combined with SDS-PAGE in two-dimensional gel electrophoresis (2D-PAGE).",
+      "concept_tags": ["isoelectric-focusing", "protein-separation", "isoelectric-point"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-048",
+      "question_text": "ELISA (enzyme-linked immunosorbent assay) is used to:",
+      "options": [
+        "A. Sequence DNA",
+        "B. Detect and quantify specific proteins using antibodies",
+        "C. Amplify DNA",
+        "D. Determine protein crystal structure"
+      ],
+      "correct_answer": "B",
+      "explanation": "ELISA uses antibodies conjugated to enzymes to detect and quantify specific proteins (antigens). The enzyme produces a detectable signal (color change) proportional to the amount of antigen present. ELISA is widely used in diagnostics, research, and quality control for its sensitivity and specificity.",
+      "concept_tags": ["elisa", "immunoassay", "protein-detection"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-10-049",
+      "question_text": "A researcher needs to introduce a point mutation into a cloned gene. Which technique would be most appropriate?",
+      "options": [
+        "A. Southern blotting",
+        "B. Site-directed mutagenesis using PCR",
+        "C. Northern blotting",
+        "D. Size exclusion chromatography"
+      ],
+      "correct_answer": "B",
+      "explanation": "Site-directed mutagenesis using PCR allows precise introduction of specific mutations into cloned DNA. Primers containing the desired mutation are used to amplify the entire plasmid, introducing the change. This technique is essential for studying protein structure-function relationships by creating specific amino acid substitutions.",
+      "concept_tags": ["site-directed-mutagenesis", "pcr", "protein-engineering"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-10-050",
+      "question_text": "X-ray crystallography determines protein structure by:",
+      "options": [
+        "A. Measuring the absorption of X-rays by protein solutions",
+        "B. Analyzing the diffraction pattern produced when X-rays pass through protein crystals",
+        "C. Detecting the emission of X-rays from proteins",
+        "D. Using X-rays to ionize proteins for mass spectrometry"
+      ],
+      "correct_answer": "B",
+      "explanation": "X-ray crystallography determines atomic-resolution protein structures by analyzing the diffraction pattern produced when X-rays interact with a protein crystal. The regular arrangement of molecules in the crystal produces a characteristic diffraction pattern that can be mathematically processed to reveal the electron density map and atomic positions.",
+      "concept_tags": ["x-ray-crystallography", "structural-biology", "protein-structure"],
+      "difficulty": "hard"
+    }
+  ]
+}

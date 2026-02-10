@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 9,
+  "chapter_title": "The Digestive System",
+  "questions": [
+    {
+      "id": "biology-09-001",
+      "question_text": "Which of the following correctly describes the order of organs through which food passes in the digestive tract?",
+      "options": [
+        "A. Mouth, stomach, esophagus, small intestine, large intestine",
+        "B. Mouth, esophagus, stomach, large intestine, small intestine",
+        "C. Mouth, esophagus, stomach, small intestine, large intestine",
+        "D. Mouth, pharynx, stomach, esophagus, small intestine"
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct order of the digestive tract is mouth, esophagus, stomach, small intestine, and large intestine. Food enters through the mouth, travels down the esophagus to the stomach, then moves through the small intestine where most absorption occurs, and finally into the large intestine for water absorption and waste elimination.",
+      "concept_tags": ["digestive-tract-anatomy", "gi-tract-order"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-002",
+      "question_text": "Salivary amylase initiates the digestion of which macromolecule?",
+      "options": [
+        "A. Proteins",
+        "B. Lipids",
+        "C. Carbohydrates",
+        "D. Nucleic acids"
+      ],
+      "correct_answer": "C",
+      "explanation": "Salivary amylase (also called ptyalin) begins the digestion of carbohydrates, specifically breaking down starch into maltose and dextrins. This enzyme works optimally at the neutral pH found in the mouth. Protein digestion begins in the stomach with pepsin, lipid digestion primarily occurs in the small intestine, and nucleic acid digestion involves nucleases in the small intestine.",
+      "concept_tags": ["salivary-amylase", "carbohydrate-digestion", "mouth-digestion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-003",
+      "question_text": "The enzyme pepsin is secreted in its inactive form (pepsinogen) to prevent:",
+      "options": [
+        "A. premature activation in the bloodstream",
+        "B. autodigestion of the gastric chief cells",
+        "C. neutralization by stomach acid",
+        "D. inhibition by bile salts"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pepsin is secreted as the inactive zymogen pepsinogen to prevent autodigestion of the chief cells that produce it. Pepsinogen is activated to pepsin only when it encounters the acidic environment of the stomach lumen (pH 1.5-3.5). This protective mechanism ensures that the powerful proteolytic enzyme does not damage the cells that synthesize it.",
+      "concept_tags": ["pepsin", "pepsinogen", "zymogen", "stomach-enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-004",
+      "question_text": "Which layer of the gastrointestinal tract wall contains the blood vessels, lymphatics, and submucosal nerve plexus?",
+      "options": [
+        "A. Mucosa",
+        "B. Submucosa",
+        "C. Muscularis externa",
+        "D. Serosa"
+      ],
+      "correct_answer": "B",
+      "explanation": "The submucosa is a connective tissue layer that contains blood vessels, lymphatics, and the submucosal (Meissner's) nerve plexus. The mucosa is the innermost layer that contacts food. The muscularis externa contains smooth muscle for peristalsis. The serosa is the outermost protective layer. The submucosal plexus helps regulate secretions and blood flow.",
+      "concept_tags": ["gi-tract-layers", "submucosa", "enteric-nervous-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-005",
+      "question_text": "Peristalsis is best described as:",
+      "options": [
+        "A. the mixing of food with digestive enzymes",
+        "B. coordinated waves of muscle contraction that propel food through the GI tract",
+        "C. the absorption of nutrients across the intestinal wall",
+        "D. the secretion of mucus to protect the stomach lining"
+      ],
+      "correct_answer": "B",
+      "explanation": "Peristalsis consists of coordinated waves of circular and longitudinal smooth muscle contraction that propel food (bolus) through the gastrointestinal tract. This involuntary movement begins in the esophagus and continues through the entire digestive system. Segmentation, not peristalsis, is responsible for mixing food with enzymes.",
+      "concept_tags": ["peristalsis", "motility", "smooth-muscle", "gi-tract"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-006",
+      "question_text": "The lower esophageal sphincter (LES) prevents:",
+      "options": [
+        "A. food from entering the trachea",
+        "B. reflux of stomach contents into the esophagus",
+        "C. bile from entering the stomach",
+        "D. premature emptying of the stomach into the duodenum"
+      ],
+      "correct_answer": "B",
+      "explanation": "The lower esophageal sphincter (also called the cardiac sphincter) prevents the reflux of acidic stomach contents back into the esophagus. When this sphincter malfunctions, gastroesophageal reflux disease (GERD) can occur. The epiglottis prevents food from entering the trachea. The pyloric sphincter controls stomach emptying into the duodenum.",
+      "concept_tags": ["lower-esophageal-sphincter", "sphincters", "esophagus", "gerd"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-007",
+      "question_text": "Parietal cells of the stomach secrete:",
+      "options": [
+        "A. pepsinogen and lipase",
+        "B. hydrochloric acid and intrinsic factor",
+        "C. mucus and bicarbonate",
+        "D. gastrin and somatostatin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Parietal cells (also called oxyntic cells) secrete hydrochloric acid (HCl), which creates the acidic environment needed for pepsin activation, and intrinsic factor, which is essential for vitamin B12 absorption in the ileum. Chief cells secrete pepsinogen. Mucus cells secrete mucus and bicarbonate. G cells secrete gastrin, and D cells secrete somatostatin.",
+      "concept_tags": ["parietal-cells", "hydrochloric-acid", "intrinsic-factor", "stomach-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-008",
+      "question_text": "Which hormone stimulates the release of hydrochloric acid from parietal cells?",
+      "options": [
+        "A. Secretin",
+        "B. Cholecystokinin (CCK)",
+        "C. Gastrin",
+        "D. Gastric inhibitory peptide (GIP)"
+      ],
+      "correct_answer": "C",
+      "explanation": "Gastrin is released by G cells in the stomach antrum in response to stomach distension and protein presence. It stimulates parietal cells to secrete hydrochloric acid and promotes gastric motility. Secretin stimulates bicarbonate secretion. CCK stimulates gallbladder contraction and pancreatic enzyme release. GIP inhibits gastric acid secretion.",
+      "concept_tags": ["gastrin", "parietal-cells", "stomach-hormones", "acid-secretion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-009",
+      "question_text": "The three sections of the small intestine, in order from stomach to large intestine, are:",
+      "options": [
+        "A. ileum, jejunum, duodenum",
+        "B. duodenum, ileum, jejunum",
+        "C. jejunum, duodenum, ileum",
+        "D. duodenum, jejunum, ileum"
+      ],
+      "correct_answer": "D",
+      "explanation": "The small intestine consists of three sections: the duodenum (receives chyme from the stomach and secretions from the pancreas and liver), the jejunum (primary site of nutrient absorption), and the ileum (absorbs vitamin B12, bile salts, and remaining nutrients). The duodenum is approximately 25 cm long, while the jejunum and ileum together are about 6 meters.",
+      "concept_tags": ["small-intestine", "duodenum", "jejunum", "ileum"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-010",
+      "question_text": "Villi and microvilli in the small intestine serve to:",
+      "options": [
+        "A. secrete digestive enzymes into the lumen",
+        "B. increase surface area for nutrient absorption",
+        "C. produce mucus to protect the intestinal wall",
+        "D. propel food through the digestive tract"
+      ],
+      "correct_answer": "B",
+      "explanation": "Villi are finger-like projections of the intestinal mucosa, and microvilli are microscopic projections on the surface of enterocytes (intestinal absorptive cells). Together, they dramatically increase the surface area of the small intestine (to approximately 200 square meters), maximizing nutrient absorption efficiency. This adaptation is critical for absorbing the products of digestion.",
+      "concept_tags": ["villi", "microvilli", "surface-area", "absorption", "small-intestine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-011",
+      "question_text": "The brush border enzymes are located:",
+      "options": [
+        "A. in the pancreatic secretions",
+        "B. on the microvilli of intestinal epithelial cells",
+        "C. in the bile produced by the liver",
+        "D. in the gastric pits of the stomach"
+      ],
+      "correct_answer": "B",
+      "explanation": "Brush border enzymes are embedded in the plasma membrane of the microvilli (brush border) of intestinal epithelial cells. These enzymes include maltase, sucrase, lactase, and peptidases, which complete the final stages of carbohydrate and protein digestion. They act on the products of luminal digestion to produce absorbable monosaccharides and amino acids.",
+      "concept_tags": ["brush-border-enzymes", "microvilli", "small-intestine", "membrane-digestion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-012",
+      "question_text": "Lactose intolerance results from a deficiency of which enzyme?",
+      "options": [
+        "A. Maltase",
+        "B. Sucrase",
+        "C. Lactase",
+        "D. Amylase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Lactose intolerance occurs due to a deficiency of lactase, the brush border enzyme that breaks down lactose (milk sugar) into glucose and galactose. Without sufficient lactase, lactose remains undigested and passes into the large intestine where bacteria ferment it, producing gas, bloating, and diarrhea. Maltase breaks down maltose, sucrase breaks down sucrose, and amylase breaks down starch.",
+      "concept_tags": ["lactase", "lactose-intolerance", "brush-border-enzymes", "disaccharide-digestion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-013",
+      "question_text": "The pancreas secretes which of the following into the duodenum?",
+      "options": [
+        "A. Bile and lipase",
+        "B. Bicarbonate and digestive enzymes",
+        "C. Hydrochloric acid and intrinsic factor",
+        "D. Mucus and gastrin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The exocrine pancreas secretes bicarbonate (to neutralize acidic chyme from the stomach) and digestive enzymes including trypsin, chymotrypsin, pancreatic amylase, pancreatic lipase, and nucleases. These secretions enter the duodenum through the pancreatic duct. Bile is produced by the liver and stored in the gallbladder. HCl and intrinsic factor are from stomach parietal cells.",
+      "concept_tags": ["pancreas", "bicarbonate", "pancreatic-enzymes", "exocrine-pancreas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-014",
+      "question_text": "Trypsinogen is activated to trypsin by:",
+      "options": [
+        "A. hydrochloric acid in the stomach",
+        "B. enterokinase (enteropeptidase) in the duodenum",
+        "C. bile salts from the gallbladder",
+        "D. pepsin in the stomach"
+      ],
+      "correct_answer": "B",
+      "explanation": "Trypsinogen, the inactive form of trypsin secreted by the pancreas, is activated by enterokinase (enteropeptidase), an enzyme embedded in the brush border of duodenal enterocytes. Once activated, trypsin can then activate other pancreatic zymogens (chymotrypsinogen, procarboxypeptidase, proelastase). This activation cascade ensures proteolytic enzymes are only active in the intestinal lumen.",
+      "concept_tags": ["trypsin", "trypsinogen", "enterokinase", "zymogen-activation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-015",
+      "question_text": "Which organ produces bile?",
+      "options": [
+        "A. Gallbladder",
+        "B. Pancreas",
+        "C. Liver",
+        "D. Duodenum"
+      ],
+      "correct_answer": "C",
+      "explanation": "Bile is produced by hepatocytes in the liver and is composed of bile salts, bilirubin, cholesterol, and phospholipids. The gallbladder stores and concentrates bile but does not produce it. When fatty food enters the duodenum, cholecystokinin (CCK) stimulates gallbladder contraction to release bile into the duodenum for fat emulsification.",
+      "concept_tags": ["bile", "liver", "gallbladder", "bile-production"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-016",
+      "question_text": "The primary function of bile in digestion is to:",
+      "options": [
+        "A. chemically break down fats into fatty acids and glycerol",
+        "B. emulsify fats into smaller droplets for lipase action",
+        "C. neutralize stomach acid entering the duodenum",
+        "D. activate pancreatic enzymes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Bile salts emulsify fats, breaking large fat globules into smaller droplets (micelles). This increases the surface area available for pancreatic lipase to chemically digest triglycerides into fatty acids and monoglycerides. Bile does not chemically digest fats - that is the role of lipase. Bicarbonate neutralizes stomach acid. Enterokinase activates pancreatic enzymes.",
+      "concept_tags": ["bile", "emulsification", "fat-digestion", "bile-salts"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-017",
+      "question_text": "Secretin is released in response to:",
+      "options": [
+        "A. fatty acids in the duodenum",
+        "B. acidic chyme entering the duodenum",
+        "C. protein in the stomach",
+        "D. distension of the stomach"
+      ],
+      "correct_answer": "B",
+      "explanation": "Secretin is released by S cells in the duodenal mucosa when acidic chyme (pH < 4.5) enters from the stomach. Secretin stimulates the pancreas to secrete bicarbonate-rich fluid to neutralize the acid, and inhibits gastric acid secretion. CCK is released in response to fatty acids and amino acids. Gastrin is released in response to protein and stomach distension.",
+      "concept_tags": ["secretin", "duodenum", "bicarbonate", "digestive-hormones"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-018",
+      "question_text": "Cholecystokinin (CCK) stimulates all of the following EXCEPT:",
+      "options": [
+        "A. gallbladder contraction",
+        "B. pancreatic enzyme secretion",
+        "C. gastric acid secretion",
+        "D. satiety sensation"
+      ],
+      "correct_answer": "C",
+      "explanation": "CCK is released by I cells in the duodenum in response to fats and proteins. It stimulates gallbladder contraction (releasing bile), pancreatic enzyme secretion, and produces a feeling of satiety (fullness). CCK actually inhibits gastric emptying and gastric acid secretion, not stimulates it. Gastrin is the primary hormone that stimulates gastric acid secretion.",
+      "concept_tags": ["cck", "cholecystokinin", "gallbladder", "digestive-hormones"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-019",
+      "question_text": "The absorption of glucose in the small intestine occurs primarily via:",
+      "options": [
+        "A. passive diffusion",
+        "B. facilitated diffusion only",
+        "C. sodium-dependent active transport (SGLT1)",
+        "D. endocytosis"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glucose is absorbed from the intestinal lumen into enterocytes primarily via sodium-glucose linked transporter 1 (SGLT1), a secondary active transport mechanism that couples glucose uptake with sodium influx down its concentration gradient. Glucose then exits the basolateral membrane via GLUT2 facilitated diffusion into the blood. This active mechanism allows absorption against a concentration gradient.",
+      "concept_tags": ["glucose-absorption", "sglt1", "active-transport", "small-intestine"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-020",
+      "question_text": "Amino acids are absorbed in the small intestine and transported to the liver via the:",
+      "options": [
+        "A. thoracic duct",
+        "B. hepatic portal vein",
+        "C. hepatic artery",
+        "D. lymphatic lacteals"
+      ],
+      "correct_answer": "B",
+      "explanation": "Amino acids, along with monosaccharides and short-chain fatty acids, are absorbed into the blood capillaries of the intestinal villi and transported directly to the liver via the hepatic portal vein. This allows the liver to process nutrients before they enter systemic circulation. Long-chain fatty acids are absorbed into lacteals and transported via the lymphatic system and thoracic duct.",
+      "concept_tags": ["amino-acid-absorption", "hepatic-portal-vein", "nutrient-transport", "liver"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-021",
+      "question_text": "Long-chain fatty acids and monoglycerides are absorbed into:",
+      "options": [
+        "A. blood capillaries",
+        "B. lacteals (lymphatic vessels)",
+        "C. the hepatic portal vein directly",
+        "D. goblet cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Long-chain fatty acids and monoglycerides are absorbed into enterocytes, reassembled into triglycerides, packaged with cholesterol and proteins into chylomicrons, and then released into lacteals (lymphatic vessels in the villi). Chylomicrons travel through the lymphatic system and enter the bloodstream via the thoracic duct, bypassing the liver initially. Short and medium-chain fatty acids go directly to blood capillaries.",
+      "concept_tags": ["fat-absorption", "lacteals", "chylomicrons", "lymphatic-system"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-022",
+      "question_text": "The large intestine is primarily responsible for:",
+      "options": [
+        "A. digestion of proteins and carbohydrates",
+        "B. absorption of vitamins A, D, E, and K",
+        "C. absorption of water and electrolytes, and formation of feces",
+        "D. secretion of digestive enzymes"
+      ],
+      "correct_answer": "C",
+      "explanation": "The large intestine (colon) primarily absorbs water and electrolytes from the remaining indigestible material, forming and storing feces. It does not secrete digestive enzymes or significantly contribute to macronutrient digestion. Fat-soluble vitamins (A, D, E, K) are absorbed in the small intestine with dietary fats. The large intestine does absorb some vitamins produced by gut bacteria (vitamin K, some B vitamins).",
+      "concept_tags": ["large-intestine", "water-absorption", "colon", "feces-formation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-023",
+      "question_text": "Which sphincter controls the passage of chyme from the stomach into the duodenum?",
+      "options": [
+        "A. Lower esophageal sphincter",
+        "B. Pyloric sphincter",
+        "C. Ileocecal valve",
+        "D. Internal anal sphincter"
+      ],
+      "correct_answer": "B",
+      "explanation": "The pyloric sphincter (pylorus) controls the release of chyme from the stomach into the duodenum. It regulates gastric emptying to ensure that the small intestine receives chyme at a rate that allows for proper neutralization and digestion. The lower esophageal sphincter is between esophagus and stomach. The ileocecal valve is between small and large intestine. The anal sphincters control defecation.",
+      "concept_tags": ["pyloric-sphincter", "gastric-emptying", "sphincters", "stomach"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-024",
+      "question_text": "Mechanical digestion in the stomach is accomplished primarily by:",
+      "options": [
+        "A. the action of pepsin on proteins",
+        "B. churning contractions of the stomach wall",
+        "C. the emulsifying action of bile",
+        "D. the action of hydrochloric acid"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mechanical digestion in the stomach occurs through powerful churning contractions of the three smooth muscle layers in the stomach wall, which mix food with gastric secretions to form chyme. Pepsin and HCl perform chemical digestion, not mechanical. Bile emulsification occurs in the small intestine. Mechanical digestion physically breaks down food without changing its chemical composition.",
+      "concept_tags": ["mechanical-digestion", "stomach", "churning", "gastric-motility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-025",
+      "question_text": "The myenteric plexus (Auerbach's plexus) is primarily responsible for controlling:",
+      "options": [
+        "A. secretion of digestive enzymes",
+        "B. absorption of nutrients",
+        "C. gastrointestinal motility",
+        "D. blood flow to the intestines"
+      ],
+      "correct_answer": "C",
+      "explanation": "The myenteric (Auerbach's) plexus is located between the circular and longitudinal muscle layers of the muscularis externa and primarily controls GI motility, including peristalsis. The submucosal (Meissner's) plexus primarily controls secretions and blood flow. Together, these plexuses form the enteric nervous system, sometimes called the 'second brain' of the gut.",
+      "concept_tags": ["myenteric-plexus", "enteric-nervous-system", "motility", "gi-tract"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-026",
+      "question_text": "Intrinsic factor, necessary for vitamin B12 absorption, is secreted by:",
+      "options": [
+        "A. chief cells",
+        "B. parietal cells",
+        "C. G cells",
+        "D. enterocytes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Intrinsic factor is secreted by parietal cells in the stomach along with hydrochloric acid. It binds to vitamin B12 in the stomach, and this complex is absorbed in the terminal ileum via receptor-mediated endocytosis. Lack of intrinsic factor (as in pernicious anemia) leads to vitamin B12 deficiency and megaloblastic anemia. Chief cells secrete pepsinogen, and G cells secrete gastrin.",
+      "concept_tags": ["intrinsic-factor", "vitamin-b12", "parietal-cells", "absorption"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-027",
+      "question_text": "The cecum is located at the junction of the:",
+      "options": [
+        "A. esophagus and stomach",
+        "B. stomach and duodenum",
+        "C. ileum and large intestine",
+        "D. colon and rectum"
+      ],
+      "correct_answer": "C",
+      "explanation": "The cecum is a pouch-like structure at the beginning of the large intestine, located at the junction between the ileum (terminal small intestine) and the colon. The appendix is attached to the cecum. The ileocecal valve regulates the passage of material from the small intestine into the cecum and prevents backflow.",
+      "concept_tags": ["cecum", "large-intestine", "ileocecal-junction", "anatomy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-028",
+      "question_text": "Which of the following correctly matches the enzyme with its substrate?",
+      "options": [
+        "A. Pepsin - lipids",
+        "B. Lipase - proteins",
+        "C. Amylase - starch",
+        "D. Trypsin - nucleic acids"
+      ],
+      "correct_answer": "C",
+      "explanation": "Amylase digests starch (a carbohydrate) into maltose and dextrins. Pepsin and trypsin are proteases that digest proteins, not lipids or nucleic acids. Lipase digests lipids (fats), not proteins. Nucleases digest nucleic acids. Understanding enzyme-substrate specificity is crucial for understanding digestion.",
+      "concept_tags": ["amylase", "enzyme-substrate", "digestive-enzymes", "starch"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-029",
+      "question_text": "The pH of the stomach is maintained at approximately 1.5-3.5 primarily because:",
+      "options": [
+        "A. bicarbonate secretion is minimal in the stomach",
+        "B. parietal cells actively secrete hydrogen ions",
+        "C. food entering the stomach is already acidic",
+        "D. pepsinogen is an acidic enzyme"
+      ],
+      "correct_answer": "B",
+      "explanation": "Parietal cells actively secrete hydrogen ions (H+) via the H+/K+-ATPase pump (proton pump) into the stomach lumen, creating the highly acidic environment. This process requires significant ATP expenditure. The acidic pH activates pepsinogen to pepsin, denatures proteins, and kills many ingested pathogens. Bicarbonate is secreted by surface mucous cells to protect the stomach lining.",
+      "concept_tags": ["stomach-acid", "parietal-cells", "proton-pump", "ph"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-030",
+      "question_text": "Segmentation contractions in the small intestine primarily serve to:",
+      "options": [
+        "A. propel food rapidly toward the large intestine",
+        "B. mix chyme with digestive enzymes and increase contact with absorptive surfaces",
+        "C. prevent reflux of intestinal contents",
+        "D. store digested material until absorption is complete"
+      ],
+      "correct_answer": "B",
+      "explanation": "Segmentation contractions are localized contractions of circular smooth muscle that divide the intestine into segments, mixing chyme with digestive secretions and repeatedly pushing it against the absorptive surface of the intestinal wall. Unlike peristalsis, segmentation does not significantly propel food forward but rather mixes and churns it to enhance digestion and absorption.",
+      "concept_tags": ["segmentation", "motility", "small-intestine", "mixing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-031",
+      "question_text": "A patient undergoes surgical removal of the terminal ileum. This would most directly impair absorption of:",
+      "options": [
+        "A. glucose and amino acids",
+        "B. vitamin B12 and bile salts",
+        "C. fatty acids and glycerol",
+        "D. iron and calcium"
+      ],
+      "correct_answer": "B",
+      "explanation": "The terminal ileum is the specific site for absorption of vitamin B12 (bound to intrinsic factor) and reabsorption of bile salts (enterohepatic circulation). Removal would cause vitamin B12 deficiency and bile salt depletion. Glucose, amino acids, fatty acids, and most other nutrients are absorbed primarily in the duodenum and jejunum. Iron is absorbed in the duodenum; calcium throughout the small intestine.",
+      "concept_tags": ["ileum", "vitamin-b12-absorption", "bile-salt-reabsorption", "enterohepatic-circulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-032",
+      "question_text": "Chylomicrons are formed in the:",
+      "options": [
+        "A. stomach",
+        "B. liver",
+        "C. intestinal epithelial cells (enterocytes)",
+        "D. lymph nodes"
+      ],
+      "correct_answer": "C",
+      "explanation": "Chylomicrons are assembled in intestinal epithelial cells (enterocytes) from absorbed long-chain fatty acids and monoglycerides that are resynthesized into triglycerides, combined with cholesterol, phospholipids, and apolipoproteins. These lipoprotein particles are too large to enter blood capillaries and instead enter lacteals for transport through the lymphatic system.",
+      "concept_tags": ["chylomicrons", "fat-absorption", "enterocytes", "lipoprotein"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-033",
+      "question_text": "The hormone that inhibits gastric emptying and stimulates insulin release in response to glucose is:",
+      "options": [
+        "A. gastrin",
+        "B. secretin",
+        "C. gastric inhibitory peptide (GIP)",
+        "D. motilin"
+      ],
+      "correct_answer": "C",
+      "explanation": "Gastric inhibitory peptide (GIP), also called glucose-dependent insulinotropic peptide, is released by K cells in the duodenum and jejunum in response to glucose and fatty acids. It inhibits gastric acid secretion and motility while stimulating insulin release from pancreatic beta cells. This anticipatory insulin release helps prepare for glucose absorption. Gastrin stimulates acid secretion; secretin stimulates bicarbonate release.",
+      "concept_tags": ["gip", "insulin", "gastric-inhibition", "digestive-hormones"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-034",
+      "question_text": "The gallbladder functions to:",
+      "options": [
+        "A. produce bile",
+        "B. store and concentrate bile",
+        "C. produce digestive enzymes",
+        "D. neutralize stomach acid"
+      ],
+      "correct_answer": "B",
+      "explanation": "The gallbladder stores and concentrates bile produced by the liver. During storage, the gallbladder absorbs water and electrolytes, concentrating bile up to 10-fold. When fatty food enters the duodenum, CCK stimulates gallbladder contraction, releasing concentrated bile through the common bile duct into the duodenum. The liver produces bile; the pancreas produces bicarbonate to neutralize acid.",
+      "concept_tags": ["gallbladder", "bile-storage", "bile-concentration", "accessory-organs"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-035",
+      "question_text": "Carboxypeptidase is an example of a(n):",
+      "options": [
+        "A. endopeptidase",
+        "B. exopeptidase",
+        "C. lipase",
+        "D. amylase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carboxypeptidase is an exopeptidase, meaning it cleaves amino acids from the carboxyl (C-terminal) end of peptide chains. It is secreted by the pancreas as procarboxypeptidase and activated by trypsin. Endopeptidases (like trypsin, chymotrypsin, and pepsin) cleave peptide bonds within the protein chain. Lipases digest fats; amylases digest starches.",
+      "concept_tags": ["carboxypeptidase", "exopeptidase", "protein-digestion", "pancreatic-enzymes"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-036",
+      "question_text": "Which of the following is NOT a function of the liver in digestion?",
+      "options": [
+        "A. Production of bile",
+        "B. Storage of glycogen",
+        "C. Production of trypsin",
+        "D. Detoxification of absorbed substances"
+      ],
+      "correct_answer": "C",
+      "explanation": "Trypsin (and other digestive enzymes like lipase, amylase, chymotrypsin) is produced by the pancreas, not the liver. The liver produces bile, stores glycogen, detoxifies drugs and toxins, metabolizes nutrients absorbed from the intestine, synthesizes plasma proteins, and converts ammonia to urea. The liver is a major metabolic organ but does not produce digestive enzymes.",
+      "concept_tags": ["liver", "liver-functions", "trypsin", "pancreas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-037",
+      "question_text": "Bilirubin, a component of bile, is derived from:",
+      "options": [
+        "A. cholesterol metabolism",
+        "B. breakdown of hemoglobin",
+        "C. protein digestion",
+        "D. fatty acid synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Bilirubin is a yellow pigment produced from the breakdown of hemoglobin when red blood cells are destroyed (primarily in the spleen). The heme group is converted to biliverdin and then to bilirubin, which is transported to the liver, conjugated, and excreted in bile. Excess bilirubin causes jaundice. Bile salts, not bilirubin, are derived from cholesterol.",
+      "concept_tags": ["bilirubin", "hemoglobin", "bile", "liver"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-038",
+      "question_text": "The enterohepatic circulation refers to:",
+      "options": [
+        "A. blood flow from the intestines to the liver via the hepatic portal vein",
+        "B. recycling of bile salts between the intestine and liver",
+        "C. circulation of digestive enzymes between the pancreas and intestine",
+        "D. movement of chyme through the small intestine"
+      ],
+      "correct_answer": "B",
+      "explanation": "Enterohepatic circulation is the recycling of bile salts between the small intestine and liver. About 95% of bile salts are reabsorbed in the terminal ileum, returned to the liver via the hepatic portal vein, and re-secreted in bile. This efficient recycling means the body's pool of bile salts can be used multiple times per meal. Disruption of this cycle leads to bile salt deficiency.",
+      "concept_tags": ["enterohepatic-circulation", "bile-salts", "liver", "ileum"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-039",
+      "question_text": "Which structure prevents food from entering the trachea during swallowing?",
+      "options": [
+        "A. Uvula",
+        "B. Epiglottis",
+        "C. Lower esophageal sphincter",
+        "D. Pyloric sphincter"
+      ],
+      "correct_answer": "B",
+      "explanation": "The epiglottis is a flap of cartilage that covers the opening of the larynx (glottis) during swallowing, preventing food from entering the trachea and respiratory system. This is part of the swallowing reflex coordinated by the swallowing center in the medulla. The uvula helps prevent food from entering the nasal passages. The esophageal and pyloric sphincters are located lower in the GI tract.",
+      "concept_tags": ["epiglottis", "swallowing", "airway-protection", "pharynx"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-040",
+      "question_text": "Pancreatic lipase requires which cofactor for optimal activity?",
+      "options": [
+        "A. Intrinsic factor",
+        "B. Colipase",
+        "C. Enterokinase",
+        "D. Secretin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Colipase is a small protein secreted by the pancreas that is essential for pancreatic lipase function. Bile salts, while necessary for fat emulsification, can inhibit lipase activity by coating fat droplets. Colipase anchors lipase to the lipid-water interface of micelles, allowing lipase to access and hydrolyze triglycerides. Enterokinase activates trypsinogen; intrinsic factor helps B12 absorption.",
+      "concept_tags": ["lipase", "colipase", "fat-digestion", "pancreatic-enzymes"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-041",
+      "question_text": "Iron absorption in the small intestine is enhanced by:",
+      "options": [
+        "A. antacids",
+        "B. vitamin C",
+        "C. calcium supplements",
+        "D. phytates in food"
+      ],
+      "correct_answer": "B",
+      "explanation": "Vitamin C (ascorbic acid) enhances iron absorption by reducing ferric iron (Fe3+) to ferrous iron (Fe2+), the form more readily absorbed by enterocytes in the duodenum. Antacids decrease stomach acid, reducing iron solubility. Calcium competes with iron for absorption. Phytates (found in grains and legumes) bind iron and inhibit absorption. Iron absorption is a common MCAT topic.",
+      "concept_tags": ["iron-absorption", "vitamin-c", "duodenum", "mineral-absorption"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-042",
+      "question_text": "The migrating motor complex (MMC) is:",
+      "options": [
+        "A. a pattern of electrical activity that occurs during active digestion",
+        "B. a housekeeping wave of contractions that occurs during fasting",
+        "C. the neural pathway controlling voluntary swallowing",
+        "D. the mechanism of bile release from the gallbladder"
+      ],
+      "correct_answer": "B",
+      "explanation": "The migrating motor complex (MMC) is a pattern of cyclical contractions that occurs during fasting (between meals), sweeping residual food, bacteria, and debris from the stomach through the small intestine. This 'housekeeping' function prevents bacterial overgrowth and prepares the GI tract for the next meal. The MMC is inhibited by eating, when segmentation and peristalsis take over.",
+      "concept_tags": ["migrating-motor-complex", "fasting", "gi-motility", "housekeeping"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-043",
+      "question_text": "The stomach has three layers of smooth muscle rather than the typical two found elsewhere in the GI tract because:",
+      "options": [
+        "A. it needs to secrete more enzymes",
+        "B. it requires more powerful churning and mixing of food",
+        "C. it must resist higher internal pressures from gas",
+        "D. it needs faster peristalsis than other organs"
+      ],
+      "correct_answer": "B",
+      "explanation": "The stomach has three layers of smooth muscle (longitudinal, circular, and oblique) instead of the typical two layers, enabling the powerful churning movements necessary to mechanically break down food and mix it thoroughly with gastric secretions to form chyme. This vigorous mechanical digestion is unique to the stomach and requires the additional muscle layer.",
+      "concept_tags": ["stomach", "smooth-muscle", "mechanical-digestion", "muscularis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-044",
+      "question_text": "Gastric chief cells secrete:",
+      "options": [
+        "A. hydrochloric acid",
+        "B. pepsinogen and gastric lipase",
+        "C. mucus and bicarbonate",
+        "D. gastrin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Chief cells (also called peptic cells or zymogenic cells) secrete pepsinogen (the inactive precursor of pepsin) and gastric lipase. Pepsinogen is activated to pepsin by the acidic environment created by parietal cells, which secrete HCl. Mucus cells secrete mucus and bicarbonate for protection. G cells secrete gastrin. Understanding gastric cell types and their secretions is essential for MCAT.",
+      "concept_tags": ["chief-cells", "pepsinogen", "gastric-lipase", "stomach-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-045",
+      "question_text": "Which of the following stimulates the release of secretin?",
+      "options": [
+        "A. High pH in the duodenum",
+        "B. Low pH in the duodenum",
+        "C. Fatty acids in the duodenum",
+        "D. Distension of the stomach"
+      ],
+      "correct_answer": "B",
+      "explanation": "Secretin is released by S cells in the duodenal mucosa when the pH drops below approximately 4.5 due to acidic chyme entering from the stomach. Secretin stimulates pancreatic bicarbonate secretion to neutralize the acid, protecting the intestinal mucosa and creating an optimal pH for pancreatic enzyme function. CCK is released in response to fatty acids and amino acids.",
+      "concept_tags": ["secretin", "ph", "duodenum", "bicarbonate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-046",
+      "question_text": "Nucleases in the pancreatic juice digest nucleic acids into:",
+      "options": [
+        "A. amino acids",
+        "B. fatty acids and glycerol",
+        "C. nucleotides and nucleosides",
+        "D. monosaccharides"
+      ],
+      "correct_answer": "C",
+      "explanation": "Pancreatic nucleases (deoxyribonuclease and ribonuclease) digest DNA and RNA into nucleotides. Brush border enzymes (nucleotidases and nucleosidases) then further break these down into nucleosides and finally into free bases, pentose sugars, and phosphate groups for absorption. Proteases produce amino acids; lipases produce fatty acids and glycerol; amylases and disaccharidases produce monosaccharides.",
+      "concept_tags": ["nucleases", "nucleic-acid-digestion", "pancreatic-enzymes", "nucleotides"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-047",
+      "question_text": "A drug that inhibits the H+/K+-ATPase pump would most directly affect:",
+      "options": [
+        "A. protein digestion in the stomach",
+        "B. carbohydrate digestion in the mouth",
+        "C. fat emulsification in the small intestine",
+        "D. water absorption in the large intestine"
+      ],
+      "correct_answer": "A",
+      "explanation": "The H+/K+-ATPase (proton pump) in parietal cells is responsible for secreting hydrogen ions into the stomach lumen, creating the acidic environment. Proton pump inhibitors (PPIs) block this pump, reducing stomach acid production. This would impair pepsinogen activation to pepsin and thus protein digestion in the stomach. The drug would not directly affect salivary digestion, bile function, or colonic water absorption.",
+      "concept_tags": ["proton-pump", "stomach-acid", "ppi", "protein-digestion"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-09-048",
+      "question_text": "The defecation reflex is initiated by:",
+      "options": [
+        "A. secretion of CCK",
+        "B. distension of the rectum",
+        "C. contraction of the external anal sphincter",
+        "D. release of gastrin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The defecation reflex is initiated when feces distend the rectal wall, activating stretch receptors. This triggers parasympathetic signals that cause contraction of the rectal smooth muscle and relaxation of the internal anal sphincter. The external anal sphincter (skeletal muscle) is under voluntary control and must be consciously relaxed to complete defecation. CCK and gastrin are involved in upper GI function.",
+      "concept_tags": ["defecation-reflex", "rectum", "anal-sphincter", "large-intestine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-09-049",
+      "question_text": "The appendix is attached to the:",
+      "options": [
+        "A. ascending colon",
+        "B. cecum",
+        "C. ileum",
+        "D. sigmoid colon"
+      ],
+      "correct_answer": "B",
+      "explanation": "The appendix (vermiform appendix) is a small, finger-like pouch attached to the cecum, which is the first part of the large intestine. While traditionally considered vestigial, the appendix may serve as a reservoir for beneficial gut bacteria. Appendicitis occurs when the appendix becomes inflamed, typically due to obstruction. The cecum is located at the junction with the ileum.",
+      "concept_tags": ["appendix", "cecum", "large-intestine", "anatomy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-09-050",
+      "question_text": "Which of the following correctly describes the cephalic phase of gastric secretion?",
+      "options": [
+        "A. It is triggered by food entering the stomach",
+        "B. It occurs before food enters the stomach and is triggered by sight, smell, or thought of food",
+        "C. It is triggered by food entering the duodenum",
+        "D. It occurs only during sleep"
+      ],
+      "correct_answer": "B",
+      "explanation": "The cephalic phase of gastric secretion occurs before food enters the stomach and is triggered by the sight, smell, taste, or thought of food. These sensory stimuli activate the vagus nerve, which stimulates gastric secretion (acid and pepsinogen) in preparation for food arrival. The gastric phase occurs when food enters the stomach; the intestinal phase occurs when chyme enters the duodenum.",
+      "concept_tags": ["cephalic-phase", "gastric-secretion", "vagus-nerve", "digestion-phases"],
+      "difficulty": "medium"
+    }
+  ]
+}

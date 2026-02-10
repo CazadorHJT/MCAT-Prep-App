@@ -1,0 +1,707 @@
+{
+  "book": "general-chemistry",
+  "chapter": 5,
+  "chapter_title": "Solutions",
+  "questions": [
+    {
+      "id": "general-chemistry-05-001",
+      "question_text": "A solution is prepared by dissolving 5.85 g of NaCl (molar mass = 58.5 g/mol) in 500 mL of water. What is the molarity of the solution?",
+      "options": [
+        "A. 0.1 M",
+        "B. 0.2 M",
+        "C. 0.5 M",
+        "D. 1.0 M"
+      ],
+      "correct_answer": "B",
+      "explanation": "Molarity (M) = moles of solute / liters of solution. Moles of NaCl = 5.85 g / 58.5 g/mol = 0.1 mol. Volume = 500 mL = 0.5 L. Molarity = 0.1 mol / 0.5 L = 0.2 M.",
+      "concept_tags": ["molarity", "concentration", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-002",
+      "question_text": "Which concentration unit is independent of temperature?",
+      "options": [
+        "A. Molarity",
+        "B. Molality",
+        "C. Percent by volume",
+        "D. Normality"
+      ],
+      "correct_answer": "B",
+      "explanation": "Molality (moles of solute per kilogram of solvent) is independent of temperature because it is based on mass, which does not change with temperature. Molarity, percent by volume, and normality all depend on volume, which changes with temperature due to thermal expansion.",
+      "concept_tags": ["molality", "molarity", "concentration", "temperature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-003",
+      "question_text": "A solution contains 2 moles of glucose and 8 moles of water. What is the mole fraction of glucose?",
+      "options": [
+        "A. 0.2",
+        "B. 0.25",
+        "C. 0.4",
+        "D. 0.8"
+      ],
+      "correct_answer": "A",
+      "explanation": "Mole fraction = moles of component / total moles. Total moles = 2 + 8 = 10 moles. Mole fraction of glucose = 2/10 = 0.2. The sum of all mole fractions in a solution must equal 1.",
+      "concept_tags": ["mole-fraction", "concentration", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-004",
+      "question_text": "What is the molality of a solution prepared by dissolving 90 g of glucose (C6H12O6, molar mass = 180 g/mol) in 500 g of water?",
+      "options": [
+        "A. 0.5 m",
+        "B. 1.0 m",
+        "C. 1.5 m",
+        "D. 2.0 m"
+      ],
+      "correct_answer": "B",
+      "explanation": "Molality (m) = moles of solute / kg of solvent. Moles of glucose = 90 g / 180 g/mol = 0.5 mol. Mass of solvent = 500 g = 0.5 kg. Molality = 0.5 mol / 0.5 kg = 1.0 m.",
+      "concept_tags": ["molality", "concentration", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-005",
+      "question_text": "Which of the following is NOT a colligative property?",
+      "options": [
+        "A. Boiling point elevation",
+        "B. Freezing point depression",
+        "C. Osmotic pressure",
+        "D. Solubility"
+      ],
+      "correct_answer": "D",
+      "explanation": "Colligative properties depend only on the number of solute particles in solution, not their identity. Boiling point elevation, freezing point depression, osmotic pressure, and vapor pressure lowering are colligative properties. Solubility is a physical property that depends on the nature of both solute and solvent.",
+      "concept_tags": ["colligative-properties", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-006",
+      "question_text": "According to the solubility rules, which of the following compounds is insoluble in water?",
+      "options": [
+        "A. NaCl",
+        "B. KNO3",
+        "C. AgCl",
+        "D. NH4Br"
+      ],
+      "correct_answer": "C",
+      "explanation": "Silver chloride (AgCl) is insoluble in water. Most chlorides are soluble, but AgCl, PbCl2, and Hg2Cl2 are notable exceptions. Sodium and potassium salts are generally soluble, as are nitrates and ammonium salts.",
+      "concept_tags": ["solubility-rules", "ionic-compounds", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-007",
+      "question_text": "If 100 mL of a 2.0 M HCl solution is diluted to 500 mL, what is the final concentration?",
+      "options": [
+        "A. 0.2 M",
+        "B. 0.4 M",
+        "C. 1.0 M",
+        "D. 10 M"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the dilution equation M1V1 = M2V2: (2.0 M)(100 mL) = M2(500 mL). Solving for M2: M2 = 200/500 = 0.4 M. When diluting, the total moles of solute remain constant while the volume increases.",
+      "concept_tags": ["dilution", "molarity", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-008",
+      "question_text": "The van't Hoff factor (i) for a strong electrolyte like NaCl that completely dissociates in water is approximately:",
+      "options": [
+        "A. 0.5",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ],
+      "correct_answer": "C",
+      "explanation": "NaCl dissociates completely into Na+ and Cl- ions in water, producing 2 particles per formula unit. Therefore, the van't Hoff factor i = 2. For nonelectrolytes like glucose, i = 1. For CaCl2, which dissociates into 3 ions, i = 3.",
+      "concept_tags": ["vant-hoff-factor", "electrolytes", "dissociation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-009",
+      "question_text": "Raoult's law states that the vapor pressure of a solvent above a solution is:",
+      "options": [
+        "A. equal to the vapor pressure of the pure solvent",
+        "B. greater than the vapor pressure of the pure solvent",
+        "C. proportional to the mole fraction of the solvent",
+        "D. independent of the amount of solute"
+      ],
+      "correct_answer": "C",
+      "explanation": "Raoult's law states that the vapor pressure of a solvent above a solution (P) equals the vapor pressure of the pure solvent (P°) multiplied by the mole fraction of the solvent (X): P = X × P°. Adding a nonvolatile solute lowers the vapor pressure of the solvent.",
+      "concept_tags": ["raoults-law", "vapor-pressure", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-010",
+      "question_text": "Which of the following compounds would be expected to have the highest solubility in water?",
+      "options": [
+        "A. CH4",
+        "B. CCl4",
+        "C. NaCl",
+        "D. C6H14"
+      ],
+      "correct_answer": "C",
+      "explanation": "NaCl is an ionic compound that dissociates in water to form hydrated ions, making it highly soluble. 'Like dissolves like' - polar solvents like water dissolve polar and ionic compounds. CH4, CCl4, and C6H14 are nonpolar and have low solubility in water.",
+      "concept_tags": ["solubility", "polarity", "ionic-compounds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-011",
+      "question_text": "The boiling point of pure water is 100°C. If the boiling point elevation constant (Kb) for water is 0.512°C/m, what is the boiling point of a 2 m solution of a nonelectrolyte?",
+      "options": [
+        "A. 100.512°C",
+        "B. 101.024°C",
+        "C. 102.048°C",
+        "D. 99.488°C"
+      ],
+      "correct_answer": "B",
+      "explanation": "Boiling point elevation: ΔTb = Kb × m × i. For a nonelectrolyte, i = 1. ΔTb = 0.512°C/m × 2 m × 1 = 1.024°C. New boiling point = 100°C + 1.024°C = 101.024°C.",
+      "concept_tags": ["boiling-point-elevation", "colligative-properties", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-012",
+      "question_text": "The freezing point depression constant (Kf) for water is 1.86°C/m. What is the freezing point of a 0.5 m aqueous solution of glucose?",
+      "options": [
+        "A. -0.93°C",
+        "B. -1.86°C",
+        "C. 0.93°C",
+        "D. -3.72°C"
+      ],
+      "correct_answer": "A",
+      "explanation": "Freezing point depression: ΔTf = Kf × m × i. For glucose (nonelectrolyte), i = 1. ΔTf = 1.86°C/m × 0.5 m × 1 = 0.93°C. New freezing point = 0°C - 0.93°C = -0.93°C.",
+      "concept_tags": ["freezing-point-depression", "colligative-properties", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-013",
+      "question_text": "A 0.1 m solution of which compound would show the greatest freezing point depression?",
+      "options": [
+        "A. Glucose (C6H12O6)",
+        "B. NaCl",
+        "C. CaCl2",
+        "D. Urea (CH4N2O)"
+      ],
+      "correct_answer": "C",
+      "explanation": "Freezing point depression depends on the number of particles in solution. CaCl2 dissociates into 3 ions (Ca2+ and 2 Cl-), giving i ≈ 3. NaCl gives 2 ions (i ≈ 2). Glucose and urea are nonelectrolytes (i = 1). Thus, CaCl2 produces the most particles and the greatest freezing point depression.",
+      "concept_tags": ["freezing-point-depression", "electrolytes", "vant-hoff-factor"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-014",
+      "question_text": "Which statement about the solubility of gases in liquids is correct?",
+      "options": [
+        "A. Gas solubility increases with increasing temperature",
+        "B. Gas solubility decreases with increasing pressure",
+        "C. Gas solubility increases with increasing pressure",
+        "D. Gas solubility is independent of temperature and pressure"
+      ],
+      "correct_answer": "C",
+      "explanation": "According to Henry's law, gas solubility is directly proportional to the partial pressure of the gas above the solution. Gas solubility decreases with increasing temperature because kinetic energy increases, allowing more gas molecules to escape. This is opposite to most solid solutes.",
+      "concept_tags": ["henrys-law", "gas-solubility", "temperature-effects"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-015",
+      "question_text": "The osmotic pressure of a solution can be calculated using the equation π = iMRT. If a 0.1 M NaCl solution is at 25°C (R = 0.0821 L·atm/mol·K), what is the approximate osmotic pressure?",
+      "options": [
+        "A. 2.45 atm",
+        "B. 4.90 atm",
+        "C. 0.245 atm",
+        "D. 24.5 atm"
+      ],
+      "correct_answer": "B",
+      "explanation": "π = iMRT. For NaCl, i = 2. T = 25°C + 273 = 298 K. π = 2 × 0.1 M × 0.0821 L·atm/mol·K × 298 K = 4.89 atm ≈ 4.90 atm.",
+      "concept_tags": ["osmotic-pressure", "colligative-properties", "electrolytes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-016",
+      "question_text": "A red blood cell is placed in a hypotonic solution. What will happen to the cell?",
+      "options": [
+        "A. The cell will shrink (crenation)",
+        "B. The cell will swell and may burst (lysis)",
+        "C. The cell will remain unchanged",
+        "D. The cell will lose its membrane"
+      ],
+      "correct_answer": "B",
+      "explanation": "In a hypotonic solution, the solute concentration outside the cell is lower than inside. Water moves into the cell by osmosis, causing it to swell and potentially burst (hemolysis). In a hypertonic solution, the opposite occurs (crenation). In an isotonic solution, no net water movement occurs.",
+      "concept_tags": ["osmosis", "tonicity", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-017",
+      "question_text": "Which of the following sulfate compounds is soluble in water?",
+      "options": [
+        "A. BaSO4",
+        "B. PbSO4",
+        "C. CaSO4",
+        "D. Na2SO4"
+      ],
+      "correct_answer": "D",
+      "explanation": "Most sulfates are soluble, but BaSO4, PbSO4, CaSO4, and Ag2SO4 are exceptions. Sodium salts are always soluble. Therefore, Na2SO4 is soluble while the other options are insoluble or only slightly soluble.",
+      "concept_tags": ["solubility-rules", "ionic-compounds", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-018",
+      "question_text": "For most solid solutes, solubility in water:",
+      "options": [
+        "A. decreases with increasing temperature",
+        "B. increases with increasing temperature",
+        "C. is independent of temperature",
+        "D. first increases then decreases with temperature"
+      ],
+      "correct_answer": "B",
+      "explanation": "For most solid solutes, solubility increases with increasing temperature because the dissolution process is typically endothermic. The added heat provides energy to break solute-solute interactions. Some exceptions exist, such as Ce2(SO4)3, which shows decreased solubility at higher temperatures.",
+      "concept_tags": ["solubility", "temperature-effects", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-019",
+      "question_text": "A solution containing 10 g of a nonelectrolyte solute in 100 g of water has a freezing point of -1.86°C. What is the molar mass of the solute? (Kf for water = 1.86°C/m)",
+      "options": [
+        "A. 50 g/mol",
+        "B. 100 g/mol",
+        "C. 186 g/mol",
+        "D. 200 g/mol"
+      ],
+      "correct_answer": "B",
+      "explanation": "ΔTf = Kf × m. 1.86°C = 1.86°C/m × m. m = 1.0 mol/kg. Since we have 0.1 kg of solvent, moles of solute = 1.0 mol/kg × 0.1 kg = 0.1 mol. Molar mass = 10 g / 0.1 mol = 100 g/mol.",
+      "concept_tags": ["freezing-point-depression", "molar-mass", "colligative-properties"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-020",
+      "question_text": "What volume of 6 M HCl is needed to prepare 500 mL of 0.5 M HCl?",
+      "options": [
+        "A. 20.8 mL",
+        "B. 41.7 mL",
+        "C. 83.3 mL",
+        "D. 166.6 mL"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using M1V1 = M2V2: (6 M)(V1) = (0.5 M)(500 mL). V1 = (0.5 × 500) / 6 = 250 / 6 = 41.7 mL.",
+      "concept_tags": ["dilution", "molarity", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-021",
+      "question_text": "A solution is made by mixing 50 g of ethanol (C2H5OH, molar mass = 46 g/mol) with 50 g of water. What is the mole fraction of ethanol?",
+      "options": [
+        "A. 0.28",
+        "B. 0.50",
+        "C. 0.72",
+        "D. 0.39"
+      ],
+      "correct_answer": "A",
+      "explanation": "Moles of ethanol = 50 g / 46 g/mol = 1.09 mol. Moles of water = 50 g / 18 g/mol = 2.78 mol. Total moles = 1.09 + 2.78 = 3.87 mol. Mole fraction of ethanol = 1.09 / 3.87 = 0.28.",
+      "concept_tags": ["mole-fraction", "concentration", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-022",
+      "question_text": "According to Raoult's law, a solution of a nonvolatile solute has a vapor pressure that is:",
+      "options": [
+        "A. higher than that of the pure solvent",
+        "B. lower than that of the pure solvent",
+        "C. equal to that of the pure solvent",
+        "D. zero"
+      ],
+      "correct_answer": "B",
+      "explanation": "According to Raoult's law, adding a nonvolatile solute lowers the vapor pressure of the solvent. The vapor pressure of the solution equals the vapor pressure of pure solvent times the mole fraction of solvent (which is less than 1). This vapor pressure lowering is a colligative property.",
+      "concept_tags": ["raoults-law", "vapor-pressure", "colligative-properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-023",
+      "question_text": "Which hydroxide compound is soluble in water?",
+      "options": [
+        "A. Fe(OH)3",
+        "B. Al(OH)3",
+        "C. KOH",
+        "D. Cu(OH)2"
+      ],
+      "correct_answer": "C",
+      "explanation": "Hydroxides of Group 1 metals (Li, Na, K, Rb, Cs) and some Group 2 metals (Ca, Sr, Ba) are soluble. KOH is a Group 1 hydroxide and is highly soluble. Transition metal hydroxides like Fe(OH)3, Al(OH)3, and Cu(OH)2 are generally insoluble.",
+      "concept_tags": ["solubility-rules", "ionic-compounds", "hydroxides"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-024",
+      "question_text": "An ideal solution obeys Raoult's law. A positive deviation from Raoult's law indicates that:",
+      "options": [
+        "A. solute-solvent interactions are stronger than solute-solute and solvent-solvent interactions",
+        "B. solute-solvent interactions are weaker than solute-solute and solvent-solvent interactions",
+        "C. no heat is released or absorbed during mixing",
+        "D. the solution is at its boiling point"
+      ],
+      "correct_answer": "B",
+      "explanation": "A positive deviation from Raoult's law (higher vapor pressure than predicted) occurs when solute-solvent interactions are weaker than the original solute-solute and solvent-solvent interactions. This means the components escape the solution more readily. Negative deviations indicate stronger solute-solvent interactions.",
+      "concept_tags": ["raoults-law", "vapor-pressure", "solution-behavior"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-05-025",
+      "question_text": "The osmotic pressure of a 0.01 M glucose solution at 25°C (R = 0.0821 L·atm/mol·K) is approximately:",
+      "options": [
+        "A. 0.0245 atm",
+        "B. 0.245 atm",
+        "C. 2.45 atm",
+        "D. 0.49 atm"
+      ],
+      "correct_answer": "B",
+      "explanation": "π = iMRT. For glucose (nonelectrolyte), i = 1. T = 25°C + 273 = 298 K. π = 1 × 0.01 M × 0.0821 L·atm/mol·K × 298 K = 0.245 atm.",
+      "concept_tags": ["osmotic-pressure", "colligative-properties", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-026",
+      "question_text": "Henry's law constant for O2 in water at 25°C is 1.3 × 10^-3 M/atm. What is the concentration of dissolved O2 when the partial pressure of O2 is 0.21 atm?",
+      "options": [
+        "A. 2.7 × 10^-4 M",
+        "B. 6.2 × 10^-3 M",
+        "C. 1.3 × 10^-3 M",
+        "D. 2.7 × 10^-3 M"
+      ],
+      "correct_answer": "A",
+      "explanation": "Henry's law: C = kH × P, where C is concentration, kH is Henry's law constant, and P is partial pressure. C = (1.3 × 10^-3 M/atm)(0.21 atm) = 2.73 × 10^-4 M ≈ 2.7 × 10^-4 M.",
+      "concept_tags": ["henrys-law", "gas-solubility", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-027",
+      "question_text": "A 1.0 m aqueous solution of NaCl has a measured freezing point depression of 3.4°C rather than the calculated 3.72°C (Kf = 1.86°C/m). The van't Hoff factor for this solution is:",
+      "options": [
+        "A. 0.91",
+        "B. 1.83",
+        "C. 2.00",
+        "D. 1.09"
+      ],
+      "correct_answer": "B",
+      "explanation": "ΔTf = i × Kf × m. Rearranging: i = ΔTf / (Kf × m) = 3.4°C / (1.86°C/m × 1.0 m) = 3.4 / 1.86 = 1.83. The ideal value would be 2.0, but ion pairing reduces the effective number of particles, giving i < 2.",
+      "concept_tags": ["vant-hoff-factor", "freezing-point-depression", "ion-pairing"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-05-028",
+      "question_text": "Which of the following carbonate compounds is soluble in water?",
+      "options": [
+        "A. CaCO3",
+        "B. BaCO3",
+        "C. Na2CO3",
+        "D. PbCO3"
+      ],
+      "correct_answer": "C",
+      "explanation": "Most carbonates are insoluble except for those of Group 1 metals (Li, Na, K, etc.) and ammonium. Na2CO3 is a Group 1 carbonate and is soluble. CaCO3, BaCO3, and PbCO3 are all insoluble in water.",
+      "concept_tags": ["solubility-rules", "ionic-compounds", "carbonates"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-029",
+      "question_text": "The normal boiling point of a liquid is raised when:",
+      "options": [
+        "A. a volatile solute is added",
+        "B. a nonvolatile solute is added",
+        "C. the pressure is decreased",
+        "D. the liquid is cooled"
+      ],
+      "correct_answer": "B",
+      "explanation": "Adding a nonvolatile solute lowers the vapor pressure of the solution. Since boiling occurs when vapor pressure equals atmospheric pressure, a higher temperature is needed to reach this point, resulting in boiling point elevation. A volatile solute may not raise the boiling point as it contributes to vapor pressure.",
+      "concept_tags": ["boiling-point-elevation", "vapor-pressure", "colligative-properties"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-030",
+      "question_text": "If both a 0.1 m glucose solution and a 0.1 m NaCl solution are separated from pure water by semipermeable membranes, which solution will show greater osmotic pressure?",
+      "options": [
+        "A. Glucose solution",
+        "B. NaCl solution",
+        "C. Both will show equal osmotic pressure",
+        "D. Neither will show osmotic pressure"
+      ],
+      "correct_answer": "B",
+      "explanation": "Osmotic pressure depends on the total number of particles in solution. NaCl dissociates into 2 ions (Na+ and Cl-), giving approximately twice as many particles as glucose, a nonelectrolyte. Therefore, the NaCl solution will have approximately twice the osmotic pressure of the glucose solution at the same molality.",
+      "concept_tags": ["osmotic-pressure", "electrolytes", "vant-hoff-factor"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-031",
+      "question_text": "A saturated solution is one in which:",
+      "options": [
+        "A. no more solute can dissolve at that temperature",
+        "B. the solute has completely dissociated",
+        "C. the solution is at its boiling point",
+        "D. the solvent is at maximum capacity regardless of temperature"
+      ],
+      "correct_answer": "A",
+      "explanation": "A saturated solution contains the maximum amount of solute that can dissolve at a given temperature. At this point, the rate of dissolution equals the rate of precipitation, and dynamic equilibrium is established. Adding more solute will not increase the concentration.",
+      "concept_tags": ["saturation", "solubility", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-032",
+      "question_text": "A supersaturated solution can be prepared by:",
+      "options": [
+        "A. adding excess solute at constant temperature",
+        "B. dissolving solute at high temperature and slowly cooling without disturbance",
+        "C. increasing the pressure on the solution",
+        "D. filtering the solution"
+      ],
+      "correct_answer": "B",
+      "explanation": "A supersaturated solution contains more dissolved solute than a saturated solution at that temperature. It is prepared by dissolving solute at an elevated temperature (where solubility is higher), then carefully cooling the solution. The solution is metastable; adding a seed crystal or disturbing it can cause precipitation.",
+      "concept_tags": ["supersaturation", "solubility", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-033",
+      "question_text": "Which of the following is a weak electrolyte?",
+      "options": [
+        "A. HCl",
+        "B. NaOH",
+        "C. CH3COOH",
+        "D. KCl"
+      ],
+      "correct_answer": "C",
+      "explanation": "Weak electrolytes only partially dissociate in water. Acetic acid (CH3COOH) is a weak acid that partially ionizes. Strong acids (HCl) and strong bases (NaOH) are strong electrolytes that completely dissociate. Salts like KCl are also strong electrolytes that completely dissociate.",
+      "concept_tags": ["electrolytes", "weak-electrolytes", "dissociation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-034",
+      "question_text": "The van't Hoff factor for a weak electrolyte is:",
+      "options": [
+        "A. always equal to 1",
+        "B. always equal to 2",
+        "C. between 1 and the maximum number of ions",
+        "D. greater than the maximum number of ions"
+      ],
+      "correct_answer": "C",
+      "explanation": "For weak electrolytes, the van't Hoff factor is between 1 and the maximum number of ions because only partial dissociation occurs. For example, a weak acid HA has i between 1 (no dissociation) and 2 (complete dissociation). The actual value depends on the degree of dissociation.",
+      "concept_tags": ["vant-hoff-factor", "weak-electrolytes", "dissociation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-035",
+      "question_text": "Dialysis is a process that separates:",
+      "options": [
+        "A. dissolved ions from colloidal particles based on particle size",
+        "B. solids from liquids by evaporation",
+        "C. liquids based on boiling point differences",
+        "D. gases from liquids by pressure changes"
+      ],
+      "correct_answer": "A",
+      "explanation": "Dialysis uses a semipermeable membrane to separate small dissolved particles (ions, small molecules) from larger colloidal particles or macromolecules. Small particles can pass through the membrane while larger ones cannot. This is the principle behind kidney dialysis, which removes waste products from blood.",
+      "concept_tags": ["dialysis", "separation-techniques", "membranes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-036",
+      "question_text": "If a solution has a vapor pressure of 20 mmHg and the pure solvent has a vapor pressure of 25 mmHg, what is the mole fraction of the solvent?",
+      "options": [
+        "A. 0.20",
+        "B. 0.80",
+        "C. 0.25",
+        "D. 1.25"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Raoult's law: P = X × P°. 20 mmHg = X × 25 mmHg. X = 20/25 = 0.80. The mole fraction of the solvent is 0.80, meaning the mole fraction of the solute is 0.20.",
+      "concept_tags": ["raoults-law", "vapor-pressure", "mole-fraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-037",
+      "question_text": "Which of the following aqueous solutions would have the highest boiling point?",
+      "options": [
+        "A. 0.1 m glucose",
+        "B. 0.1 m NaCl",
+        "C. 0.1 m MgCl2",
+        "D. 0.1 m Al2(SO4)3"
+      ],
+      "correct_answer": "D",
+      "explanation": "Boiling point elevation depends on the total number of particles. Al2(SO4)3 dissociates into 2 Al3+ and 3 SO4^2-, giving 5 particles (i = 5). MgCl2 gives 3 particles. NaCl gives 2 particles. Glucose doesn't dissociate (i = 1). Therefore, Al2(SO4)3 produces the most particles and highest boiling point.",
+      "concept_tags": ["boiling-point-elevation", "electrolytes", "vant-hoff-factor"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-038",
+      "question_text": "Reverse osmosis is used to:",
+      "options": [
+        "A. force solvent to move from a dilute solution to a concentrated one",
+        "B. force solvent to move from a concentrated solution to a dilute one",
+        "C. increase the osmotic pressure of a solution",
+        "D. decrease the concentration of solvent in a solution"
+      ],
+      "correct_answer": "B",
+      "explanation": "Reverse osmosis applies pressure greater than the osmotic pressure to force solvent (usually water) to move from a concentrated solution to a dilute one, opposite to normal osmosis. This is used in water purification and desalination to produce pure water from saltwater or contaminated water.",
+      "concept_tags": ["reverse-osmosis", "osmotic-pressure", "water-purification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-039",
+      "question_text": "The formation of a homogeneous mixture from pure components is favored when:",
+      "options": [
+        "A. ΔHmixing is positive and large",
+        "B. ΔSmixing is negative",
+        "C. ΔGmixing is negative",
+        "D. the temperature approaches absolute zero"
+      ],
+      "correct_answer": "C",
+      "explanation": "Mixing is spontaneous when ΔGmixing is negative. ΔG = ΔH - TΔS. Mixing typically increases entropy (positive ΔSmixing), which favors spontaneity. For ideal solutions, ΔHmixing = 0 and ΔSmixing > 0, making ΔGmixing negative. At higher temperatures, the TΔS term becomes more significant.",
+      "concept_tags": ["thermodynamics", "entropy", "spontaneity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-05-040",
+      "question_text": "Pb(NO3)2 is added to a solution containing NaCl. Which statement is correct?",
+      "options": [
+        "A. No precipitate forms because all nitrates are soluble",
+        "B. PbCl2 precipitates because lead(II) chloride is slightly soluble",
+        "C. NaNO3 precipitates because it is insoluble",
+        "D. Both PbCl2 and NaNO3 precipitate"
+      ],
+      "correct_answer": "B",
+      "explanation": "When Pb(NO3)2 is mixed with NaCl, the possible products are PbCl2 and NaNO3. Using solubility rules: all nitrates are soluble (NaNO3 stays dissolved), but PbCl2 is one of the exceptions to chloride solubility (along with AgCl and Hg2Cl2). Therefore, PbCl2 precipitates.",
+      "concept_tags": ["solubility-rules", "precipitation", "ionic-compounds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-041",
+      "question_text": "A solution is prepared by dissolving 6.0 g of urea (CH4N2O, molar mass = 60 g/mol) in 500 g of water. Calculate the molality.",
+      "options": [
+        "A. 0.1 m",
+        "B. 0.2 m",
+        "C. 1.0 m",
+        "D. 0.02 m"
+      ],
+      "correct_answer": "B",
+      "explanation": "Molality = moles of solute / kg of solvent. Moles of urea = 6.0 g / 60 g/mol = 0.1 mol. Mass of solvent = 500 g = 0.5 kg. Molality = 0.1 mol / 0.5 kg = 0.2 m.",
+      "concept_tags": ["molality", "concentration", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-042",
+      "question_text": "Two volatile liquids A and B form an ideal solution. If PA° = 100 mmHg, PB° = 50 mmHg, and the mole fraction of A is 0.4, what is the total vapor pressure?",
+      "options": [
+        "A. 60 mmHg",
+        "B. 70 mmHg",
+        "C. 75 mmHg",
+        "D. 150 mmHg"
+      ],
+      "correct_answer": "B",
+      "explanation": "For an ideal solution, Ptotal = XA × PA° + XB × PB°. If XA = 0.4, then XB = 0.6. Ptotal = (0.4)(100) + (0.6)(50) = 40 + 30 = 70 mmHg.",
+      "concept_tags": ["raoults-law", "vapor-pressure", "ideal-solutions"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-05-043",
+      "question_text": "A cell is placed in a hypertonic solution. Which of the following will occur?",
+      "options": [
+        "A. Water will enter the cell by osmosis",
+        "B. Water will leave the cell by osmosis",
+        "C. There will be no net movement of water",
+        "D. Solutes will move out of the cell"
+      ],
+      "correct_answer": "B",
+      "explanation": "In a hypertonic solution, the solute concentration outside the cell is higher than inside. Water moves from the region of lower solute concentration (inside the cell) to higher solute concentration (outside the cell) by osmosis, causing the cell to shrink (plasmolysis in plant cells or crenation in animal cells).",
+      "concept_tags": ["osmosis", "tonicity", "solutions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-044",
+      "question_text": "Which of the following represents the correct order of increasing boiling point elevation for 0.1 m aqueous solutions?",
+      "options": [
+        "A. C6H12O6 < NaCl < CaCl2 < FeCl3",
+        "B. FeCl3 < CaCl2 < NaCl < C6H12O6",
+        "C. NaCl < CaCl2 < C6H12O6 < FeCl3",
+        "D. CaCl2 < NaCl < FeCl3 < C6H12O6"
+      ],
+      "correct_answer": "A",
+      "explanation": "Boiling point elevation depends on the van't Hoff factor (i). C6H12O6 (i=1) < NaCl (i=2) < CaCl2 (i=3) < FeCl3 (i=4). The more particles produced upon dissolution, the greater the boiling point elevation.",
+      "concept_tags": ["boiling-point-elevation", "vant-hoff-factor", "electrolytes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-045",
+      "question_text": "Which of the following phosphate compounds is soluble in water?",
+      "options": [
+        "A. Ca3(PO4)2",
+        "B. Ag3PO4",
+        "C. K3PO4",
+        "D. Fe3(PO4)2"
+      ],
+      "correct_answer": "C",
+      "explanation": "Most phosphates are insoluble except for those of Group 1 metals (Na, K, etc.) and ammonium. K3PO4 is a potassium salt and is soluble. Ca3(PO4)2, Ag3PO4, and Fe3(PO4)2 are all insoluble in water.",
+      "concept_tags": ["solubility-rules", "ionic-compounds", "phosphates"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-05-046",
+      "question_text": "The colligative molality of a 0.2 m K2SO4 solution, assuming complete dissociation, is:",
+      "options": [
+        "A. 0.2 m",
+        "B. 0.4 m",
+        "C. 0.6 m",
+        "D. 0.8 m"
+      ],
+      "correct_answer": "C",
+      "explanation": "Colligative molality accounts for the total number of particles in solution. K2SO4 dissociates into 2 K+ and 1 SO4^2-, giving 3 particles per formula unit (i = 3). Colligative molality = i × molality = 3 × 0.2 m = 0.6 m.",
+      "concept_tags": ["colligative-properties", "vant-hoff-factor", "electrolytes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-047",
+      "question_text": "A solution of benzene (vapor pressure = 100 mmHg) and toluene (vapor pressure = 50 mmHg) has a mole fraction of benzene of 0.6. According to Raoult's law, the partial pressure of benzene above the solution is:",
+      "options": [
+        "A. 30 mmHg",
+        "B. 40 mmHg",
+        "C. 60 mmHg",
+        "D. 100 mmHg"
+      ],
+      "correct_answer": "C",
+      "explanation": "According to Raoult's law, the partial pressure of a component equals its mole fraction times its pure vapor pressure: Pbenzene = Xbenzene × P°benzene = 0.6 × 100 mmHg = 60 mmHg.",
+      "concept_tags": ["raoults-law", "vapor-pressure", "solutions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-048",
+      "question_text": "An aqueous solution freezes at -0.558°C. If the solute is a nonelectrolyte and Kf for water is 1.86°C/m, what is the molality of the solution?",
+      "options": [
+        "A. 0.1 m",
+        "B. 0.2 m",
+        "C. 0.3 m",
+        "D. 0.5 m"
+      ],
+      "correct_answer": "C",
+      "explanation": "ΔTf = Kf × m × i. For a nonelectrolyte, i = 1. ΔTf = 0 - (-0.558) = 0.558°C. m = ΔTf / (Kf × i) = 0.558 / (1.86 × 1) = 0.3 m.",
+      "concept_tags": ["freezing-point-depression", "molality", "colligative-properties"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-05-049",
+      "question_text": "The degree of dissociation (α) of a weak electrolyte can be determined from the van't Hoff factor using the equation i = 1 + α(n-1), where n is the number of ions formed. For a 0.1 m solution of acetic acid with i = 1.05, what is the degree of dissociation?",
+      "options": [
+        "A. 1%",
+        "B. 5%",
+        "C. 10%",
+        "D. 50%"
+      ],
+      "correct_answer": "B",
+      "explanation": "For acetic acid, n = 2 (dissociates into H+ and CH3COO-). Using i = 1 + α(n-1): 1.05 = 1 + α(2-1) = 1 + α. Therefore, α = 0.05 = 5%.",
+      "concept_tags": ["weak-electrolytes", "vant-hoff-factor", "dissociation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-05-050",
+      "question_text": "Consider a mixture of NaCl and glucose dissolved in water. If the total moles of solute particles are kept constant, replacing some glucose with NaCl would:",
+      "options": [
+        "A. increase colligative effects because NaCl is an electrolyte",
+        "B. decrease colligative effects because NaCl is an electrolyte",
+        "C. not change the colligative effects because total particles are constant",
+        "D. only affect the boiling point but not the freezing point"
+      ],
+      "correct_answer": "C",
+      "explanation": "Colligative properties depend only on the total number of solute particles, not their identity. If the total moles of solute particles are kept constant, replacing some glucose (nonelectrolyte) with NaCl (which dissociates into 2 ions) while adjusting amounts to maintain total particles would result in no change to colligative effects.",
+      "concept_tags": ["colligative-properties", "electrolytes", "solutions"],
+      "difficulty": "hard"
+    }
+  ]
+}

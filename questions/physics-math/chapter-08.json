@@ -1,0 +1,707 @@
+{
+  "book": "physics-math",
+  "chapter": 8,
+  "chapter_title": "Optics",
+  "questions": [
+    {
+      "id": "physics-math-08-001",
+      "question_text": "Which of the following types of electromagnetic radiation has the longest wavelength?",
+      "options": [
+        "A. X-rays",
+        "B. Visible light",
+        "C. Radio waves",
+        "D. Ultraviolet light"
+      ],
+      "correct_answer": "C",
+      "explanation": "Radio waves have the longest wavelengths in the electromagnetic spectrum (ranging from about 1 mm to 100 km). The order from longest to shortest wavelength is: radio waves > microwaves > infrared > visible light > ultraviolet > X-rays > gamma rays.",
+      "concept_tags": ["electromagnetic-spectrum", "wavelength", "radio-waves"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-002",
+      "question_text": "The speed of light in a vacuum is approximately:",
+      "options": [
+        "A. 3 x 10^6 m/s",
+        "B. 3 x 10^8 m/s",
+        "C. 3 x 10^10 m/s",
+        "D. 3 x 10^12 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "The speed of light in a vacuum is c = 3 x 10^8 m/s (more precisely, 2.998 x 10^8 m/s). This is a fundamental constant that represents the maximum speed at which information can travel. Light travels slower in all other media.",
+      "concept_tags": ["speed-of-light", "electromagnetic-waves", "constants"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-003",
+      "question_text": "The relationship between wavelength (lambda), frequency (f), and speed (v) of a wave is:",
+      "options": [
+        "A. v = lambda / f",
+        "B. v = lambda x f",
+        "C. v = f / lambda",
+        "D. v = lambda^2 x f"
+      ],
+      "correct_answer": "B",
+      "explanation": "The wave equation is v = lambda x f (or v = f x lambda). For electromagnetic waves in a vacuum, v = c = 3 x 10^8 m/s. Higher frequency means shorter wavelength and vice versa, since their product must equal the wave speed.",
+      "concept_tags": ["wave-equation", "frequency", "wavelength"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-004",
+      "question_text": "The law of reflection states that:",
+      "options": [
+        "A. the angle of incidence equals the angle of refraction",
+        "B. the angle of incidence equals the angle of reflection",
+        "C. light always reflects at 45 degrees",
+        "D. reflected light is always polarized"
+      ],
+      "correct_answer": "B",
+      "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection, with both angles measured from the normal (perpendicular) to the surface. This applies to all reflecting surfaces, whether flat or curved.",
+      "concept_tags": ["reflection", "angle-of-incidence", "angle-of-reflection"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-005",
+      "question_text": "A plane mirror produces an image that is:",
+      "options": [
+        "A. real and inverted",
+        "B. real and upright",
+        "C. virtual and inverted",
+        "D. virtual and upright"
+      ],
+      "correct_answer": "D",
+      "explanation": "A plane (flat) mirror produces a virtual, upright image that is the same size as the object. The image appears to be located behind the mirror at the same distance as the object is in front. Virtual images cannot be projected onto a screen.",
+      "concept_tags": ["plane-mirror", "virtual-image", "image-characteristics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-006",
+      "question_text": "In a concave mirror, when an object is placed beyond the center of curvature, the image formed is:",
+      "options": [
+        "A. virtual, upright, and magnified",
+        "B. real, inverted, and reduced",
+        "C. real, inverted, and magnified",
+        "D. virtual, upright, and reduced"
+      ],
+      "correct_answer": "B",
+      "explanation": "When an object is placed beyond the center of curvature (C) of a concave mirror, the image is real, inverted, and reduced (smaller than the object). The image forms between the focal point (F) and the center of curvature.",
+      "concept_tags": ["concave-mirror", "real-image", "image-characteristics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-007",
+      "question_text": "The focal length of a spherical mirror with a radius of curvature of 20 cm is:",
+      "options": [
+        "A. 5 cm",
+        "B. 10 cm",
+        "C. 20 cm",
+        "D. 40 cm"
+      ],
+      "correct_answer": "B",
+      "explanation": "For a spherical mirror, the focal length f = R/2, where R is the radius of curvature. Therefore, f = 20 cm / 2 = 10 cm. The focal point is located halfway between the mirror surface and the center of curvature.",
+      "concept_tags": ["focal-length", "radius-of-curvature", "spherical-mirror"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-008",
+      "question_text": "A convex mirror always produces images that are:",
+      "options": [
+        "A. real and magnified",
+        "B. real and reduced",
+        "C. virtual and reduced",
+        "D. virtual and magnified"
+      ],
+      "correct_answer": "C",
+      "explanation": "Convex (diverging) mirrors always produce virtual, upright, and reduced images regardless of object position. The image forms behind the mirror. Convex mirrors are used as side mirrors in vehicles because they provide a wider field of view.",
+      "concept_tags": ["convex-mirror", "virtual-image", "diverging-mirror"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-009",
+      "question_text": "Refraction occurs because light:",
+      "options": [
+        "A. is absorbed by the new medium",
+        "B. travels at different speeds in different media",
+        "C. is reflected at the boundary",
+        "D. changes frequency when entering a new medium"
+      ],
+      "correct_answer": "B",
+      "explanation": "Refraction occurs because light travels at different speeds in different media. When light enters a medium where it travels slower, it bends toward the normal; when entering a faster medium, it bends away from the normal. Frequency remains constant; wavelength changes.",
+      "concept_tags": ["refraction", "speed-of-light", "optical-density"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-010",
+      "question_text": "The index of refraction of a medium is defined as:",
+      "options": [
+        "A. n = v/c",
+        "B. n = c/v",
+        "C. n = lambda x f",
+        "D. n = sin(theta)"
+      ],
+      "correct_answer": "B",
+      "explanation": "The index of refraction n = c/v, where c is the speed of light in vacuum and v is the speed of light in the medium. Since light always travels slower in materials than in vacuum, n is always greater than or equal to 1. Higher n means a more optically dense medium.",
+      "concept_tags": ["index-of-refraction", "optical-density", "speed-of-light"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-011",
+      "question_text": "According to Snell's law, if light travels from air (n = 1.0) into water (n = 1.33) at an angle of incidence of 45 degrees, the light will:",
+      "options": [
+        "A. bend toward the normal",
+        "B. bend away from the normal",
+        "C. continue in a straight line",
+        "D. undergo total internal reflection"
+      ],
+      "correct_answer": "A",
+      "explanation": "When light enters a medium with a higher index of refraction (from air to water), it slows down and bends toward the normal. Snell's law: n1 sin(theta1) = n2 sin(theta2). Since n2 > n1, theta2 < theta1, meaning the ray bends toward the normal.",
+      "concept_tags": ["snells-law", "refraction", "bending-toward-normal"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-012",
+      "question_text": "Snell's law is expressed as:",
+      "options": [
+        "A. n1 + n2 = sin(theta1) + sin(theta2)",
+        "B. n1 sin(theta1) = n2 sin(theta2)",
+        "C. n1 / n2 = theta1 / theta2",
+        "D. n1 cos(theta1) = n2 cos(theta2)"
+      ],
+      "correct_answer": "B",
+      "explanation": "Snell's law: n1 sin(theta1) = n2 sin(theta2), where n1 and n2 are the refractive indices of the two media, and theta1 and theta2 are the angles of incidence and refraction measured from the normal. This law governs the bending of light at interfaces.",
+      "concept_tags": ["snells-law", "refraction", "refractive-index"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-013",
+      "question_text": "Total internal reflection can occur when light travels from:",
+      "options": [
+        "A. a less dense medium to a more dense medium",
+        "B. a more dense medium to a less dense medium",
+        "C. any medium to vacuum",
+        "D. vacuum to any medium"
+      ],
+      "correct_answer": "B",
+      "explanation": "Total internal reflection occurs only when light travels from a more optically dense medium (higher n) to a less optically dense medium (lower n), AND the angle of incidence exceeds the critical angle. Examples include light in water hitting the water-air boundary.",
+      "concept_tags": ["total-internal-reflection", "critical-angle", "optical-density"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-014",
+      "question_text": "The critical angle for total internal reflection depends on:",
+      "options": [
+        "A. the wavelength of light only",
+        "B. the intensity of light only",
+        "C. the refractive indices of both media",
+        "D. the angle of incidence only"
+      ],
+      "correct_answer": "C",
+      "explanation": "The critical angle is determined by the refractive indices of both media: sin(theta_c) = n2/n1 (where n1 > n2). At angles greater than the critical angle, all light is reflected back into the denser medium. This principle is used in fiber optics.",
+      "concept_tags": ["critical-angle", "total-internal-reflection", "refractive-index"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-015",
+      "question_text": "If the critical angle for light going from glass to air is 42 degrees, what happens when light hits the interface at 50 degrees?",
+      "options": [
+        "A. Light refracts into air at an angle greater than 50 degrees",
+        "B. Light refracts into air at an angle less than 50 degrees",
+        "C. Total internal reflection occurs",
+        "D. Light is completely absorbed"
+      ],
+      "correct_answer": "C",
+      "explanation": "When the angle of incidence (50 degrees) exceeds the critical angle (42 degrees), total internal reflection occurs. No light enters the second medium; instead, 100% of the light is reflected back into the glass. This is how fiber optic cables transmit light.",
+      "concept_tags": ["total-internal-reflection", "critical-angle", "fiber-optics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-016",
+      "question_text": "A converging (convex) lens has a focal length that is:",
+      "options": [
+        "A. always negative",
+        "B. always positive",
+        "C. zero",
+        "D. depends on the object distance"
+      ],
+      "correct_answer": "B",
+      "explanation": "By convention, converging (convex) lenses have positive focal lengths. They bring parallel light rays together at the focal point. Diverging (concave) lenses have negative focal lengths and spread light rays apart.",
+      "concept_tags": ["converging-lens", "focal-length", "sign-convention"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-017",
+      "question_text": "A diverging lens always produces images that are:",
+      "options": [
+        "A. real, inverted, and magnified",
+        "B. real, inverted, and reduced",
+        "C. virtual, upright, and reduced",
+        "D. virtual, upright, and magnified"
+      ],
+      "correct_answer": "C",
+      "explanation": "Diverging (concave) lenses always produce virtual, upright, and reduced images regardless of object position. The image appears on the same side as the object. This is similar to convex mirrors, which also diverge light.",
+      "concept_tags": ["diverging-lens", "virtual-image", "image-characteristics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-018",
+      "question_text": "The thin lens equation is:",
+      "options": [
+        "A. 1/f = 1/do + 1/di",
+        "B. f = do + di",
+        "C. f = do x di",
+        "D. 1/f = 1/do - 1/di"
+      ],
+      "correct_answer": "A",
+      "explanation": "The thin lens equation is 1/f = 1/do + 1/di, where f is the focal length, do is the object distance, and di is the image distance. This same equation applies to curved mirrors. Proper sign conventions must be used for accurate calculations.",
+      "concept_tags": ["thin-lens-equation", "focal-length", "image-distance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-019",
+      "question_text": "An object is placed 30 cm from a converging lens with a focal length of 10 cm. The image distance is:",
+      "options": [
+        "A. 7.5 cm",
+        "B. 15 cm",
+        "C. 20 cm",
+        "D. 40 cm"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 1/f = 1/do + 1/di: 1/10 = 1/30 + 1/di. Solving: 1/di = 1/10 - 1/30 = 3/30 - 1/30 = 2/30 = 1/15. Therefore, di = 15 cm. The positive value indicates a real image on the opposite side of the lens from the object.",
+      "concept_tags": ["thin-lens-equation", "converging-lens", "image-distance-calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-020",
+      "question_text": "Magnification (m) for a lens is defined as:",
+      "options": [
+        "A. m = do/di",
+        "B. m = -di/do",
+        "C. m = f/do",
+        "D. m = di + do"
+      ],
+      "correct_answer": "B",
+      "explanation": "Magnification m = -di/do = hi/ho, where hi is image height and ho is object height. The negative sign accounts for image orientation: negative m means inverted, positive m means upright. |m| > 1 means magnified, |m| < 1 means reduced.",
+      "concept_tags": ["magnification", "image-height", "lens-equation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-021",
+      "question_text": "If the magnification of an image is -2, the image is:",
+      "options": [
+        "A. upright and twice the object size",
+        "B. inverted and twice the object size",
+        "C. upright and half the object size",
+        "D. inverted and half the object size"
+      ],
+      "correct_answer": "B",
+      "explanation": "A magnification of -2 indicates the image is inverted (negative sign) and twice the size of the object (|m| = 2). The negative magnification always indicates an inverted image. This occurs with real images formed by converging lenses or concave mirrors.",
+      "concept_tags": ["magnification", "inverted-image", "image-size"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-022",
+      "question_text": "When an object is placed at the focal point of a converging lens, the image is formed:",
+      "options": [
+        "A. at the focal point on the other side",
+        "B. at twice the focal length",
+        "C. at infinity",
+        "D. at the same location as the object"
+      ],
+      "correct_answer": "C",
+      "explanation": "When an object is at the focal point (do = f), the thin lens equation gives: 1/f = 1/f + 1/di, so 1/di = 0, meaning di = infinity. The light rays emerge parallel and never converge. This is why objects at the focal point cannot be focused.",
+      "concept_tags": ["focal-point", "converging-lens", "image-at-infinity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-023",
+      "question_text": "A magnifying glass works best when the object is placed:",
+      "options": [
+        "A. beyond twice the focal length",
+        "B. at the focal point",
+        "C. between the focal point and the lens",
+        "D. at twice the focal length"
+      ],
+      "correct_answer": "C",
+      "explanation": "A magnifying glass (converging lens) produces a magnified, virtual, upright image when the object is placed between the focal point and the lens (do < f). This allows the eye to see a larger image than could be seen with the naked eye.",
+      "concept_tags": ["magnifying-glass", "virtual-image", "converging-lens"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-024",
+      "question_text": "The power of a lens is measured in:",
+      "options": [
+        "A. meters",
+        "B. watts",
+        "C. diopters",
+        "D. joules"
+      ],
+      "correct_answer": "C",
+      "explanation": "Lens power is measured in diopters (D), where P = 1/f (with f in meters). A lens with f = 0.5 m has P = 2 D. Positive diopters indicate converging lenses; negative diopters indicate diverging lenses. This is commonly used in optometry.",
+      "concept_tags": ["lens-power", "diopters", "focal-length"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-025",
+      "question_text": "A lens has a power of +4 diopters. Its focal length is:",
+      "options": [
+        "A. 4 m",
+        "B. 0.4 m",
+        "C. 0.25 m",
+        "D. 25 m"
+      ],
+      "correct_answer": "C",
+      "explanation": "Power P = 1/f, so f = 1/P = 1/4 = 0.25 m = 25 cm. The positive power indicates this is a converging lens. Remember that when using the power formula, focal length must be in meters to get diopters.",
+      "concept_tags": ["lens-power", "diopters", "focal-length-calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-026",
+      "question_text": "In a nearsighted (myopic) eye, images of distant objects focus:",
+      "options": [
+        "A. behind the retina",
+        "B. in front of the retina",
+        "C. exactly on the retina",
+        "D. on the lens"
+      ],
+      "correct_answer": "B",
+      "explanation": "In myopia (nearsightedness), the eyeball is too long or the lens too powerful, causing images to focus in front of the retina. Distant objects appear blurry. This is corrected with diverging (concave) lenses that spread light before it enters the eye.",
+      "concept_tags": ["myopia", "nearsightedness", "vision-correction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-027",
+      "question_text": "Farsightedness (hyperopia) is corrected using:",
+      "options": [
+        "A. diverging lenses",
+        "B. converging lenses",
+        "C. plane mirrors",
+        "D. prisms"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hyperopia (farsightedness) occurs when images focus behind the retina (eyeball too short or lens too weak). Converging (convex) lenses are used to add focusing power, bringing the image forward onto the retina. Diverging lenses correct myopia.",
+      "concept_tags": ["hyperopia", "farsightedness", "converging-lens"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-028",
+      "question_text": "Diffraction is the:",
+      "options": [
+        "A. absorption of light by a medium",
+        "B. bending of light around obstacles or through small openings",
+        "C. splitting of light into colors",
+        "D. reflection of light at an interface"
+      ],
+      "correct_answer": "B",
+      "explanation": "Diffraction is the bending and spreading of waves around obstacles or through small openings. It is most noticeable when the opening size is comparable to the wavelength. Diffraction provides evidence for the wave nature of light.",
+      "concept_tags": ["diffraction", "wave-nature", "light-bending"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-029",
+      "question_text": "When light passes through a single narrow slit, the central maximum in the diffraction pattern is:",
+      "options": [
+        "A. narrower than the secondary maxima",
+        "B. the same width as the secondary maxima",
+        "C. twice as wide as the secondary maxima",
+        "D. half as wide as the secondary maxima"
+      ],
+      "correct_answer": "C",
+      "explanation": "In single-slit diffraction, the central maximum is twice as wide as the secondary maxima. The angular width of the central maximum is 2lambda/a, where lambda is wavelength and a is slit width. The central maximum is also much brighter than secondary maxima.",
+      "concept_tags": ["single-slit-diffraction", "central-maximum", "diffraction-pattern"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-030",
+      "question_text": "Interference occurs when:",
+      "options": [
+        "A. light is absorbed by matter",
+        "B. two or more waves superimpose",
+        "C. light reflects off a surface",
+        "D. light changes speed in a new medium"
+      ],
+      "correct_answer": "B",
+      "explanation": "Interference is the superposition of two or more waves, resulting in a new wave pattern. Constructive interference occurs when waves are in phase (amplitudes add); destructive interference occurs when waves are out of phase (amplitudes cancel).",
+      "concept_tags": ["interference", "superposition", "wave-behavior"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-031",
+      "question_text": "For constructive interference to occur, the path difference between two waves must be:",
+      "options": [
+        "A. an odd number of half-wavelengths",
+        "B. a whole number of wavelengths",
+        "C. exactly one wavelength",
+        "D. zero only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Constructive interference occurs when the path difference equals a whole number of wavelengths (0, lambda, 2lambda, 3lambda...). The waves arrive in phase and their amplitudes add. Destructive interference occurs at half-wavelength intervals.",
+      "concept_tags": ["constructive-interference", "path-difference", "wavelength"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-032",
+      "question_text": "In Young's double-slit experiment, the bright fringes occur where:",
+      "options": [
+        "A. the path difference is (n + 1/2) lambda",
+        "B. the path difference is n lambda (n = 0, 1, 2...)",
+        "C. the waves are 90 degrees out of phase",
+        "D. diffraction is maximum"
+      ],
+      "correct_answer": "B",
+      "explanation": "Bright fringes (constructive interference) in the double-slit experiment occur where the path difference equals whole wavelengths: d sin(theta) = n lambda. Dark fringes (destructive interference) occur at half-wavelength path differences.",
+      "concept_tags": ["double-slit", "youngs-experiment", "constructive-interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-033",
+      "question_text": "In a double-slit experiment, if the slit separation is decreased while keeping wavelength constant, the interference pattern will:",
+      "options": [
+        "A. become more spread out",
+        "B. become more compressed",
+        "C. disappear",
+        "D. remain unchanged"
+      ],
+      "correct_answer": "A",
+      "explanation": "The fringe spacing in double-slit interference is proportional to lambda/d, where d is slit separation. Decreasing d increases the fringe spacing, spreading out the pattern. Larger wavelengths also spread the pattern.",
+      "concept_tags": ["double-slit", "fringe-spacing", "interference-pattern"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-034",
+      "question_text": "Thin film interference produces colors because different wavelengths experience:",
+      "options": [
+        "A. different amounts of absorption",
+        "B. constructive or destructive interference at different thicknesses",
+        "C. different speeds in vacuum",
+        "D. the same path difference"
+      ],
+      "correct_answer": "B",
+      "explanation": "Thin film interference (seen in soap bubbles, oil slicks) occurs because light reflects from top and bottom surfaces. The path difference depends on film thickness and refractive index. Different wavelengths interfere constructively or destructively, producing colors.",
+      "concept_tags": ["thin-film-interference", "colors", "path-difference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-035",
+      "question_text": "The phenomenon that causes a rainbow is primarily:",
+      "options": [
+        "A. diffraction",
+        "B. interference",
+        "C. dispersion (refraction varies with wavelength)",
+        "D. polarization"
+      ],
+      "correct_answer": "C",
+      "explanation": "Rainbows are caused by dispersion: different wavelengths of light refract at slightly different angles because the index of refraction depends on wavelength. In water droplets, violet light bends more than red, separating white light into a spectrum.",
+      "concept_tags": ["dispersion", "rainbow", "wavelength-dependent-refraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-036",
+      "question_text": "An object placed 20 cm from a concave mirror with focal length 15 cm will produce an image that is:",
+      "options": [
+        "A. virtual, upright, and magnified",
+        "B. real, inverted, and magnified",
+        "C. real, inverted, and reduced",
+        "D. virtual, inverted, and reduced"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 1/f = 1/do + 1/di: 1/15 = 1/20 + 1/di, so 1/di = 1/15 - 1/20 = 4/60 - 3/60 = 1/60, di = 60 cm. Magnification m = -di/do = -60/20 = -3. Negative magnification means inverted, |m| > 1 means magnified, positive di means real image.",
+      "concept_tags": ["concave-mirror", "mirror-equation", "magnification-calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-08-037",
+      "question_text": "Light traveling from glass (n = 1.5) to air (n = 1.0). The critical angle for total internal reflection is approximately:",
+      "options": [
+        "A. 30 degrees",
+        "B. 42 degrees",
+        "C. 49 degrees",
+        "D. 60 degrees"
+      ],
+      "correct_answer": "B",
+      "explanation": "The critical angle is found from sin(theta_c) = n2/n1 = 1.0/1.5 = 0.667. Therefore, theta_c = arcsin(0.667) = 41.8 degrees, approximately 42 degrees. Light hitting the interface at angles greater than 42 degrees undergoes total internal reflection.",
+      "concept_tags": ["critical-angle", "total-internal-reflection", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-038",
+      "question_text": "Which color of visible light has the highest frequency?",
+      "options": [
+        "A. Red",
+        "B. Yellow",
+        "C. Green",
+        "D. Violet"
+      ],
+      "correct_answer": "D",
+      "explanation": "Violet light has the highest frequency (and shortest wavelength) of visible light, around 750 THz. Red has the lowest frequency (around 430 THz). The order from lowest to highest frequency is: red, orange, yellow, green, blue, violet (ROY G. BV).",
+      "concept_tags": ["visible-spectrum", "frequency", "wavelength"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-039",
+      "question_text": "A lens system has two thin lenses in contact with focal lengths f1 = 20 cm and f2 = -30 cm. The combined focal length is:",
+      "options": [
+        "A. 60 cm",
+        "B. -60 cm",
+        "C. 12 cm",
+        "D. -10 cm"
+      ],
+      "correct_answer": "A",
+      "explanation": "For thin lenses in contact, powers add: P_total = P1 + P2 = 1/f1 + 1/f2 = 1/20 + 1/(-30) = 3/60 - 2/60 = 1/60. Therefore, f_total = 60 cm. The combined system acts as a weak converging lens.",
+      "concept_tags": ["lenses-in-contact", "combined-focal-length", "lens-power"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-08-040",
+      "question_text": "Which of the following can produce a real image?",
+      "options": [
+        "A. Plane mirror",
+        "B. Convex mirror",
+        "C. Diverging lens",
+        "D. Converging lens"
+      ],
+      "correct_answer": "D",
+      "explanation": "A converging (convex) lens can produce real images when the object is beyond the focal point. Plane mirrors, convex mirrors, and diverging lenses always produce virtual images. Real images can be projected onto a screen; virtual images cannot.",
+      "concept_tags": ["real-image", "converging-lens", "image-types"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-041",
+      "question_text": "The angular resolution of a telescope is primarily limited by:",
+      "options": [
+        "A. the brightness of the observed object",
+        "B. diffraction at the aperture",
+        "C. the refractive index of the lenses",
+        "D. the length of the telescope tube"
+      ],
+      "correct_answer": "B",
+      "explanation": "Angular resolution is limited by diffraction at the aperture (opening). The Rayleigh criterion states: theta_min = 1.22 lambda/D, where D is aperture diameter. Larger apertures provide better resolution, which is why large telescopes have large mirrors.",
+      "concept_tags": ["angular-resolution", "diffraction", "rayleigh-criterion"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-08-042",
+      "question_text": "Light with a wavelength of 600 nm in air enters water (n = 1.33). The wavelength in water is approximately:",
+      "options": [
+        "A. 800 nm",
+        "B. 600 nm",
+        "C. 450 nm",
+        "D. 300 nm"
+      ],
+      "correct_answer": "C",
+      "explanation": "Wavelength in a medium: lambda_medium = lambda_vacuum / n = 600 nm / 1.33 = 451 nm. When light enters a denser medium, its wavelength decreases while frequency stays constant. Speed and wavelength both decrease by the same factor.",
+      "concept_tags": ["wavelength-in-medium", "refractive-index", "frequency-constant"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-043",
+      "question_text": "Polarization of light demonstrates that light is:",
+      "options": [
+        "A. a longitudinal wave",
+        "B. a transverse wave",
+        "C. a particle",
+        "D. a sound wave"
+      ],
+      "correct_answer": "B",
+      "explanation": "Polarization can only occur in transverse waves where oscillations are perpendicular to the direction of propagation. Light can be polarized because its electric and magnetic fields oscillate perpendicular to its travel direction. Longitudinal waves cannot be polarized.",
+      "concept_tags": ["polarization", "transverse-wave", "wave-nature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-044",
+      "question_text": "When unpolarized light passes through a polarizing filter, the transmitted intensity is:",
+      "options": [
+        "A. unchanged",
+        "B. reduced to half",
+        "C. reduced to one-quarter",
+        "D. completely blocked"
+      ],
+      "correct_answer": "B",
+      "explanation": "When unpolarized light passes through an ideal polarizer, half the intensity is transmitted. The polarizer only allows one orientation of the electric field to pass. If polarized light then passes through a second polarizer, Malus's law applies: I = I_0 cos^2(theta).",
+      "concept_tags": ["polarization", "polarizing-filter", "intensity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-045",
+      "question_text": "An object 4 cm tall is placed 12 cm from a converging lens with focal length 4 cm. What is the image height?",
+      "options": [
+        "A. 2 cm",
+        "B. 4 cm",
+        "C. 6 cm",
+        "D. 8 cm"
+      ],
+      "correct_answer": "A",
+      "explanation": "First find di: 1/4 = 1/12 + 1/di, so 1/di = 1/4 - 1/12 = 3/12 - 1/12 = 2/12 = 1/6, di = 6 cm. Magnification m = -di/do = -6/12 = -0.5. Image height = m x object height = 0.5 x 4 = 2 cm. The negative m indicates inverted.",
+      "concept_tags": ["magnification", "image-height", "lens-calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-08-046",
+      "question_text": "Fiber optic cables transmit light using the principle of:",
+      "options": [
+        "A. diffraction",
+        "B. dispersion",
+        "C. total internal reflection",
+        "D. interference"
+      ],
+      "correct_answer": "C",
+      "explanation": "Fiber optics work by total internal reflection. Light enters the fiber at an angle greater than the critical angle, so it reflects off the walls repeatedly without escaping. This allows light signals to travel long distances with minimal loss.",
+      "concept_tags": ["fiber-optics", "total-internal-reflection", "applications"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-047",
+      "question_text": "A diffraction grating with 5000 lines per cm has a slit spacing of:",
+      "options": [
+        "A. 5000 cm",
+        "B. 0.0002 cm",
+        "C. 5 x 10^-4 m",
+        "D. Both B and C"
+      ],
+      "correct_answer": "D",
+      "explanation": "Slit spacing d = 1/5000 cm = 0.0002 cm = 2 x 10^-4 cm = 2 x 10^-6 m = 2 micrometers. Converting: 0.0002 cm = 0.0002 x 10^-2 m = 2 x 10^-6 m. Both B and C are equivalent expressions of the same value.",
+      "concept_tags": ["diffraction-grating", "slit-spacing", "unit-conversion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-08-048",
+      "question_text": "In the visible spectrum, which color is refracted most when passing through a glass prism?",
+      "options": [
+        "A. Red",
+        "B. Orange",
+        "C. Green",
+        "D. Violet"
+      ],
+      "correct_answer": "D",
+      "explanation": "Violet light is refracted most because it has the shortest wavelength and the highest index of refraction in glass (dispersion). Red light bends least. This wavelength-dependent refraction causes white light to separate into a spectrum in a prism.",
+      "concept_tags": ["dispersion", "prism", "refraction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-08-049",
+      "question_text": "A ray of light travels from medium 1 (n = 1.2) to medium 2 (n = 1.6) at an angle of incidence of 30 degrees. The angle of refraction is approximately:",
+      "options": [
+        "A. 22 degrees",
+        "B. 30 degrees",
+        "C. 42 degrees",
+        "D. 60 degrees"
+      ],
+      "correct_answer": "A",
+      "explanation": "Using Snell's law: n1 sin(theta1) = n2 sin(theta2). 1.2 x sin(30) = 1.6 x sin(theta2). 1.2 x 0.5 = 1.6 x sin(theta2). sin(theta2) = 0.6/1.6 = 0.375. theta2 = arcsin(0.375) = 22 degrees. Light bends toward normal when entering a denser medium.",
+      "concept_tags": ["snells-law", "refraction-calculation", "angle-of-refraction"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-08-050",
+      "question_text": "Two point sources of light are considered resolved according to the Rayleigh criterion when:",
+      "options": [
+        "A. their images completely overlap",
+        "B. the central maximum of one falls on the first minimum of the other",
+        "C. there is no diffraction",
+        "D. the sources have the same wavelength"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Rayleigh criterion states that two point sources are just resolved when the central maximum of one diffraction pattern coincides with the first minimum of the other. This defines the minimum angular separation at which two objects can be distinguished.",
+      "concept_tags": ["rayleigh-criterion", "resolution", "diffraction"],
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 5,
+  "chapter_title": "The Endocrine System",
+  "questions": [
+    {
+      "id": "biology-05-001",
+      "question_text": "Peptide hormones differ from steroid hormones in that peptide hormones:",
+      "options": [
+        "A. can cross the cell membrane and bind to intracellular receptors",
+        "B. bind to extracellular receptors and use second messengers",
+        "C. are derived from cholesterol",
+        "D. have slow but long-lasting effects"
+      ],
+      "correct_answer": "B",
+      "explanation": "Peptide hormones are charged and cannot cross the cell membrane, so they bind to extracellular receptors and use second messengers (like cAMP) to transduce signals. Steroid hormones cross the membrane and bind to intracellular receptors, with slower but longer-lasting effects.",
+      "concept_tags": ["peptide-hormones", "steroid-hormones", "second-messengers", "hormone-receptors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-002",
+      "question_text": "Steroid hormones typically exert their effects by:",
+      "options": [
+        "A. activating membrane-bound receptors",
+        "B. binding to intracellular receptors and altering gene transcription",
+        "C. triggering rapid second messenger cascades",
+        "D. remaining in the bloodstream without entering cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Steroid hormones are lipid-soluble and can cross the cell membrane. They bind to intracellular or intranuclear receptors, and the hormone-receptor complex directly affects gene transcription by binding to DNA. This causes slower but longer-lasting effects than peptide hormones.",
+      "concept_tags": ["steroid-hormones", "gene-transcription", "intracellular-receptors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-003",
+      "question_text": "Which of the following is a common second messenger in peptide hormone signaling?",
+      "options": [
+        "A. Cholesterol",
+        "B. Cyclic AMP (cAMP)",
+        "C. Steroid hormone receptor",
+        "D. DNA polymerase"
+      ],
+      "correct_answer": "B",
+      "explanation": "cAMP (cyclic adenosine monophosphate) is a common second messenger in peptide hormone signaling. When peptide hormones bind to their receptors, they often activate adenylate cyclase, which produces cAMP. Other second messengers include IP3 and calcium.",
+      "concept_tags": ["second-messengers", "camp", "peptide-hormones", "signaling-cascade"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-004",
+      "question_text": "Steroid hormones require carrier proteins in the blood because they are:",
+      "options": [
+        "A. water-soluble",
+        "B. lipid-soluble (hydrophobic)",
+        "C. too large to dissolve",
+        "D. charged molecules"
+      ],
+      "correct_answer": "B",
+      "explanation": "Steroid hormones are lipid-soluble (hydrophobic) and cannot dissolve freely in the aqueous bloodstream. They must be carried by proteins like albumin or specific binding globulins. Peptide hormones are water-soluble and travel freely in blood.",
+      "concept_tags": ["steroid-hormones", "carrier-proteins", "lipid-soluble", "blood-transport"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-005",
+      "question_text": "Amino acid-derivative hormones include:",
+      "options": [
+        "A. insulin and glucagon",
+        "B. estrogen and testosterone",
+        "C. epinephrine and thyroid hormones",
+        "D. ADH and oxytocin"
+      ],
+      "correct_answer": "C",
+      "explanation": "Amino acid-derivative hormones are modified from single amino acids. Epinephrine and norepinephrine are derived from tyrosine (catecholamines), as are thyroid hormones (T3 and T4). Insulin and glucagon are peptide hormones; estrogen and testosterone are steroids; ADH and oxytocin are peptides.",
+      "concept_tags": ["amino-acid-derivative-hormones", "epinephrine", "thyroid-hormones", "catecholamines"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-006",
+      "question_text": "The hypothalamus controls the anterior pituitary by releasing:",
+      "options": [
+        "A. hormones directly into the general circulation",
+        "B. releasing and inhibiting hormones into the hypophyseal portal system",
+        "C. neurotransmitters across typical synapses",
+        "D. steroid hormones that diffuse to the pituitary"
+      ],
+      "correct_answer": "B",
+      "explanation": "The hypothalamus secretes releasing hormones (like TRH, GnRH, CRH) and inhibiting hormones (like dopamine) into the hypophyseal portal system, which carries them directly to the anterior pituitary. This allows precise control of anterior pituitary hormone secretion.",
+      "concept_tags": ["hypothalamus", "anterior-pituitary", "releasing-hormones", "hypophyseal-portal-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-007",
+      "question_text": "The posterior pituitary differs from the anterior pituitary in that it:",
+      "options": [
+        "A. synthesizes its own hormones",
+        "B. stores and releases hormones produced by the hypothalamus",
+        "C. is controlled by releasing hormones",
+        "D. produces growth hormone"
+      ],
+      "correct_answer": "B",
+      "explanation": "The posterior pituitary is an extension of the hypothalamus and does not synthesize its own hormones. It stores and releases oxytocin and ADH (vasopressin), which are produced by hypothalamic neurons and transported down their axons to the posterior pituitary.",
+      "concept_tags": ["posterior-pituitary", "oxytocin", "adh", "hypothalamus"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-008",
+      "question_text": "Growth hormone (GH) is secreted by the:",
+      "options": [
+        "A. hypothalamus",
+        "B. anterior pituitary",
+        "C. posterior pituitary",
+        "D. thyroid gland"
+      ],
+      "correct_answer": "B",
+      "explanation": "Growth hormone is secreted by the anterior pituitary gland. Its release is stimulated by growth hormone-releasing hormone (GHRH) and inhibited by somatostatin, both from the hypothalamus. GH promotes growth and has metabolic effects.",
+      "concept_tags": ["growth-hormone", "anterior-pituitary", "ghrh", "somatostatin"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-009",
+      "question_text": "Which hormone is stored in and released from the posterior pituitary?",
+      "options": [
+        "A. Thyroid-stimulating hormone (TSH)",
+        "B. Follicle-stimulating hormone (FSH)",
+        "C. Antidiuretic hormone (ADH)",
+        "D. Adrenocorticotropic hormone (ACTH)"
+      ],
+      "correct_answer": "C",
+      "explanation": "ADH (vasopressin) and oxytocin are stored in and released from the posterior pituitary. TSH, FSH, and ACTH are all synthesized and released by the anterior pituitary. ADH promotes water retention by the kidneys.",
+      "concept_tags": ["adh", "posterior-pituitary", "vasopressin", "water-retention"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-010",
+      "question_text": "Tropic hormones are hormones that:",
+      "options": [
+        "A. act directly on non-endocrine tissues",
+        "B. stimulate other endocrine glands to secrete their hormones",
+        "C. are released only in response to stress",
+        "D. inhibit other hormone secretion"
+      ],
+      "correct_answer": "B",
+      "explanation": "Tropic hormones target other endocrine glands and stimulate them to release their hormones. Examples include TSH (stimulates thyroid), ACTH (stimulates adrenal cortex), FSH and LH (stimulate gonads). Direct hormones act on non-endocrine target tissues.",
+      "concept_tags": ["tropic-hormones", "endocrine-regulation", "tsh", "acth"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-011",
+      "question_text": "Thyroid-stimulating hormone (TSH) is released from the anterior pituitary in response to:",
+      "options": [
+        "A. high levels of T3 and T4",
+        "B. thyrotropin-releasing hormone (TRH) from the hypothalamus",
+        "C. low levels of TSH",
+        "D. cortisol"
+      ],
+      "correct_answer": "B",
+      "explanation": "TRH from the hypothalamus stimulates the anterior pituitary to release TSH. TSH then stimulates the thyroid to produce T3 and T4. High levels of T3 and T4 provide negative feedback to reduce TRH and TSH secretion.",
+      "concept_tags": ["tsh", "trh", "thyroid-axis", "negative-feedback"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-012",
+      "question_text": "Negative feedback in the endocrine system refers to:",
+      "options": [
+        "A. hormones stimulating their own release",
+        "B. end products inhibiting the release of hormones that stimulated their production",
+        "C. hormones having no effect on their own production",
+        "D. constant hormone levels regardless of conditions"
+      ],
+      "correct_answer": "B",
+      "explanation": "Negative feedback occurs when the end product of a hormonal cascade inhibits earlier steps in the pathway. For example, high T3/T4 levels inhibit TRH and TSH release, preventing excessive thyroid hormone production. This maintains homeostasis.",
+      "concept_tags": ["negative-feedback", "homeostasis", "endocrine-regulation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-013",
+      "question_text": "The thyroid hormones T3 and T4 primarily function to:",
+      "options": [
+        "A. lower blood calcium levels",
+        "B. increase metabolic rate",
+        "C. promote water retention",
+        "D. stimulate muscle growth directly"
+      ],
+      "correct_answer": "B",
+      "explanation": "T3 and T4 increase the basal metabolic rate, affecting nearly every tissue in the body. They increase oxygen consumption, heat production, and protein synthesis. Calcitonin (also from the thyroid) lowers blood calcium, but this is a different hormone.",
+      "concept_tags": ["thyroid-hormones", "t3", "t4", "metabolic-rate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-014",
+      "question_text": "Calcitonin is released from the thyroid gland in response to:",
+      "options": [
+        "A. low blood calcium levels",
+        "B. high blood calcium levels",
+        "C. TSH stimulation",
+        "D. low blood glucose levels"
+      ],
+      "correct_answer": "B",
+      "explanation": "Calcitonin is released when blood calcium levels are high. It acts to lower calcium by inhibiting osteoclast activity (reducing bone resorption) and increasing calcium excretion by the kidneys. PTH has the opposite effect, raising blood calcium.",
+      "concept_tags": ["calcitonin", "calcium-regulation", "thyroid", "bone"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-015",
+      "question_text": "Parathyroid hormone (PTH) is released in response to:",
+      "options": [
+        "A. high blood calcium levels",
+        "B. low blood calcium levels",
+        "C. high blood glucose levels",
+        "D. TSH stimulation"
+      ],
+      "correct_answer": "B",
+      "explanation": "PTH is released when blood calcium levels are low. It raises calcium by stimulating osteoclast activity (bone resorption), increasing calcium reabsorption in the kidneys, and promoting activation of vitamin D (which increases intestinal calcium absorption).",
+      "concept_tags": ["pth", "parathyroid", "calcium-regulation", "bone-resorption"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-016",
+      "question_text": "PTH increases blood calcium levels by all of the following mechanisms EXCEPT:",
+      "options": [
+        "A. stimulating osteoclast activity",
+        "B. increasing renal calcium reabsorption",
+        "C. promoting vitamin D activation",
+        "D. inhibiting intestinal calcium absorption"
+      ],
+      "correct_answer": "D",
+      "explanation": "PTH increases blood calcium by stimulating osteoclasts (bone resorption), increasing kidney calcium reabsorption, and activating vitamin D (which increases intestinal calcium absorption). PTH promotes, not inhibits, calcium absorption from the intestines indirectly.",
+      "concept_tags": ["pth", "calcium-regulation", "vitamin-d", "osteoclasts"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-017",
+      "question_text": "The adrenal cortex produces all of the following EXCEPT:",
+      "options": [
+        "A. cortisol",
+        "B. aldosterone",
+        "C. epinephrine",
+        "D. androgens"
+      ],
+      "correct_answer": "C",
+      "explanation": "The adrenal cortex produces steroid hormones: glucocorticoids (cortisol), mineralocorticoids (aldosterone), and androgens. Epinephrine (adrenaline) is produced by the adrenal medulla, which is the inner part of the adrenal gland.",
+      "concept_tags": ["adrenal-cortex", "cortisol", "aldosterone", "epinephrine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-018",
+      "question_text": "Cortisol functions include all of the following EXCEPT:",
+      "options": [
+        "A. increasing blood glucose levels",
+        "B. suppressing the immune system",
+        "C. promoting protein breakdown",
+        "D. decreasing blood pressure"
+      ],
+      "correct_answer": "D",
+      "explanation": "Cortisol is a glucocorticoid that increases blood glucose (gluconeogenesis), suppresses immune and inflammatory responses, and promotes protein breakdown in muscle. Cortisol tends to increase blood pressure, not decrease it.",
+      "concept_tags": ["cortisol", "glucocorticoids", "stress-response", "metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-019",
+      "question_text": "Aldosterone is a mineralocorticoid that primarily acts on the kidneys to:",
+      "options": [
+        "A. increase potassium reabsorption",
+        "B. increase sodium reabsorption and potassium excretion",
+        "C. decrease water reabsorption",
+        "D. increase calcium reabsorption"
+      ],
+      "correct_answer": "B",
+      "explanation": "Aldosterone acts on the kidney collecting ducts to increase sodium reabsorption (which increases water reabsorption and blood pressure) and increase potassium excretion. This is part of the renin-angiotensin-aldosterone system (RAAS).",
+      "concept_tags": ["aldosterone", "mineralocorticoids", "sodium-reabsorption", "raas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-020",
+      "question_text": "The adrenal medulla produces:",
+      "options": [
+        "A. cortisol and aldosterone",
+        "B. epinephrine and norepinephrine",
+        "C. testosterone and estrogen",
+        "D. insulin and glucagon"
+      ],
+      "correct_answer": "B",
+      "explanation": "The adrenal medulla produces the catecholamines epinephrine (adrenaline) and norepinephrine (noradrenaline). These are amino acid-derivative hormones that mediate the 'fight or flight' response. The adrenal cortex produces steroid hormones.",
+      "concept_tags": ["adrenal-medulla", "epinephrine", "norepinephrine", "catecholamines"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-021",
+      "question_text": "Epinephrine (adrenaline) causes all of the following EXCEPT:",
+      "options": [
+        "A. increased heart rate",
+        "B. bronchodilation",
+        "C. increased digestive activity",
+        "D. glycogenolysis (glucose release from glycogen)"
+      ],
+      "correct_answer": "C",
+      "explanation": "Epinephrine prepares the body for 'fight or flight' by increasing heart rate, dilating bronchioles, and mobilizing glucose through glycogenolysis. It inhibits (not increases) digestive activity to redirect blood flow to muscles.",
+      "concept_tags": ["epinephrine", "fight-or-flight", "catecholamines", "glycogenolysis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-022",
+      "question_text": "Insulin is secreted by the pancreas in response to:",
+      "options": [
+        "A. low blood glucose levels",
+        "B. high blood glucose levels",
+        "C. low blood calcium levels",
+        "D. high cortisol levels"
+      ],
+      "correct_answer": "B",
+      "explanation": "Insulin is secreted by beta cells of the pancreatic islets when blood glucose is high (such as after a meal). Insulin promotes glucose uptake by cells and glycogen synthesis, lowering blood glucose. Glucagon is released when glucose is low.",
+      "concept_tags": ["insulin", "pancreas", "blood-glucose", "beta-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-023",
+      "question_text": "Insulin promotes all of the following EXCEPT:",
+      "options": [
+        "A. glucose uptake into cells",
+        "B. glycogen synthesis",
+        "C. glycogenolysis",
+        "D. protein synthesis"
+      ],
+      "correct_answer": "C",
+      "explanation": "Insulin promotes glucose uptake, glycogen synthesis (storing glucose), protein synthesis, and fat storage. Glycogenolysis (breaking down glycogen to release glucose) is promoted by glucagon, which has opposite effects to insulin.",
+      "concept_tags": ["insulin", "glycogen-synthesis", "glucose-uptake", "anabolic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-024",
+      "question_text": "Glucagon is secreted by the pancreas in response to:",
+      "options": [
+        "A. high blood glucose levels",
+        "B. low blood glucose levels",
+        "C. high blood calcium levels",
+        "D. insulin stimulation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Glucagon is secreted by alpha cells of the pancreatic islets when blood glucose is low (such as between meals or during fasting). Glucagon promotes glycogenolysis and gluconeogenesis, raising blood glucose levels.",
+      "concept_tags": ["glucagon", "pancreas", "blood-glucose", "alpha-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-025",
+      "question_text": "Type 1 diabetes mellitus is caused by:",
+      "options": [
+        "A. insulin resistance in target tissues",
+        "B. autoimmune destruction of insulin-producing beta cells",
+        "C. excessive glucagon production",
+        "D. overproduction of insulin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Type 1 diabetes is an autoimmune disease in which the immune system destroys the insulin-producing beta cells in the pancreatic islets. This results in little or no insulin production, requiring insulin injections. Type 2 diabetes involves insulin resistance.",
+      "concept_tags": ["type-1-diabetes", "autoimmune", "beta-cells", "insulin-deficiency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-026",
+      "question_text": "Type 2 diabetes mellitus is primarily characterized by:",
+      "options": [
+        "A. complete absence of insulin",
+        "B. insulin resistance in target tissues",
+        "C. autoimmune destruction of beta cells",
+        "D. glucagon deficiency"
+      ],
+      "correct_answer": "B",
+      "explanation": "Type 2 diabetes is characterized by insulin resistance, where target tissues do not respond properly to insulin. Initially, the pancreas may produce more insulin to compensate, but eventually beta cell function may decline. It's often associated with obesity and lifestyle factors.",
+      "concept_tags": ["type-2-diabetes", "insulin-resistance", "metabolic-syndrome"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-027",
+      "question_text": "The testes produce:",
+      "options": [
+        "A. estrogen primarily",
+        "B. testosterone primarily",
+        "C. progesterone primarily",
+        "D. FSH and LH"
+      ],
+      "correct_answer": "B",
+      "explanation": "The testes produce testosterone (the primary male sex hormone) in the Leydig cells. Testosterone promotes male secondary sex characteristics and spermatogenesis. FSH and LH are pituitary hormones that regulate testicular function.",
+      "concept_tags": ["testes", "testosterone", "androgens", "male-reproductive-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-028",
+      "question_text": "The ovaries produce:",
+      "options": [
+        "A. testosterone only",
+        "B. estrogen and progesterone",
+        "C. FSH and LH",
+        "D. cortisol and aldosterone"
+      ],
+      "correct_answer": "B",
+      "explanation": "The ovaries produce estrogen (primarily from developing follicles) and progesterone (primarily from the corpus luteum). These hormones regulate the menstrual cycle and support pregnancy. FSH and LH from the pituitary regulate ovarian function.",
+      "concept_tags": ["ovaries", "estrogen", "progesterone", "female-reproductive-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-029",
+      "question_text": "FSH (follicle-stimulating hormone) in females primarily stimulates:",
+      "options": [
+        "A. ovulation",
+        "B. follicle development in the ovaries",
+        "C. corpus luteum formation",
+        "D. uterine contractions"
+      ],
+      "correct_answer": "B",
+      "explanation": "FSH stimulates the development of ovarian follicles during the follicular phase of the menstrual cycle. LH triggers ovulation. After ovulation, the follicle becomes the corpus luteum. Oxytocin stimulates uterine contractions.",
+      "concept_tags": ["fsh", "follicle-development", "ovarian-cycle", "menstrual-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-030",
+      "question_text": "LH (luteinizing hormone) surge triggers:",
+      "options": [
+        "A. follicle development",
+        "B. ovulation",
+        "C. menstruation",
+        "D. implantation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The LH surge, which occurs around day 14 of the menstrual cycle, triggers ovulation (release of the egg from the follicle). After ovulation, LH also promotes the transformation of the follicle into the corpus luteum.",
+      "concept_tags": ["lh", "lh-surge", "ovulation", "menstrual-cycle"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-031",
+      "question_text": "The pineal gland produces:",
+      "options": [
+        "A. cortisol",
+        "B. growth hormone",
+        "C. melatonin",
+        "D. thyroid hormone"
+      ],
+      "correct_answer": "C",
+      "explanation": "The pineal gland produces melatonin, which regulates circadian rhythms and sleep-wake cycles. Melatonin secretion increases in darkness and decreases in light. The pineal gland is sometimes called the 'third eye.'",
+      "concept_tags": ["pineal-gland", "melatonin", "circadian-rhythm", "sleep"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-032",
+      "question_text": "Oxytocin functions include all of the following EXCEPT:",
+      "options": [
+        "A. stimulating uterine contractions during labor",
+        "B. promoting milk ejection during breastfeeding",
+        "C. regulating blood glucose levels",
+        "D. promoting bonding behaviors"
+      ],
+      "correct_answer": "C",
+      "explanation": "Oxytocin stimulates uterine contractions during labor, milk ejection (let-down reflex) during breastfeeding, and is involved in bonding behaviors. Blood glucose regulation is the function of insulin and glucagon, not oxytocin.",
+      "concept_tags": ["oxytocin", "labor", "lactation", "bonding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-033",
+      "question_text": "ADH (antidiuretic hormone/vasopressin) primarily acts on the kidneys to:",
+      "options": [
+        "A. decrease water reabsorption",
+        "B. increase water reabsorption",
+        "C. increase sodium excretion",
+        "D. decrease blood pressure"
+      ],
+      "correct_answer": "B",
+      "explanation": "ADH increases water reabsorption in the kidney collecting ducts by inserting aquaporin channels. This concentrates the urine and conserves water when the body is dehydrated. ADH also causes vasoconstriction, increasing blood pressure.",
+      "concept_tags": ["adh", "vasopressin", "water-reabsorption", "kidney"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-034",
+      "question_text": "ACTH (adrenocorticotropic hormone) stimulates the:",
+      "options": [
+        "A. thyroid gland to release thyroid hormones",
+        "B. adrenal cortex to release cortisol",
+        "C. adrenal medulla to release epinephrine",
+        "D. pancreas to release insulin"
+      ],
+      "correct_answer": "B",
+      "explanation": "ACTH is a tropic hormone from the anterior pituitary that stimulates the adrenal cortex to produce and release cortisol (and other glucocorticoids). TSH stimulates the thyroid; the adrenal medulla is stimulated by the sympathetic nervous system.",
+      "concept_tags": ["acth", "adrenal-cortex", "cortisol", "hpa-axis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-035",
+      "question_text": "Prolactin from the anterior pituitary primarily stimulates:",
+      "options": [
+        "A. ovulation",
+        "B. milk production in mammary glands",
+        "C. uterine contractions",
+        "D. bone growth"
+      ],
+      "correct_answer": "B",
+      "explanation": "Prolactin stimulates milk production (lactogenesis) in the mammary glands after childbirth. Its secretion is normally inhibited by dopamine from the hypothalamus. LH stimulates ovulation; oxytocin stimulates uterine contractions and milk ejection.",
+      "concept_tags": ["prolactin", "lactation", "mammary-glands", "anterior-pituitary"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-036",
+      "question_text": "The hypothalamic-pituitary-adrenal (HPA) axis is activated during:",
+      "options": [
+        "A. sleep",
+        "B. stress",
+        "C. digestion",
+        "D. growth spurts"
+      ],
+      "correct_answer": "B",
+      "explanation": "The HPA axis is activated during stress. The hypothalamus releases CRH, which stimulates ACTH release from the anterior pituitary, which then stimulates cortisol release from the adrenal cortex. Cortisol helps the body respond to stress.",
+      "concept_tags": ["hpa-axis", "stress-response", "cortisol", "crh"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-037",
+      "question_text": "Iodine is essential for the production of:",
+      "options": [
+        "A. insulin",
+        "B. cortisol",
+        "C. thyroid hormones (T3 and T4)",
+        "D. growth hormone"
+      ],
+      "correct_answer": "C",
+      "explanation": "Iodine is a necessary component of thyroid hormones T3 (triiodothyronine) and T4 (thyroxine). Iodine deficiency leads to goiter (enlarged thyroid) as the gland attempts to compensate for inadequate hormone production.",
+      "concept_tags": ["iodine", "thyroid-hormones", "t3", "t4"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-038",
+      "question_text": "Growth hormone promotes growth primarily by stimulating the liver to produce:",
+      "options": [
+        "A. insulin",
+        "B. IGF-1 (insulin-like growth factor 1)",
+        "C. cortisol",
+        "D. glucagon"
+      ],
+      "correct_answer": "B",
+      "explanation": "Growth hormone stimulates the liver (and other tissues) to produce IGF-1, which mediates many of GH's growth-promoting effects on bone, muscle, and other tissues. GH also has direct metabolic effects on fat and carbohydrate metabolism.",
+      "concept_tags": ["growth-hormone", "igf-1", "liver", "growth"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-039",
+      "question_text": "Hyperthyroidism (overactive thyroid) would be expected to cause:",
+      "options": [
+        "A. weight gain and fatigue",
+        "B. weight loss and increased heart rate",
+        "C. decreased body temperature",
+        "D. decreased metabolic rate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hyperthyroidism increases metabolic rate, leading to weight loss, increased heart rate, heat intolerance, anxiety, and tremors. Hypothyroidism (underactive thyroid) causes the opposite: weight gain, fatigue, cold intolerance, and bradycardia.",
+      "concept_tags": ["hyperthyroidism", "thyroid-hormones", "metabolic-rate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-040",
+      "question_text": "Cushing's syndrome results from:",
+      "options": [
+        "A. cortisol deficiency",
+        "B. excess cortisol",
+        "C. insulin deficiency",
+        "D. thyroid hormone excess"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cushing's syndrome is caused by chronic excess cortisol, whether from endogenous overproduction (tumor) or exogenous administration (steroid medications). Symptoms include weight gain, moon face, muscle weakness, and hyperglycemia. Addison's disease is cortisol deficiency.",
+      "concept_tags": ["cushings-syndrome", "cortisol-excess", "glucocorticoids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-041",
+      "question_text": "Addison's disease results from:",
+      "options": [
+        "A. excess cortisol production",
+        "B. adrenal cortex insufficiency",
+        "C. excess aldosterone",
+        "D. pituitary tumor"
+      ],
+      "correct_answer": "B",
+      "explanation": "Addison's disease is caused by adrenal cortex insufficiency, resulting in deficiency of cortisol and often aldosterone. Symptoms include fatigue, weight loss, low blood pressure, and hyperpigmentation. It can be caused by autoimmune destruction of the adrenal cortex.",
+      "concept_tags": ["addisons-disease", "adrenal-insufficiency", "cortisol-deficiency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-042",
+      "question_text": "Gigantism and acromegaly result from excess:",
+      "options": [
+        "A. thyroid hormone",
+        "B. growth hormone",
+        "C. cortisol",
+        "D. insulin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Excess growth hormone causes gigantism if it occurs before growth plate closure (in children) and acromegaly if it occurs after growth plate closure (in adults). Acromegaly causes enlargement of hands, feet, and facial features.",
+      "concept_tags": ["gigantism", "acromegaly", "growth-hormone-excess"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-043",
+      "question_text": "The renin-angiotensin-aldosterone system (RAAS) is activated when:",
+      "options": [
+        "A. blood pressure is high",
+        "B. blood pressure is low",
+        "C. blood glucose is high",
+        "D. blood calcium is low"
+      ],
+      "correct_answer": "B",
+      "explanation": "RAAS is activated when blood pressure or blood volume is low. The kidneys release renin, which leads to angiotensin II formation and aldosterone release. This increases blood pressure through vasoconstriction and sodium/water retention.",
+      "concept_tags": ["raas", "renin", "angiotensin", "aldosterone", "blood-pressure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-044",
+      "question_text": "Somatostatin inhibits the release of:",
+      "options": [
+        "A. growth hormone and TSH",
+        "B. only cortisol",
+        "C. only insulin",
+        "D. ADH and oxytocin"
+      ],
+      "correct_answer": "A",
+      "explanation": "Somatostatin (also called growth hormone-inhibiting hormone) inhibits the release of growth hormone and TSH from the anterior pituitary. It is produced by the hypothalamus and also by delta cells in the pancreas, where it inhibits insulin and glucagon.",
+      "concept_tags": ["somatostatin", "growth-hormone-inhibition", "hypothalamus"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-045",
+      "question_text": "Atrial natriuretic peptide (ANP) is released by the heart in response to:",
+      "options": [
+        "A. low blood pressure",
+        "B. high blood pressure/volume",
+        "C. low blood glucose",
+        "D. high blood calcium"
+      ],
+      "correct_answer": "B",
+      "explanation": "ANP is released by the atria when blood volume/pressure is high (atrial stretching). It promotes sodium and water excretion by the kidneys, reducing blood volume and pressure. ANP opposes the effects of the RAAS system.",
+      "concept_tags": ["anp", "blood-pressure-regulation", "natriuresis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-046",
+      "question_text": "Which of the following is NOT a peptide hormone?",
+      "options": [
+        "A. Insulin",
+        "B. Growth hormone",
+        "C. Testosterone",
+        "D. ADH"
+      ],
+      "correct_answer": "C",
+      "explanation": "Testosterone is a steroid hormone derived from cholesterol, produced by the testes. Insulin, growth hormone, and ADH are all peptide hormones that act through membrane receptors and second messenger systems.",
+      "concept_tags": ["steroid-hormones", "testosterone", "hormone-classification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-047",
+      "question_text": "Positive feedback in the endocrine system is exemplified by:",
+      "options": [
+        "A. high T3/T4 inhibiting TSH release",
+        "B. oxytocin stimulating uterine contractions, which stimulate more oxytocin release",
+        "C. high cortisol inhibiting ACTH release",
+        "D. high blood glucose stimulating insulin release"
+      ],
+      "correct_answer": "B",
+      "explanation": "Positive feedback amplifies the original signal. During labor, uterine contractions stimulate oxytocin release, which causes more contractions, which stimulate more oxytocin. This continues until delivery. Most hormonal systems use negative feedback.",
+      "concept_tags": ["positive-feedback", "oxytocin", "labor", "feedback-loops"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-048",
+      "question_text": "Erythropoietin (EPO) is produced primarily by the:",
+      "options": [
+        "A. bone marrow",
+        "B. kidneys",
+        "C. liver",
+        "D. spleen"
+      ],
+      "correct_answer": "B",
+      "explanation": "Erythropoietin is produced primarily by the kidneys (with some production by the liver) in response to hypoxia (low oxygen). EPO stimulates red blood cell production in the bone marrow, increasing oxygen-carrying capacity of the blood.",
+      "concept_tags": ["erythropoietin", "epo", "kidney", "red-blood-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-05-049",
+      "question_text": "The hormone leptin is produced by:",
+      "options": [
+        "A. the hypothalamus",
+        "B. adipose tissue",
+        "C. the pancreas",
+        "D. the thyroid"
+      ],
+      "correct_answer": "B",
+      "explanation": "Leptin is produced by adipose (fat) tissue and signals satiety to the brain, helping regulate appetite and energy balance. Higher fat stores lead to more leptin production, which should decrease appetite. Leptin resistance can contribute to obesity.",
+      "concept_tags": ["leptin", "adipose-tissue", "appetite-regulation", "satiety"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-05-050",
+      "question_text": "The hypothalamus directly controls the posterior pituitary through:",
+      "options": [
+        "A. releasing hormones in the hypophyseal portal system",
+        "B. neural connections (axons extending from hypothalamic neurons)",
+        "C. steroid hormones",
+        "D. negative feedback from target organs"
+      ],
+      "correct_answer": "B",
+      "explanation": "The posterior pituitary is controlled by direct neural connections. Hypothalamic neurons synthesize oxytocin and ADH, which travel down their axons to the posterior pituitary for storage and release. The anterior pituitary is controlled by releasing hormones via the portal system.",
+      "concept_tags": ["posterior-pituitary", "hypothalamus", "neural-control", "neurohypophysis"],
+      "difficulty": "medium"
+    }
+  ]
+}

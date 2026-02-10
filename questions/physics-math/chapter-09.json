@@ -1,0 +1,707 @@
+{
+  "book": "physics-math",
+  "chapter": 9,
+  "chapter_title": "Atomic and Nuclear Physics",
+  "questions": [
+    {
+      "id": "physics-math-09-001",
+      "question_text": "In the Bohr model of the hydrogen atom, the electron is found in:",
+      "options": [
+        "A. a continuous range of energy states",
+        "B. discrete, quantized energy levels",
+        "C. the nucleus with the proton",
+        "D. a cloud of probability"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Bohr model describes electrons in discrete, quantized orbits around the nucleus. Electrons can only exist at specific energy levels (n = 1, 2, 3, ...) and cannot have intermediate energies. This quantization explained the discrete spectral lines of hydrogen.",
+      "concept_tags": ["bohr-model", "energy-levels", "quantization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-002",
+      "question_text": "The atomic number (Z) of an element represents the number of:",
+      "options": [
+        "A. neutrons in the nucleus",
+        "B. protons in the nucleus",
+        "C. total nucleons",
+        "D. electrons in the outer shell"
+      ],
+      "correct_answer": "B",
+      "explanation": "The atomic number (Z) equals the number of protons in the nucleus, which defines the element's identity. The number of neutrons can vary (isotopes), and the mass number (A) represents total nucleons (protons + neutrons).",
+      "concept_tags": ["atomic-number", "nuclear-structure", "protons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-003",
+      "question_text": "What is the mass number (A) of an atom with 6 protons and 8 neutrons?",
+      "options": [
+        "A. 6",
+        "B. 8",
+        "C. 14",
+        "D. 2"
+      ],
+      "correct_answer": "C",
+      "explanation": "The mass number A = Z + N, where Z is the number of protons and N is the number of neutrons. For this atom: A = 6 + 8 = 14. This describes carbon-14, an isotope used in radiocarbon dating.",
+      "concept_tags": ["mass-number", "nuclear-structure", "isotopes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-004",
+      "question_text": "Isotopes of an element have the same number of:",
+      "options": [
+        "A. neutrons but different protons",
+        "B. protons but different neutrons",
+        "C. electrons in the valence shell only",
+        "D. total nucleons"
+      ],
+      "correct_answer": "B",
+      "explanation": "Isotopes are atoms of the same element (same number of protons/atomic number) with different numbers of neutrons. This gives them different mass numbers but identical chemical properties. Examples include C-12 and C-14.",
+      "concept_tags": ["isotopes", "nuclear-structure", "protons", "neutrons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-005",
+      "question_text": "In the photoelectric effect, electrons are ejected from a metal surface when:",
+      "options": [
+        "A. light of any frequency shines on it",
+        "B. light above a threshold frequency shines on it",
+        "C. the metal is heated sufficiently",
+        "D. high-intensity low-frequency light is used"
+      ],
+      "correct_answer": "B",
+      "explanation": "The photoelectric effect requires photons with energy above the work function (threshold frequency). Below this frequency, no electrons are emitted regardless of intensity. This demonstrated light's particle nature and earned Einstein the Nobel Prize.",
+      "concept_tags": ["photoelectric-effect", "threshold-frequency", "photons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-006",
+      "question_text": "The energy of a photon is given by E = hf, where h is Planck's constant. If the frequency doubles, the photon energy:",
+      "options": [
+        "A. is halved",
+        "B. doubles",
+        "C. quadruples",
+        "D. remains the same"
+      ],
+      "correct_answer": "B",
+      "explanation": "Photon energy E = hf is directly proportional to frequency. Doubling the frequency doubles the energy. This relationship explains why higher frequency light (UV, X-rays) carries more energy per photon than lower frequency light (visible, IR).",
+      "concept_tags": ["photon-energy", "plancks-constant", "frequency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-007",
+      "question_text": "Alpha decay involves the emission of:",
+      "options": [
+        "A. an electron",
+        "B. a positron",
+        "C. a helium-4 nucleus",
+        "D. a high-energy photon"
+      ],
+      "correct_answer": "C",
+      "explanation": "Alpha particles are helium-4 nuclei (2 protons + 2 neutrons). During alpha decay, the parent nucleus loses 2 protons and 2 neutrons, decreasing atomic number by 2 and mass number by 4. Alpha particles have low penetrating power.",
+      "concept_tags": ["alpha-decay", "radioactivity", "nuclear-decay"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-008",
+      "question_text": "During beta-minus decay, a neutron is converted into:",
+      "options": [
+        "A. a proton, electron, and antineutrino",
+        "B. a proton and positron",
+        "C. two protons",
+        "D. an alpha particle"
+      ],
+      "correct_answer": "A",
+      "explanation": "In beta-minus decay, a neutron converts to a proton, emitting an electron (beta particle) and an antineutrino. The atomic number increases by 1 while the mass number stays the same. This occurs in neutron-rich nuclei.",
+      "concept_tags": ["beta-decay", "radioactivity", "neutron-conversion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-009",
+      "question_text": "Gamma radiation consists of:",
+      "options": [
+        "A. helium nuclei",
+        "B. electrons",
+        "C. high-energy electromagnetic waves",
+        "D. neutrons"
+      ],
+      "correct_answer": "C",
+      "explanation": "Gamma rays are high-energy photons (electromagnetic radiation) emitted from excited nuclei. They carry no charge and no mass, have the highest penetrating power of nuclear radiation, and are stopped by thick lead or concrete.",
+      "concept_tags": ["gamma-radiation", "electromagnetic-radiation", "nuclear-decay"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-010",
+      "question_text": "Which type of radiation has the highest penetrating power?",
+      "options": [
+        "A. Alpha particles",
+        "B. Beta particles",
+        "C. Gamma rays",
+        "D. All have equal penetration"
+      ],
+      "correct_answer": "C",
+      "explanation": "Gamma rays have the highest penetrating power (requires lead/concrete shielding). Beta particles are intermediate (stopped by aluminum). Alpha particles have the lowest penetration (stopped by paper/skin). Penetrating power is inversely related to ionizing ability.",
+      "concept_tags": ["penetrating-power", "radiation-shielding", "radioactivity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-011",
+      "question_text": "A radioactive sample has a half-life of 10 hours. After 30 hours, what fraction of the original sample remains?",
+      "options": [
+        "A. 1/2",
+        "B. 1/4",
+        "C. 1/8",
+        "D. 1/16"
+      ],
+      "correct_answer": "C",
+      "explanation": "After n half-lives, the remaining fraction is (1/2)^n. Here, n = 30/10 = 3 half-lives. Remaining fraction = (1/2)^3 = 1/8. This exponential decay is fundamental to radiocarbon dating and nuclear medicine dosing.",
+      "concept_tags": ["half-life", "radioactive-decay", "exponential-decay"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-012",
+      "question_text": "The work function in the photoelectric effect represents:",
+      "options": [
+        "A. the kinetic energy of emitted electrons",
+        "B. the minimum energy needed to eject an electron",
+        "C. the total energy of incident photons",
+        "D. the frequency of incident light"
+      ],
+      "correct_answer": "B",
+      "explanation": "The work function (phi) is the minimum energy required to liberate an electron from a metal surface. For photoelectric emission: KE_max = hf - phi. If photon energy (hf) is less than the work function, no electrons are emitted.",
+      "concept_tags": ["work-function", "photoelectric-effect", "electron-emission"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-013",
+      "question_text": "According to Einstein's mass-energy equivalence (E = mc^2), if 1 kg of mass is converted entirely to energy, the energy released is approximately:",
+      "options": [
+        "A. 3 x 10^8 J",
+        "B. 9 x 10^16 J",
+        "C. 3 x 10^16 J",
+        "D. 9 x 10^8 J"
+      ],
+      "correct_answer": "B",
+      "explanation": "E = mc^2 = (1 kg)(3 x 10^8 m/s)^2 = 9 x 10^16 J. This enormous energy explains the power of nuclear reactions. Even small mass differences in nuclear reactions release tremendous energy, as seen in fission and fusion.",
+      "concept_tags": ["mass-energy-equivalence", "e-equals-mc-squared", "nuclear-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-014",
+      "question_text": "In nuclear fission:",
+      "options": [
+        "A. light nuclei combine to form heavier nuclei",
+        "B. a heavy nucleus splits into lighter nuclei",
+        "C. electrons are captured by the nucleus",
+        "D. gamma rays convert to particles"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nuclear fission is the splitting of a heavy nucleus (like U-235 or Pu-239) into lighter fragments, releasing neutrons and energy. This is the principle behind nuclear reactors and atomic bombs. Chain reactions occur when released neutrons cause further fissions.",
+      "concept_tags": ["nuclear-fission", "nuclear-reactions", "chain-reaction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-015",
+      "question_text": "Nuclear fusion powers the Sun by:",
+      "options": [
+        "A. splitting uranium atoms",
+        "B. combining hydrogen nuclei to form helium",
+        "C. converting electrons to protons",
+        "D. absorbing cosmic radiation"
+      ],
+      "correct_answer": "B",
+      "explanation": "In stellar fusion, hydrogen nuclei fuse to form helium, releasing enormous energy (E = mc^2 accounts for the mass difference). Fusion requires extremely high temperatures to overcome electrostatic repulsion. It produces less radioactive waste than fission.",
+      "concept_tags": ["nuclear-fusion", "stellar-physics", "hydrogen-burning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-016",
+      "question_text": "The ground state of an atom refers to:",
+      "options": [
+        "A. the highest energy configuration",
+        "B. the lowest energy configuration",
+        "C. an ionized state",
+        "D. a state with no electrons"
+      ],
+      "correct_answer": "B",
+      "explanation": "The ground state is the lowest energy configuration of an atom, with electrons in their most stable orbitals. When electrons absorb energy, they move to excited states. They return to ground state by emitting photons.",
+      "concept_tags": ["ground-state", "energy-levels", "electron-configuration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-017",
+      "question_text": "When an electron transitions from n = 3 to n = 1 in a hydrogen atom, it:",
+      "options": [
+        "A. absorbs a photon",
+        "B. emits a photon",
+        "C. gains kinetic energy",
+        "D. remains at the same energy"
+      ],
+      "correct_answer": "B",
+      "explanation": "Transitioning from a higher energy level (n = 3) to a lower one (n = 1) releases energy as a photon. The photon energy equals the energy difference between levels: E = E_3 - E_1. This emission produces spectral lines.",
+      "concept_tags": ["electron-transitions", "photon-emission", "spectral-lines"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-018",
+      "question_text": "The Bohr model energy for hydrogen is E_n = -13.6/n^2 eV. The energy needed to ionize a hydrogen atom from its ground state is:",
+      "options": [
+        "A. 3.4 eV",
+        "B. 10.2 eV",
+        "C. 13.6 eV",
+        "D. 27.2 eV"
+      ],
+      "correct_answer": "C",
+      "explanation": "Ionization means removing the electron completely (n = infinity, E = 0). Ground state energy is E_1 = -13.6 eV. Ionization energy = 0 - (-13.6) = 13.6 eV. This is the binding energy of the electron.",
+      "concept_tags": ["ionization-energy", "bohr-model", "ground-state"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-019",
+      "question_text": "The binding energy of a nucleus represents:",
+      "options": [
+        "A. the energy needed to remove one electron",
+        "B. the energy released when nucleons combine to form the nucleus",
+        "C. the kinetic energy of protons",
+        "D. the mass of the nucleus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nuclear binding energy is the energy released when nucleons combine to form a nucleus (or equivalently, energy needed to separate nucleons). It accounts for the mass defect via E = mc^2. Higher binding energy per nucleon means greater stability.",
+      "concept_tags": ["binding-energy", "nuclear-stability", "mass-defect"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-020",
+      "question_text": "The mass defect in a nucleus is:",
+      "options": [
+        "A. the difference between atomic mass and nuclear mass",
+        "B. the difference between total nucleon mass and actual nuclear mass",
+        "C. the mass lost during radioactive decay",
+        "D. the mass of emitted particles"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mass defect = (sum of individual nucleon masses) - (actual nuclear mass). This 'missing' mass is converted to binding energy via E = mc^2. The mass defect reflects how tightly bound the nucleus is.",
+      "concept_tags": ["mass-defect", "binding-energy", "nuclear-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-021",
+      "question_text": "After alpha decay, the daughter nucleus has:",
+      "options": [
+        "A. atomic number increased by 2",
+        "B. atomic number decreased by 2 and mass number decreased by 4",
+        "C. same atomic number but mass number decreased by 4",
+        "D. atomic number decreased by 1"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alpha decay emits a helium-4 nucleus (2 protons, 2 neutrons). The daughter has Z - 2 (two fewer protons) and A - 4 (four fewer nucleons). For example, U-238 decays to Th-234 by alpha emission.",
+      "concept_tags": ["alpha-decay", "nuclear-equations", "transmutation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-022",
+      "question_text": "In beta-plus (positron) decay:",
+      "options": [
+        "A. a proton converts to a neutron, emitting a positron and neutrino",
+        "B. a neutron converts to a proton, emitting an electron",
+        "C. the nucleus captures an orbital electron",
+        "D. a gamma ray is emitted"
+      ],
+      "correct_answer": "A",
+      "explanation": "In beta-plus decay, a proton converts to a neutron, emitting a positron (antielectron) and a neutrino. The atomic number decreases by 1 while mass number stays constant. This occurs in proton-rich nuclei.",
+      "concept_tags": ["beta-plus-decay", "positron", "radioactivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-023",
+      "question_text": "Electron capture results in:",
+      "options": [
+        "A. atomic number increasing by 1",
+        "B. atomic number decreasing by 1",
+        "C. mass number decreasing by 1",
+        "D. emission of an alpha particle"
+      ],
+      "correct_answer": "B",
+      "explanation": "In electron capture, an inner orbital electron is captured by the nucleus, combining with a proton to form a neutron (and neutrino). The atomic number decreases by 1, but mass number stays the same. It competes with beta-plus decay.",
+      "concept_tags": ["electron-capture", "radioactivity", "nuclear-decay"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-024",
+      "question_text": "The decay constant (lambda) is related to half-life (t_1/2) by:",
+      "options": [
+        "A. lambda = t_1/2 / ln(2)",
+        "B. lambda = ln(2) / t_1/2",
+        "C. lambda = 2 / t_1/2",
+        "D. lambda = t_1/2 x ln(2)"
+      ],
+      "correct_answer": "B",
+      "explanation": "The decay constant lambda = ln(2) / t_1/2 = 0.693 / t_1/2. A larger decay constant means faster decay (shorter half-life). The activity A = lambda x N, where N is the number of radioactive nuclei.",
+      "concept_tags": ["decay-constant", "half-life", "radioactive-decay"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-025",
+      "question_text": "Radioactive activity is measured in:",
+      "options": [
+        "A. joules",
+        "B. becquerels or curies",
+        "C. electronvolts",
+        "D. atomic mass units"
+      ],
+      "correct_answer": "B",
+      "explanation": "Radioactive activity (decays per second) is measured in becquerels (SI unit: 1 Bq = 1 decay/s) or curies (1 Ci = 3.7 x 10^10 decays/s). Activity decreases with time as radioactive nuclei decay.",
+      "concept_tags": ["radioactive-activity", "becquerel", "curie"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-026",
+      "question_text": "The strong nuclear force:",
+      "options": [
+        "A. acts over long distances like gravity",
+        "B. is responsible for holding nucleons together in the nucleus",
+        "C. only acts on charged particles",
+        "D. causes radioactive decay"
+      ],
+      "correct_answer": "B",
+      "explanation": "The strong nuclear force binds protons and neutrons in the nucleus, overcoming electrostatic repulsion between protons. It's the strongest fundamental force but acts only at very short range (about 1 femtometer).",
+      "concept_tags": ["strong-nuclear-force", "nuclear-binding", "fundamental-forces"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-027",
+      "question_text": "The de Broglie wavelength of a particle is given by lambda = h/p. A particle with greater momentum has:",
+      "options": [
+        "A. a longer wavelength",
+        "B. a shorter wavelength",
+        "C. the same wavelength",
+        "D. no wavelength"
+      ],
+      "correct_answer": "B",
+      "explanation": "De Broglie wavelength lambda = h/p is inversely proportional to momentum. Higher momentum means shorter wavelength. This wave-particle duality applies to all matter but is only significant for very small particles like electrons.",
+      "concept_tags": ["de-broglie-wavelength", "wave-particle-duality", "momentum"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-028",
+      "question_text": "A photon has a wavelength of 500 nm. Its frequency is approximately: (c = 3 x 10^8 m/s)",
+      "options": [
+        "A. 6 x 10^5 Hz",
+        "B. 6 x 10^14 Hz",
+        "C. 6 x 10^17 Hz",
+        "D. 1.5 x 10^11 Hz"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using c = f x lambda: f = c/lambda = (3 x 10^8 m/s)/(500 x 10^-9 m) = (3 x 10^8)/(5 x 10^-7) = 6 x 10^14 Hz. This is visible light in the green-blue range.",
+      "concept_tags": ["wavelength", "frequency", "electromagnetic-spectrum"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-029",
+      "question_text": "In the photoelectric effect, increasing the intensity of light above the threshold frequency:",
+      "options": [
+        "A. increases the maximum kinetic energy of electrons",
+        "B. increases the number of emitted electrons",
+        "C. decreases the threshold frequency",
+        "D. has no effect"
+      ],
+      "correct_answer": "B",
+      "explanation": "Higher intensity means more photons per second, so more electrons are ejected. However, the maximum kinetic energy of each electron depends only on photon frequency (KE_max = hf - phi), not intensity.",
+      "concept_tags": ["photoelectric-effect", "light-intensity", "photon-flux"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-030",
+      "question_text": "The Heisenberg uncertainty principle states that:",
+      "options": [
+        "A. position and velocity can be measured exactly",
+        "B. there is a fundamental limit to knowing position and momentum simultaneously",
+        "C. electrons have definite orbits",
+        "D. all measurements are equally uncertain"
+      ],
+      "correct_answer": "B",
+      "explanation": "Heisenberg's uncertainty principle: Delta x times Delta p >= h/(4 pi). We cannot simultaneously know both position and momentum with arbitrary precision. This is a fundamental property of nature, not a measurement limitation.",
+      "concept_tags": ["uncertainty-principle", "quantum-mechanics", "heisenberg"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-031",
+      "question_text": "Carbon-14 dating is effective for organic materials up to approximately:",
+      "options": [
+        "A. 1,000 years old",
+        "B. 50,000 years old",
+        "C. 1 million years old",
+        "D. 4.5 billion years old"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carbon-14 has a half-life of 5,730 years. After about 8-10 half-lives (~50,000 years), too little C-14 remains for accurate measurement. For older samples, other isotopes with longer half-lives (like K-40 or U-238) are used.",
+      "concept_tags": ["radiocarbon-dating", "carbon-14", "half-life"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-032",
+      "question_text": "The principal quantum number (n) in an atom determines:",
+      "options": [
+        "A. the electron's spin direction",
+        "B. the electron's orbital shape",
+        "C. the electron's energy level and shell",
+        "D. the number of electrons in the atom"
+      ],
+      "correct_answer": "C",
+      "explanation": "The principal quantum number n determines the energy level and electron shell (n = 1, 2, 3 corresponds to K, L, M shells). Higher n means higher energy and larger orbital radius. It's the most important quantum number for energy.",
+      "concept_tags": ["quantum-numbers", "principal-quantum-number", "electron-shells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-033",
+      "question_text": "The emission spectrum of hydrogen shows discrete lines because:",
+      "options": [
+        "A. hydrogen has only one electron",
+        "B. electrons can only transition between quantized energy levels",
+        "C. hydrogen atoms are very small",
+        "D. light is continuous"
+      ],
+      "correct_answer": "B",
+      "explanation": "Discrete spectral lines occur because electrons can only exist in quantized energy levels. Transitions between levels emit photons of specific energies (and thus specific wavelengths). This was key evidence for Bohr's atomic model.",
+      "concept_tags": ["emission-spectrum", "spectral-lines", "quantization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-034",
+      "question_text": "A radioactive isotope has a half-life of 4 days. If you start with 80 grams, how much remains after 12 days?",
+      "options": [
+        "A. 40 grams",
+        "B. 20 grams",
+        "C. 10 grams",
+        "D. 5 grams"
+      ],
+      "correct_answer": "C",
+      "explanation": "Number of half-lives = 12/4 = 3. Remaining amount = 80 x (1/2)^3 = 80 x 1/8 = 10 grams. After each half-life, half of the radioactive material decays.",
+      "concept_tags": ["half-life", "radioactive-decay", "exponential-decay"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-035",
+      "question_text": "Fission of U-235 typically produces:",
+      "options": [
+        "A. two identical fragments only",
+        "B. fission fragments, neutrons, and energy",
+        "C. helium nuclei only",
+        "D. electrons and positrons"
+      ],
+      "correct_answer": "B",
+      "explanation": "U-235 fission produces two medium-mass fission fragments (not identical), 2-3 neutrons, gamma rays, and about 200 MeV of energy. The released neutrons can trigger a chain reaction in a critical mass.",
+      "concept_tags": ["nuclear-fission", "uranium-235", "chain-reaction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-036",
+      "question_text": "The electron volt (eV) is a unit of:",
+      "options": [
+        "A. charge",
+        "B. voltage",
+        "C. energy",
+        "D. current"
+      ],
+      "correct_answer": "C",
+      "explanation": "The electron volt is a unit of energy: 1 eV = 1.6 x 10^-19 J. It's the energy gained by an electron accelerated through 1 volt. It's convenient for atomic and nuclear physics where energies are very small in joules.",
+      "concept_tags": ["electron-volt", "energy-units", "atomic-physics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-037",
+      "question_text": "Which radiation type is most dangerous when ingested or inhaled?",
+      "options": [
+        "A. Gamma rays",
+        "B. Alpha particles",
+        "C. Beta particles",
+        "D. All are equally dangerous"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alpha particles have the highest ionizing power (cause most damage per particle) but lowest penetration. Externally, they're blocked by skin. However, when ingested or inhaled, alpha emitters cause severe internal damage to tissues.",
+      "concept_tags": ["radiation-hazards", "alpha-particles", "ionizing-radiation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-038",
+      "question_text": "The wavelength of an X-ray photon is approximately:",
+      "options": [
+        "A. 10^-2 meters",
+        "B. 10^-6 meters",
+        "C. 10^-10 meters",
+        "D. 10^-15 meters"
+      ],
+      "correct_answer": "C",
+      "explanation": "X-rays have wavelengths around 10^-10 to 10^-11 m (0.1-1 angstroms). This is comparable to atomic dimensions, making X-rays useful for crystallography. Gamma rays have even shorter wavelengths (~10^-12 m).",
+      "concept_tags": ["x-rays", "electromagnetic-spectrum", "wavelength"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-039",
+      "question_text": "When comparing nuclear fission and fusion, fusion:",
+      "options": [
+        "A. releases more energy per nucleon",
+        "B. is easier to achieve at room temperature",
+        "C. produces more radioactive waste",
+        "D. occurs spontaneously in heavy elements"
+      ],
+      "correct_answer": "A",
+      "explanation": "Fusion releases more energy per nucleon than fission because light nuclei are less tightly bound than medium nuclei. However, fusion requires extremely high temperatures to overcome electrostatic repulsion. Fusion produces less radioactive waste.",
+      "concept_tags": ["nuclear-fusion", "nuclear-fission", "binding-energy"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-09-040",
+      "question_text": "An atom absorbs a photon of energy 10.2 eV. This energy corresponds to a transition from n = 1 to n = 2 in hydrogen. The electron:",
+      "options": [
+        "A. is ejected from the atom",
+        "B. moves to a higher energy level",
+        "C. loses energy",
+        "D. remains in the ground state"
+      ],
+      "correct_answer": "B",
+      "explanation": "Absorbing a photon with energy matching the transition energy promotes the electron to a higher energy level (excited state). The energy 10.2 eV corresponds to the n = 1 to n = 2 transition in hydrogen (Lyman alpha absorption).",
+      "concept_tags": ["photon-absorption", "electron-transitions", "excitation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-041",
+      "question_text": "The binding energy per nucleon is greatest for nuclei near:",
+      "options": [
+        "A. hydrogen (A = 1)",
+        "B. iron (A = 56)",
+        "C. uranium (A = 238)",
+        "D. helium (A = 4)"
+      ],
+      "correct_answer": "B",
+      "explanation": "The binding energy curve peaks around iron-56 (~8.8 MeV/nucleon). Lighter nuclei gain energy by fusion; heavier nuclei gain energy by fission. Both processes move toward iron, the most stable nucleus.",
+      "concept_tags": ["binding-energy-curve", "nuclear-stability", "iron-peak"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-09-042",
+      "question_text": "A positron is the antiparticle of:",
+      "options": [
+        "A. a proton",
+        "B. a neutron",
+        "C. an electron",
+        "D. a photon"
+      ],
+      "correct_answer": "C",
+      "explanation": "A positron (beta-plus particle) is the antiparticle of an electron: same mass, opposite charge (+e). When a positron meets an electron, they annihilate, producing two gamma ray photons (used in PET scans).",
+      "concept_tags": ["positron", "antiparticle", "antimatter"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-043",
+      "question_text": "In PET (positron emission tomography) scans, the detectors measure:",
+      "options": [
+        "A. alpha particles from radioactive tracers",
+        "B. gamma rays from positron-electron annihilation",
+        "C. beta particles directly",
+        "D. X-rays from tissue absorption"
+      ],
+      "correct_answer": "B",
+      "explanation": "PET uses positron-emitting isotopes. When positrons encounter electrons, they annihilate and produce two 511 keV gamma rays traveling in opposite directions. Detecting these coincident gamma rays allows image reconstruction.",
+      "concept_tags": ["pet-scan", "positron-annihilation", "medical-imaging"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-09-044",
+      "question_text": "The Compton effect demonstrates that:",
+      "options": [
+        "A. light behaves only as a wave",
+        "B. photons have momentum and can scatter off electrons",
+        "C. electrons are waves",
+        "D. atoms are indivisible"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Compton effect shows X-ray photons scattering off electrons with a wavelength increase, demonstrating photon momentum (p = h/lambda). The photon transfers some energy to the electron, increasing its wavelength.",
+      "concept_tags": ["compton-effect", "photon-momentum", "wave-particle-duality"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-09-045",
+      "question_text": "The quantum mechanical model of the atom describes electrons as:",
+      "options": [
+        "A. particles in fixed circular orbits",
+        "B. probability clouds called orbitals",
+        "C. waves orbiting the nucleus",
+        "D. stationary particles in the nucleus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Quantum mechanics describes electrons as probability distributions (orbitals), not fixed paths. The electron's exact position is uncertain; we can only calculate the probability of finding it at any location. This supersedes the Bohr model.",
+      "concept_tags": ["quantum-mechanics", "orbitals", "probability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-046",
+      "question_text": "A sample initially contains 1000 radioactive nuclei. After 2 half-lives, the expected number of remaining nuclei is:",
+      "options": [
+        "A. 500",
+        "B. 250",
+        "C. 125",
+        "D. 750"
+      ],
+      "correct_answer": "B",
+      "explanation": "After each half-life, half the nuclei remain. After 1 half-life: 1000/2 = 500. After 2 half-lives: 500/2 = 250. The formula is N = N_0 x (1/2)^n, where n is the number of half-lives.",
+      "concept_tags": ["half-life", "radioactive-decay", "nuclear-physics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-09-047",
+      "question_text": "The energy of a photon is 3.1 eV. What is its energy in joules? (1 eV = 1.6 x 10^-19 J)",
+      "options": [
+        "A. 4.96 x 10^-19 J",
+        "B. 1.94 x 10^-18 J",
+        "C. 5.0 x 10^-20 J",
+        "D. 3.1 x 10^-19 J"
+      ],
+      "correct_answer": "A",
+      "explanation": "Energy in joules = 3.1 eV x (1.6 x 10^-19 J/eV) = 4.96 x 10^-19 J. This conversion is essential for connecting atomic/nuclear physics (eV) with mechanics/thermodynamics (joules).",
+      "concept_tags": ["unit-conversion", "electron-volt", "photon-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-09-048",
+      "question_text": "The critical mass in nuclear fission is:",
+      "options": [
+        "A. the maximum mass that can undergo fission",
+        "B. the minimum mass needed to sustain a chain reaction",
+        "C. the mass of one uranium atom",
+        "D. the mass converted to energy"
+      ],
+      "correct_answer": "B",
+      "explanation": "Critical mass is the minimum amount of fissile material needed to sustain a nuclear chain reaction. Below this mass, too many neutrons escape without causing fission. It depends on material purity, shape, and density.",
+      "concept_tags": ["critical-mass", "chain-reaction", "nuclear-fission"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-09-049",
+      "question_text": "The ratio of neutrons to protons in stable nuclei generally:",
+      "options": [
+        "A. equals 1 for all nuclei",
+        "B. decreases as atomic number increases",
+        "C. increases as atomic number increases",
+        "D. is always less than 1"
+      ],
+      "correct_answer": "C",
+      "explanation": "Light stable nuclei have roughly equal protons and neutrons (N/Z ~ 1). Heavier stable nuclei need more neutrons (N/Z ~ 1.5) because additional neutrons provide nuclear force to overcome increasing proton-proton repulsion.",
+      "concept_tags": ["nuclear-stability", "neutron-proton-ratio", "nuclear-structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-09-050",
+      "question_text": "Technetium-99m is used in medical imaging because:",
+      "options": [
+        "A. it has a very long half-life",
+        "B. it emits only alpha particles",
+        "C. it has a short half-life and emits gamma rays detectable outside the body",
+        "D. it is chemically inert"
+      ],
+      "correct_answer": "C",
+      "explanation": "Tc-99m has a 6-hour half-life (short enough to minimize radiation exposure but long enough for imaging) and emits 140 keV gamma rays (penetrates tissue, easily detected). The 'm' indicates a metastable excited nuclear state.",
+      "concept_tags": ["nuclear-medicine", "gamma-imaging", "radioisotopes"],
+      "difficulty": "hard"
+    }
+  ]
+}

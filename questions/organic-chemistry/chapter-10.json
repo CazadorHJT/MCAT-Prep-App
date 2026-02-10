@@ -1,0 +1,457 @@
+{
+  "book": "organic-chemistry",
+  "chapter": 10,
+  "chapter_title": "Biological Molecules",
+  "questions": [
+    {
+      "id": "organic-chemistry-10-001",
+      "question_text": "Amino acids are classified as α-amino acids because:",
+      "options": ["A. They are the first amino acids discovered", "B. The amino group is on the alpha carbon (adjacent to carboxyl)", "C. They have one amino group", "D. They are acidic"],
+      "correct_answer": "B",
+      "explanation": "α-Amino acids have the amino group attached to the carbon adjacent to (alpha to) the carboxylic acid group.",
+      "concept_tags": ["amino acids", "alpha carbon", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-002",
+      "question_text": "At physiological pH (~7.4), most amino acids exist as:",
+      "options": ["A. Neutral molecules", "B. Zwitterions with charged amino and carboxyl groups", "C. Anions", "D. Cations"],
+      "correct_answer": "B",
+      "explanation": "At physiological pH, the amino group is protonated (NH3+, pKa ~9) and the carboxyl is deprotonated (COO-, pKa ~2), creating a zwitterion.",
+      "concept_tags": ["zwitterion", "amino acids", "physiological pH"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-003",
+      "question_text": "The isoelectric point (pI) of a simple amino acid is:",
+      "options": ["A. The pH where it is most soluble", "B. The pH where it has no net charge", "C. The pH where it denatures", "D. Always 7.0"],
+      "correct_answer": "B",
+      "explanation": "The pI is the pH at which the amino acid has no net electrical charge, calculated as the average of the two pKa values for simple amino acids.",
+      "concept_tags": ["isoelectric point", "pI", "amino acids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-004",
+      "question_text": "All naturally occurring amino acids in proteins (except glycine) are:",
+      "options": ["A. D-configuration", "B. L-configuration", "C. Racemic", "D. Achiral"],
+      "correct_answer": "B",
+      "explanation": "Proteins are made of L-amino acids. Glycine is achiral (R=H). The L-configuration corresponds to S-configuration for most amino acids.",
+      "concept_tags": ["L-amino acids", "stereochemistry", "chirality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-005",
+      "question_text": "Peptide bond formation between amino acids involves:",
+      "options": ["A. Esterification", "B. Amide bond formation with loss of water", "C. Disulfide bond formation", "D. Hydrogen bonding"],
+      "correct_answer": "B",
+      "explanation": "A peptide bond is an amide bond formed by condensation between the carboxyl group of one amino acid and the amino group of another, releasing water.",
+      "concept_tags": ["peptide bond", "amide", "condensation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-006",
+      "question_text": "Peptide bonds have partial double-bond character due to:",
+      "options": ["A. Hydrogen bonding", "B. Resonance delocalization of the nitrogen lone pair", "C. Ionic interactions", "D. Van der Waals forces"],
+      "correct_answer": "B",
+      "explanation": "The nitrogen lone pair delocalizes into the carbonyl, giving the C-N bond partial double-bond character and restricting rotation.",
+      "concept_tags": ["peptide bond", "resonance", "restricted rotation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-007",
+      "question_text": "Protein primary structure refers to:",
+      "options": ["A. Alpha helices and beta sheets", "B. The linear sequence of amino acids", "C. Overall 3D shape", "D. Interactions between subunits"],
+      "correct_answer": "B",
+      "explanation": "Primary structure is the linear sequence of amino acids in a polypeptide chain, determined by the gene encoding the protein.",
+      "concept_tags": ["primary structure", "amino acid sequence", "protein"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-008",
+      "question_text": "Protein secondary structure includes:",
+      "options": ["A. Amino acid sequence", "B. Alpha helices, beta sheets, and turns", "C. Disulfide bonds", "D. Quaternary interactions"],
+      "correct_answer": "B",
+      "explanation": "Secondary structure refers to local folding patterns (α-helices, β-sheets, turns) stabilized by hydrogen bonds between backbone atoms.",
+      "concept_tags": ["secondary structure", "alpha helix", "beta sheet"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-009",
+      "question_text": "Alpha helices are stabilized by hydrogen bonds between:",
+      "options": ["A. Side chains", "B. C=O of residue n and N-H of residue n+4", "C. Adjacent strands", "D. Different proteins"],
+      "correct_answer": "B",
+      "explanation": "In α-helices, hydrogen bonds form between the carbonyl oxygen of one residue and the amide hydrogen four residues ahead along the chain.",
+      "concept_tags": ["alpha helix", "hydrogen bonding", "structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-010",
+      "question_text": "Beta sheets are formed by hydrogen bonds between:",
+      "options": ["A. Residues within the same strand", "B. Backbone atoms of adjacent strands", "C. Side chains only", "D. The N and C termini"],
+      "correct_answer": "B",
+      "explanation": "β-sheets are formed by hydrogen bonds between backbone C=O and N-H groups of adjacent polypeptide strands (parallel or antiparallel).",
+      "concept_tags": ["beta sheet", "hydrogen bonding", "secondary structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-011",
+      "question_text": "Protein tertiary structure refers to:",
+      "options": ["A. The amino acid sequence", "B. Local secondary structure elements", "C. The overall 3D shape of a single polypeptide", "D. Multiple polypeptide chains together"],
+      "correct_answer": "C",
+      "explanation": "Tertiary structure is the complete three-dimensional arrangement of all atoms in a single polypeptide chain.",
+      "concept_tags": ["tertiary structure", "3D structure", "folding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-012",
+      "question_text": "Forces stabilizing tertiary structure include all EXCEPT:",
+      "options": ["A. Hydrophobic interactions", "B. Disulfide bonds", "C. Peptide bonds", "D. Salt bridges"],
+      "correct_answer": "C",
+      "explanation": "Tertiary structure is stabilized by side chain interactions (hydrophobic, disulfide, ionic, H-bonds). Peptide bonds define primary structure.",
+      "concept_tags": ["tertiary structure", "stabilizing forces", "protein folding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-013",
+      "question_text": "Disulfide bonds form between two residues of:",
+      "options": ["A. Serine", "B. Cysteine", "C. Methionine", "D. Tyrosine"],
+      "correct_answer": "B",
+      "explanation": "Disulfide bonds (S-S) form by oxidation of the thiol groups of two cysteine residues, creating covalent cross-links.",
+      "concept_tags": ["disulfide bond", "cysteine", "covalent"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-014",
+      "question_text": "Quaternary structure involves:",
+      "options": ["A. Amino acid sequence", "B. Single polypeptide folding", "C. Multiple polypeptide subunits associated together", "D. Prosthetic groups only"],
+      "correct_answer": "C",
+      "explanation": "Quaternary structure describes the arrangement of multiple polypeptide subunits (oligomer) in proteins with more than one chain.",
+      "concept_tags": ["quaternary structure", "subunits", "oligomeric"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-015",
+      "question_text": "Carbohydrates have the general formula:",
+      "options": ["A. CnH2n+2", "B. Cn(H2O)n or (CH2O)n", "C. CnH2nOn", "D. CnHnOn"],
+      "correct_answer": "B",
+      "explanation": "Carbohydrates have the general formula Cn(H2O)n, appearing as hydrates of carbon (hence the name), though this is coincidental.",
+      "concept_tags": ["carbohydrates", "formula", "hydrate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-016",
+      "question_text": "Monosaccharides are classified by:",
+      "options": ["A. Color and taste", "B. Number of carbons and whether aldose or ketose", "C. Solubility only", "D. Source organism"],
+      "correct_answer": "B",
+      "explanation": "Monosaccharides are classified by carbon number (triose, tetrose, pentose, hexose) and functional group (aldose=aldehyde, ketose=ketone).",
+      "concept_tags": ["monosaccharide", "aldose", "ketose", "classification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-017",
+      "question_text": "Glucose is classified as an:",
+      "options": ["A. Aldopentose", "B. Ketohexose", "C. Aldohexose", "D. Ketopentose"],
+      "correct_answer": "C",
+      "explanation": "Glucose is an aldohexose: it has six carbons (hexose) and an aldehyde functional group (aldose).",
+      "concept_tags": ["glucose", "aldohexose", "classification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-018",
+      "question_text": "Fructose is classified as a:",
+      "options": ["A. Aldohexose", "B. Ketohexose", "C. Aldopentose", "D. Ketopentose"],
+      "correct_answer": "B",
+      "explanation": "Fructose is a ketohexose: it has six carbons (hexose) and a ketone functional group (ketose).",
+      "concept_tags": ["fructose", "ketohexose", "classification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-019",
+      "question_text": "D and L designations for sugars are based on:",
+      "options": ["A. Direction of optical rotation", "B. Configuration at the highest-numbered chiral carbon", "C. Solubility in water", "D. Number of carbons"],
+      "correct_answer": "B",
+      "explanation": "D/L designation is based on the configuration at the highest-numbered chiral carbon (typically penultimate carbon) compared to D/L-glyceraldehyde.",
+      "concept_tags": ["D/L configuration", "stereochemistry", "glyceraldehyde"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-020",
+      "question_text": "Epimers are sugars that differ in configuration at:",
+      "options": ["A. All chiral centers", "B. Only one chiral center", "C. The anomeric carbon only", "D. No chiral centers"],
+      "correct_answer": "B",
+      "explanation": "Epimers are diastereomers that differ at only one chiral center. For example, glucose and galactose are C-4 epimers.",
+      "concept_tags": ["epimers", "diastereomers", "stereochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-021",
+      "question_text": "When glucose cyclizes, the new chiral center formed is called the:",
+      "options": ["A. Alpha carbon", "B. Anomeric carbon", "C. Reducing end", "D. Glycosidic carbon"],
+      "correct_answer": "B",
+      "explanation": "Cyclization creates a new stereocenter at C-1 (for aldoses), called the anomeric carbon. It can be α or β configuration.",
+      "concept_tags": ["anomeric carbon", "cyclization", "hemiacetal"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-022",
+      "question_text": "Anomers differ in configuration at:",
+      "options": ["A. All carbons", "B. Only the anomeric carbon", "C. The highest-numbered chiral carbon", "D. No carbons"],
+      "correct_answer": "B",
+      "explanation": "Anomers are isomers that differ only at the anomeric carbon (α and β forms), created during cyclization of sugars.",
+      "concept_tags": ["anomers", "alpha beta", "anomeric carbon"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-023",
+      "question_text": "Mutarotation is:",
+      "options": ["A. Permanent change in rotation", "B. Interconversion of anomers through the open-chain form", "C. Denaturation of sugars", "D. Polymerization"],
+      "correct_answer": "B",
+      "explanation": "Mutarotation is the change in optical rotation as α and β anomers interconvert through the open-chain form until equilibrium is reached.",
+      "concept_tags": ["mutarotation", "anomers", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-024",
+      "question_text": "A glycosidic bond is formed between:",
+      "options": ["A. Two carboxyl groups", "B. The anomeric carbon of one sugar and an OH of another", "C. Two amino groups", "D. Aldehyde groups"],
+      "correct_answer": "B",
+      "explanation": "A glycosidic bond is an acetal linkage between the anomeric carbon of one sugar and a hydroxyl group of another molecule (sugar or aglycone).",
+      "concept_tags": ["glycosidic bond", "acetal", "disaccharide"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-025",
+      "question_text": "Reducing sugars can reduce Tollens' or Fehling's reagent because they:",
+      "options": ["A. Are strong acids", "B. Have a free anomeric carbon that can open to an aldehyde", "C. Contain a ketone", "D. Are disaccharides"],
+      "correct_answer": "B",
+      "explanation": "Reducing sugars have a free anomeric carbon that can open to the aldehyde form, which can be oxidized (reducing the metal ion).",
+      "concept_tags": ["reducing sugar", "anomeric carbon", "Tollens"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-026",
+      "question_text": "Sucrose is NOT a reducing sugar because:",
+      "options": ["A. It is too large", "B. Both anomeric carbons are involved in the glycosidic bond", "C. It contains fructose", "D. It is synthetic"],
+      "correct_answer": "B",
+      "explanation": "In sucrose, the glycosidic bond links the anomeric carbons of both glucose and fructose, leaving no free anomeric carbon to open.",
+      "concept_tags": ["sucrose", "non-reducing sugar", "glycosidic bond"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-027",
+      "question_text": "Starch and glycogen are both:",
+      "options": ["A. Polymers of fructose", "B. Polymers of glucose with α-glycosidic bonds", "C. Polymers of glucose with β-glycosidic bonds", "D. Proteins"],
+      "correct_answer": "B",
+      "explanation": "Both starch and glycogen are storage polysaccharides made of glucose units linked by α-1,4 glycosidic bonds (with α-1,6 branches).",
+      "concept_tags": ["starch", "glycogen", "alpha linkage"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-028",
+      "question_text": "Cellulose differs from starch in having:",
+      "options": ["A. Fructose instead of glucose", "B. β-1,4 glycosidic bonds instead of α-1,4", "C. More branches", "D. Fewer glucose units"],
+      "correct_answer": "B",
+      "explanation": "Cellulose has β-1,4 glycosidic bonds, making it indigestible by humans (we lack β-glucosidase). Starch has α-1,4 bonds.",
+      "concept_tags": ["cellulose", "beta linkage", "structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-029",
+      "question_text": "Lipids are characterized by being:",
+      "options": ["A. Water-soluble", "B. Soluble in nonpolar solvents", "C. Always containing nitrogen", "D. Polymers of fatty acids"],
+      "correct_answer": "B",
+      "explanation": "Lipids are a diverse group of biomolecules defined by their solubility in nonpolar solvents rather than water.",
+      "concept_tags": ["lipids", "solubility", "hydrophobic"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-030",
+      "question_text": "Triglycerides are:",
+      "options": ["A. Mono-esters of glycerol", "B. Tri-esters of glycerol with fatty acids", "C. Phospholipids", "D. Steroids"],
+      "correct_answer": "B",
+      "explanation": "Triglycerides (triacylglycerols) consist of glycerol esterified with three fatty acid chains.",
+      "concept_tags": ["triglyceride", "ester", "glycerol"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-031",
+      "question_text": "Saturated fatty acids have:",
+      "options": ["A. One or more double bonds", "B. No carbon-carbon double bonds", "C. Triple bonds", "D. Ring structures"],
+      "correct_answer": "B",
+      "explanation": "Saturated fatty acids contain no C=C double bonds; all carbons are 'saturated' with hydrogen atoms.",
+      "concept_tags": ["saturated fatty acid", "structure", "no double bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-032",
+      "question_text": "Unsaturated fatty acids have lower melting points than saturated fatty acids because:",
+      "options": ["A. They are smaller molecules", "B. Cis double bonds create kinks that reduce packing", "C. They are more polar", "D. They have fewer carbons"],
+      "correct_answer": "B",
+      "explanation": "Cis double bonds in unsaturated fatty acids create kinks that prevent tight packing, reducing intermolecular forces and melting points.",
+      "concept_tags": ["unsaturated fatty acid", "melting point", "cis double bond"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-033",
+      "question_text": "Phospholipids differ from triglycerides by having:",
+      "options": ["A. Four fatty acid chains", "B. A phosphate group replacing one fatty acid", "C. No glycerol", "D. Only saturated fatty acids"],
+      "correct_answer": "B",
+      "explanation": "Phospholipids have two fatty acid chains and a phosphate-containing group attached to glycerol, making them amphipathic.",
+      "concept_tags": ["phospholipid", "amphipathic", "membrane"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-034",
+      "question_text": "Phospholipids are amphipathic, meaning they have:",
+      "options": ["A. Only hydrophobic regions", "B. Only hydrophilic regions", "C. Both hydrophobic and hydrophilic regions", "D. Neither hydrophobic nor hydrophilic properties"],
+      "correct_answer": "C",
+      "explanation": "Phospholipids are amphipathic: the fatty acid tails are hydrophobic while the phosphate head group is hydrophilic.",
+      "concept_tags": ["amphipathic", "hydrophobic", "hydrophilic"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-035",
+      "question_text": "In aqueous solution, phospholipids spontaneously form:",
+      "options": ["A. Crystals", "B. Bilayers and micelles", "C. Covalent networks", "D. Precipitates"],
+      "correct_answer": "B",
+      "explanation": "The amphipathic nature of phospholipids drives self-assembly into bilayers (membranes) or micelles in water.",
+      "concept_tags": ["bilayer", "micelle", "self-assembly"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-036",
+      "question_text": "Steroids are characterized by:",
+      "options": ["A. Long fatty acid chains", "B. Four fused rings (three six-membered and one five-membered)", "C. Glycosidic bonds", "D. Peptide bonds"],
+      "correct_answer": "B",
+      "explanation": "Steroids have a characteristic four-ring structure (steroid nucleus) consisting of three cyclohexane rings and one cyclopentane ring fused together.",
+      "concept_tags": ["steroid", "ring structure", "cholesterol"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-037",
+      "question_text": "Cholesterol is a:",
+      "options": ["A. Triglyceride", "B. Phospholipid", "C. Steroid", "D. Carbohydrate"],
+      "correct_answer": "C",
+      "explanation": "Cholesterol is a steroid lipid that is essential for membrane structure and serves as a precursor for steroid hormones and bile acids.",
+      "concept_tags": ["cholesterol", "steroid", "membrane"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-038",
+      "question_text": "Nucleotides consist of:",
+      "options": ["A. Amino acid, sugar, and phosphate", "B. Nitrogenous base, sugar, and phosphate", "C. Fatty acid, glycerol, and phosphate", "D. Base and sugar only"],
+      "correct_answer": "B",
+      "explanation": "Nucleotides have three components: a nitrogenous base (purine or pyrimidine), a pentose sugar (ribose or deoxyribose), and one or more phosphate groups.",
+      "concept_tags": ["nucleotide", "structure", "components"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-039",
+      "question_text": "The purines in DNA and RNA are:",
+      "options": ["A. Cytosine and thymine", "B. Adenine and guanine", "C. Uracil and cytosine", "D. Adenine and cytosine"],
+      "correct_answer": "B",
+      "explanation": "Purines (adenine and guanine) have two fused rings. Pyrimidines (cytosine, thymine, uracil) have one ring.",
+      "concept_tags": ["purines", "adenine", "guanine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-040",
+      "question_text": "DNA and RNA differ in that DNA has:",
+      "options": ["A. Ribose and uracil", "B. Deoxyribose and thymine", "C. Single strand structure", "D. No phosphate groups"],
+      "correct_answer": "B",
+      "explanation": "DNA contains deoxyribose (2'-deoxy) and thymine, while RNA has ribose (2'-OH) and uracil instead of thymine.",
+      "concept_tags": ["DNA vs RNA", "deoxyribose", "thymine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-041",
+      "question_text": "The phosphodiester backbone of DNA connects:",
+      "options": ["A. Bases to bases", "B. The 5' carbon of one nucleotide to the 3' carbon of the next", "C. Sugars to bases", "D. Phosphates to bases"],
+      "correct_answer": "B",
+      "explanation": "Phosphodiester bonds link the 5'-phosphate of one nucleotide to the 3'-hydroxyl of the next, creating the sugar-phosphate backbone.",
+      "concept_tags": ["phosphodiester", "backbone", "5' to 3'"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-042",
+      "question_text": "Base pairing in DNA involves:",
+      "options": ["A. A-G and C-T", "B. A-T and G-C", "C. A-C and G-T", "D. Random pairing"],
+      "correct_answer": "B",
+      "explanation": "Watson-Crick base pairing: adenine pairs with thymine (2 H-bonds) and guanine pairs with cytosine (3 H-bonds).",
+      "concept_tags": ["base pairing", "Watson-Crick", "hydrogen bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-043",
+      "question_text": "The two strands of DNA are:",
+      "options": ["A. Parallel and identical", "B. Antiparallel and complementary", "C. Parallel and complementary", "D. Randomly oriented"],
+      "correct_answer": "B",
+      "explanation": "DNA strands run antiparallel (5'→3' opposite 3'→5') and are complementary through specific base pairing.",
+      "concept_tags": ["antiparallel", "complementary", "DNA structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-044",
+      "question_text": "ATP is classified as a:",
+      "options": ["A. Deoxyribonucleotide", "B. Ribonucleoside triphosphate", "C. Protein", "D. Lipid"],
+      "correct_answer": "B",
+      "explanation": "ATP (adenosine triphosphate) is a ribonucleoside triphosphate consisting of adenine, ribose, and three phosphate groups.",
+      "concept_tags": ["ATP", "nucleotide", "energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-045",
+      "question_text": "The high energy of ATP comes from:",
+      "options": ["A. The adenine base", "B. Electrostatic repulsion between phosphates", "C. The ribose sugar", "D. Hydrogen bonds"],
+      "correct_answer": "B",
+      "explanation": "The closely-spaced negative charges on the phosphate groups create electrostatic repulsion, making the phosphoanhydride bonds high-energy.",
+      "concept_tags": ["ATP", "high energy bond", "phosphate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-046",
+      "question_text": "Saponification of a triglyceride produces:",
+      "options": ["A. Fatty acids and glycerol", "B. Glycerol and fatty acid salts (soap)", "C. Phospholipids", "D. Glucose"],
+      "correct_answer": "B",
+      "explanation": "Saponification (base-catalyzed hydrolysis) of triglycerides produces glycerol and the sodium or potassium salts of fatty acids (soaps).",
+      "concept_tags": ["saponification", "soap", "base hydrolysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-047",
+      "question_text": "Hemoglobin is an example of a protein with:",
+      "options": ["A. Only primary structure", "B. Only tertiary structure", "C. Quaternary structure (multiple subunits)", "D. No secondary structure"],
+      "correct_answer": "C",
+      "explanation": "Hemoglobin has quaternary structure, consisting of four polypeptide subunits (two α and two β chains) that assemble together.",
+      "concept_tags": ["hemoglobin", "quaternary structure", "subunits"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-048",
+      "question_text": "Denaturation of a protein involves:",
+      "options": ["A. Breaking peptide bonds", "B. Loss of higher-order structure while keeping primary structure", "C. Hydrolysis to amino acids", "D. Synthesis of new bonds"],
+      "correct_answer": "B",
+      "explanation": "Denaturation disrupts secondary, tertiary, and quaternary structure through loss of non-covalent interactions, but primary structure (peptide bonds) remains intact.",
+      "concept_tags": ["denaturation", "protein structure", "unfolding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-10-049",
+      "question_text": "Enzymes are biological catalysts that are typically:",
+      "options": ["A. Carbohydrates", "B. Lipids", "C. Proteins", "D. Nucleic acids"],
+      "correct_answer": "C",
+      "explanation": "Most enzymes are proteins (some RNA molecules called ribozymes also have catalytic activity). Their specific 3D structure enables catalysis.",
+      "concept_tags": ["enzymes", "catalysis", "proteins"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-10-050",
+      "question_text": "Prosthetic groups in proteins are:",
+      "options": ["A. Additional amino acids", "B. Tightly bound non-protein components required for function", "C. Water molecules", "D. Temporary substrates"],
+      "correct_answer": "B",
+      "explanation": "Prosthetic groups are non-protein molecules permanently or tightly bound to proteins, essential for their function (e.g., heme in hemoglobin).",
+      "concept_tags": ["prosthetic group", "cofactor", "protein function"],
+      "difficulty": "medium"
+    }
+  ]
+}

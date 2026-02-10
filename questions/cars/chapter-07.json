@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 7,
+  "chapter_title": "Humanities Passages",
+  "questions": [
+    {
+      "id": "cars-07-001",
+      "question_text": "Humanities disciplines included in CARS passages typically cover:",
+      "options": ["A. Only science topics", "B. Philosophy, ethics, literature, history, and the arts", "C. Only mathematics", "D. Only medical topics"],
+      "correct_answer": "B",
+      "explanation": "CARS humanities passages draw from philosophy, ethics, literature, history, art history, music, religious studies, and related fields.",
+      "concept_tags": ["humanities", "CARS topics", "disciplines"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-07-002",
+      "question_text": "Philosophy passages often focus on:",
+      "options": ["A. Laboratory experiments", "B. Abstract concepts, ethical arguments, and theories of knowledge", "C. Statistical analysis only", "D. Medical procedures"],
+      "correct_answer": "B",
+      "explanation": "Philosophy passages examine questions about knowledge (epistemology), existence (metaphysics), ethics (right/wrong), and logic.",
+      "concept_tags": ["philosophy", "abstract concepts", "ethics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-07-003",
+      "question_text": "When reading ethics passages, pay attention to:",
+      "options": ["A. Only scientific data", "B. Moral principles, justifications, and competing values", "C. Only dates and names", "D. Only economic factors"],
+      "correct_answer": "B",
+      "explanation": "Ethics passages involve moral arguments—identifying principles, understanding justifications, and evaluating competing values.",
+      "concept_tags": ["ethics", "moral principles", "values"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-004",
+      "question_text": "A consequentialist ethical argument focuses on:",
+      "options": ["A. Following rules regardless of outcome", "B. The outcomes or results of actions", "C. Character traits only", "D. Religious commands"],
+      "correct_answer": "B",
+      "explanation": "Consequentialism (e.g., utilitarianism) judges actions by their outcomes—right actions produce good consequences.",
+      "concept_tags": ["consequentialism", "ethics", "outcomes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-005",
+      "question_text": "A deontological ethical argument focuses on:",
+      "options": ["A. Outcomes alone", "B. Duties, rules, and the inherent rightness of actions", "C. Only feelings", "D. Economic efficiency"],
+      "correct_answer": "B",
+      "explanation": "Deontology (e.g., Kantian ethics) judges actions by their adherence to duties or rules, regardless of consequences.",
+      "concept_tags": ["deontology", "ethics", "duties"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-006",
+      "question_text": "Virtue ethics focuses on:",
+      "options": ["A. Rules to follow", "B. Outcomes to achieve", "C. Character traits and what a virtuous person would do", "D. Legal requirements"],
+      "correct_answer": "C",
+      "explanation": "Virtue ethics emphasizes developing good character traits and asking what a virtuous person would do in a given situation.",
+      "concept_tags": ["virtue ethics", "character", "moral development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-007",
+      "question_text": "Literature passages often require analysis of:",
+      "options": ["A. Only plot summary", "B. Themes, style, interpretation, and cultural context", "C. Only grammar", "D. Only the author's biography"],
+      "correct_answer": "B",
+      "explanation": "Literary analysis involves examining themes, stylistic choices, interpretive possibilities, and the work's cultural/historical context.",
+      "concept_tags": ["literature", "analysis", "interpretation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-008",
+      "question_text": "When a literature passage discusses 'interpretation,' be aware that:",
+      "options": ["A. Only one interpretation is ever correct", "B. Multiple valid interpretations may exist with different support", "C. Interpretation is impossible", "D. The author's intent is always irrelevant"],
+      "correct_answer": "B",
+      "explanation": "Literary interpretation often involves considering multiple valid readings, each supported by textual evidence in different ways.",
+      "concept_tags": ["interpretation", "multiple readings", "literature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-009",
+      "question_text": "Historical passages may present:",
+      "options": ["A. Only facts with no interpretation", "B. Debates about causes, significance, or interpretation of events", "C. Only timelines", "D. Only biographies"],
+      "correct_answer": "B",
+      "explanation": "History passages often involve historiographical debates—different interpretations of causes, significance, or meaning of events.",
+      "concept_tags": ["history", "interpretation", "historiography"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-010",
+      "question_text": "Art criticism passages may evaluate works based on:",
+      "options": ["A. Only the artist's biography", "B. Aesthetic qualities, cultural context, technique, and meaning", "C. Only market value", "D. Only size and color"],
+      "correct_answer": "B",
+      "explanation": "Art criticism examines aesthetic qualities, technical skill, cultural significance, and the meanings works convey.",
+      "concept_tags": ["art criticism", "aesthetics", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-011",
+      "question_text": "When a passage discusses 'aesthetic value,' it refers to:",
+      "options": ["A. Only monetary worth", "B. Artistic or beauty-related worth", "C. Usefulness", "D. Historical accuracy"],
+      "correct_answer": "B",
+      "explanation": "Aesthetic value relates to beauty, artistic merit, and qualities that make something artistically valuable or meaningful.",
+      "concept_tags": ["aesthetic value", "beauty", "art"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-07-012",
+      "question_text": "Passages about cultural movements require understanding:",
+      "options": ["A. Only individual artists", "B. Shared characteristics, contexts, and how movements relate to society", "C. Only dates", "D. Only geographic locations"],
+      "correct_answer": "B",
+      "explanation": "Cultural movements are understood through their shared features, historical context, and relationship to broader social forces.",
+      "concept_tags": ["cultural movements", "context", "characteristics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-013",
+      "question_text": "When philosophy passages discuss 'knowledge,' they often explore:",
+      "options": ["A. Only facts from textbooks", "B. What counts as knowledge and how we know what we know", "C. Only scientific facts", "D. Only memory"],
+      "correct_answer": "B",
+      "explanation": "Epistemology questions include: What is knowledge? How do we acquire it? What can we know? What justifies beliefs?",
+      "concept_tags": ["epistemology", "knowledge", "philosophy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-014",
+      "question_text": "The term 'metaphysics' in philosophy passages refers to:",
+      "options": ["A. Physics experiments", "B. Questions about the fundamental nature of reality", "C. Only supernatural beliefs", "D. Only religious doctrines"],
+      "correct_answer": "B",
+      "explanation": "Metaphysics examines fundamental questions about reality—existence, identity, causation, space, time, and what exists.",
+      "concept_tags": ["metaphysics", "reality", "philosophy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-015",
+      "question_text": "Passages about free will typically debate:",
+      "options": ["A. Political freedom", "B. Whether humans can make genuinely free choices", "C. Only prison reform", "D. Only economic liberty"],
+      "correct_answer": "B",
+      "explanation": "Free will debates concern whether humans can make genuinely free choices or whether our choices are determined by prior causes.",
+      "concept_tags": ["free will", "determinism", "philosophy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-016",
+      "question_text": "Religious studies passages may discuss:",
+      "options": ["A. Only promoting one religion", "B. Beliefs, practices, texts, and religion's role in society", "C. Only criticizing religion", "D. Only ancient religions"],
+      "correct_answer": "B",
+      "explanation": "Religious studies examines religious beliefs, practices, texts, institutions, and religion's cultural and social roles academically.",
+      "concept_tags": ["religious studies", "beliefs", "practices"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-07-017",
+      "question_text": "When a passage presents a philosopher's argument, you should:",
+      "options": ["A. Assume it's correct", "B. Understand the argument structure and any critiques presented", "C. Ignore counterarguments", "D. Reject all philosophy"],
+      "correct_answer": "B",
+      "explanation": "Engage with the argument's structure, premises, and conclusion, as well as any critiques or counterarguments the passage presents.",
+      "concept_tags": ["philosophical argument", "analysis", "structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-018",
+      "question_text": "Passages about the philosophy of science may examine:",
+      "options": ["A. Only laboratory procedures", "B. What makes something scientific and limits of scientific knowledge", "C. Only biology", "D. Only funding for research"],
+      "correct_answer": "B",
+      "explanation": "Philosophy of science examines the nature of scientific inquiry, what distinguishes science from non-science, and limits of scientific knowledge.",
+      "concept_tags": ["philosophy of science", "scientific method", "demarcation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-019",
+      "question_text": "Music criticism passages may evaluate:",
+      "options": ["A. Only sales figures", "B. Technique, expression, innovation, and cultural significance", "C. Only the musician's appearance", "D. Only instrument quality"],
+      "correct_answer": "B",
+      "explanation": "Music criticism considers technical skill, emotional expression, innovation, and the work's cultural/historical significance.",
+      "concept_tags": ["music criticism", "evaluation", "expression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-020",
+      "question_text": "When reading about an intellectual debate, identify:",
+      "options": ["A. Only one side", "B. The positions, their premises, and points of disagreement", "C. Only the winner", "D. Only dates"],
+      "correct_answer": "B",
+      "explanation": "Understanding debates requires grasping each position, the premises supporting it, and precisely where disagreement lies.",
+      "concept_tags": ["intellectual debate", "positions", "disagreement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-021",
+      "question_text": "A passage presenting competing interpretations of a text is asking you to:",
+      "options": ["A. Choose randomly", "B. Understand each interpretation and its supporting evidence", "C. Ignore all interpretations", "D. Create your own interpretation"],
+      "correct_answer": "B",
+      "explanation": "Understand what each interpretation claims and what evidence or reasoning supports it, without necessarily choosing one as correct.",
+      "concept_tags": ["interpretations", "evidence", "understanding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-022",
+      "question_text": "Existentialist philosophy passages often discuss:",
+      "options": ["A. Only scientific facts", "B. Individual freedom, meaning, authenticity, and responsibility", "C. Only mathematical proofs", "D. Only economic theory"],
+      "correct_answer": "B",
+      "explanation": "Existentialism focuses on individual existence, freedom, creating meaning, living authentically, and taking responsibility for choices.",
+      "concept_tags": ["existentialism", "freedom", "meaning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-023",
+      "question_text": "When a humanities passage uses specialized terminology:",
+      "options": ["A. You should already know all terms", "B. Context often clarifies meaning, or terms are explained", "C. Skip those sections", "D. Guess randomly at meanings"],
+      "correct_answer": "B",
+      "explanation": "Specialized terms are often defined or clarified through context. Use surrounding information to understand unfamiliar concepts.",
+      "concept_tags": ["terminology", "context", "understanding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-07-024",
+      "question_text": "Passages about cultural values may explore:",
+      "options": ["A. Only universal agreement", "B. How values differ across cultures and implications of this", "C. Only Western values", "D. Only ancient values"],
+      "correct_answer": "B",
+      "explanation": "Cultural value discussions often examine variation across cultures, questions of relativism vs. universalism, and implications.",
+      "concept_tags": ["cultural values", "relativism", "diversity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-025",
+      "question_text": "When a passage discusses a 'paradigm shift,' it refers to:",
+      "options": ["A. A minor change", "B. A fundamental change in how a field views its subject", "C. Only schedule changes", "D. Only physical movement"],
+      "correct_answer": "B",
+      "explanation": "A paradigm shift (Thomas Kuhn) is a revolutionary change in the basic concepts and practices of a discipline.",
+      "concept_tags": ["paradigm shift", "revolution", "intellectual change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-026",
+      "question_text": "Biography passages in CARS focus on:",
+      "options": ["A. Only personal gossip", "B. How individuals' lives illuminate broader themes or ideas", "C. Only dates of birth and death", "D. Only family relationships"],
+      "correct_answer": "B",
+      "explanation": "Academic biography connects individual lives to broader historical, cultural, or intellectual themes rather than just listing facts.",
+      "concept_tags": ["biography", "broader themes", "context"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-027",
+      "question_text": "Passages about translation often consider:",
+      "options": ["A. Only word-for-word equivalence", "B. Challenges of conveying meaning, cultural context, and style", "C. Only grammar rules", "D. Only pronunciation"],
+      "correct_answer": "B",
+      "explanation": "Translation discussions involve conveying meaning, cultural nuances, style, and the impossibility of perfect equivalence.",
+      "concept_tags": ["translation", "meaning", "cultural context"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-028",
+      "question_text": "When a passage discusses 'the canon,' it typically refers to:",
+      "options": ["A. Only weapons", "B. Works considered central and authoritative in a field", "C. Only religious texts", "D. Only recent works"],
+      "correct_answer": "B",
+      "explanation": "The canon is the set of works considered most important or authoritative in a field—often debated as to inclusion criteria.",
+      "concept_tags": ["canon", "authority", "culture"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-029",
+      "question_text": "Passages critiquing the canon often argue that:",
+      "options": ["A. The canon is perfect", "B. Traditional canons may reflect biases or exclude important voices", "C. Canons should never change", "D. Only old works matter"],
+      "correct_answer": "B",
+      "explanation": "Canon critique examines how traditional canons may reflect gender, racial, or cultural biases, potentially excluding valuable works.",
+      "concept_tags": ["canon critique", "bias", "inclusion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-030",
+      "question_text": "Postmodernist passages often question:",
+      "options": ["A. Only grammar rules", "B. Grand narratives, objectivity, and fixed meanings", "C. Only scientific facts", "D. Only historical events"],
+      "correct_answer": "B",
+      "explanation": "Postmodernism is skeptical of grand narratives, claims to objectivity, and fixed meanings, emphasizing interpretation and plurality.",
+      "concept_tags": ["postmodernism", "skepticism", "meaning"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-07-031",
+      "question_text": "When a passage discusses 'discourse,' it refers to:",
+      "options": ["A. Only formal speeches", "B. Ways of talking, writing, and thinking about a topic", "C. Only arguments", "D. Only academic papers"],
+      "correct_answer": "B",
+      "explanation": "Discourse encompasses the language, concepts, and frameworks used to discuss and construct understanding of a topic.",
+      "concept_tags": ["discourse", "language", "frameworks"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-032",
+      "question_text": "Passages about hermeneutics discuss:",
+      "options": ["A. Only scientific experiments", "B. The theory and methodology of interpretation", "C. Only economics", "D. Only biology"],
+      "correct_answer": "B",
+      "explanation": "Hermeneutics is the study of interpretation—especially of texts—and examines how we derive meaning from what we read.",
+      "concept_tags": ["hermeneutics", "interpretation", "meaning"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-07-033",
+      "question_text": "When encountering an abstract philosophical concept, try to:",
+      "options": ["A. Skip it entirely", "B. Understand it through context, examples, and contrasts provided", "C. Guess randomly", "D. Look it up externally"],
+      "correct_answer": "B",
+      "explanation": "Abstract concepts become clearer through context, examples the author provides, and contrasts with related concepts.",
+      "concept_tags": ["abstract concepts", "understanding", "context"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-034",
+      "question_text": "Passages about identity often explore:",
+      "options": ["A. Only identification cards", "B. How individuals and groups define themselves and are defined", "C. Only genetics", "D. Only names"],
+      "correct_answer": "B",
+      "explanation": "Identity discussions examine self-definition, group belonging, how identity is constructed, and its social significance.",
+      "concept_tags": ["identity", "self-definition", "construction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-035",
+      "question_text": "When a passage contrasts 'appearance' and 'reality,' it is engaging with:",
+      "options": ["A. Fashion criticism", "B. Philosophical questions about what truly exists", "C. Only visual art", "D. Only theater"],
+      "correct_answer": "B",
+      "explanation": "Appearance vs. reality is a classic philosophical distinction questioning whether what seems to be matches what truly is.",
+      "concept_tags": ["appearance", "reality", "philosophy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-036",
+      "question_text": "Passages about language and meaning may discuss:",
+      "options": ["A. Only grammar rules", "B. How meaning is created, communicated, and potentially unstable", "C. Only dictionaries", "D. Only spelling"],
+      "correct_answer": "B",
+      "explanation": "Philosophy of language examines how meaning is created, communicated, and whether meaning can be fixed or is inherently fluid.",
+      "concept_tags": ["philosophy of language", "meaning", "communication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-037",
+      "question_text": "When a humanities passage references 'the Enlightenment,' it refers to:",
+      "options": ["A. Only lighting technology", "B. An intellectual movement emphasizing reason, science, and individual rights", "C. Only religious awakening", "D. Only a specific country"],
+      "correct_answer": "B",
+      "explanation": "The Enlightenment (18th century) emphasized reason, science, skepticism of authority, and individual rights.",
+      "concept_tags": ["Enlightenment", "reason", "intellectual history"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-038",
+      "question_text": "Passages discussing 'modernity' often address:",
+      "options": ["A. Only current events", "B. Characteristics of modern society—industrialization, rationalization, secularization", "C. Only fashion trends", "D. Only technology"],
+      "correct_answer": "B",
+      "explanation": "Modernity refers to characteristics of modern societies: industrialization, rationalization, urbanization, secularization, and their cultural effects.",
+      "concept_tags": ["modernity", "social change", "culture"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-039",
+      "question_text": "When a passage discusses 'agency,' it typically means:",
+      "options": ["A. Only business agencies", "B. The capacity of individuals to act and make meaningful choices", "C. Only government agencies", "D. Only travel agencies"],
+      "correct_answer": "B",
+      "explanation": "Agency refers to the capacity to act, make choices, and affect one's circumstances—often discussed in relation to structure/constraints.",
+      "concept_tags": ["agency", "choice", "action"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-040",
+      "question_text": "Historical passages about intellectual history focus on:",
+      "options": ["A. Only political events", "B. The development and influence of ideas over time", "C. Only economic data", "D. Only military history"],
+      "correct_answer": "B",
+      "explanation": "Intellectual history traces how ideas developed, spread, influenced each other, and shaped societies.",
+      "concept_tags": ["intellectual history", "ideas", "development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-041",
+      "question_text": "When reading about aesthetic theories, expect discussion of:",
+      "options": ["A. Only practical applications", "B. What makes things beautiful and how we experience art", "C. Only engineering", "D. Only pricing"],
+      "correct_answer": "B",
+      "explanation": "Aesthetic theory examines beauty, artistic value, the nature of aesthetic experience, and standards for evaluating art.",
+      "concept_tags": ["aesthetics", "beauty", "theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-042",
+      "question_text": "Passages about memory (in humanities) often explore:",
+      "options": ["A. Only brain science", "B. How societies remember, represent, and use the past", "C. Only memorization techniques", "D. Only computer memory"],
+      "correct_answer": "B",
+      "explanation": "Humanities approaches to memory examine collective memory, commemoration, how societies represent and use the past.",
+      "concept_tags": ["collective memory", "representation", "past"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-043",
+      "question_text": "When a passage discusses 'representation,' it often concerns:",
+      "options": ["A. Only political representation", "B. How images, texts, or symbols depict or stand for something", "C. Only mathematical representation", "D. Only legal representation"],
+      "correct_answer": "B",
+      "explanation": "Representation in humanities concerns how things are depicted or symbolized, and implications of those representations.",
+      "concept_tags": ["representation", "depiction", "meaning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-044",
+      "question_text": "Passages about narrative examine:",
+      "options": ["A. Only fiction", "B. How stories are structured and shape understanding", "C. Only true stories", "D. Only short stories"],
+      "correct_answer": "B",
+      "explanation": "Narrative theory examines story structure, how narratives shape perception and meaning, and narrative in various contexts.",
+      "concept_tags": ["narrative", "structure", "meaning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-045",
+      "question_text": "When a passage references 'ideology,' it typically means:",
+      "options": ["A. Only good ideas", "B. Systems of belief that shape perception and may serve interests", "C. Only scientific theory", "D. Only religious doctrine"],
+      "correct_answer": "B",
+      "explanation": "Ideology refers to systems of ideas and beliefs that shape how people understand the world, often analyzed for whose interests they serve.",
+      "concept_tags": ["ideology", "belief systems", "critique"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-046",
+      "question_text": "Reading philosophy passages effectively requires:",
+      "options": ["A. Skipping abstract sections", "B. Following the logical structure of arguments carefully", "C. Only looking for conclusions", "D. Ignoring definitions"],
+      "correct_answer": "B",
+      "explanation": "Philosophy passages require careful attention to argument structure—following how premises lead to conclusions and identifying assumptions.",
+      "concept_tags": ["philosophy reading", "argument structure", "logic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-047",
+      "question_text": "Art historical passages may trace:",
+      "options": ["A. Only auction prices", "B. Stylistic developments, influences, and cultural contexts", "C. Only artists' personal lives", "D. Only material composition"],
+      "correct_answer": "B",
+      "explanation": "Art history examines how styles develop, artists influence each other, and how art relates to its cultural/historical context.",
+      "concept_tags": ["art history", "style", "context"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-048",
+      "question_text": "When a passage discusses 'the sublime,' it refers to:",
+      "options": ["A. Only something nice", "B. Aesthetic experience of overwhelming grandeur or power", "C. Only citrus fruits", "D. Only good writing"],
+      "correct_answer": "B",
+      "explanation": "The sublime is an aesthetic concept involving experiences of overwhelming magnitude, power, or grandeur that exceed ordinary beauty.",
+      "concept_tags": ["sublime", "aesthetics", "experience"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-07-049",
+      "question_text": "Humanities passages require comfort with:",
+      "options": ["A. Only certainty", "B. Complexity, ambiguity, and multiple perspectives", "C. Only simple answers", "D. Only scientific proof"],
+      "correct_answer": "B",
+      "explanation": "Humanities often deal with complex questions without single correct answers, requiring comfort with nuance and multiple perspectives.",
+      "concept_tags": ["complexity", "ambiguity", "perspectives"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-07-050",
+      "question_text": "Success with humanities passages comes from:",
+      "options": ["A. Memorizing specific content", "B. Developing skills to analyze arguments, interpretations, and perspectives", "C. Only prior humanities coursework", "D. Ignoring abstract ideas"],
+      "correct_answer": "B",
+      "explanation": "Skills in analyzing arguments, evaluating interpretations, and understanding perspectives transfer across different humanities topics.",
+      "concept_tags": ["transferable skills", "analysis", "interpretation"],
+      "difficulty": "easy"
+    }
+  ]
+}

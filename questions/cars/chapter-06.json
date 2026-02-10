@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 6,
+  "chapter_title": "Application and New Information Questions",
+  "questions": [
+    {
+      "id": "cars-06-001",
+      "question_text": "Application questions ask you to:",
+      "options": ["A. Summarize the passage", "B. Apply passage ideas to new contexts or scenarios", "C. Define vocabulary", "D. Find explicit statements"],
+      "correct_answer": "B",
+      "explanation": "Application questions require using passage reasoning, principles, or ideas to evaluate new scenarios or examples not in the passage.",
+      "concept_tags": ["application", "new scenarios", "transfer"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-06-002",
+      "question_text": "To answer application questions, you must first:",
+      "options": ["A. Ignore the passage", "B. Understand the passage's main ideas and principles", "C. Read only the question", "D. Use outside knowledge exclusively"],
+      "correct_answer": "B",
+      "explanation": "Applying ideas requires thorough understanding of passage principles—only then can you extend them to new situations.",
+      "concept_tags": ["understanding first", "application", "principles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-06-003",
+      "question_text": "New information questions provide additional information and ask:",
+      "options": ["A. To ignore the new information", "B. How it affects the passage's argument or claims", "C. To rewrite the passage", "D. About grammar"],
+      "correct_answer": "B",
+      "explanation": "New information questions test how additional data, scenarios, or findings would strengthen, weaken, or otherwise affect passage arguments.",
+      "concept_tags": ["new information", "impact assessment", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-004",
+      "question_text": "When asked 'which situation is most analogous to,' you should:",
+      "options": ["A. Find an exact match", "B. Identify key features and find the most similar scenario", "C. Choose randomly", "D. Ignore passage content"],
+      "correct_answer": "B",
+      "explanation": "Analogy questions require identifying essential features of the passage situation and finding the answer choice that shares those key elements.",
+      "concept_tags": ["analogy", "key features", "comparison"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-005",
+      "question_text": "An analogy is strong when:",
+      "options": ["A. Things are completely identical", "B. The compared situations share relevant similarities", "C. Things are completely different", "D. No comparison is possible"],
+      "correct_answer": "B",
+      "explanation": "Strong analogies share relevant similarities—the features that matter to the argument or principle being applied.",
+      "concept_tags": ["analogy strength", "relevant similarities", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-006",
+      "question_text": "Questions asking what the author 'would most likely say about' require:",
+      "options": ["A. Finding explicit statements", "B. Extending the author's perspective to new topics", "C. Guessing randomly", "D. Using only outside knowledge"],
+      "correct_answer": "B",
+      "explanation": "These questions require understanding the author's values and reasoning well enough to predict their likely position on new issues.",
+      "concept_tags": ["author's perspective", "extension", "prediction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-007",
+      "question_text": "When new information strengthens an argument, it:",
+      "options": ["A. Contradicts the conclusion", "B. Provides additional support for the conclusion", "C. Is irrelevant", "D. Changes the topic"],
+      "correct_answer": "B",
+      "explanation": "Strengthening information adds support—new evidence, examples, or data that make the conclusion more likely to be true.",
+      "concept_tags": ["strengthen", "support", "evidence"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-06-008",
+      "question_text": "When new information weakens an argument, it:",
+      "options": ["A. Adds more support", "B. Undermines premises or provides counterevidence", "C. Has no effect", "D. Confirms everything"],
+      "correct_answer": "B",
+      "explanation": "Weakening information undermines the argument—challenging premises, providing counter-examples, or suggesting alternative explanations.",
+      "concept_tags": ["weaken", "undermine", "counterevidence"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-06-009",
+      "question_text": "To determine if new information strengthens or weakens, compare it to:",
+      "options": ["A. Random standards", "B. The argument's premises and conclusion", "C. Only the first paragraph", "D. Outside knowledge"],
+      "correct_answer": "B",
+      "explanation": "Assess new information against the argument structure—does it support or undermine the connection between premises and conclusion?",
+      "concept_tags": ["evaluation", "argument structure", "comparison"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-010",
+      "question_text": "If a passage argues that 'X causes Y,' information that shows Y occurring without X would:",
+      "options": ["A. Strengthen the argument", "B. Weaken the argument", "C. Have no effect", "D. Confirm the argument"],
+      "correct_answer": "B",
+      "explanation": "If Y can occur without X, X isn't necessary for Y, weakening the causal claim (though X might still be a sufficient cause).",
+      "concept_tags": ["causal arguments", "counterexample", "weaken"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-011",
+      "question_text": "If a passage argues that 'X is always wrong,' a scenario where X produces good results would:",
+      "options": ["A. Support the claim", "B. Challenge or weaken the claim", "C. Be irrelevant", "D. Prove the claim correct"],
+      "correct_answer": "B",
+      "explanation": "A counterexample to an absolute claim ('always') directly challenges the claim by showing an exception.",
+      "concept_tags": ["absolute claims", "counterexample", "weaken"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-012",
+      "question_text": "'Hypothetical' scenarios in questions require:",
+      "options": ["A. Only considering reality", "B. Imagining how passage principles apply to described situations", "C. Ignoring the question", "D. Refusing to speculate"],
+      "correct_answer": "B",
+      "explanation": "Hypothetical questions ask you to apply passage reasoning to imagined scenarios—what would follow if certain conditions existed.",
+      "concept_tags": ["hypothetical", "application", "reasoning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-013",
+      "question_text": "Questions asking 'which discovery would most challenge' test your ability to:",
+      "options": ["A. Summarize the passage", "B. Identify what kind of evidence would undermine the argument", "C. Define terms", "D. Memorize facts"],
+      "correct_answer": "B",
+      "explanation": "Challenge questions require understanding what the argument depends on and what kind of evidence would contradict or undermine it.",
+      "concept_tags": ["challenge", "weaken", "critical thinking"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-014",
+      "question_text": "Questions asking 'which discovery would most support' test your ability to:",
+      "options": ["A. Weaken arguments", "B. Identify what kind of evidence would strengthen the argument", "C. Ignore evidence", "D. Find grammar errors"],
+      "correct_answer": "B",
+      "explanation": "Support questions require understanding what the argument needs and what evidence would provide additional backing.",
+      "concept_tags": ["support", "strengthen", "evidence identification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-015",
+      "question_text": "When applying passage ideas, the correct answer will:",
+      "options": ["A. Contradict the passage", "B. Be consistent with passage principles and reasoning", "C. Introduce new topics", "D. Ignore the passage entirely"],
+      "correct_answer": "B",
+      "explanation": "Correct application answers are consistent with and flow logically from the passage's principles, even in new contexts.",
+      "concept_tags": ["consistency", "application", "principles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-016",
+      "question_text": "An analogy question about a complex argument requires identifying:",
+      "options": ["A. Only surface features", "B. The underlying logical structure or principle", "C. The exact same topic", "D. Identical wording"],
+      "correct_answer": "B",
+      "explanation": "Good analogies share underlying structure or principles, not just surface similarities. Focus on what makes the argument work.",
+      "concept_tags": ["underlying structure", "analogy", "logic"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-017",
+      "question_text": "When evaluating how new information affects an argument, consider whether it:",
+      "options": ["A. Is interesting", "B. Addresses the actual premises or conclusion", "C. Is entertaining", "D. Is long or short"],
+      "correct_answer": "B",
+      "explanation": "Relevant new information must connect to the argument's actual claims—it should address premises, assumptions, or the conclusion.",
+      "concept_tags": ["relevance", "evaluation", "argument connection"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-018",
+      "question_text": "If new information is irrelevant to the passage's central argument, it would:",
+      "options": ["A. Strongly strengthen the argument", "B. Neither strengthen nor weaken it significantly", "C. Completely disprove it", "D. Always be the correct answer"],
+      "correct_answer": "B",
+      "explanation": "Irrelevant information has no significant bearing on the argument—it doesn't address the claims being made.",
+      "concept_tags": ["irrelevant information", "no impact", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-019",
+      "question_text": "Questions about 'how the author would likely respond to' new information require:",
+      "options": ["A. Ignoring the author's views", "B. Understanding the author's perspective and predicting their reaction", "C. Random guessing", "D. Only considering the new information"],
+      "correct_answer": "B",
+      "explanation": "These questions require understanding the author's position well enough to predict how they would engage with new evidence or claims.",
+      "concept_tags": ["author's response", "prediction", "perspective"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-020",
+      "question_text": "An author whose argument relies on historical examples would be challenged by:",
+      "options": ["A. More historical examples supporting them", "B. Evidence that the historical examples are inaccurate or unrepresentative", "C. Agreement with their conclusion", "D. More data confirming their view"],
+      "correct_answer": "B",
+      "explanation": "If the argument depends on historical examples, evidence undermining those examples weakens the entire argument.",
+      "concept_tags": ["historical evidence", "challenge", "undermining support"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-021",
+      "question_text": "When a passage makes a generalization, the best challenge would be:",
+      "options": ["A. An example supporting the generalization", "B. A significant counterexample or evidence the sample is unrepresentative", "C. Agreement with the claim", "D. Restating the generalization"],
+      "correct_answer": "B",
+      "explanation": "Generalizations are challenged by significant exceptions or by showing the evidence base is too narrow or biased.",
+      "concept_tags": ["generalization", "counterexample", "challenge"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-022",
+      "question_text": "Questions asking to identify a 'parallel situation' require:",
+      "options": ["A. Finding identical content", "B. Finding similar structure, relationship, or principle in a different context", "C. Ignoring the passage", "D. Choosing the longest answer"],
+      "correct_answer": "B",
+      "explanation": "Parallel situations share logical structure or key relationships even when content differs—like parallel arguments.",
+      "concept_tags": ["parallel situations", "structure", "analogy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-023",
+      "question_text": "If the passage argues correlation doesn't prove causation, which finding would most support the passage?",
+      "options": ["A. A study showing correlation", "B. Evidence that the correlation has an alternative explanation", "C. More correlational data", "D. Agreement that correlation is causation"],
+      "correct_answer": "B",
+      "explanation": "If the passage argues against inferring causation from correlation, finding alternative explanations supports this skepticism.",
+      "concept_tags": ["correlation causation", "support", "application"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-024",
+      "question_text": "When applying ethical principles from the passage to new cases:",
+      "options": ["A. Ignore the principles entirely", "B. Identify the relevant principles and apply them consistently", "C. Choose based on personal preference", "D. Always disagree with the passage"],
+      "correct_answer": "B",
+      "explanation": "Ethical application requires identifying the principles the author endorses and applying them consistently to new cases.",
+      "concept_tags": ["ethical principles", "application", "consistency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-025",
+      "question_text": "Questions about 'implications for' a related field ask:",
+      "options": ["A. About unrelated topics", "B. How the passage's ideas might apply to other areas", "C. To ignore connections", "D. About only explicit statements"],
+      "correct_answer": "B",
+      "explanation": "Implication questions ask how passage reasoning or findings might extend to or affect related fields or issues.",
+      "concept_tags": ["implications", "related fields", "extension"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-026",
+      "question_text": "A passage arguing for government regulation would be weakened by evidence that:",
+      "options": ["A. Regulation has worked in other cases", "B. Regulation has created significant unintended negative consequences", "C. The author has expertise", "D. People support regulation"],
+      "correct_answer": "B",
+      "explanation": "Evidence of harmful unintended consequences weakens arguments for regulation by showing costs that weren't considered.",
+      "concept_tags": ["policy arguments", "weaken", "consequences"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-027",
+      "question_text": "When new information introduces an alternative explanation:",
+      "options": ["A. It always strengthens the original argument", "B. It potentially weakens causal claims in the original argument", "C. It's always irrelevant", "D. It proves the original argument correct"],
+      "correct_answer": "B",
+      "explanation": "Alternative explanations weaken causal claims by suggesting the observed effect might have a different cause.",
+      "concept_tags": ["alternative explanation", "causal claims", "weaken"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-028",
+      "question_text": "To predict what an author would support, consider their:",
+      "options": ["A. Only their writing style", "B. Values, principles, and argumentative patterns", "C. Biography only", "D. Word count"],
+      "correct_answer": "B",
+      "explanation": "Predictions about the author's positions are based on understanding their values, what they've argued for, and their reasoning style.",
+      "concept_tags": ["author's values", "prediction", "consistency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-029",
+      "question_text": "If a passage emphasizes individual responsibility, the author would likely resist:",
+      "options": ["A. Personal accountability", "B. Explanations that absolve individuals of responsibility", "C. Ethical behavior", "D. Self-improvement"],
+      "correct_answer": "B",
+      "explanation": "An author who values individual responsibility would likely resist arguments that remove blame or accountability from individuals.",
+      "concept_tags": ["author's values", "inference", "prediction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-030",
+      "question_text": "Questions asking 'which statement is most consistent with the passage' test:",
+      "options": ["A. Memory of specific quotes", "B. Understanding of the passage's overall position and reasoning", "C. Speed reading", "D. Outside knowledge"],
+      "correct_answer": "B",
+      "explanation": "Consistency questions require identifying what aligns with the passage's arguments, values, and implications.",
+      "concept_tags": ["consistency", "overall position", "alignment"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-031",
+      "question_text": "When a question presents data from a study, you should:",
+      "options": ["A. Ignore the passage", "B. Consider how the data relates to passage claims", "C. Only read the data", "D. Assume the data is false"],
+      "correct_answer": "B",
+      "explanation": "Connect new data to passage claims—does it support, challenge, or qualify what the author argued?",
+      "concept_tags": ["data analysis", "connection", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-032",
+      "question_text": "A finding that 'all studied cases showed X' would most strengthen an argument that:",
+      "options": ["A. X never occurs", "B. X is a consistent or universal phenomenon", "C. X is rare", "D. X should be avoided"],
+      "correct_answer": "B",
+      "explanation": "Universal findings strengthen claims about consistency or generality—if all cases show X, X appears to be reliable.",
+      "concept_tags": ["universal findings", "strengthen", "consistency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-06-033",
+      "question_text": "A finding that 'some cases showed X while others showed Y' would:",
+      "options": ["A. Prove X is universal", "B. Suggest the relationship is more complex or conditional", "C. Prove nothing", "D. Confirm simple conclusions"],
+      "correct_answer": "B",
+      "explanation": "Mixed findings suggest complexity—the relationship might depend on conditions, moderating factors, or be less straightforward than claimed.",
+      "concept_tags": ["mixed findings", "complexity", "conditional"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-034",
+      "question_text": "When applying passage principles, wrong answers often:",
+      "options": ["A. Are perfectly consistent", "B. Misapply principles or apply them too broadly/narrowly", "C. Match exactly", "D. Support the author"],
+      "correct_answer": "B",
+      "explanation": "Wrong application answers typically distort the principles, apply them to dissimilar situations, or extend them beyond their intended scope.",
+      "concept_tags": ["wrong answers", "misapplication", "error patterns"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-035",
+      "question_text": "Questions about the 'implications of the passage for policy' ask:",
+      "options": ["A. About current laws", "B. What the author's reasoning suggests for real-world decisions", "C. To ignore practical applications", "D. About the author's job"],
+      "correct_answer": "B",
+      "explanation": "Policy implication questions ask how the passage's reasoning might inform practical decisions or real-world applications.",
+      "concept_tags": ["policy implications", "practical application", "reasoning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-036",
+      "question_text": "If the passage discusses historical factors leading to an outcome, a question about preventing similar outcomes requires:",
+      "options": ["A. Ignoring the causal factors", "B. Considering how to address the identified causal factors", "C. Repeating history", "D. Only considering recent events"],
+      "correct_answer": "B",
+      "explanation": "Prevention questions require identifying causes and considering interventions that would address or eliminate those causes.",
+      "concept_tags": ["causal factors", "prevention", "application"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-037",
+      "question_text": "When asked what 'would resolve' a tension in the passage, look for:",
+      "options": ["A. Information that makes both sides correct simultaneously", "B. Information that reconciles or explains the apparent conflict", "C. More conflict", "D. Unrelated information"],
+      "correct_answer": "B",
+      "explanation": "Resolution questions seek information that would explain away apparent contradictions or reconcile competing claims.",
+      "concept_tags": ["resolution", "tension", "reconciliation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-038",
+      "question_text": "Application questions about ethical dilemmas require:",
+      "options": ["A. Your personal ethics", "B. Applying the passage's ethical framework to the new situation", "C. Ignoring ethics", "D. Religious guidance"],
+      "correct_answer": "B",
+      "explanation": "Apply the author's ethical reasoning, not your own—what would the author's principles suggest about the dilemma?",
+      "concept_tags": ["ethical framework", "application", "author's perspective"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-039",
+      "question_text": "When new information 'calls into question' part of the argument, it:",
+      "options": ["A. Proves the argument wrong", "B. Raises doubts but doesn't necessarily disprove it", "C. Confirms everything", "D. Is irrelevant"],
+      "correct_answer": "B",
+      "explanation": "'Calls into question' suggests the information raises concerns or doubts without necessarily being conclusive refutation.",
+      "concept_tags": ["calls into question", "doubt", "weaken"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-040",
+      "question_text": "Evaluating analogies requires checking whether:",
+      "options": ["A. The topics are identical", "B. The relevant features are sufficiently similar", "C. The answers are the same length", "D. Nothing matters"],
+      "correct_answer": "B",
+      "explanation": "Analogies are valid when the compared situations share features relevant to the reasoning—differences in irrelevant features don't matter.",
+      "concept_tags": ["analogy evaluation", "relevant features", "similarity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-041",
+      "question_text": "A question asking 'which would the author most likely use as an example' requires:",
+      "options": ["A. Choosing any example", "B. Selecting an example that illustrates the author's point", "C. Choosing the longest option", "D. Guessing randomly"],
+      "correct_answer": "B",
+      "explanation": "The best example is one that effectively illustrates the author's argument or principle—consistent with their reasoning.",
+      "concept_tags": ["examples", "author's argument", "illustration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-042",
+      "question_text": "When new evidence supports only part of an argument, the impact is:",
+      "options": ["A. Complete strengthening", "B. Partial strengthening of that portion", "C. Complete refutation", "D. No impact"],
+      "correct_answer": "B",
+      "explanation": "Evidence supporting part of an argument strengthens that part but doesn't necessarily affect other components of the argument.",
+      "concept_tags": ["partial support", "argument components", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-043",
+      "question_text": "Questions asking for 'the most appropriate conclusion' from new data require:",
+      "options": ["A. Ignoring the passage", "B. Synthesizing the data with passage content", "C. Only considering the data", "D. Rejecting all conclusions"],
+      "correct_answer": "B",
+      "explanation": "Appropriate conclusions integrate new data with passage context—what follows when both are considered together?",
+      "concept_tags": ["synthesis", "conclusion", "integration"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-044",
+      "question_text": "An argument based on expert consensus would be weakened by:",
+      "options": ["A. More experts agreeing", "B. Evidence of significant expert disagreement", "C. Public agreement", "D. Historical precedent"],
+      "correct_answer": "B",
+      "explanation": "If the argument relies on expert consensus, evidence that experts actually disagree undermines this support.",
+      "concept_tags": ["expert consensus", "weaken", "disagreement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-045",
+      "question_text": "When applying the author's critique of X to Y, verify that:",
+      "options": ["A. X and Y are completely identical", "B. Y shares the features the author criticized in X", "C. Nothing connects X and Y", "D. Y is better than X"],
+      "correct_answer": "B",
+      "explanation": "Valid application of a critique requires that the new case shares the problematic features identified in the original critique.",
+      "concept_tags": ["critique application", "shared features", "validity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-046",
+      "question_text": "Questions about 'extending' the author's argument require:",
+      "options": ["A. Contradicting the argument", "B. Consistent application to new domains while maintaining its logic", "C. Ignoring the argument", "D. Random extension"],
+      "correct_answer": "B",
+      "explanation": "Extension questions ask you to apply the argument's logic consistently to new areas—staying true to its principles.",
+      "concept_tags": ["extension", "consistent application", "new domains"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-047",
+      "question_text": "If the author recommends approach A over approach B, they would likely support:",
+      "options": ["A. Evidence favoring B", "B. New applications of A", "C. Abandoning A", "D. Evidence against A"],
+      "correct_answer": "B",
+      "explanation": "An author who prefers A would likely support extending or applying A to new contexts—consistent with their preference.",
+      "concept_tags": ["author's preference", "support", "application"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-048",
+      "question_text": "Questions about what would 'undermine' an assumption require:",
+      "options": ["A. Supporting the assumption", "B. Finding what would show the assumption to be false or questionable", "C. Repeating the assumption", "D. Ignoring assumptions"],
+      "correct_answer": "B",
+      "explanation": "Undermining an assumption requires evidence or scenarios that would make the assumption less plausible or show it to be false.",
+      "concept_tags": ["undermine", "assumptions", "challenge"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-06-049",
+      "question_text": "When evaluating whether new information is relevant, ask:",
+      "options": ["A. Is it interesting?", "B. Does it address the claims or evidence in the passage?", "C. Is it recent?", "D. Is it long?"],
+      "correct_answer": "B",
+      "explanation": "Relevance depends on whether the information actually addresses what the passage claims, not on intrinsic interest or recency.",
+      "concept_tags": ["relevance", "evaluation", "connection"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-06-050",
+      "question_text": "Success with application questions requires:",
+      "options": ["A. Memorizing the passage word-for-word", "B. Understanding principles well enough to recognize them in new forms", "C. Only considering explicit statements", "D. Ignoring the passage context"],
+      "correct_answer": "B",
+      "explanation": "Application requires deep understanding of principles—recognizing the same logic or idea even when dressed in new contexts.",
+      "concept_tags": ["deep understanding", "principles", "transfer"],
+      "difficulty": "medium"
+    }
+  ]
+}

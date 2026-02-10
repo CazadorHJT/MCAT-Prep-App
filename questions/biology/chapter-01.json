@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 1,
+  "chapter_title": "The Cell",
+  "questions": [
+    {
+      "id": "biology-01-001",
+      "question_text": "Which of the following is NOT one of the original three tenets of cell theory?",
+      "options": [
+        "A. All living things are composed of cells",
+        "B. The cell is the basic functional unit of life",
+        "C. Cells carry genetic information in the form of DNA",
+        "D. Cells arise only from preexisting cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "The original cell theory had three tenets: (1) all living things are composed of cells, (2) the cell is the basic functional unit of life, and (3) cells arise only from preexisting cells. The fourth tenet about DNA as genetic material was added later through advances in molecular biology. Options A, B, and D are all original tenets.",
+      "concept_tags": ["cell-theory", "history-of-biology"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-002",
+      "question_text": "Robert Hooke's observation of cork cells in 1665 did not reveal nuclei or organelles because:",
+      "options": [
+        "A. his microscope lacked sufficient magnification",
+        "B. cork consists of desiccated nonliving cells",
+        "C. plant cells do not contain nuclei",
+        "D. the cells were too small to observe"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cork consists of dead, desiccated (dried out) plant cells. Because these cells were no longer living, they lacked the cytoplasmic contents including nuclei and organelles that would be visible in living cells. Hooke's microscope was capable of viewing cellular structures, and plant cells do contain nuclei. The issue was not cell size but cell viability.",
+      "concept_tags": ["cell-theory", "history-of-biology", "microscopy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-003",
+      "question_text": "Viruses are not considered living organisms according to cell theory primarily because they:",
+      "options": [
+        "A. lack a cell membrane",
+        "B. are too small to be observed",
+        "C. cannot reproduce independently and may use RNA as genetic material",
+        "D. do not contain proteins"
+      ],
+      "correct_answer": "C",
+      "explanation": "Viruses violate the third tenet of cell theory (cells arise only from preexisting cells) because they cannot reproduce on their own and must invade host cells. They also violate the fourth tenet because some viruses use RNA rather than DNA as their genetic material. While viruses do lack cell membranes, this is not the primary reason they are excluded from the definition of life.",
+      "concept_tags": ["cell-theory", "viruses", "characteristics-of-life"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-004",
+      "question_text": "Which scientist demonstrated that diseased cells could arise from normal cells in normal tissues?",
+      "options": [
+        "A. Robert Hooke",
+        "B. Anton van Leeuwenhoek",
+        "C. Rudolph Virchow",
+        "D. Matthias Schleiden"
+      ],
+      "correct_answer": "C",
+      "explanation": "Rudolph Virchow demonstrated in 1850 that diseased cells could arise from normal cells in normal tissues. Robert Hooke first observed cells in cork in 1665. Anton van Leeuwenhoek was the first to view living cells in 1674. This discovery by Virchow was important for understanding the cellular basis of disease.",
+      "concept_tags": ["cell-theory", "history-of-biology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-005",
+      "question_text": "The primary distinction between prokaryotic and eukaryotic cells is that eukaryotic cells:",
+      "options": [
+        "A. are always multicellular organisms",
+        "B. contain a true membrane-bound nucleus",
+        "C. lack ribosomes",
+        "D. cannot perform cellular respiration"
+      ],
+      "correct_answer": "B",
+      "explanation": "The defining feature of eukaryotic cells is the presence of a true nucleus enclosed by a nuclear membrane. Eukaryotes can be unicellular (like yeast) or multicellular, so A is incorrect. Both prokaryotes and eukaryotes contain ribosomes (C is incorrect). Many eukaryotes perform cellular respiration in mitochondria (D is incorrect).",
+      "concept_tags": ["prokaryotes", "eukaryotes", "cell-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-006",
+      "question_text": "The phospholipid bilayer of eukaryotic cell membranes has which arrangement?",
+      "options": [
+        "A. Hydrophobic surfaces facing the aqueous environments, hydrophilic interior",
+        "B. Hydrophilic surfaces facing the aqueous environments, hydrophobic interior",
+        "C. Entirely hydrophobic throughout the membrane",
+        "D. Entirely hydrophilic throughout the membrane"
+      ],
+      "correct_answer": "B",
+      "explanation": "The phospholipid bilayer has hydrophilic (water-loving) phosphate head groups facing the aqueous environments both inside and outside the cell, while the hydrophobic (water-fearing) fatty acid tails form the interior of the membrane. This arrangement creates a selective barrier that controls what enters and exits the cell.",
+      "concept_tags": ["cell-membrane", "phospholipid-bilayer", "membrane-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-007",
+      "question_text": "Nuclear pores in the nuclear membrane function to:",
+      "options": [
+        "A. prevent all material from entering or leaving the nucleus",
+        "B. allow selective two-way exchange between the cytoplasm and nucleus",
+        "C. synthesize ribosomal RNA",
+        "D. replicate DNA during cell division"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nuclear pores allow for selective two-way exchange of materials between the cytoplasm and the nucleus. Large molecules like mRNA must exit through these pores, while proteins needed in the nucleus must enter through them. The pores do not synthesize rRNA (that occurs in the nucleolus) or replicate DNA.",
+      "concept_tags": ["nucleus", "nuclear-pores", "nuclear-envelope"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-008",
+      "question_text": "A researcher is studying a unicellular organism and observes that it lacks membrane-bound organelles. This organism is most likely a:",
+      "options": [
+        "A. yeast cell",
+        "B. prokaryote",
+        "C. plant cell",
+        "D. animal cell"
+      ],
+      "correct_answer": "B",
+      "explanation": "Prokaryotes lack membrane-bound organelles, including a nucleus. Yeast cells are eukaryotic fungi and contain membrane-bound organelles. Plant and animal cells are both eukaryotic and contain numerous membrane-bound organelles including nuclei, mitochondria, and endoplasmic reticulum.",
+      "concept_tags": ["prokaryotes", "eukaryotes", "cell-structure", "organelles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-009",
+      "question_text": "The nucleus is described as the 'control center' of the cell because it:",
+      "options": [
+        "A. produces ATP for cellular energy",
+        "B. contains all genetic material necessary for cell replication",
+        "C. synthesizes all cellular proteins",
+        "D. regulates the movement of ions across the cell membrane"
+      ],
+      "correct_answer": "B",
+      "explanation": "The nucleus is the control center because it contains the cell's genetic material (DNA) organized into chromosomes, which provides instructions for all cellular activities and is necessary for cell replication. ATP production occurs in mitochondria (A). Protein synthesis occurs on ribosomes in the cytoplasm (C). Ion regulation involves membrane proteins (D).",
+      "concept_tags": ["nucleus", "dna", "genetic-material", "cell-replication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-010",
+      "question_text": "The nuclear envelope differs from the plasma membrane in that the nuclear envelope:",
+      "options": [
+        "A. is a single membrane layer",
+        "B. is a double membrane",
+        "C. lacks phospholipids",
+        "D. is entirely permeable to all molecules"
+      ],
+      "correct_answer": "B",
+      "explanation": "The nuclear envelope (or nuclear membrane) is a double membrane that surrounds the nucleus, creating a distinct nuclear environment separate from the cytoplasm. The plasma membrane is a single phospholipid bilayer. Both membranes contain phospholipids and are selectively permeable, not freely permeable to all molecules.",
+      "concept_tags": ["nucleus", "nuclear-envelope", "membrane-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-011",
+      "question_text": "Which organelle is responsible for the synthesis of ribosomal RNA?",
+      "options": [
+        "A. Rough endoplasmic reticulum",
+        "B. Golgi apparatus",
+        "C. Nucleolus",
+        "D. Smooth endoplasmic reticulum"
+      ],
+      "correct_answer": "C",
+      "explanation": "The nucleolus, a dense region within the nucleus, is responsible for synthesizing ribosomal RNA (rRNA) and assembling ribosomal subunits. The rough ER is involved in protein synthesis. The Golgi apparatus modifies and packages proteins. The smooth ER is involved in lipid synthesis and detoxification.",
+      "concept_tags": ["nucleolus", "ribosomal-rna", "ribosomes", "nucleus"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-012",
+      "question_text": "Mitochondria are often called the 'powerhouses' of the cell because they:",
+      "options": [
+        "A. store glucose for later use",
+        "B. generate ATP through aerobic respiration",
+        "C. synthesize proteins for export",
+        "D. break down cellular waste products"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mitochondria generate most of the cell's ATP through aerobic respiration, specifically through the citric acid cycle and oxidative phosphorylation. Glucose is stored as glycogen in the cytoplasm or liver. Protein synthesis for export occurs at the rough ER. Lysosomes break down cellular waste.",
+      "concept_tags": ["mitochondria", "atp", "cellular-respiration", "aerobic-respiration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-013",
+      "question_text": "Mitochondria contain their own DNA and ribosomes, which supports the:",
+      "options": [
+        "A. fluid mosaic model",
+        "B. cell theory",
+        "C. endosymbiotic theory",
+        "D. central dogma of molecular biology"
+      ],
+      "correct_answer": "C",
+      "explanation": "The presence of their own DNA and ribosomes in mitochondria supports the endosymbiotic theory, which proposes that mitochondria evolved from free-living prokaryotes that were engulfed by ancestral eukaryotic cells. The fluid mosaic model describes membrane structure. Cell theory describes properties of cells. The central dogma describes information flow from DNA to RNA to protein.",
+      "concept_tags": ["mitochondria", "endosymbiotic-theory", "evolution", "mitochondrial-dna"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-014",
+      "question_text": "The rough endoplasmic reticulum appears 'rough' because it is studded with:",
+      "options": [
+        "A. lysosomes",
+        "B. mitochondria",
+        "C. ribosomes",
+        "D. peroxisomes"
+      ],
+      "correct_answer": "C",
+      "explanation": "The rough endoplasmic reticulum (RER) has a rough appearance due to the ribosomes attached to its cytoplasmic surface. These ribosomes synthesize proteins destined for secretion, membrane insertion, or lysosomal function. Smooth ER lacks these ribosomes and has a smooth appearance.",
+      "concept_tags": ["rough-er", "ribosomes", "protein-synthesis", "endoplasmic-reticulum"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-015",
+      "question_text": "Which of the following proteins would most likely be synthesized by ribosomes on the rough endoplasmic reticulum?",
+      "options": [
+        "A. Cytoplasmic enzymes",
+        "B. Nuclear histones",
+        "C. Secreted hormones",
+        "D. Mitochondrial proteins"
+      ],
+      "correct_answer": "C",
+      "explanation": "Ribosomes on the rough ER synthesize proteins destined for secretion (like hormones), membrane insertion, or lysosomes. Cytoplasmic enzymes, nuclear histones, and most mitochondrial proteins are synthesized by free ribosomes in the cytoplasm and then transported to their destinations.",
+      "concept_tags": ["rough-er", "protein-synthesis", "secretory-pathway", "ribosomes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-016",
+      "question_text": "The smooth endoplasmic reticulum is primarily involved in:",
+      "options": [
+        "A. protein synthesis",
+        "B. lipid synthesis and detoxification",
+        "C. ribosome assembly",
+        "D. DNA replication"
+      ],
+      "correct_answer": "B",
+      "explanation": "The smooth endoplasmic reticulum (SER) is primarily involved in lipid and steroid synthesis, as well as detoxification of drugs and poisons. Protein synthesis occurs at ribosomes on the rough ER. Ribosome assembly occurs in the nucleolus. DNA replication occurs in the nucleus.",
+      "concept_tags": ["smooth-er", "lipid-synthesis", "detoxification", "endoplasmic-reticulum"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-017",
+      "question_text": "The Golgi apparatus functions primarily to:",
+      "options": [
+        "A. synthesize proteins",
+        "B. generate ATP",
+        "C. modify, sort, and package proteins for secretion",
+        "D. digest cellular debris"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Golgi apparatus receives proteins from the rough ER and modifies them (often by adding carbohydrate groups), sorts them, and packages them into vesicles for secretion or delivery to other organelles. Protein synthesis occurs at ribosomes. ATP generation occurs in mitochondria. Digestion of debris occurs in lysosomes.",
+      "concept_tags": ["golgi-apparatus", "protein-modification", "secretory-pathway", "vesicles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-018",
+      "question_text": "Lysosomes contain hydrolytic enzymes that function optimally at:",
+      "options": [
+        "A. neutral pH (around 7.0)",
+        "B. acidic pH (around 5.0)",
+        "C. basic pH (around 9.0)",
+        "D. variable pH depending on substrate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Lysosomal enzymes are acid hydrolases that function optimally at acidic pH (around 5.0). The lysosome maintains this acidic environment through proton pumps. If lysosomal enzymes leak into the cytoplasm (pH ~7.4), they become less active, protecting the cell from self-digestion.",
+      "concept_tags": ["lysosomes", "hydrolytic-enzymes", "ph", "acid-hydrolases"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-019",
+      "question_text": "A cell is observed to have an abundance of lysosomes. This cell is most likely specialized for:",
+      "options": [
+        "A. protein secretion",
+        "B. lipid storage",
+        "C. phagocytosis and intracellular digestion",
+        "D. rapid cell division"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cells with abundant lysosomes are typically specialized for phagocytosis and intracellular digestion, such as macrophages that engulf pathogens and debris. Lysosomes fuse with phagosomes to digest the engulfed material. Protein secretion involves the ER and Golgi. Lipid storage involves adipocytes. Cell division involves the nucleus and cytoskeleton.",
+      "concept_tags": ["lysosomes", "phagocytosis", "intracellular-digestion", "macrophages"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-020",
+      "question_text": "Peroxisomes differ from lysosomes in that peroxisomes:",
+      "options": [
+        "A. contain hydrolytic enzymes",
+        "B. are involved in breaking down hydrogen peroxide",
+        "C. function at acidic pH",
+        "D. are derived from the Golgi apparatus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Peroxisomes contain catalase, which breaks down toxic hydrogen peroxide (H2O2) into water and oxygen. Lysosomes contain hydrolytic enzymes that function at acidic pH and are derived from the Golgi. Peroxisomes also participate in fatty acid oxidation and are formed by division of pre-existing peroxisomes.",
+      "concept_tags": ["peroxisomes", "hydrogen-peroxide", "catalase", "lysosomes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-021",
+      "question_text": "The cytoskeleton provides all of the following functions EXCEPT:",
+      "options": [
+        "A. structural support",
+        "B. intracellular transport",
+        "C. ATP synthesis",
+        "D. cell motility"
+      ],
+      "correct_answer": "C",
+      "explanation": "The cytoskeleton provides structural support, facilitates intracellular transport (motor proteins move along cytoskeletal filaments), and enables cell motility (cilia, flagella, and cell crawling). ATP synthesis occurs in mitochondria through oxidative phosphorylation, not in the cytoskeleton.",
+      "concept_tags": ["cytoskeleton", "cell-structure", "intracellular-transport", "cell-motility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-022",
+      "question_text": "Microfilaments are composed primarily of:",
+      "options": [
+        "A. tubulin",
+        "B. actin",
+        "C. keratin",
+        "D. myosin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Microfilaments are composed primarily of actin, a globular protein that polymerizes into thin filaments. Tubulin forms microtubules. Keratin and other proteins form intermediate filaments. Myosin is a motor protein that interacts with actin filaments for muscle contraction and other cellular movements.",
+      "concept_tags": ["microfilaments", "actin", "cytoskeleton"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-023",
+      "question_text": "Microtubules are composed of dimers of:",
+      "options": [
+        "A. actin and myosin",
+        "B. alpha and beta tubulin",
+        "C. keratin and vimentin",
+        "D. collagen and elastin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Microtubules are hollow cylindrical structures composed of dimers of alpha and beta tubulin proteins. These dimers polymerize to form the microtubule structure. Actin forms microfilaments. Keratin and vimentin form intermediate filaments. Collagen and elastin are extracellular matrix proteins.",
+      "concept_tags": ["microtubules", "tubulin", "cytoskeleton"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-024",
+      "question_text": "Which cytoskeletal structure is involved in the movement of chromosomes during cell division?",
+      "options": [
+        "A. Microfilaments",
+        "B. Intermediate filaments",
+        "C. Microtubules",
+        "D. Actin filaments"
+      ],
+      "correct_answer": "C",
+      "explanation": "Microtubules form the mitotic spindle, which is responsible for separating chromosomes during cell division. Spindle fibers attach to kinetochores on chromosomes and pull them to opposite poles of the cell. Microfilaments (actin filaments) and intermediate filaments are not directly involved in chromosome movement.",
+      "concept_tags": ["microtubules", "mitotic-spindle", "cell-division", "chromosomes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-025",
+      "question_text": "Cilia and flagella share which common structural component?",
+      "options": [
+        "A. Actin core",
+        "B. 9+2 microtubule arrangement",
+        "C. Intermediate filaments",
+        "D. Myosin motors"
+      ],
+      "correct_answer": "B",
+      "explanation": "Both cilia and flagella have a 9+2 arrangement of microtubules: nine doublets arranged in a circle around two central microtubules. This is called the axoneme. Actin and intermediate filaments are not part of the ciliary/flagellar structure. Dynein (not myosin) is the motor protein that powers ciliary and flagellar movement.",
+      "concept_tags": ["cilia", "flagella", "microtubules", "axoneme"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-026",
+      "question_text": "Intermediate filaments differ from microfilaments and microtubules in that intermediate filaments:",
+      "options": [
+        "A. are composed of tubulin",
+        "B. are the most dynamic cytoskeletal element",
+        "C. provide mechanical strength and are relatively stable",
+        "D. are involved in intracellular transport"
+      ],
+      "correct_answer": "C",
+      "explanation": "Intermediate filaments provide mechanical strength and are relatively stable compared to the more dynamic microfilaments and microtubules. They resist tensile forces and help anchor organelles. Tubulin forms microtubules (A). Microfilaments and microtubules are more dynamic (B). Microtubules are the tracks for intracellular transport (D).",
+      "concept_tags": ["intermediate-filaments", "cytoskeleton", "mechanical-strength"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-027",
+      "question_text": "The centrosome functions as the:",
+      "options": [
+        "A. site of protein synthesis",
+        "B. microtubule organizing center",
+        "C. location of DNA replication",
+        "D. site of ATP production"
+      ],
+      "correct_answer": "B",
+      "explanation": "The centrosome serves as the microtubule organizing center (MTOC) of the cell. It contains two centrioles and organizes the microtubule network. During cell division, the centrosome duplicates and the two centrosomes organize the mitotic spindle. Protein synthesis occurs at ribosomes. DNA replication occurs in the nucleus. ATP production occurs in mitochondria.",
+      "concept_tags": ["centrosome", "centrioles", "microtubules", "mtoc"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-028",
+      "question_text": "Epithelial tissue is characterized by all of the following EXCEPT:",
+      "options": [
+        "A. cells tightly connected to each other",
+        "B. lining of body surfaces and cavities",
+        "C. extensive extracellular matrix",
+        "D. polarized cells with distinct apical and basal surfaces"
+      ],
+      "correct_answer": "C",
+      "explanation": "Epithelial tissue is characterized by tightly packed cells with minimal extracellular matrix. In contrast, connective tissue has extensive extracellular matrix. Epithelial cells line body surfaces and cavities, are connected by tight junctions and other cell junctions, and have distinct apical (facing lumen) and basal (facing basement membrane) surfaces.",
+      "concept_tags": ["epithelial-tissue", "tissue-types", "cell-junctions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-029",
+      "question_text": "Connective tissue differs from epithelial tissue primarily in that connective tissue:",
+      "options": [
+        "A. lacks cells entirely",
+        "B. has abundant extracellular matrix",
+        "C. forms only in embryonic development",
+        "D. cannot regenerate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Connective tissue is characterized by abundant extracellular matrix (ECM) with relatively few cells scattered throughout. This ECM can include fibers (collagen, elastin) and ground substance. Epithelial tissue has minimal ECM with cells tightly packed together. Connective tissue does contain cells, can form throughout life, and many types can regenerate.",
+      "concept_tags": ["connective-tissue", "extracellular-matrix", "tissue-types"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-030",
+      "question_text": "Which domain contains organisms that often live in extreme environments such as hot springs or high-salt conditions?",
+      "options": [
+        "A. Bacteria",
+        "B. Archaea",
+        "C. Eukarya",
+        "D. Protista"
+      ],
+      "correct_answer": "B",
+      "explanation": "Archaea are prokaryotes that often inhabit extreme environments (extremophiles), including hot springs (thermophiles), high-salt environments (halophiles), and anaerobic environments (methanogens). While some bacteria can live in extreme conditions, Archaea are particularly known for this. Eukarya and Protista are eukaryotic.",
+      "concept_tags": ["archaea", "prokaryotes", "extremophiles", "domains-of-life"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-031",
+      "question_text": "Bacteria can be classified by shape. A spherical bacterium is called a:",
+      "options": [
+        "A. bacillus",
+        "B. coccus",
+        "C. spirillum",
+        "D. vibrio"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cocci (singular: coccus) are spherical bacteria. Bacilli (singular: bacillus) are rod-shaped. Spirilla (singular: spirillum) are spiral-shaped. Vibrios are comma-shaped. These shape classifications are commonly used in microbiology to help identify bacteria.",
+      "concept_tags": ["bacteria", "bacterial-morphology", "prokaryotes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-032",
+      "question_text": "An obligate aerobe is an organism that:",
+      "options": [
+        "A. can only survive in the absence of oxygen",
+        "B. requires oxygen for survival",
+        "C. can survive with or without oxygen",
+        "D. produces oxygen as a metabolic byproduct"
+      ],
+      "correct_answer": "B",
+      "explanation": "Obligate aerobes require oxygen for survival because they rely on aerobic respiration for ATP production. Obligate anaerobes can only survive without oxygen (A). Facultative anaerobes can survive with or without oxygen (C). While some organisms like cyanobacteria produce oxygen through photosynthesis, this doesn't define obligate aerobes (D).",
+      "concept_tags": ["obligate-aerobes", "aerobic-respiration", "oxygen", "prokaryotes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-033",
+      "question_text": "Facultative anaerobes differ from obligate anaerobes in that facultative anaerobes:",
+      "options": [
+        "A. die in the presence of oxygen",
+        "B. can survive both with and without oxygen",
+        "C. require oxygen for growth",
+        "D. cannot perform fermentation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Facultative anaerobes can survive both with and without oxygen. They preferentially use aerobic respiration when oxygen is available but can switch to fermentation in anaerobic conditions. Obligate anaerobes die in the presence of oxygen (A). Obligate aerobes require oxygen (C). Facultative anaerobes can perform fermentation (D).",
+      "concept_tags": ["facultative-anaerobes", "anaerobic-respiration", "fermentation", "prokaryotes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-034",
+      "question_text": "The bacterial cell wall contains peptidoglycan, which provides:",
+      "options": [
+        "A. selective permeability",
+        "B. structural support and protection",
+        "C. energy for the cell",
+        "D. genetic information storage"
+      ],
+      "correct_answer": "B",
+      "explanation": "Peptidoglycan in the bacterial cell wall provides structural support and protection against osmotic lysis. It consists of sugar polymers cross-linked by short peptides. The cell membrane (not cell wall) provides selective permeability. ATP provides cellular energy. DNA stores genetic information.",
+      "concept_tags": ["bacterial-cell-wall", "peptidoglycan", "prokaryotes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-035",
+      "question_text": "Gram-positive bacteria differ from Gram-negative bacteria in that Gram-positive bacteria have:",
+      "options": [
+        "A. a thin peptidoglycan layer and an outer membrane",
+        "B. a thick peptidoglycan layer and no outer membrane",
+        "C. no peptidoglycan layer",
+        "D. two cell membranes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gram-positive bacteria have a thick peptidoglycan layer and lack an outer membrane, which allows them to retain the crystal violet stain (appearing purple). Gram-negative bacteria have a thin peptidoglycan layer and an outer membrane containing lipopolysaccharide, which causes them to lose the crystal violet stain (appearing pink after counterstaining).",
+      "concept_tags": ["gram-positive", "gram-negative", "bacterial-cell-wall", "gram-staining"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-036",
+      "question_text": "Binary fission in prokaryotes differs from mitosis in eukaryotes in that binary fission:",
+      "options": [
+        "A. produces genetically different daughter cells",
+        "B. requires a mitotic spindle",
+        "C. does not involve a mitotic spindle",
+        "D. results in four daughter cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "Binary fission does not involve a mitotic spindle because prokaryotes lack the organized microtubule structures found in eukaryotes. The bacterial chromosome attaches to the cell membrane and is separated as the cell elongates. Both binary fission and mitosis produce genetically identical daughter cells (A is incorrect), and both produce two daughter cells (D is incorrect).",
+      "concept_tags": ["binary-fission", "prokaryotes", "cell-division", "mitotic-spindle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-037",
+      "question_text": "Bacterial conjugation involves the transfer of genetic material through:",
+      "options": [
+        "A. direct uptake of DNA from the environment",
+        "B. a bacteriophage vector",
+        "C. direct cell-to-cell contact via a pilus",
+        "D. cell fusion"
+      ],
+      "correct_answer": "C",
+      "explanation": "Conjugation involves direct cell-to-cell contact, typically through a pilus (sex pilus), which allows transfer of genetic material (usually a plasmid) from a donor to a recipient cell. Transformation involves direct uptake from the environment (A). Transduction uses bacteriophages (B). Bacterial cells do not undergo fusion like eukaryotic cells can.",
+      "concept_tags": ["conjugation", "genetic-recombination", "pilus", "horizontal-gene-transfer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-038",
+      "question_text": "Transformation in bacteria refers to:",
+      "options": [
+        "A. the transfer of DNA via a bacteriophage",
+        "B. the uptake of naked DNA from the environment",
+        "C. the transfer of DNA through direct cell contact",
+        "D. the conversion of RNA to DNA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Transformation is the process by which bacteria take up naked DNA from their environment and incorporate it into their genome. Transduction involves bacteriophages (A). Conjugation involves direct cell contact (C). Reverse transcription converts RNA to DNA (D) and is characteristic of retroviruses, not bacterial transformation.",
+      "concept_tags": ["transformation", "genetic-recombination", "horizontal-gene-transfer", "prokaryotes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-039",
+      "question_text": "During transduction, genetic material is transferred between bacteria by:",
+      "options": [
+        "A. direct cell-to-cell contact",
+        "B. uptake of free DNA from the environment",
+        "C. bacteriophages (viruses that infect bacteria)",
+        "D. fusion of bacterial cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "Transduction is the transfer of genetic material between bacteria mediated by bacteriophages. When a bacteriophage infects a bacterium, it may accidentally package bacterial DNA and transfer it to the next infected cell. Conjugation involves direct contact (A). Transformation involves environmental DNA uptake (B). Bacteria do not fuse (D).",
+      "concept_tags": ["transduction", "bacteriophage", "genetic-recombination", "horizontal-gene-transfer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-040",
+      "question_text": "During the lag phase of bacterial growth, the population:",
+      "options": [
+        "A. grows exponentially",
+        "B. adapts to its new environment with little to no cell division",
+        "C. reaches maximum density",
+        "D. decreases due to cell death"
+      ],
+      "correct_answer": "B",
+      "explanation": "During the lag phase, bacteria adapt to their new environment by synthesizing necessary enzymes and molecules, with little to no cell division occurring. The exponential (log) phase follows with rapid growth (A). The stationary phase has maximum density (C). The death phase shows population decline (D).",
+      "concept_tags": ["bacterial-growth", "lag-phase", "growth-curve"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-041",
+      "question_text": "The exponential (log) phase of bacterial growth is characterized by:",
+      "options": [
+        "A. adaptation to the environment",
+        "B. constant population size",
+        "C. rapid and constant rate of cell division",
+        "D. more deaths than new cells"
+      ],
+      "correct_answer": "C",
+      "explanation": "During the exponential (log) phase, bacteria divide at a constant, maximum rate, leading to exponential population growth. The lag phase involves adaptation (A). The stationary phase has constant population size (B). The death phase has more deaths than new cells (D).",
+      "concept_tags": ["bacterial-growth", "exponential-phase", "growth-curve"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-042",
+      "question_text": "Viruses are considered obligate intracellular parasites because they:",
+      "options": [
+        "A. can reproduce independently",
+        "B. require host cell machinery to replicate",
+        "C. have their own ribosomes",
+        "D. can synthesize their own ATP"
+      ],
+      "correct_answer": "B",
+      "explanation": "Viruses are obligate intracellular parasites because they cannot replicate on their own and must use host cell machinery (ribosomes, enzymes, ATP) to produce new viral particles. Viruses cannot reproduce independently (A), lack their own ribosomes (C), and cannot synthesize ATP (D).",
+      "concept_tags": ["viruses", "obligate-parasites", "viral-replication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-043",
+      "question_text": "The protein coat that surrounds viral genetic material is called the:",
+      "options": [
+        "A. envelope",
+        "B. capsid",
+        "C. nucleoid",
+        "D. capsule"
+      ],
+      "correct_answer": "B",
+      "explanation": "The capsid is the protein coat that surrounds and protects viral genetic material. Some viruses also have an envelope (lipid bilayer derived from host cell membrane) surrounding the capsid (A). The nucleoid is the region containing DNA in prokaryotes (C). A capsule is a polysaccharide layer outside some bacterial cell walls (D).",
+      "concept_tags": ["viruses", "capsid", "viral-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-044",
+      "question_text": "Which type of viral genome would require reverse transcriptase for replication?",
+      "options": [
+        "A. Double-stranded DNA",
+        "B. Single-stranded DNA",
+        "C. Single-stranded RNA (retrovirus)",
+        "D. Double-stranded RNA"
+      ],
+      "correct_answer": "C",
+      "explanation": "Retroviruses have single-stranded RNA genomes and use reverse transcriptase to convert their RNA into DNA, which then integrates into the host genome. DNA viruses (A, B) do not require reverse transcriptase. Double-stranded RNA viruses use RNA-dependent RNA polymerase, not reverse transcriptase (D).",
+      "concept_tags": ["retroviruses", "reverse-transcriptase", "viral-genome", "rna-viruses"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-045",
+      "question_text": "During the lytic cycle of bacteriophage infection:",
+      "options": [
+        "A. viral DNA integrates into the host chromosome",
+        "B. the host cell is destroyed as new viruses are released",
+        "C. the virus remains dormant in the host cell",
+        "D. the host cell continues to divide normally"
+      ],
+      "correct_answer": "B",
+      "explanation": "In the lytic cycle, the bacteriophage takes over host cell machinery to rapidly produce new viral particles, which are released when the host cell lyses (bursts). In the lysogenic cycle, viral DNA integrates into the host chromosome (A) and can remain dormant (C) while the host divides normally (D).",
+      "concept_tags": ["lytic-cycle", "bacteriophage", "viral-life-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-046",
+      "question_text": "A prophage is:",
+      "options": [
+        "A. a virus actively replicating in a host cell",
+        "B. viral DNA integrated into the host chromosome",
+        "C. a newly assembled virus particle",
+        "D. a virus that only infects eukaryotes"
+      ],
+      "correct_answer": "B",
+      "explanation": "A prophage is bacteriophage DNA that has integrated into the bacterial host chromosome during the lysogenic cycle. It replicates along with the host DNA and can remain dormant for many generations before being induced into the lytic cycle. Active replication (A) and virus assembly (C) occur during the lytic cycle.",
+      "concept_tags": ["prophage", "lysogenic-cycle", "bacteriophage", "viral-integration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-047",
+      "question_text": "Prions are infectious agents composed of:",
+      "options": [
+        "A. RNA only",
+        "B. DNA and protein",
+        "C. misfolded protein only",
+        "D. lipids and carbohydrates"
+      ],
+      "correct_answer": "C",
+      "explanation": "Prions are infectious agents composed entirely of misfolded proteins (no nucleic acid). They cause disease by inducing normal proteins to misfold into the prion form, leading to accumulation of abnormal proteins in the brain (e.g., mad cow disease, Creutzfeldt-Jakob disease). Viroids contain RNA only but no protein.",
+      "concept_tags": ["prions", "protein-misfolding", "infectious-agents"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-048",
+      "question_text": "Viroids differ from viruses in that viroids:",
+      "options": [
+        "A. have a protein coat",
+        "B. contain only naked RNA without a protein coat",
+        "C. can replicate independently",
+        "D. infect only animal cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Viroids are small, circular RNA molecules that lack a protein coat and infect plants. They are the smallest known pathogens. Viruses have protein coats (capsids) (A). Neither viroids nor viruses can replicate independently (C). Viroids primarily infect plants, not animals (D).",
+      "concept_tags": ["viroids", "plant-pathogens", "rna", "subviral-particles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-01-049",
+      "question_text": "The human body contains approximately how many cells?",
+      "options": [
+        "A. 37 million",
+        "B. 37 billion",
+        "C. 37 trillion",
+        "D. 37 quadrillion"
+      ],
+      "correct_answer": "C",
+      "explanation": "The human body contains approximately 37 trillion cells. Additionally, bacterial cells in and on the human body outnumber human cells by about 10 to 1. Understanding the scale of cellular organization helps appreciate the complexity of human biology.",
+      "concept_tags": ["human-body", "cell-numbers", "cell-biology"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-01-050",
+      "question_text": "Eukaryotic cells reproduce by a process called:",
+      "options": [
+        "A. binary fission",
+        "B. budding",
+        "C. mitosis",
+        "D. conjugation"
+      ],
+      "correct_answer": "C",
+      "explanation": "Eukaryotic cells reproduce by mitosis, a process that divides the nucleus and distributes chromosomes equally to two daughter cells, typically followed by cytokinesis. Binary fission is how prokaryotes divide (A). Budding occurs in some organisms like yeast but is not the primary mode of eukaryotic reproduction (B). Conjugation is a bacterial gene transfer mechanism (D).",
+      "concept_tags": ["mitosis", "cell-division", "eukaryotes", "cell-reproduction"],
+      "difficulty": "easy"
+    }
+  ]
+}

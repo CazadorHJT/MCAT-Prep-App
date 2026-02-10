@@ -1,0 +1,707 @@
+{
+  "book": "general-chemistry",
+  "chapter": 9,
+  "chapter_title": "Chemical Equilibrium",
+  "questions": [
+    {
+      "id": "general-chemistry-09-001",
+      "question_text": "At equilibrium, which of the following is true?",
+      "options": [
+        "A. The concentrations of reactants and products are equal",
+        "B. The forward and reverse reaction rates are equal",
+        "C. No reactions are occurring",
+        "D. Only products are present"
+      ],
+      "correct_answer": "B",
+      "explanation": "At equilibrium, the forward and reverse reactions occur at equal rates, not that concentrations are equal. Reactions continue to occur, but there is no net change in concentrations.",
+      "concept_tags": ["equilibrium", "dynamic-equilibrium", "reaction-rates"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-002",
+      "question_text": "For the reaction 2NO₂(g) ⇌ N₂O₄(g), the equilibrium constant expression Kc is:",
+      "options": [
+        "A. [N₂O₄]/[NO₂]",
+        "B. [N₂O₄]/[NO₂]²",
+        "C. [NO₂]²/[N₂O₄]",
+        "D. [NO₂]/[N₂O₄]"
+      ],
+      "correct_answer": "B",
+      "explanation": "The equilibrium constant expression is products over reactants, with each concentration raised to the power of its coefficient. Kc = [N₂O₄]/[NO₂]².",
+      "concept_tags": ["equilibrium-constant", "Kc", "equilibrium-expression"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-003",
+      "question_text": "If Keq >> 1, this indicates that at equilibrium:",
+      "options": [
+        "A. Reactants are favored",
+        "B. Products are favored",
+        "C. Reactants and products are present in equal amounts",
+        "D. The reaction has not reached equilibrium"
+      ],
+      "correct_answer": "B",
+      "explanation": "When Keq >> 1, the numerator (products) is much larger than the denominator (reactants), meaning products are favored at equilibrium.",
+      "concept_tags": ["equilibrium-constant", "products-favored", "Keq"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-004",
+      "question_text": "The reaction quotient Q is used to:",
+      "options": [
+        "A. Calculate the equilibrium constant",
+        "B. Determine the direction a reaction will shift to reach equilibrium",
+        "C. Measure the rate of reaction",
+        "D. Calculate the activation energy"
+      ],
+      "correct_answer": "B",
+      "explanation": "Q uses the same expression as K but with current concentrations. Comparing Q to K tells us which direction the reaction will shift: if Q < K, reaction shifts right (toward products); if Q > K, reaction shifts left.",
+      "concept_tags": ["reaction-quotient", "Q-vs-K", "equilibrium-direction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-005",
+      "question_text": "According to Le Chatelier's principle, if the concentration of a reactant is increased:",
+      "options": [
+        "A. The equilibrium shifts toward products",
+        "B. The equilibrium shifts toward reactants",
+        "C. The equilibrium constant increases",
+        "D. No change occurs"
+      ],
+      "correct_answer": "A",
+      "explanation": "Le Chatelier's principle states that a system at equilibrium will shift to counteract a stress. Adding more reactant causes the system to shift toward products to consume the added reactant.",
+      "concept_tags": ["le-chateliers-principle", "concentration-change", "equilibrium-shift"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-006",
+      "question_text": "For an endothermic reaction at equilibrium, increasing the temperature will:",
+      "options": [
+        "A. Shift equilibrium toward products and increase K",
+        "B. Shift equilibrium toward reactants and decrease K",
+        "C. Have no effect on the equilibrium position",
+        "D. Shift equilibrium toward products and decrease K"
+      ],
+      "correct_answer": "A",
+      "explanation": "For an endothermic reaction, heat can be considered a 'reactant.' Adding heat (increasing temperature) shifts equilibrium toward products. Unlike concentration changes, temperature changes actually alter the value of K.",
+      "concept_tags": ["le-chateliers-principle", "temperature-effect", "endothermic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-007",
+      "question_text": "For the gas-phase reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), increasing the total pressure by decreasing volume will:",
+      "options": [
+        "A. Shift equilibrium toward products",
+        "B. Shift equilibrium toward reactants",
+        "C. Have no effect on equilibrium",
+        "D. Change the equilibrium constant"
+      ],
+      "correct_answer": "A",
+      "explanation": "The reaction has 4 moles of gas on the left and 2 moles on the right. Increasing pressure favors the side with fewer moles of gas (products), so equilibrium shifts toward NH₃.",
+      "concept_tags": ["le-chateliers-principle", "pressure-effect", "moles-of-gas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-008",
+      "question_text": "Adding an inert gas at constant volume to a system at equilibrium will:",
+      "options": [
+        "A. Shift equilibrium toward products",
+        "B. Shift equilibrium toward reactants",
+        "C. Have no effect on equilibrium position",
+        "D. Increase the equilibrium constant"
+      ],
+      "correct_answer": "C",
+      "explanation": "Adding an inert gas at constant volume increases total pressure but does not change the partial pressures of the reactants or products. Since partial pressures remain unchanged, equilibrium is unaffected.",
+      "concept_tags": ["inert-gas", "partial-pressure", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-009",
+      "question_text": "The Kp for a reaction is related to Kc by the equation Kp = Kc(RT)^Δn. What does Δn represent?",
+      "options": [
+        "A. Total moles of products",
+        "B. Total moles of reactants",
+        "C. Moles of gaseous products minus moles of gaseous reactants",
+        "D. Moles of all substances in the reaction"
+      ],
+      "correct_answer": "C",
+      "explanation": "Δn is the change in moles of gas: (moles of gaseous products) - (moles of gaseous reactants). This accounts for the difference between concentration and partial pressure expressions.",
+      "concept_tags": ["Kp", "Kc", "delta-n"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-010",
+      "question_text": "Pure solids and pure liquids are NOT included in equilibrium expressions because:",
+      "options": [
+        "A. They do not participate in the reaction",
+        "B. Their concentrations are constant",
+        "C. They are not at equilibrium",
+        "D. They have no effect on the reaction"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pure solids and liquids have constant concentrations (their density divided by molar mass is constant). These constant values are incorporated into the equilibrium constant itself.",
+      "concept_tags": ["heterogeneous-equilibrium", "pure-substances", "equilibrium-expression"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-011",
+      "question_text": "For the dissolution of AgCl: AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq), the solubility product Ksp equals:",
+      "options": [
+        "A. [Ag⁺][Cl⁻]/[AgCl]",
+        "B. [Ag⁺][Cl⁻]",
+        "C. [AgCl]/[Ag⁺][Cl⁻]",
+        "D. [Ag⁺] + [Cl⁻]"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ksp = [Ag⁺][Cl⁻]. The solid AgCl is not included in the expression because pure solids have constant activity (incorporated into K).",
+      "concept_tags": ["solubility-product", "Ksp", "ionic-compounds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-012",
+      "question_text": "If the Ksp of PbCl₂ is 1.7 × 10⁻⁵, what is the molar solubility of PbCl₂?",
+      "options": [
+        "A. 1.6 × 10⁻² M",
+        "B. 4.1 × 10⁻³ M",
+        "C. 2.6 × 10⁻² M",
+        "D. 1.3 × 10⁻² M"
+      ],
+      "correct_answer": "A",
+      "explanation": "Let s = solubility. PbCl₂ ⇌ Pb²⁺ + 2Cl⁻. Ksp = [Pb²⁺][Cl⁻]² = (s)(2s)² = 4s³. Solving: s³ = 1.7×10⁻⁵/4 = 4.25×10⁻⁶; s = 1.6×10⁻² M.",
+      "concept_tags": ["Ksp", "molar-solubility", "calculations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-09-013",
+      "question_text": "The common ion effect refers to:",
+      "options": [
+        "A. Increased solubility when a common ion is added",
+        "B. Decreased solubility when a common ion is added",
+        "C. No change in solubility when ions are added",
+        "D. Increased Ksp when a common ion is added"
+      ],
+      "correct_answer": "B",
+      "explanation": "Adding a common ion shifts the dissolution equilibrium to the left (toward the solid), decreasing solubility. This is an application of Le Chatelier's principle. Ksp remains constant.",
+      "concept_tags": ["common-ion-effect", "solubility", "le-chateliers-principle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-014",
+      "question_text": "If Q < Ksp for a slightly soluble salt:",
+      "options": [
+        "A. The solution is saturated",
+        "B. Precipitation will occur",
+        "C. More salt can dissolve",
+        "D. The solution is supersaturated"
+      ],
+      "correct_answer": "C",
+      "explanation": "When Q < Ksp, the ion product is less than the maximum allowed at equilibrium, meaning the solution is unsaturated and more salt can dissolve until Q = Ksp.",
+      "concept_tags": ["Q-vs-Ksp", "precipitation", "saturation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-015",
+      "question_text": "A catalyst affects equilibrium by:",
+      "options": [
+        "A. Increasing the equilibrium constant",
+        "B. Shifting equilibrium toward products",
+        "C. Decreasing the time to reach equilibrium",
+        "D. Changing the equilibrium position"
+      ],
+      "correct_answer": "C",
+      "explanation": "A catalyst speeds up both forward and reverse reactions equally, so it decreases the time needed to reach equilibrium but does not change K or the equilibrium position.",
+      "concept_tags": ["catalyst", "equilibrium", "reaction-rate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-016",
+      "question_text": "For the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), if the equilibrium concentrations are [SO₂] = 0.1 M, [O₂] = 0.2 M, and [SO₃] = 0.4 M, what is Kc?",
+      "options": [
+        "A. 8",
+        "B. 80",
+        "C. 0.8",
+        "D. 800"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kc = [SO₃]²/([SO₂]²[O₂]) = (0.4)²/((0.1)²(0.2)) = 0.16/(0.01 × 0.2) = 0.16/0.002 = 80.",
+      "concept_tags": ["equilibrium-constant", "Kc-calculation", "concentration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-017",
+      "question_text": "If the reaction A ⇌ B has Keq = 10, what is the Keq for the reverse reaction B ⇌ A?",
+      "options": [
+        "A. 10",
+        "B. -10",
+        "C. 0.1",
+        "D. 100"
+      ],
+      "correct_answer": "C",
+      "explanation": "The equilibrium constant for a reverse reaction is the reciprocal of the forward reaction. If K(forward) = 10, then K(reverse) = 1/10 = 0.1.",
+      "concept_tags": ["equilibrium-constant", "reverse-reaction", "reciprocal"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-018",
+      "question_text": "If a reaction is multiplied by a factor of 2, the new equilibrium constant is:",
+      "options": [
+        "A. 2K",
+        "B. K/2",
+        "C. K²",
+        "D. √K"
+      ],
+      "correct_answer": "C",
+      "explanation": "When a reaction is multiplied by a factor n, the new equilibrium constant is K^n. Multiplying by 2 gives K² because all exponents in the equilibrium expression are doubled.",
+      "concept_tags": ["equilibrium-constant", "manipulation", "exponents"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-019",
+      "question_text": "The relationship between ΔG° and Keq is given by:",
+      "options": [
+        "A. ΔG° = -RT ln Keq",
+        "B. ΔG° = RT ln Keq",
+        "C. ΔG° = -RT/Keq",
+        "D. ΔG° = Keq/RT"
+      ],
+      "correct_answer": "A",
+      "explanation": "ΔG° = -RT ln Keq relates standard free energy change to the equilibrium constant. A negative ΔG° corresponds to Keq > 1 (products favored), and positive ΔG° to Keq < 1.",
+      "concept_tags": ["gibbs-free-energy", "equilibrium-constant", "thermodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-020",
+      "question_text": "At equilibrium, ΔG (not ΔG°) equals:",
+      "options": [
+        "A. A positive value",
+        "B. A negative value",
+        "C. Zero",
+        "D. Cannot be determined"
+      ],
+      "correct_answer": "C",
+      "explanation": "At equilibrium, ΔG = 0. The system has no driving force to shift in either direction. Note that ΔG° (standard free energy) is typically not zero; only ΔG at equilibrium is zero.",
+      "concept_tags": ["gibbs-free-energy", "equilibrium", "delta-G"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-021",
+      "question_text": "For an exothermic reaction at equilibrium, decreasing the temperature will:",
+      "options": [
+        "A. Shift equilibrium toward reactants",
+        "B. Shift equilibrium toward products",
+        "C. Have no effect",
+        "D. Decrease the equilibrium constant"
+      ],
+      "correct_answer": "B",
+      "explanation": "For exothermic reactions, heat is a product. Decreasing temperature removes this 'product,' shifting equilibrium toward products (right) and increasing K.",
+      "concept_tags": ["le-chateliers-principle", "temperature", "exothermic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-022",
+      "question_text": "Which change will NOT affect the position of equilibrium for a gas-phase reaction?",
+      "options": [
+        "A. Adding a reactant",
+        "B. Changing the temperature",
+        "C. Adding a catalyst",
+        "D. Changing the pressure"
+      ],
+      "correct_answer": "C",
+      "explanation": "A catalyst speeds up both forward and reverse reactions equally without changing the equilibrium position. It only affects how quickly equilibrium is reached.",
+      "concept_tags": ["catalyst", "equilibrium-position", "le-chateliers-principle"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-023",
+      "question_text": "The equilibrium constant Kc has units when:",
+      "options": [
+        "A. The number of moles of products equals reactants",
+        "B. The number of moles of products does not equal reactants",
+        "C. The reaction involves only gases",
+        "D. Kc never has units"
+      ],
+      "correct_answer": "B",
+      "explanation": "When the sum of exponents in the numerator doesn't equal the sum in the denominator, Kc has units. When they're equal, units cancel and Kc is dimensionless.",
+      "concept_tags": ["equilibrium-constant", "units", "dimensional-analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-024",
+      "question_text": "For the equilibrium H₂O(l) ⇌ H⁺(aq) + OH⁻(aq), Kw at 25°C equals:",
+      "options": [
+        "A. 1.0 × 10⁻¹⁴",
+        "B. 1.0 × 10⁻⁷",
+        "C. 7.0",
+        "D. 14.0"
+      ],
+      "correct_answer": "A",
+      "explanation": "Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25°C. This is the ion product of water, fundamental to acid-base chemistry. At neutral pH, [H⁺] = [OH⁻] = 1.0 × 10⁻⁷ M.",
+      "concept_tags": ["Kw", "water-ionization", "acid-base"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-025",
+      "question_text": "If Ksp for Mg(OH)₂ is 1.8 × 10⁻¹¹, the molar solubility is approximately:",
+      "options": [
+        "A. 1.7 × 10⁻⁴ M",
+        "B. 2.6 × 10⁻⁴ M",
+        "C. 4.2 × 10⁻⁶ M",
+        "D. 1.3 × 10⁻³ M"
+      ],
+      "correct_answer": "A",
+      "explanation": "Mg(OH)₂ ⇌ Mg²⁺ + 2OH⁻. Ksp = [Mg²⁺][OH⁻]² = (s)(2s)² = 4s³. s³ = 1.8×10⁻¹¹/4 = 4.5×10⁻¹²; s = 1.65×10⁻⁴ ≈ 1.7×10⁻⁴ M.",
+      "concept_tags": ["Ksp", "molar-solubility", "hydroxide"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-09-026",
+      "question_text": "When NaCl is added to a saturated solution of AgCl, the solubility of AgCl:",
+      "options": [
+        "A. Increases",
+        "B. Decreases",
+        "C. Remains the same",
+        "D. First increases then decreases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Adding Cl⁻ (common ion) shifts the AgCl dissolution equilibrium to the left, decreasing solubility. This is the common ion effect.",
+      "concept_tags": ["common-ion-effect", "AgCl", "solubility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-027",
+      "question_text": "For the reaction PCl₅(g) ⇌ PCl₃(g) + Cl₂(g), what happens if the volume is doubled at constant temperature?",
+      "options": [
+        "A. Equilibrium shifts left",
+        "B. Equilibrium shifts right",
+        "C. No shift occurs",
+        "D. Kp decreases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Doubling volume halves the pressure. The reaction has 1 mole on the left and 2 moles on the right. Decreasing pressure favors the side with more moles, so equilibrium shifts right.",
+      "concept_tags": ["le-chateliers-principle", "volume-change", "moles-of-gas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-028",
+      "question_text": "The equilibrium constant for the reaction CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g) is 5.0 at a certain temperature. If equal moles of CO and H₂O are mixed, at equilibrium:",
+      "options": [
+        "A. [CO₂] > [CO]",
+        "B. [CO₂] < [CO]",
+        "C. [CO₂] = [CO]",
+        "D. Cannot be determined"
+      ],
+      "correct_answer": "A",
+      "explanation": "Since K = 5 > 1, products are favored. Starting with equal amounts of reactants and a symmetric stoichiometry, equilibrium will have more products than reactants, so [CO₂] > [CO].",
+      "concept_tags": ["equilibrium-constant", "products-favored", "concentration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-029",
+      "question_text": "For the equilibrium N₂O₄(g) ⇌ 2NO₂(g), Kp = 0.14 at 25°C. If Kc = 4.6 × 10⁻³, what is the value of RT?",
+      "options": [
+        "A. 24.5",
+        "B. 30.4",
+        "C. 0.033",
+        "D. 3.3"
+      ],
+      "correct_answer": "A",
+      "explanation": "Kp = Kc(RT)^Δn. Here Δn = 2-1 = 1. So RT = Kp/Kc = 0.14/(4.6×10⁻³) ≈ 30.4. At 25°C (298 K), RT = 0.0821 × 298 = 24.5 L·atm/mol.",
+      "concept_tags": ["Kp-Kc-relationship", "RT", "delta-n"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-09-030",
+      "question_text": "When Q = K for a reaction:",
+      "options": [
+        "A. The reaction will proceed forward",
+        "B. The reaction will proceed in reverse",
+        "C. The system is at equilibrium",
+        "D. The reaction has not yet started"
+      ],
+      "correct_answer": "C",
+      "explanation": "When Q = K, the reaction quotient equals the equilibrium constant, meaning the system has reached equilibrium and there is no net change in concentrations.",
+      "concept_tags": ["reaction-quotient", "equilibrium", "Q-equals-K"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-031",
+      "question_text": "For a reaction where ΔH° is negative and ΔS° is positive, the reaction is:",
+      "options": [
+        "A. Spontaneous at all temperatures",
+        "B. Non-spontaneous at all temperatures",
+        "C. Spontaneous only at high temperatures",
+        "D. Spontaneous only at low temperatures"
+      ],
+      "correct_answer": "A",
+      "explanation": "ΔG° = ΔH° - TΔS°. With negative ΔH° and positive ΔS°, both terms contribute to making ΔG° negative, so the reaction is spontaneous at all temperatures.",
+      "concept_tags": ["gibbs-free-energy", "spontaneity", "thermodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-032",
+      "question_text": "If Ksp for CaF₂ is 3.9 × 10⁻¹¹, what is [F⁻] in a saturated solution?",
+      "options": [
+        "A. 2.1 × 10⁻⁴ M",
+        "B. 4.3 × 10⁻⁴ M",
+        "C. 3.4 × 10⁻⁶ M",
+        "D. 6.3 × 10⁻⁶ M"
+      ],
+      "correct_answer": "B",
+      "explanation": "CaF₂ ⇌ Ca²⁺ + 2F⁻. Let s = solubility. Ksp = (s)(2s)² = 4s³. s³ = 9.75×10⁻¹²; s = 2.14×10⁻⁴ M. [F⁻] = 2s = 4.3×10⁻⁴ M.",
+      "concept_tags": ["Ksp", "fluoride-concentration", "solubility"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-09-033",
+      "question_text": "The formation constant (Kf) for a complex ion is the:",
+      "options": [
+        "A. Reciprocal of the dissociation constant",
+        "B. Same as the solubility product",
+        "C. Equilibrium constant for complex ion formation",
+        "D. Rate constant for the reaction"
+      ],
+      "correct_answer": "C",
+      "explanation": "The formation constant Kf is the equilibrium constant for the formation of a complex ion from its components. It equals 1/Kd where Kd is the dissociation constant.",
+      "concept_tags": ["formation-constant", "complex-ions", "Kf"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-034",
+      "question_text": "AgCl is more soluble in NH₃ solution than in pure water because:",
+      "options": [
+        "A. NH₃ is a base",
+        "B. Ag⁺ forms a complex with NH₃",
+        "C. Cl⁻ reacts with NH₃",
+        "D. The Ksp of AgCl increases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ag⁺ forms the complex ion [Ag(NH₃)₂]⁺ with ammonia. This removes Ag⁺ from solution, shifting the AgCl dissolution equilibrium to the right, increasing solubility. Ksp remains constant.",
+      "concept_tags": ["complex-ion", "solubility", "ammonia"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-035",
+      "question_text": "For an endothermic dissolution process, increasing temperature will:",
+      "options": [
+        "A. Decrease solubility and decrease Ksp",
+        "B. Increase solubility and increase Ksp",
+        "C. Decrease solubility but Ksp stays constant",
+        "D. Have no effect on solubility"
+      ],
+      "correct_answer": "B",
+      "explanation": "For endothermic dissolution, heat is like a reactant. Adding heat (increasing T) shifts equilibrium toward products (dissolved ions), increasing both solubility and Ksp.",
+      "concept_tags": ["temperature", "solubility", "endothermic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-036",
+      "question_text": "In which situation will precipitation of BaSO₄ (Ksp = 1.1 × 10⁻¹⁰) definitely occur?",
+      "options": [
+        "A. [Ba²⁺] = 10⁻⁵ M, [SO₄²⁻] = 10⁻⁵ M",
+        "B. [Ba²⁺] = 10⁻⁶ M, [SO₄²⁻] = 10⁻⁶ M",
+        "C. [Ba²⁺] = 10⁻⁴ M, [SO₄²⁻] = 10⁻⁴ M",
+        "D. [Ba²⁺] = 10⁻⁷ M, [SO₄²⁻] = 10⁻⁷ M"
+      ],
+      "correct_answer": "C",
+      "explanation": "Q = [Ba²⁺][SO₄²⁻]. For C: Q = 10⁻⁸ > Ksp (1.1×10⁻¹⁰), so precipitation occurs. For A: Q = 10⁻¹⁰ ≈ Ksp. For B and D: Q < Ksp.",
+      "concept_tags": ["precipitation", "Q-vs-Ksp", "BaSO4"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-09-037",
+      "question_text": "The Henderson-Hasselbalch equation relates:",
+      "options": [
+        "A. pH to Ksp",
+        "B. pH to Ka and the ratio of conjugate base to acid",
+        "C. pOH to Kb",
+        "D. Keq to temperature"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Henderson-Hasselbalch equation is pH = pKa + log([A⁻]/[HA]). It relates pH to the acid dissociation constant and the ratio of conjugate base to acid in a buffer.",
+      "concept_tags": ["henderson-hasselbalch", "buffers", "pH"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-038",
+      "question_text": "For the equilibrium 2A + B ⇌ C, if the reaction is at equilibrium and [A] is doubled while [B] and [C] remain constant, Q will be:",
+      "options": [
+        "A. Greater than K",
+        "B. Less than K",
+        "C. Equal to K",
+        "D. Cannot be determined"
+      ],
+      "correct_answer": "B",
+      "explanation": "Q = [C]/([A]²[B]). Doubling [A] increases the denominator by a factor of 4, making Q smaller. Since Q < K, the reaction will shift right toward products.",
+      "concept_tags": ["reaction-quotient", "concentration-change", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-039",
+      "question_text": "At 500 K, the equilibrium constant for a reaction is 100. At 700 K, K = 0.01. This reaction is:",
+      "options": [
+        "A. Endothermic",
+        "B. Exothermic",
+        "C. Neither endothermic nor exothermic",
+        "D. Cannot be determined"
+      ],
+      "correct_answer": "B",
+      "explanation": "K decreases as temperature increases, meaning higher temperature disfavors products. For exothermic reactions, increasing T shifts equilibrium left, decreasing K. For endothermic, K would increase with T.",
+      "concept_tags": ["temperature-dependence", "exothermic", "van't-Hoff"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-040",
+      "question_text": "The van't Hoff equation relates:",
+      "options": [
+        "A. K to temperature",
+        "B. K to pressure",
+        "C. K to concentration",
+        "D. K to volume"
+      ],
+      "correct_answer": "A",
+      "explanation": "The van't Hoff equation, ln(K₂/K₁) = -ΔH°/R(1/T₂ - 1/T₁), shows how the equilibrium constant changes with temperature and relates to the enthalpy change.",
+      "concept_tags": ["van't-Hoff", "temperature-dependence", "equilibrium-constant"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-041",
+      "question_text": "For a saturated solution of Ag₂CrO₄ (Ksp = 1.1 × 10⁻¹²), the molar solubility is:",
+      "options": [
+        "A. 6.5 × 10⁻⁵ M",
+        "B. 1.0 × 10⁻⁴ M",
+        "C. 5.2 × 10⁻⁴ M",
+        "D. 3.3 × 10⁻⁵ M"
+      ],
+      "correct_answer": "A",
+      "explanation": "Ag₂CrO₄ ⇌ 2Ag⁺ + CrO₄²⁻. Let s = solubility. Ksp = (2s)²(s) = 4s³. s³ = 1.1×10⁻¹²/4 = 2.75×10⁻¹³; s = 6.5×10⁻⁵ M.",
+      "concept_tags": ["Ksp", "molar-solubility", "Ag2CrO4"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-09-042",
+      "question_text": "Which statement about equilibrium is FALSE?",
+      "options": [
+        "A. Equilibrium can be approached from either direction",
+        "B. The equilibrium constant changes with temperature",
+        "C. At equilibrium, all chemical reactions have stopped",
+        "D. Different starting concentrations can lead to the same equilibrium constant"
+      ],
+      "correct_answer": "C",
+      "explanation": "At equilibrium, reactions have NOT stopped—they continue at equal rates in both directions (dynamic equilibrium). All other statements are true.",
+      "concept_tags": ["dynamic-equilibrium", "misconceptions", "equilibrium"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-043",
+      "question_text": "If K for the reaction A ⇌ B + C is 0.01, and K for B + C ⇌ D is 100, what is K for A ⇌ D?",
+      "options": [
+        "A. 1",
+        "B. 100",
+        "C. 0.01",
+        "D. 10"
+      ],
+      "correct_answer": "A",
+      "explanation": "When reactions are added, their K values are multiplied. K(overall) = K₁ × K₂ = 0.01 × 100 = 1.",
+      "concept_tags": ["equilibrium-constant", "adding-reactions", "Hess's-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-044",
+      "question_text": "A reaction has ΔG° = +10 kJ/mol. At equilibrium, Keq is:",
+      "options": [
+        "A. Greater than 1",
+        "B. Less than 1",
+        "C. Equal to 1",
+        "D. Cannot be determined"
+      ],
+      "correct_answer": "B",
+      "explanation": "ΔG° = -RT ln K. A positive ΔG° means ln K is negative, so K < 1. Reactants are favored at equilibrium.",
+      "concept_tags": ["gibbs-free-energy", "equilibrium-constant", "spontaneity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-045",
+      "question_text": "For the reaction H₂(g) + I₂(g) ⇌ 2HI(g), changing the pressure at constant temperature:",
+      "options": [
+        "A. Shifts equilibrium right",
+        "B. Shifts equilibrium left",
+        "C. Has no effect on equilibrium",
+        "D. Increases K"
+      ],
+      "correct_answer": "C",
+      "explanation": "There are 2 moles of gas on each side (Δn = 0). Pressure changes only affect equilibria with unequal moles of gas on each side, so this equilibrium is unaffected.",
+      "concept_tags": ["pressure-effect", "moles-of-gas", "le-chateliers-principle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-09-046",
+      "question_text": "The solubility of PbI₂ in 0.10 M KI compared to pure water is:",
+      "options": [
+        "A. Greater",
+        "B. Less",
+        "C. The same",
+        "D. Cannot be determined"
+      ],
+      "correct_answer": "B",
+      "explanation": "KI provides I⁻, a common ion with PbI₂. The common ion effect shifts the dissolution equilibrium left, decreasing solubility.",
+      "concept_tags": ["common-ion-effect", "PbI2", "solubility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-047",
+      "question_text": "If a reaction's equilibrium constant is very small (K << 1), at equilibrium the mixture contains mostly:",
+      "options": [
+        "A. Products",
+        "B. Reactants",
+        "C. Equal amounts of reactants and products",
+        "D. No reactants"
+      ],
+      "correct_answer": "B",
+      "explanation": "When K << 1, the denominator (reactants) is much larger than the numerator (products), meaning reactants are heavily favored at equilibrium.",
+      "concept_tags": ["equilibrium-constant", "reactants-favored", "small-K"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-048",
+      "question_text": "For the dissolution of Ca(OH)₂, if the pH of a saturated solution is 12.4, what is the Ksp?",
+      "options": [
+        "A. 5.0 × 10⁻⁶",
+        "B. 1.0 × 10⁻⁵",
+        "C. 6.3 × 10⁻³",
+        "D. 2.5 × 10⁻²"
+      ],
+      "correct_answer": "A",
+      "explanation": "pH 12.4 means pOH = 1.6, so [OH⁻] = 10⁻¹·⁶ = 0.025 M. For Ca(OH)₂, [Ca²⁺] = [OH⁻]/2 = 0.0125 M. Ksp = [Ca²⁺][OH⁻]² = 0.0125 × (0.025)² ≈ 7.8×10⁻⁶ ≈ 5×10⁻⁶.",
+      "concept_tags": ["Ksp", "pH", "calcium-hydroxide"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-09-049",
+      "question_text": "The ion product (Q) for a solution containing 1 × 10⁻⁴ M Ag⁺ and 1 × 10⁻⁶ M Cl⁻ is:",
+      "options": [
+        "A. 1 × 10⁻¹⁰",
+        "B. 1 × 10⁻²",
+        "C. 1 × 10⁻⁸",
+        "D. 1 × 10⁻¹²"
+      ],
+      "correct_answer": "A",
+      "explanation": "Q = [Ag⁺][Cl⁻] = (1×10⁻⁴)(1×10⁻⁶) = 1×10⁻¹⁰. Compare to Ksp of AgCl (1.8×10⁻¹⁰) to determine if precipitation occurs.",
+      "concept_tags": ["ion-product", "Q-calculation", "AgCl"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-09-050",
+      "question_text": "If the Ksp of Fe(OH)₃ is 2.8 × 10⁻³⁹, the molar solubility is approximately:",
+      "options": [
+        "A. 9.4 × 10⁻¹¹ M",
+        "B. 2.0 × 10⁻¹⁰ M",
+        "C. 5.3 × 10⁻¹³ M",
+        "D. 1.7 × 10⁻¹⁰ M"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fe(OH)₃ ⇌ Fe³⁺ + 3OH⁻. Ksp = (s)(3s)³ = 27s⁴. s⁴ = 2.8×10⁻³⁹/27 = 1.04×10⁻⁴⁰; s = 1.8×10⁻¹⁰ ≈ 2.0×10⁻¹⁰ M.",
+      "concept_tags": ["Ksp", "molar-solubility", "iron-hydroxide"],
+      "difficulty": "hard"
+    }
+  ]
+}

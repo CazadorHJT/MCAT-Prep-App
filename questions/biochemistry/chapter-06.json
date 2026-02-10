@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 6,
+  "chapter_title": "Metabolism - Glycolysis and Gluconeogenesis",
+  "questions": [
+    {
+      "id": "biochemistry-06-001",
+      "question_text": "Glycolysis occurs in which cellular compartment?",
+      "options": [
+        "A. Mitochondrial matrix",
+        "B. Cytoplasm",
+        "C. Endoplasmic reticulum",
+        "D. Nucleus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Glycolysis occurs entirely in the cytoplasm (cytosol) of the cell. This is significant because it allows glycolysis to occur in both prokaryotes (which lack mitochondria) and eukaryotes. The citric acid cycle and oxidative phosphorylation occur in mitochondria, while glycolysis enzymes are all cytosolic.",
+      "concept_tags": ["glycolysis", "cellular-compartments", "metabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-002",
+      "question_text": "What is the net ATP yield from glycolysis per molecule of glucose?",
+      "options": [
+        "A. 4 ATP",
+        "B. 2 ATP",
+        "C. 6 ATP",
+        "D. 0 ATP"
+      ],
+      "correct_answer": "B",
+      "explanation": "Glycolysis produces a net yield of 2 ATP per glucose molecule. While 4 ATP are produced in the payoff phase (2 per each glyceraldehyde-3-phosphate), 2 ATP are consumed in the investment phase (hexokinase and phosphofructokinase reactions), resulting in a net gain of 2 ATP.",
+      "concept_tags": ["glycolysis", "atp-yield", "energy-metabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-003",
+      "question_text": "Which enzyme catalyzes the first committed step of glycolysis?",
+      "options": [
+        "A. Hexokinase",
+        "B. Phosphofructokinase-1 (PFK-1)",
+        "C. Pyruvate kinase",
+        "D. Aldolase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Phosphofructokinase-1 (PFK-1) catalyzes the first committed step of glycolysis, converting fructose-6-phosphate to fructose-1,6-bisphosphate. While hexokinase is the first enzyme in glycolysis, its product (glucose-6-phosphate) can be diverted to other pathways like glycogen synthesis or the pentose phosphate pathway. Once PFK-1 acts, the molecule is committed to glycolysis.",
+      "concept_tags": ["glycolysis", "pfk-1", "committed-step", "regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-004",
+      "question_text": "The product of glycolysis under aerobic conditions is:",
+      "options": [
+        "A. Lactate",
+        "B. Ethanol",
+        "C. Pyruvate",
+        "D. Acetyl-CoA"
+      ],
+      "correct_answer": "C",
+      "explanation": "Under aerobic conditions, glycolysis produces pyruvate as its end product. Pyruvate then enters the mitochondria where it is converted to acetyl-CoA by pyruvate dehydrogenase. Lactate is produced under anaerobic conditions in muscle cells. Ethanol is produced by yeast during fermentation. Acetyl-CoA is formed after pyruvate enters mitochondria.",
+      "concept_tags": ["glycolysis", "pyruvate", "aerobic-metabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-005",
+      "question_text": "Which of the following is NOT an irreversible step in glycolysis?",
+      "options": [
+        "A. Hexokinase reaction",
+        "B. Phosphofructokinase-1 reaction",
+        "C. Pyruvate kinase reaction",
+        "D. Phosphoglucose isomerase reaction"
+      ],
+      "correct_answer": "D",
+      "explanation": "The phosphoglucose isomerase reaction (glucose-6-phosphate to fructose-6-phosphate) is freely reversible. The three irreversible steps in glycolysis are catalyzed by hexokinase (or glucokinase), phosphofructokinase-1, and pyruvate kinase. These irreversible reactions are the key regulatory points of glycolysis and must be bypassed in gluconeogenesis.",
+      "concept_tags": ["glycolysis", "irreversible-reactions", "regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-006",
+      "question_text": "Hexokinase is inhibited by:",
+      "options": [
+        "A. Glucose",
+        "B. Glucose-6-phosphate",
+        "C. Fructose-6-phosphate",
+        "D. ATP"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hexokinase is inhibited by its product, glucose-6-phosphate, through feedback inhibition. This prevents excessive phosphorylation of glucose when downstream pathways are saturated. Glucokinase, found in liver and pancreatic beta cells, is not inhibited by glucose-6-phosphate, allowing the liver to continue taking up glucose even at high concentrations.",
+      "concept_tags": ["hexokinase", "feedback-inhibition", "glycolysis-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-007",
+      "question_text": "Which molecule is the most important allosteric activator of PFK-1?",
+      "options": [
+        "A. ATP",
+        "B. Citrate",
+        "C. Fructose-2,6-bisphosphate",
+        "D. Glucose-6-phosphate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Fructose-2,6-bisphosphate is the most potent allosteric activator of PFK-1. It is produced by PFK-2 (phosphofructokinase-2/fructose-2,6-bisphosphatase) and signals the fed state. ATP and citrate are allosteric inhibitors of PFK-1, signaling high energy status. When fructose-2,6-bisphosphate levels are high, glycolysis is stimulated.",
+      "concept_tags": ["pfk-1", "fructose-2-6-bisphosphate", "allosteric-regulation", "glycolysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-008",
+      "question_text": "During the investment phase of glycolysis, how many ATP molecules are consumed?",
+      "options": [
+        "A. 1 ATP",
+        "B. 2 ATP",
+        "C. 3 ATP",
+        "D. 4 ATP"
+      ],
+      "correct_answer": "B",
+      "explanation": "The investment phase of glycolysis consumes 2 ATP molecules: one in the hexokinase reaction (glucose to glucose-6-phosphate) and one in the phosphofructokinase-1 reaction (fructose-6-phosphate to fructose-1,6-bisphosphate). This investment is recovered and exceeded in the payoff phase, which generates 4 ATP.",
+      "concept_tags": ["glycolysis", "investment-phase", "atp-consumption"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-009",
+      "question_text": "Aldolase cleaves fructose-1,6-bisphosphate into which two products?",
+      "options": [
+        "A. Glyceraldehyde-3-phosphate and pyruvate",
+        "B. Dihydroxyacetone phosphate and glyceraldehyde-3-phosphate",
+        "C. Glucose-6-phosphate and fructose-6-phosphate",
+        "D. Phosphoenolpyruvate and pyruvate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Aldolase catalyzes the cleavage of fructose-1,6-bisphosphate into two 3-carbon molecules: dihydroxyacetone phosphate (DHAP) and glyceraldehyde-3-phosphate (G3P). Only G3P continues directly in glycolysis; DHAP must be isomerized to G3P by triose phosphate isomerase to continue through the pathway.",
+      "concept_tags": ["aldolase", "glycolysis", "fructose-1-6-bisphosphate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-010",
+      "question_text": "Which enzyme converts dihydroxyacetone phosphate to glyceraldehyde-3-phosphate?",
+      "options": [
+        "A. Aldolase",
+        "B. Triose phosphate isomerase",
+        "C. Phosphoglucose isomerase",
+        "D. Enolase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Triose phosphate isomerase converts dihydroxyacetone phosphate (DHAP) to glyceraldehyde-3-phosphate (G3P). This enzyme is extremely efficient (near diffusion-limited catalysis) and ensures that both products of the aldolase reaction can proceed through the rest of glycolysis as G3P.",
+      "concept_tags": ["triose-phosphate-isomerase", "glycolysis", "isomerization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-011",
+      "question_text": "Glyceraldehyde-3-phosphate dehydrogenase produces which high-energy intermediate?",
+      "options": [
+        "A. ATP",
+        "B. GTP",
+        "C. NADH",
+        "D. FADH2"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) catalyzes the oxidation of glyceraldehyde-3-phosphate to 1,3-bisphosphoglycerate, producing NADH from NAD+. This is the only oxidation-reduction reaction in glycolysis. The NADH can be used in the electron transport chain under aerobic conditions or regenerated to NAD+ through fermentation under anaerobic conditions.",
+      "concept_tags": ["gapdh", "nadh", "glycolysis", "oxidation-reduction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-012",
+      "question_text": "Substrate-level phosphorylation in glycolysis occurs at which enzyme(s)?",
+      "options": [
+        "A. Hexokinase and PFK-1",
+        "B. Phosphoglycerate kinase and pyruvate kinase",
+        "C. Aldolase and triose phosphate isomerase",
+        "D. Enolase and phosphoglycerate mutase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Substrate-level phosphorylation (direct transfer of phosphate to ADP to form ATP) occurs at two steps in glycolysis: phosphoglycerate kinase (1,3-BPG to 3-PG) and pyruvate kinase (PEP to pyruvate). These reactions generate the 4 ATP molecules of the payoff phase. Hexokinase and PFK-1 consume ATP rather than produce it.",
+      "concept_tags": ["substrate-level-phosphorylation", "glycolysis", "atp-synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-013",
+      "question_text": "What is the role of 2,3-bisphosphoglycerate (2,3-BPG) in red blood cells?",
+      "options": [
+        "A. It is the main product of glycolysis in RBCs",
+        "B. It decreases oxygen affinity of hemoglobin",
+        "C. It inhibits glycolysis",
+        "D. It activates gluconeogenesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "2,3-BPG is produced in red blood cells from 1,3-bisphosphoglycerate via the Rapoport-Luebering shunt. It binds to deoxyhemoglobin and decreases hemoglobin's oxygen affinity, promoting oxygen release to tissues. This is physiologically important for oxygen delivery, especially at high altitudes where 2,3-BPG levels increase.",
+      "concept_tags": ["2-3-bpg", "hemoglobin", "oxygen-delivery", "red-blood-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-014",
+      "question_text": "Enolase catalyzes the conversion of:",
+      "options": [
+        "A. Phosphoenolpyruvate to pyruvate",
+        "B. 2-phosphoglycerate to phosphoenolpyruvate",
+        "C. 3-phosphoglycerate to 2-phosphoglycerate",
+        "D. 1,3-bisphosphoglycerate to 3-phosphoglycerate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Enolase catalyzes the dehydration of 2-phosphoglycerate (2-PG) to phosphoenolpyruvate (PEP), creating a high-energy enol phosphate bond. This reaction is inhibited by fluoride, which is why fluoride is used in blood collection tubes to prevent glycolysis. Phosphoglycerate mutase catalyzes the 3-PG to 2-PG conversion.",
+      "concept_tags": ["enolase", "glycolysis", "phosphoenolpyruvate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-015",
+      "question_text": "Pyruvate kinase is allosterically activated by:",
+      "options": [
+        "A. ATP and alanine",
+        "B. Fructose-1,6-bisphosphate",
+        "C. Citrate and acetyl-CoA",
+        "D. Glucagon"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pyruvate kinase is allosterically activated by fructose-1,6-bisphosphate (F-1,6-BP), providing feedforward activation. When PFK-1 is active and producing F-1,6-BP, this signals pyruvate kinase to increase its activity. ATP and alanine inhibit pyruvate kinase. Glucagon inhibits pyruvate kinase through phosphorylation (covalent modification).",
+      "concept_tags": ["pyruvate-kinase", "feedforward-activation", "glycolysis-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-016",
+      "question_text": "Which of the following statements about glucokinase is TRUE?",
+      "options": [
+        "A. It has a lower Km for glucose than hexokinase",
+        "B. It is inhibited by glucose-6-phosphate",
+        "C. It is found primarily in liver and pancreatic beta cells",
+        "D. It is active at low blood glucose concentrations"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glucokinase is found primarily in liver and pancreatic beta cells. It has a higher Km for glucose than hexokinase (approximately 10 mM vs. 0.1 mM), making it active only when blood glucose is elevated. Unlike hexokinase, glucokinase is not inhibited by glucose-6-phosphate. This allows the liver to continue glucose uptake after meals when glucose is abundant.",
+      "concept_tags": ["glucokinase", "liver-metabolism", "glucose-sensing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-017",
+      "question_text": "Under anaerobic conditions in muscle, pyruvate is converted to:",
+      "options": [
+        "A. Acetyl-CoA",
+        "B. Ethanol",
+        "C. Lactate",
+        "D. Oxaloacetate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Under anaerobic conditions in muscle tissue, pyruvate is reduced to lactate by lactate dehydrogenase (LDH). This regenerates NAD+ needed to continue glycolysis. Ethanol fermentation occurs in yeast, not muscle. Acetyl-CoA formation requires aerobic conditions and mitochondria. Oxaloacetate is produced in gluconeogenesis.",
+      "concept_tags": ["lactate-fermentation", "anaerobic-metabolism", "lactate-dehydrogenase"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-018",
+      "question_text": "The primary purpose of lactate fermentation in muscle is to:",
+      "options": [
+        "A. Produce additional ATP",
+        "B. Regenerate NAD+ for continued glycolysis",
+        "C. Convert lactate to glucose",
+        "D. Produce CO2 for respiration"
+      ],
+      "correct_answer": "B",
+      "explanation": "The primary purpose of lactate fermentation is to regenerate NAD+ from NADH so that glycolysis can continue when oxygen is limiting. Without NAD+ regeneration, glyceraldehyde-3-phosphate dehydrogenase cannot function, and glycolysis stops. Lactate fermentation does not produce additional ATP; the ATP comes from glycolysis itself.",
+      "concept_tags": ["lactate-fermentation", "nad-regeneration", "anaerobic-glycolysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-019",
+      "question_text": "In yeast, alcoholic fermentation produces which end products?",
+      "options": [
+        "A. Lactate and CO2",
+        "B. Ethanol and CO2",
+        "C. Acetate and H2O",
+        "D. Ethanol and H2O"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alcoholic fermentation in yeast produces ethanol and CO2. Pyruvate is first decarboxylated to acetaldehyde by pyruvate decarboxylase (releasing CO2), then acetaldehyde is reduced to ethanol by alcohol dehydrogenase (regenerating NAD+). This process is used in brewing and bread-making.",
+      "concept_tags": ["alcoholic-fermentation", "ethanol", "yeast-metabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-020",
+      "question_text": "Which enzyme is unique to alcoholic fermentation and not found in lactate fermentation?",
+      "options": [
+        "A. Lactate dehydrogenase",
+        "B. Pyruvate decarboxylase",
+        "C. Alcohol dehydrogenase",
+        "D. Both B and C"
+      ],
+      "correct_answer": "D",
+      "explanation": "Both pyruvate decarboxylase (which decarboxylates pyruvate to acetaldehyde) and alcohol dehydrogenase (which reduces acetaldehyde to ethanol) are unique to alcoholic fermentation. Lactate fermentation uses only lactate dehydrogenase to directly reduce pyruvate to lactate without a decarboxylation step.",
+      "concept_tags": ["alcoholic-fermentation", "pyruvate-decarboxylase", "alcohol-dehydrogenase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-021",
+      "question_text": "Gluconeogenesis primarily occurs in which organ(s)?",
+      "options": [
+        "A. Muscle and brain",
+        "B. Liver and kidney",
+        "C. Adipose tissue and heart",
+        "D. Pancreas and spleen"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gluconeogenesis primarily occurs in the liver (approximately 90%) and kidneys (approximately 10%). These organs express the necessary bypass enzymes for gluconeogenesis. Muscle lacks glucose-6-phosphatase and cannot release free glucose. The brain relies on glucose but cannot synthesize it.",
+      "concept_tags": ["gluconeogenesis", "liver", "kidney", "glucose-synthesis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-022",
+      "question_text": "Which of the following is NOT a substrate for gluconeogenesis?",
+      "options": [
+        "A. Lactate",
+        "B. Glycerol",
+        "C. Alanine",
+        "D. Fatty acids (even-chain)"
+      ],
+      "correct_answer": "D",
+      "explanation": "Even-chain fatty acids cannot serve as substrates for net glucose synthesis in mammals because their complete oxidation yields only acetyl-CoA, which cannot be converted to pyruvate or oxaloacetate. Lactate, glycerol, and glucogenic amino acids like alanine can all be converted to glucose through gluconeogenesis. Odd-chain fatty acids can contribute to gluconeogenesis through propionyl-CoA.",
+      "concept_tags": ["gluconeogenesis", "glucogenic-substrates", "fatty-acids"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-023",
+      "question_text": "The bypass enzyme that converts pyruvate to oxaloacetate in gluconeogenesis is:",
+      "options": [
+        "A. Pyruvate kinase",
+        "B. Pyruvate carboxylase",
+        "C. PEP carboxykinase",
+        "D. Phosphoenolpyruvate synthase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pyruvate carboxylase converts pyruvate to oxaloacetate in the mitochondria, requiring ATP and biotin as a cofactor. This is the first bypass reaction in gluconeogenesis. Oxaloacetate is then converted to phosphoenolpyruvate by PEP carboxykinase. Pyruvate kinase catalyzes the reverse reaction in glycolysis.",
+      "concept_tags": ["pyruvate-carboxylase", "gluconeogenesis", "bypass-enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-024",
+      "question_text": "Which cofactor is required by pyruvate carboxylase?",
+      "options": [
+        "A. Thiamine pyrophosphate (TPP)",
+        "B. Biotin",
+        "C. Pyridoxal phosphate (PLP)",
+        "D. Cobalamin (B12)"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pyruvate carboxylase requires biotin as a cofactor for the carboxylation reaction. Biotin is covalently attached to the enzyme and serves as a carrier of the CO2 group. This enzyme also requires ATP. Biotin deficiency impairs gluconeogenesis. TPP is used in pyruvate dehydrogenase, not pyruvate carboxylase.",
+      "concept_tags": ["pyruvate-carboxylase", "biotin", "cofactors", "gluconeogenesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-025",
+      "question_text": "Acetyl-CoA is a positive allosteric activator of which gluconeogenic enzyme?",
+      "options": [
+        "A. Fructose-1,6-bisphosphatase",
+        "B. Pyruvate carboxylase",
+        "C. Glucose-6-phosphatase",
+        "D. PEP carboxykinase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Acetyl-CoA is a positive allosteric activator of pyruvate carboxylase. High acetyl-CoA levels signal that the citric acid cycle has sufficient substrate and that excess pyruvate should be directed toward gluconeogenesis. This ensures proper coordination between fatty acid oxidation and glucose synthesis during fasting.",
+      "concept_tags": ["pyruvate-carboxylase", "acetyl-coa", "allosteric-regulation", "gluconeogenesis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-026",
+      "question_text": "PEP carboxykinase (PEPCK) converts oxaloacetate to:",
+      "options": [
+        "A. Pyruvate",
+        "B. Phosphoenolpyruvate",
+        "C. Malate",
+        "D. Citrate"
+      ],
+      "correct_answer": "B",
+      "explanation": "PEP carboxykinase (PEPCK) catalyzes the decarboxylation and phosphorylation of oxaloacetate to form phosphoenolpyruvate (PEP), using GTP as the phosphate donor. This reaction occurs in the cytosol (or mitochondria, depending on the isoform) and is the second bypass reaction in gluconeogenesis.",
+      "concept_tags": ["pepck", "gluconeogenesis", "phosphoenolpyruvate", "bypass-enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-027",
+      "question_text": "Fructose-1,6-bisphosphatase is the gluconeogenic bypass enzyme for which glycolytic enzyme?",
+      "options": [
+        "A. Hexokinase",
+        "B. PFK-1",
+        "C. Pyruvate kinase",
+        "D. Aldolase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fructose-1,6-bisphosphatase (FBPase-1) bypasses the PFK-1 reaction by hydrolyzing fructose-1,6-bisphosphate to fructose-6-phosphate and inorganic phosphate. This is a key regulatory point in gluconeogenesis. The reciprocal regulation of PFK-1 and FBPase-1 by fructose-2,6-bisphosphate controls the balance between glycolysis and gluconeogenesis.",
+      "concept_tags": ["fructose-1-6-bisphosphatase", "gluconeogenesis", "bypass-enzymes", "pfk-1"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-028",
+      "question_text": "Glucose-6-phosphatase is found in which cellular compartment?",
+      "options": [
+        "A. Cytoplasm",
+        "B. Mitochondria",
+        "C. Endoplasmic reticulum",
+        "D. Golgi apparatus"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glucose-6-phosphatase is located in the membrane of the endoplasmic reticulum with its active site facing the ER lumen. This location ensures that free glucose, once produced, can be exported from the cell. Muscle lacks this enzyme, which is why muscle glycogen cannot contribute to blood glucose.",
+      "concept_tags": ["glucose-6-phosphatase", "endoplasmic-reticulum", "gluconeogenesis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-029",
+      "question_text": "The Cori cycle involves the transport of which molecule from muscle to liver?",
+      "options": [
+        "A. Pyruvate",
+        "B. Glucose",
+        "C. Lactate",
+        "D. Alanine"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Cori cycle involves the transport of lactate from muscle to liver. During intense exercise, muscle produces lactate via anaerobic glycolysis. Lactate is transported to the liver, where it is converted back to glucose via gluconeogenesis. The glucose can then return to muscle. The alanine cycle is a related but distinct cycle.",
+      "concept_tags": ["cori-cycle", "lactate", "gluconeogenesis", "muscle-liver"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-030",
+      "question_text": "The Cori cycle results in a net transfer of which of the following from liver to muscle?",
+      "options": [
+        "A. ATP equivalents",
+        "B. Nitrogen",
+        "C. NADH",
+        "D. Acetyl-CoA"
+      ],
+      "correct_answer": "A",
+      "explanation": "The Cori cycle effectively transfers ATP equivalents from the liver to working muscle. Gluconeogenesis in the liver requires 6 ATP equivalents per glucose, while glycolysis in muscle produces only 2 ATP. The liver uses fatty acid oxidation to power this energetically expensive cycle, allowing muscle to continue working anaerobically.",
+      "concept_tags": ["cori-cycle", "atp-transfer", "gluconeogenesis", "energy-metabolism"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-031",
+      "question_text": "How many ATP equivalents are required to synthesize one molecule of glucose from pyruvate in gluconeogenesis?",
+      "options": [
+        "A. 2 ATP",
+        "B. 4 ATP",
+        "C. 6 ATP",
+        "D. 8 ATP"
+      ],
+      "correct_answer": "C",
+      "explanation": "Gluconeogenesis requires 6 ATP equivalents per glucose synthesized from 2 pyruvate molecules: 2 ATP for pyruvate carboxylase (2 pyruvate to 2 oxaloacetate), 2 GTP for PEPCK (2 oxaloacetate to 2 PEP), and 2 ATP for phosphoglycerate kinase (reverse direction). This makes gluconeogenesis energetically expensive.",
+      "concept_tags": ["gluconeogenesis", "atp-cost", "energy-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-032",
+      "question_text": "Insulin promotes glycolysis by:",
+      "options": [
+        "A. Activating glucagon release",
+        "B. Increasing fructose-2,6-bisphosphate levels",
+        "C. Inhibiting PFK-1",
+        "D. Activating fructose-1,6-bisphosphatase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Insulin promotes glycolysis by activating phosphofructokinase-2 (PFK-2), which increases fructose-2,6-bisphosphate levels. Fructose-2,6-bisphosphate is a potent activator of PFK-1 (stimulating glycolysis) and inhibitor of fructose-1,6-bisphosphatase (inhibiting gluconeogenesis). This hormonal regulation coordinates metabolic pathways.",
+      "concept_tags": ["insulin", "glycolysis-regulation", "fructose-2-6-bisphosphate", "pfk-2"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-033",
+      "question_text": "Glucagon stimulates gluconeogenesis by:",
+      "options": [
+        "A. Increasing fructose-2,6-bisphosphate levels",
+        "B. Activating PFK-1",
+        "C. Phosphorylating PFK-2/FBPase-2, decreasing F-2,6-BP levels",
+        "D. Inhibiting pyruvate carboxylase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glucagon, through cAMP and protein kinase A, phosphorylates the bifunctional enzyme PFK-2/FBPase-2. Phosphorylation inactivates the kinase activity (PFK-2) and activates the phosphatase activity (FBPase-2), lowering fructose-2,6-bisphosphate levels. This relieves PFK-1 activation and FBPase-1 inhibition, favoring gluconeogenesis.",
+      "concept_tags": ["glucagon", "gluconeogenesis-regulation", "pfk-2", "camp"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-034",
+      "question_text": "The pentose phosphate pathway primarily produces:",
+      "options": [
+        "A. ATP and pyruvate",
+        "B. NADPH and ribose-5-phosphate",
+        "C. NADH and glucose-6-phosphate",
+        "D. FADH2 and fructose-6-phosphate"
+      ],
+      "correct_answer": "B",
+      "explanation": "The pentose phosphate pathway (PPP) produces NADPH for biosynthetic reactions (fatty acid synthesis, cholesterol synthesis) and reductive reactions (glutathione reduction), as well as ribose-5-phosphate for nucleotide and nucleic acid synthesis. It does not produce ATP directly, unlike glycolysis.",
+      "concept_tags": ["pentose-phosphate-pathway", "nadph", "ribose-5-phosphate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-035",
+      "question_text": "The rate-limiting enzyme of the pentose phosphate pathway is:",
+      "options": [
+        "A. Transketolase",
+        "B. Transaldolase",
+        "C. Glucose-6-phosphate dehydrogenase",
+        "D. 6-phosphogluconate dehydrogenase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Glucose-6-phosphate dehydrogenase (G6PD) is the rate-limiting enzyme of the pentose phosphate pathway. It catalyzes the oxidation of glucose-6-phosphate to 6-phosphogluconolactone, producing the first NADPH. G6PD deficiency is a common genetic disorder that causes hemolytic anemia due to oxidative stress in red blood cells.",
+      "concept_tags": ["g6pd", "pentose-phosphate-pathway", "rate-limiting-enzyme"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-036",
+      "question_text": "NADPH produced by the pentose phosphate pathway is important for:",
+      "options": [
+        "A. Glycolysis",
+        "B. Fatty acid synthesis and maintaining reduced glutathione",
+        "C. ATP synthesis in mitochondria",
+        "D. Protein synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "NADPH from the pentose phosphate pathway is essential for fatty acid synthesis (reductive biosynthesis), cholesterol synthesis, and maintaining reduced glutathione (GSH), which protects cells from oxidative damage. NADPH is not used in glycolysis, oxidative phosphorylation, or protein synthesis. It is distinct from NADH used in the ETC.",
+      "concept_tags": ["nadph", "pentose-phosphate-pathway", "biosynthesis", "glutathione"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-037",
+      "question_text": "G6PD deficiency results in hemolytic anemia because red blood cells cannot:",
+      "options": [
+        "A. Perform glycolysis",
+        "B. Generate adequate NADPH to maintain reduced glutathione",
+        "C. Synthesize hemoglobin",
+        "D. Transport oxygen"
+      ],
+      "correct_answer": "B",
+      "explanation": "G6PD deficiency impairs NADPH production in red blood cells, which cannot maintain adequate reduced glutathione (GSH). GSH protects against oxidative stress. Without sufficient GSH, hemoglobin and membrane proteins become oxidized, leading to hemolysis. RBCs rely entirely on the PPP for NADPH since they lack mitochondria.",
+      "concept_tags": ["g6pd-deficiency", "hemolytic-anemia", "glutathione", "oxidative-stress"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-038",
+      "question_text": "Which phase of the pentose phosphate pathway is irreversible?",
+      "options": [
+        "A. Both oxidative and non-oxidative phases",
+        "B. Oxidative phase only",
+        "C. Non-oxidative phase only",
+        "D. Neither phase is irreversible"
+      ],
+      "correct_answer": "B",
+      "explanation": "The oxidative phase of the pentose phosphate pathway is irreversible. It includes the G6PD and 6-phosphogluconate dehydrogenase reactions that produce NADPH. The non-oxidative phase consists of reversible reactions (transketolase and transaldolase) that interconvert sugars and can operate in either direction depending on cellular needs.",
+      "concept_tags": ["pentose-phosphate-pathway", "oxidative-phase", "non-oxidative-phase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-039",
+      "question_text": "Transketolase in the pentose phosphate pathway requires which cofactor?",
+      "options": [
+        "A. Biotin",
+        "B. Thiamine pyrophosphate (TPP)",
+        "C. NAD+",
+        "D. FAD"
+      ],
+      "correct_answer": "B",
+      "explanation": "Transketolase requires thiamine pyrophosphate (TPP) as a cofactor for transferring 2-carbon units between sugar phosphates. TPP is also required by pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase. Thiamine (vitamin B1) deficiency can impair all these enzymes, affecting both glycolysis-related pathways and the citric acid cycle.",
+      "concept_tags": ["transketolase", "tpp", "pentose-phosphate-pathway", "cofactors"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-040",
+      "question_text": "In rapidly dividing cells, the pentose phosphate pathway primarily provides:",
+      "options": [
+        "A. ATP for energy",
+        "B. NADPH for oxidative defense only",
+        "C. Ribose-5-phosphate for nucleotide synthesis",
+        "D. Pyruvate for gluconeogenesis"
+      ],
+      "correct_answer": "C",
+      "explanation": "Rapidly dividing cells have high demand for nucleotides for DNA and RNA synthesis. The pentose phosphate pathway provides ribose-5-phosphate, the sugar component of nucleotides. Cancer cells often have elevated PPP activity to support their rapid proliferation. NADPH is also important but nucleotide precursors are the primary need in dividing cells.",
+      "concept_tags": ["pentose-phosphate-pathway", "ribose-5-phosphate", "nucleotide-synthesis", "cell-division"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-041",
+      "question_text": "Arsenic poisoning affects glycolysis by:",
+      "options": [
+        "A. Inhibiting hexokinase",
+        "B. Replacing phosphate in the GAPDH reaction, preventing ATP formation",
+        "C. Activating PFK-1",
+        "D. Inhibiting pyruvate decarboxylase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Arsenate (arsenic) is a structural analog of phosphate and can replace it in the glyceraldehyde-3-phosphate dehydrogenase (GAPDH) reaction. Instead of forming 1,3-bisphosphoglycerate (which would lead to ATP formation at the next step), an unstable arsenate ester forms that spontaneously hydrolyzes, bypassing ATP generation. This is called arsenolysis.",
+      "concept_tags": ["arsenic-poisoning", "gapdh", "glycolysis", "arsenolysis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-042",
+      "question_text": "Fluoride inhibits glycolysis by targeting which enzyme?",
+      "options": [
+        "A. Hexokinase",
+        "B. PFK-1",
+        "C. Enolase",
+        "D. Pyruvate kinase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Fluoride inhibits enolase, the enzyme that converts 2-phosphoglycerate to phosphoenolpyruvate. Fluoride complexes with magnesium and phosphate at the active site. This is why fluoride is added to blood collection tubes (gray top tubes) when measuring blood glucose, as it prevents glycolysis from occurring in the sample.",
+      "concept_tags": ["fluoride-inhibition", "enolase", "glycolysis", "blood-glucose-measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-043",
+      "question_text": "The alanine cycle differs from the Cori cycle in that the alanine cycle:",
+      "options": [
+        "A. Does not involve the liver",
+        "B. Transports nitrogen from muscle to liver",
+        "C. Produces more ATP than the Cori cycle",
+        "D. Does not involve gluconeogenesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "The alanine cycle transports both carbon (for gluconeogenesis) and nitrogen (from amino acid breakdown) from muscle to liver. Pyruvate in muscle is transaminated to alanine, which travels to the liver. In the liver, alanine is converted back to pyruvate (releasing ammonia for the urea cycle) and then to glucose. The Cori cycle only transports carbon as lactate.",
+      "concept_tags": ["alanine-cycle", "nitrogen-transport", "transamination", "muscle-liver"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-044",
+      "question_text": "Which metabolic condition results from a deficiency in pyruvate kinase in red blood cells?",
+      "options": [
+        "A. Diabetes mellitus",
+        "B. Hemolytic anemia",
+        "C. Lactic acidosis",
+        "D. Glycogen storage disease"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pyruvate kinase deficiency causes hemolytic anemia because red blood cells depend entirely on glycolysis for ATP production (they lack mitochondria). Without adequate ATP, RBCs cannot maintain their shape and ion gradients, leading to cell lysis. This is distinct from G6PD deficiency, which causes oxidative hemolysis.",
+      "concept_tags": ["pyruvate-kinase-deficiency", "hemolytic-anemia", "red-blood-cells", "glycolysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-045",
+      "question_text": "Von Gierke disease (Type I glycogen storage disease) results from a deficiency of:",
+      "options": [
+        "A. Muscle glycogen phosphorylase",
+        "B. Liver glucose-6-phosphatase",
+        "C. Branching enzyme",
+        "D. Debranching enzyme"
+      ],
+      "correct_answer": "B",
+      "explanation": "Von Gierke disease results from a deficiency in glucose-6-phosphatase, preventing the liver from releasing free glucose into the blood. This causes severe fasting hypoglycemia, hepatomegaly (enlarged liver due to glycogen accumulation), lactic acidosis, hyperlipidemia, and hyperuricemia. Patients require frequent meals or continuous glucose feeding.",
+      "concept_tags": ["von-gierke-disease", "glucose-6-phosphatase", "glycogen-storage-disease", "hypoglycemia"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-046",
+      "question_text": "During the payoff phase of glycolysis, how many NADH molecules are produced per glucose?",
+      "options": [
+        "A. 1 NADH",
+        "B. 2 NADH",
+        "C. 4 NADH",
+        "D. 0 NADH"
+      ],
+      "correct_answer": "B",
+      "explanation": "Two NADH molecules are produced per glucose in the payoff phase of glycolysis. The GAPDH reaction produces 1 NADH per glyceraldehyde-3-phosphate, and since one glucose yields two G3P molecules, 2 NADH total are produced. Under aerobic conditions, these NADH contribute to ATP production via the electron transport chain.",
+      "concept_tags": ["glycolysis", "nadh-production", "payoff-phase"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-06-047",
+      "question_text": "The enzyme phosphoglycerate mutase catalyzes:",
+      "options": [
+        "A. The transfer of a phosphate group from C-3 to C-2 of phosphoglycerate",
+        "B. The dehydration of 2-phosphoglycerate",
+        "C. The cleavage of fructose-1,6-bisphosphate",
+        "D. The reduction of pyruvate to lactate"
+      ],
+      "correct_answer": "A",
+      "explanation": "Phosphoglycerate mutase catalyzes the transfer of the phosphate group from the C-3 position to the C-2 position, converting 3-phosphoglycerate to 2-phosphoglycerate. This intramolecular transfer prepares the substrate for the enolase reaction. The enzyme requires 2,3-bisphosphoglycerate as a cofactor in most organisms.",
+      "concept_tags": ["phosphoglycerate-mutase", "glycolysis", "isomerization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-048",
+      "question_text": "ATP inhibits PFK-1 by:",
+      "options": [
+        "A. Binding to the active site and blocking substrate access",
+        "B. Binding to an allosteric site and stabilizing the T (inactive) state",
+        "C. Phosphorylating the enzyme",
+        "D. Denaturing the enzyme at high concentrations"
+      ],
+      "correct_answer": "B",
+      "explanation": "ATP acts as an allosteric inhibitor of PFK-1 by binding to a regulatory site (not the active site) and stabilizing the T (tense, inactive) conformation of the enzyme. This provides negative feedback when cellular energy charge is high. At the active site, ATP serves as a substrate. AMP and ADP relieve this inhibition.",
+      "concept_tags": ["pfk-1", "atp-inhibition", "allosteric-regulation", "glycolysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-06-049",
+      "question_text": "Which of the following correctly describes the shuttle systems used to transport cytosolic NADH into mitochondria?",
+      "options": [
+        "A. NADH crosses the inner mitochondrial membrane directly",
+        "B. The malate-aspartate shuttle yields 2.5 ATP per NADH; the glycerol-3-phosphate shuttle yields 1.5 ATP per NADH",
+        "C. Both shuttle systems are equally efficient",
+        "D. The glycerol-3-phosphate shuttle is only found in the liver"
+      ],
+      "correct_answer": "B",
+      "explanation": "NADH cannot cross the inner mitochondrial membrane directly. The malate-aspartate shuttle (found in liver, heart, kidney) transfers electrons to mitochondrial NAD+, yielding approximately 2.5 ATP. The glycerol-3-phosphate shuttle (found in muscle, brain) transfers electrons to FAD, yielding approximately 1.5 ATP. This difference affects total ATP yield from glucose oxidation.",
+      "concept_tags": ["nadh-shuttles", "malate-aspartate-shuttle", "glycerol-3-phosphate-shuttle", "atp-yield"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-06-050",
+      "question_text": "During prolonged fasting, which hormone primarily stimulates gluconeogenesis?",
+      "options": [
+        "A. Insulin",
+        "B. Glucagon",
+        "C. Epinephrine",
+        "D. Cortisol"
+      ],
+      "correct_answer": "B",
+      "explanation": "Glucagon is the primary hormone stimulating gluconeogenesis during fasting. It is released from pancreatic alpha cells when blood glucose is low and acts on the liver to promote glucose production. Glucagon activates cAMP signaling, which phosphorylates PFK-2/FBPase-2 and induces gluconeogenic enzyme gene expression. Cortisol also promotes gluconeogenesis but is more important during prolonged stress.",
+      "concept_tags": ["glucagon", "gluconeogenesis", "fasting", "hormonal-regulation"],
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 7,
+  "chapter_title": "Citric Acid Cycle and Oxidative Phosphorylation",
+  "questions": [
+    {
+      "id": "biochemistry-07-001",
+      "question_text": "Pyruvate dehydrogenase complex converts pyruvate into which molecule before entry into the citric acid cycle?",
+      "options": [
+        "A. Oxaloacetate",
+        "B. Acetyl-CoA",
+        "C. Citrate",
+        "D. Alpha-ketoglutarate"
+      ],
+      "correct_answer": "B",
+      "explanation": "The pyruvate dehydrogenase complex (PDC) catalyzes the oxidative decarboxylation of pyruvate to form acetyl-CoA, which then enters the citric acid cycle by condensing with oxaloacetate to form citrate. This reaction also produces NADH and releases CO2. Oxaloacetate is the acceptor molecule in the cycle, citrate is the first product of the cycle, and alpha-ketoglutarate is an intermediate.",
+      "concept_tags": ["pyruvate-dehydrogenase", "acetyl-coa", "citric-acid-cycle"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-002",
+      "question_text": "Which of the following coenzymes is NOT required by the pyruvate dehydrogenase complex?",
+      "options": [
+        "A. Thiamine pyrophosphate (TPP)",
+        "B. Lipoic acid",
+        "C. Biotin",
+        "D. FAD"
+      ],
+      "correct_answer": "C",
+      "explanation": "The pyruvate dehydrogenase complex requires five coenzymes: thiamine pyrophosphate (TPP), lipoic acid, CoA, FAD, and NAD+. Biotin is not required by this complex; it is instead used by carboxylase enzymes such as pyruvate carboxylase and acetyl-CoA carboxylase. The mnemonic 'TLC For Nancy' can help remember TPP, Lipoic acid, CoA, FAD, and NAD+.",
+      "concept_tags": ["pyruvate-dehydrogenase", "coenzymes", "vitamins"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-003",
+      "question_text": "The citric acid cycle takes place in which cellular compartment?",
+      "options": [
+        "A. Cytoplasm",
+        "B. Mitochondrial matrix",
+        "C. Inner mitochondrial membrane",
+        "D. Intermembrane space"
+      ],
+      "correct_answer": "B",
+      "explanation": "The citric acid cycle (also known as the Krebs cycle or TCA cycle) takes place in the mitochondrial matrix. Glycolysis occurs in the cytoplasm. The electron transport chain is located in the inner mitochondrial membrane. The intermembrane space is where protons accumulate during oxidative phosphorylation.",
+      "concept_tags": ["citric-acid-cycle", "mitochondria", "cellular-compartments"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-004",
+      "question_text": "Which enzyme catalyzes the first reaction of the citric acid cycle, combining acetyl-CoA with oxaloacetate?",
+      "options": [
+        "A. Aconitase",
+        "B. Citrate synthase",
+        "C. Isocitrate dehydrogenase",
+        "D. Malate dehydrogenase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Citrate synthase catalyzes the condensation of acetyl-CoA with oxaloacetate to form citrate, the first reaction of the citric acid cycle. This is an irreversible reaction that commits the acetyl group to oxidation in the cycle. Aconitase converts citrate to isocitrate. Isocitrate dehydrogenase oxidizes isocitrate. Malate dehydrogenase converts malate to oxaloacetate.",
+      "concept_tags": ["citrate-synthase", "citric-acid-cycle", "enzymes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-005",
+      "question_text": "How many molecules of CO2 are released during one complete turn of the citric acid cycle?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "correct_answer": "B",
+      "explanation": "Two molecules of CO2 are released during one complete turn of the citric acid cycle: one during the conversion of isocitrate to alpha-ketoglutarate (catalyzed by isocitrate dehydrogenase) and one during the conversion of alpha-ketoglutarate to succinyl-CoA (catalyzed by alpha-ketoglutarate dehydrogenase). These decarboxylation reactions are both oxidative and produce NADH.",
+      "concept_tags": ["citric-acid-cycle", "decarboxylation", "carbon-dioxide"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-006",
+      "question_text": "Which citric acid cycle intermediate is also a precursor for heme biosynthesis?",
+      "options": [
+        "A. Citrate",
+        "B. Alpha-ketoglutarate",
+        "C. Succinyl-CoA",
+        "D. Fumarate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Succinyl-CoA is a citric acid cycle intermediate that serves as a precursor for heme biosynthesis. It condenses with glycine in the first committed step of heme synthesis to form delta-aminolevulinic acid (ALA). This illustrates how citric acid cycle intermediates serve biosynthetic as well as catabolic functions.",
+      "concept_tags": ["succinyl-coa", "heme-synthesis", "citric-acid-cycle", "biosynthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-007",
+      "question_text": "How many NADH molecules are produced from one turn of the citric acid cycle (not including the pyruvate dehydrogenase reaction)?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "correct_answer": "C",
+      "explanation": "Three NADH molecules are produced per turn of the citric acid cycle: one each at isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, and malate dehydrogenase. An additional NADH is produced by pyruvate dehydrogenase before the cycle begins, but this is not part of the cycle itself. One FADH2 is also produced at succinate dehydrogenase.",
+      "concept_tags": ["nadh", "citric-acid-cycle", "electron-carriers"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-008",
+      "question_text": "Which enzyme of the citric acid cycle produces FADH2 rather than NADH?",
+      "options": [
+        "A. Isocitrate dehydrogenase",
+        "B. Alpha-ketoglutarate dehydrogenase",
+        "C. Succinate dehydrogenase",
+        "D. Malate dehydrogenase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Succinate dehydrogenase is the only citric acid cycle enzyme that produces FADH2 instead of NADH. It is also unique because it is embedded in the inner mitochondrial membrane and is identical to Complex II of the electron transport chain. The other dehydrogenases in the cycle (isocitrate, alpha-ketoglutarate, and malate dehydrogenases) all produce NADH.",
+      "concept_tags": ["succinate-dehydrogenase", "fadh2", "citric-acid-cycle", "complex-ii"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-009",
+      "question_text": "Substrate-level phosphorylation in the citric acid cycle occurs at which step?",
+      "options": [
+        "A. Citrate to isocitrate",
+        "B. Isocitrate to alpha-ketoglutarate",
+        "C. Succinyl-CoA to succinate",
+        "D. Malate to oxaloacetate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Substrate-level phosphorylation occurs when succinyl-CoA is converted to succinate by succinyl-CoA synthetase. The high-energy thioester bond of succinyl-CoA is used to generate GTP (or ATP in some tissues), which can then be converted to ATP. This is the only substrate-level phosphorylation in the citric acid cycle.",
+      "concept_tags": ["substrate-level-phosphorylation", "succinyl-coa", "gtp", "citric-acid-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-010",
+      "question_text": "The enzyme aconitase catalyzes the conversion of citrate to isocitrate through which intermediate?",
+      "options": [
+        "A. Oxalosuccinate",
+        "B. Cis-aconitate",
+        "C. Fumarate",
+        "D. Malate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Aconitase catalyzes a two-step reaction converting citrate to isocitrate through the intermediate cis-aconitate. The reaction involves dehydration of citrate to form cis-aconitate, followed by rehydration to form isocitrate. This isomerization moves the hydroxyl group from a tertiary to a secondary position, enabling subsequent oxidative decarboxylation.",
+      "concept_tags": ["aconitase", "citrate", "isocitrate", "citric-acid-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-011",
+      "question_text": "Which of the following is an allosteric activator of isocitrate dehydrogenase?",
+      "options": [
+        "A. ATP",
+        "B. NADH",
+        "C. ADP",
+        "D. Citrate"
+      ],
+      "correct_answer": "C",
+      "explanation": "ADP is an allosteric activator of isocitrate dehydrogenase, signaling low energy status and the need for increased ATP production. ATP and NADH are inhibitors of this enzyme, indicating high energy status. This regulation ensures that the citric acid cycle activity matches the cell's energy needs.",
+      "concept_tags": ["isocitrate-dehydrogenase", "allosteric-regulation", "citric-acid-cycle", "adp"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-012",
+      "question_text": "Alpha-ketoglutarate dehydrogenase is structurally and mechanistically similar to which other enzyme complex?",
+      "options": [
+        "A. Citrate synthase",
+        "B. Pyruvate dehydrogenase complex",
+        "C. Succinate dehydrogenase",
+        "D. ATP synthase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alpha-ketoglutarate dehydrogenase is structurally and mechanistically similar to the pyruvate dehydrogenase complex. Both are large multienzyme complexes that catalyze oxidative decarboxylation reactions and require the same five coenzymes: TPP, lipoic acid, CoA, FAD, and NAD+. Both produce NADH and release CO2.",
+      "concept_tags": ["alpha-ketoglutarate-dehydrogenase", "pyruvate-dehydrogenase", "citric-acid-cycle", "multienzyme-complex"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-013",
+      "question_text": "Which of the following conditions would stimulate pyruvate dehydrogenase activity?",
+      "options": [
+        "A. High ATP/ADP ratio",
+        "B. High NADH/NAD+ ratio",
+        "C. High acetyl-CoA/CoA ratio",
+        "D. High ADP and low NADH levels"
+      ],
+      "correct_answer": "D",
+      "explanation": "Pyruvate dehydrogenase is stimulated by conditions indicating low energy status: high ADP and low NADH levels. The enzyme is inhibited by its products (acetyl-CoA and NADH) and by high ATP levels. This ensures pyruvate is only converted to acetyl-CoA when energy is needed.",
+      "concept_tags": ["pyruvate-dehydrogenase", "regulation", "energy-status", "allosteric-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-014",
+      "question_text": "The electron transport chain is located in which part of the mitochondrion?",
+      "options": [
+        "A. Outer mitochondrial membrane",
+        "B. Intermembrane space",
+        "C. Inner mitochondrial membrane",
+        "D. Mitochondrial matrix"
+      ],
+      "correct_answer": "C",
+      "explanation": "The electron transport chain (ETC) complexes are embedded in the inner mitochondrial membrane. This membrane is highly folded into cristae, increasing surface area for the ETC components. The matrix contains the citric acid cycle enzymes. The intermembrane space accumulates protons during electron transport.",
+      "concept_tags": ["electron-transport-chain", "inner-mitochondrial-membrane", "mitochondria"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-015",
+      "question_text": "Which electron transport chain complex accepts electrons directly from NADH?",
+      "options": [
+        "A. Complex I (NADH dehydrogenase)",
+        "B. Complex II (Succinate dehydrogenase)",
+        "C. Complex III (Cytochrome bc1)",
+        "D. Complex IV (Cytochrome c oxidase)"
+      ],
+      "correct_answer": "A",
+      "explanation": "Complex I (NADH dehydrogenase or NADH-ubiquinone oxidoreductase) accepts electrons directly from NADH. It oxidizes NADH to NAD+ and transfers electrons to ubiquinone (CoQ) while pumping protons across the inner membrane. Complex II accepts electrons from FADH2 (via succinate), not NADH.",
+      "concept_tags": ["complex-i", "nadh", "electron-transport-chain"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-016",
+      "question_text": "Which mobile electron carrier transfers electrons from Complex I and Complex II to Complex III?",
+      "options": [
+        "A. Cytochrome c",
+        "B. Ubiquinone (Coenzyme Q)",
+        "C. FAD",
+        "D. NAD+"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ubiquinone (Coenzyme Q or CoQ) is a lipid-soluble mobile electron carrier that transfers electrons from both Complex I and Complex II to Complex III. It accepts electrons and protons to become ubiquinol (QH2). Cytochrome c is the mobile carrier between Complex III and Complex IV. FAD and NAD+ are electron acceptors, not mobile carriers between complexes.",
+      "concept_tags": ["ubiquinone", "coenzyme-q", "electron-transport-chain", "mobile-carriers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-017",
+      "question_text": "Complex II of the electron transport chain is unique because it:",
+      "options": [
+        "A. Pumps the most protons per electron pair",
+        "B. Is the only complex that does not pump protons",
+        "C. Accepts electrons from NADH",
+        "D. Is located in the mitochondrial matrix"
+      ],
+      "correct_answer": "B",
+      "explanation": "Complex II (succinate dehydrogenase) is unique because it does not pump protons across the inner membrane. It transfers electrons from FADH2 (generated from succinate oxidation) to ubiquinone but lacks the proton-pumping capability of Complexes I, III, and IV. This is why FADH2 yields fewer ATP than NADH.",
+      "concept_tags": ["complex-ii", "succinate-dehydrogenase", "proton-pumping", "electron-transport-chain"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-018",
+      "question_text": "Which protein transfers electrons from Complex III to Complex IV?",
+      "options": [
+        "A. Ubiquinone",
+        "B. Cytochrome c",
+        "C. Cytochrome a",
+        "D. Iron-sulfur protein"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cytochrome c is a small, water-soluble heme protein that transfers electrons from Complex III to Complex IV. It is located in the intermembrane space and carries one electron at a time. Ubiquinone transfers electrons to Complex III. Cytochrome a is part of Complex IV. Iron-sulfur proteins are components within the complexes.",
+      "concept_tags": ["cytochrome-c", "electron-transport-chain", "mobile-carriers"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-019",
+      "question_text": "The final electron acceptor in the electron transport chain is:",
+      "options": [
+        "A. NAD+",
+        "B. FAD",
+        "C. Cytochrome c",
+        "D. Molecular oxygen (O2)"
+      ],
+      "correct_answer": "D",
+      "explanation": "Molecular oxygen (O2) is the final electron acceptor in the electron transport chain. At Complex IV (cytochrome c oxidase), electrons are transferred to O2, which combines with protons to form water (H2O). This is why aerobic respiration requires oxygen. NAD+ and FAD accept electrons earlier in metabolism, not at the end of the ETC.",
+      "concept_tags": ["oxygen", "final-electron-acceptor", "electron-transport-chain", "complex-iv"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-020",
+      "question_text": "According to the chemiosmotic theory, ATP synthesis is driven by:",
+      "options": [
+        "A. Direct transfer of phosphate from substrate molecules",
+        "B. The proton gradient across the inner mitochondrial membrane",
+        "C. Electron transfer from NADH to oxygen",
+        "D. Conformational changes in cytochrome c"
+      ],
+      "correct_answer": "B",
+      "explanation": "The chemiosmotic theory, proposed by Peter Mitchell, states that ATP synthesis is driven by the electrochemical proton gradient (proton-motive force) across the inner mitochondrial membrane. Electron transport pumps protons from the matrix to the intermembrane space, creating this gradient. Protons flow back through ATP synthase, driving ATP synthesis.",
+      "concept_tags": ["chemiosmotic-theory", "proton-gradient", "atp-synthesis", "peter-mitchell"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-021",
+      "question_text": "How many protons are pumped by Complex I for each pair of electrons transferred?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 6",
+        "D. 10"
+      ],
+      "correct_answer": "B",
+      "explanation": "Complex I pumps 4 protons across the inner mitochondrial membrane for each pair of electrons transferred from NADH to ubiquinone. Complex III pumps 4 protons, and Complex IV pumps 2 protons per electron pair. This gives a total of 10 protons pumped per NADH oxidized through the complete chain.",
+      "concept_tags": ["complex-i", "proton-pumping", "electron-transport-chain"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-022",
+      "question_text": "ATP synthase consists of two main components. The F0 component functions as a:",
+      "options": [
+        "A. Proton channel",
+        "B. Catalytic site for ATP synthesis",
+        "C. Electron carrier",
+        "D. NADH binding site"
+      ],
+      "correct_answer": "A",
+      "explanation": "The F0 component of ATP synthase is embedded in the inner mitochondrial membrane and functions as a proton channel. It allows protons to flow down their concentration gradient from the intermembrane space to the matrix. This proton flow drives rotation of the c-ring in F0, which in turn causes conformational changes in the F1 component that catalyze ATP synthesis.",
+      "concept_tags": ["atp-synthase", "f0-component", "proton-channel"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-023",
+      "question_text": "The F1 component of ATP synthase contains the catalytic sites and is located:",
+      "options": [
+        "A. In the inner mitochondrial membrane",
+        "B. Protruding into the mitochondrial matrix",
+        "C. In the intermembrane space",
+        "D. On the outer mitochondrial membrane"
+      ],
+      "correct_answer": "B",
+      "explanation": "The F1 component of ATP synthase protrudes into the mitochondrial matrix and contains the catalytic sites for ATP synthesis. It consists of alpha and beta subunits arranged around a central gamma subunit. Rotation of the gamma subunit, driven by proton flow through F0, causes conformational changes in the beta subunits that catalyze ATP synthesis.",
+      "concept_tags": ["atp-synthase", "f1-component", "catalytic-sites", "mitochondrial-matrix"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-024",
+      "question_text": "The binding change mechanism of ATP synthase involves rotation of which subunit?",
+      "options": [
+        "A. Alpha subunit",
+        "B. Beta subunit",
+        "C. Gamma subunit",
+        "D. Delta subunit"
+      ],
+      "correct_answer": "C",
+      "explanation": "The binding change mechanism involves rotation of the gamma subunit, which acts as a central rotor. As protons flow through F0, they cause rotation of the c-ring and attached gamma subunit. This rotation induces sequential conformational changes in the three beta subunits, cycling them through open, loose, and tight conformations to bind ADP and Pi, synthesize ATP, and release ATP.",
+      "concept_tags": ["atp-synthase", "binding-change-mechanism", "gamma-subunit", "rotary-catalysis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-025",
+      "question_text": "Approximately how many protons must flow through ATP synthase to produce one ATP molecule?",
+      "options": [
+        "A. 1",
+        "B. 2-3",
+        "C. 3-4",
+        "D. 8-10"
+      ],
+      "correct_answer": "C",
+      "explanation": "Approximately 3-4 protons must flow through ATP synthase (depending on the organism and conditions) to produce one ATP molecule. This is determined by the number of c subunits in the F0 ring divided by three (the number of catalytic sites). The exact ratio varies slightly among species but is generally accepted to be about 3-4 H+/ATP.",
+      "concept_tags": ["atp-synthase", "proton-atp-ratio", "oxidative-phosphorylation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-026",
+      "question_text": "The oxidation of one NADH through the electron transport chain generates approximately how many ATP molecules?",
+      "options": [
+        "A. 1.5",
+        "B. 2.5",
+        "C. 3.5",
+        "D. 4.5"
+      ],
+      "correct_answer": "B",
+      "explanation": "The oxidation of one NADH generates approximately 2.5 ATP molecules (or up to 3 in some older estimates). NADH donates electrons to Complex I, and the full electron transport chain pumps about 10 protons per NADH. With approximately 3-4 protons required per ATP, this yields about 2.5 ATP per NADH.",
+      "concept_tags": ["nadh", "atp-yield", "oxidative-phosphorylation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-027",
+      "question_text": "Why does FADH2 produce fewer ATP than NADH?",
+      "options": [
+        "A. FADH2 carries fewer electrons",
+        "B. FADH2 enters the chain at Complex II, bypassing Complex I",
+        "C. FADH2 cannot cross the inner mitochondrial membrane",
+        "D. FADH2 inhibits ATP synthase"
+      ],
+      "correct_answer": "B",
+      "explanation": "FADH2 produces fewer ATP (approximately 1.5) than NADH (approximately 2.5) because it enters the electron transport chain at Complex II, bypassing Complex I. Since Complex II does not pump protons, the proton gradient generated per FADH2 is smaller than that generated per NADH. Both carriers transfer two electrons.",
+      "concept_tags": ["fadh2", "complex-ii", "atp-yield", "electron-transport-chain"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-028",
+      "question_text": "The complete oxidation of one glucose molecule through aerobic respiration yields approximately how many ATP?",
+      "options": [
+        "A. 2 ATP",
+        "B. 10-12 ATP",
+        "C. 30-32 ATP",
+        "D. 50-52 ATP"
+      ],
+      "correct_answer": "C",
+      "explanation": "The complete aerobic oxidation of one glucose molecule yields approximately 30-32 ATP. This includes 2 ATP from glycolysis, 2 ATP from the citric acid cycle (as GTP), and approximately 26-28 ATP from oxidative phosphorylation (from the oxidation of 10 NADH and 2 FADH2). The exact yield varies depending on the shuttle system used to transport cytoplasmic NADH into mitochondria.",
+      "concept_tags": ["atp-yield", "glucose-oxidation", "aerobic-respiration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-029",
+      "question_text": "The malate-aspartate shuttle is used to:",
+      "options": [
+        "A. Transport ATP out of the mitochondria",
+        "B. Transfer electrons from cytoplasmic NADH into the mitochondria",
+        "C. Move pyruvate into the mitochondria",
+        "D. Export citrate for fatty acid synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "The malate-aspartate shuttle transfers electrons from cytoplasmic NADH (produced in glycolysis) into the mitochondria. Since NADH cannot cross the inner membrane, this shuttle uses malate and aspartate as carriers. It is more efficient than the glycerol-3-phosphate shuttle because it regenerates NADH in the matrix, yielding the full 2.5 ATP per NADH.",
+      "concept_tags": ["malate-aspartate-shuttle", "nadh-transport", "mitochondrial-transport"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-030",
+      "question_text": "Which inhibitor blocks electron transport at Complex I by preventing electron transfer to ubiquinone?",
+      "options": [
+        "A. Cyanide",
+        "B. Rotenone",
+        "C. Antimycin A",
+        "D. Oligomycin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Rotenone blocks Complex I by inhibiting electron transfer from the iron-sulfur clusters to ubiquinone. This prevents NADH oxidation but allows FADH2 oxidation through Complex II. Cyanide inhibits Complex IV. Antimycin A inhibits Complex III. Oligomycin inhibits ATP synthase, not the electron transport chain directly.",
+      "concept_tags": ["rotenone", "complex-i", "etc-inhibitors", "electron-transport-chain"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-031",
+      "question_text": "Carbon monoxide poisoning is dangerous because CO binds to:",
+      "options": [
+        "A. Complex I",
+        "B. Complex II",
+        "C. Complex III",
+        "D. Complex IV (cytochrome c oxidase)"
+      ],
+      "correct_answer": "D",
+      "explanation": "Carbon monoxide binds tightly to the heme iron in Complex IV (cytochrome c oxidase), the same binding site as oxygen. This prevents electron transfer to oxygen, blocking the entire electron transport chain. CO also binds to hemoglobin, reducing oxygen delivery to tissues. This dual effect makes CO poisoning particularly dangerous.",
+      "concept_tags": ["carbon-monoxide", "complex-iv", "etc-inhibitors", "cytochrome-oxidase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-032",
+      "question_text": "Cyanide inhibits cellular respiration by blocking which electron transport chain component?",
+      "options": [
+        "A. Complex I",
+        "B. Complex III",
+        "C. Complex IV",
+        "D. ATP synthase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cyanide (CN-) inhibits Complex IV (cytochrome c oxidase) by binding to the Fe3+ form of the heme a3-CuB center. This prevents the final transfer of electrons to oxygen, completely blocking the electron transport chain. All upstream complexes become reduced and cannot function, halting ATP production.",
+      "concept_tags": ["cyanide", "complex-iv", "etc-inhibitors", "cytochrome-oxidase"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-033",
+      "question_text": "Oligomycin inhibits ATP synthesis by:",
+      "options": [
+        "A. Blocking electron transport at Complex III",
+        "B. Preventing proton flow through the F0 channel of ATP synthase",
+        "C. Uncoupling electron transport from ATP synthesis",
+        "D. Inhibiting the F1 catalytic subunit"
+      ],
+      "correct_answer": "B",
+      "explanation": "Oligomycin inhibits ATP synthase by blocking the proton channel in the F0 component, preventing protons from flowing back into the matrix. This stops ATP synthesis and also causes the proton gradient to build up, which eventually inhibits electron transport as well (since the high gradient opposes further proton pumping).",
+      "concept_tags": ["oligomycin", "atp-synthase", "f0-component", "etc-inhibitors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-034",
+      "question_text": "Uncoupling agents such as 2,4-dinitrophenol (DNP) affect oxidative phosphorylation by:",
+      "options": [
+        "A. Blocking electron transport",
+        "B. Inhibiting ATP synthase",
+        "C. Dissipating the proton gradient without ATP synthesis",
+        "D. Preventing NADH oxidation"
+      ],
+      "correct_answer": "C",
+      "explanation": "Uncoupling agents like DNP are lipophilic weak acids that carry protons across the inner mitochondrial membrane, dissipating the proton gradient. Electron transport continues (and may even increase) but is no longer coupled to ATP synthesis. The energy is released as heat. This principle is used by brown adipose tissue with the uncoupling protein thermogenin (UCP1).",
+      "concept_tags": ["uncoupling-agents", "dnp", "proton-gradient", "thermogenesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-035",
+      "question_text": "Brown adipose tissue generates heat through the action of:",
+      "options": [
+        "A. Increased ATP synthase activity",
+        "B. Uncoupling protein 1 (UCP1/thermogenin)",
+        "C. Enhanced Complex IV activity",
+        "D. Inhibition of the citric acid cycle"
+      ],
+      "correct_answer": "B",
+      "explanation": "Brown adipose tissue generates heat through uncoupling protein 1 (UCP1, also called thermogenin). UCP1 is a proton channel in the inner mitochondrial membrane that allows protons to flow back into the matrix without passing through ATP synthase. This dissipates the proton gradient as heat rather than ATP, a process called non-shivering thermogenesis.",
+      "concept_tags": ["brown-adipose-tissue", "ucp1", "thermogenin", "thermogenesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-036",
+      "question_text": "Which of the following citric acid cycle enzymes is regulated by calcium ions?",
+      "options": [
+        "A. Citrate synthase only",
+        "B. Aconitase only",
+        "C. Pyruvate dehydrogenase, isocitrate dehydrogenase, and alpha-ketoglutarate dehydrogenase",
+        "D. Succinate dehydrogenase only"
+      ],
+      "correct_answer": "C",
+      "explanation": "Calcium ions activate pyruvate dehydrogenase, isocitrate dehydrogenase, and alpha-ketoglutarate dehydrogenase. This is physiologically important because muscle contraction releases calcium, which signals increased energy demand. Calcium activation of these enzymes increases citric acid cycle flux to meet the higher ATP requirements during muscle activity.",
+      "concept_tags": ["calcium-regulation", "citric-acid-cycle", "enzyme-regulation", "muscle-metabolism"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-037",
+      "question_text": "The regulation of pyruvate dehydrogenase by covalent modification involves:",
+      "options": [
+        "A. Acetylation by acetyltransferase",
+        "B. Methylation by methyltransferase",
+        "C. Phosphorylation by pyruvate dehydrogenase kinase",
+        "D. Ubiquitination by ubiquitin ligase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Pyruvate dehydrogenase is regulated by phosphorylation and dephosphorylation. Pyruvate dehydrogenase kinase phosphorylates and inactivates the enzyme, while pyruvate dehydrogenase phosphatase removes the phosphate and activates it. High ratios of ATP/ADP, NADH/NAD+, and acetyl-CoA/CoA activate the kinase, inhibiting PDH when energy is abundant.",
+      "concept_tags": ["pyruvate-dehydrogenase", "phosphorylation", "covalent-modification", "enzyme-regulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-038",
+      "question_text": "In the citric acid cycle, which reaction is most similar to the pyruvate dehydrogenase reaction in terms of mechanism and products?",
+      "options": [
+        "A. Citrate synthase reaction",
+        "B. Isocitrate dehydrogenase reaction",
+        "C. Alpha-ketoglutarate dehydrogenase reaction",
+        "D. Succinate dehydrogenase reaction"
+      ],
+      "correct_answer": "C",
+      "explanation": "The alpha-ketoglutarate dehydrogenase reaction is most similar to the pyruvate dehydrogenase reaction. Both are oxidative decarboxylations catalyzed by multienzyme complexes that require the same five coenzymes (TPP, lipoic acid, CoA, FAD, NAD+). Both convert alpha-keto acids to acyl-CoA derivatives while producing NADH and CO2.",
+      "concept_tags": ["alpha-ketoglutarate-dehydrogenase", "pyruvate-dehydrogenase", "oxidative-decarboxylation", "multienzyme-complex"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-039",
+      "question_text": "Fluoroacetate is a metabolic poison because it is converted to fluorocitrate, which inhibits:",
+      "options": [
+        "A. Citrate synthase",
+        "B. Aconitase",
+        "C. Isocitrate dehydrogenase",
+        "D. Succinate dehydrogenase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fluoroacetate is converted to fluoroacetyl-CoA, which combines with oxaloacetate to form fluorocitrate. Fluorocitrate is a potent inhibitor of aconitase, blocking the conversion of citrate to isocitrate. This halts the citric acid cycle and causes citrate accumulation. This is an example of lethal synthesis, where a poison is metabolically activated.",
+      "concept_tags": ["fluoroacetate", "aconitase", "metabolic-poison", "citric-acid-cycle"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-040",
+      "question_text": "The citric acid cycle is considered amphibolic because it:",
+      "options": [
+        "A. Functions only in aerobic conditions",
+        "B. Produces both ATP and GTP",
+        "C. Serves both catabolic and anabolic functions",
+        "D. Is located in both the cytoplasm and mitochondria"
+      ],
+      "correct_answer": "C",
+      "explanation": "The citric acid cycle is amphibolic, meaning it serves both catabolic (degradative) and anabolic (biosynthetic) functions. Catabolically, it oxidizes acetyl-CoA to CO2 and generates reducing equivalents for ATP production. Anabolically, its intermediates are precursors for gluconeogenesis (oxaloacetate), amino acid synthesis (alpha-ketoglutarate, oxaloacetate), heme synthesis (succinyl-CoA), and fatty acid synthesis (citrate).",
+      "concept_tags": ["amphibolic", "citric-acid-cycle", "anabolism", "catabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-041",
+      "question_text": "Anaplerotic reactions are important because they:",
+      "options": [
+        "A. Provide additional NADH for the electron transport chain",
+        "B. Replenish citric acid cycle intermediates that have been removed for biosynthesis",
+        "C. Increase the rate of oxidative phosphorylation",
+        "D. Convert excess acetyl-CoA to glucose"
+      ],
+      "correct_answer": "B",
+      "explanation": "Anaplerotic ('filling up') reactions replenish citric acid cycle intermediates that have been removed for biosynthetic purposes. The most important anaplerotic reaction is the carboxylation of pyruvate to oxaloacetate by pyruvate carboxylase. Without anaplerotic reactions, the citric acid cycle would slow down as intermediates are drained for biosynthesis.",
+      "concept_tags": ["anaplerotic-reactions", "citric-acid-cycle", "pyruvate-carboxylase", "biosynthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-042",
+      "question_text": "Pyruvate carboxylase, a key anaplerotic enzyme, is activated by which molecule?",
+      "options": [
+        "A. ADP",
+        "B. NADH",
+        "C. Acetyl-CoA",
+        "D. Citrate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Pyruvate carboxylase is allosterically activated by acetyl-CoA. When acetyl-CoA accumulates (indicating that the citric acid cycle is not keeping up with acetyl-CoA production), pyruvate carboxylase is activated to convert pyruvate to oxaloacetate. This replenishes oxaloacetate, which can then condense with the excess acetyl-CoA to form citrate.",
+      "concept_tags": ["pyruvate-carboxylase", "acetyl-coa", "anaplerotic-reactions", "allosteric-regulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-043",
+      "question_text": "The P/O ratio refers to the number of:",
+      "options": [
+        "A. Protons pumped per oxygen atom reduced",
+        "B. ATP molecules produced per oxygen atom reduced",
+        "C. Protons required per ATP synthesized",
+        "D. Electrons transferred per proton pumped"
+      ],
+      "correct_answer": "B",
+      "explanation": "The P/O ratio (also written as ATP/O or P/2e-) refers to the number of ATP molecules produced per oxygen atom reduced (or per pair of electrons transferred to oxygen). For NADH, the P/O ratio is approximately 2.5 (or 3 in older literature). For FADH2, it is approximately 1.5 (or 2). This reflects the efficiency of oxidative phosphorylation.",
+      "concept_tags": ["p-o-ratio", "atp-yield", "oxidative-phosphorylation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-044",
+      "question_text": "Which statement about Complex III (cytochrome bc1 complex) is correct?",
+      "options": [
+        "A. It transfers electrons directly from NADH",
+        "B. It uses the Q cycle to pump protons",
+        "C. It is the site of oxygen reduction",
+        "D. It does not contribute to the proton gradient"
+      ],
+      "correct_answer": "B",
+      "explanation": "Complex III uses the Q cycle mechanism to transfer electrons from ubiquinol (QH2) to cytochrome c while pumping protons across the inner membrane. The Q cycle effectively pumps 4 protons per pair of electrons. Complex I, not Complex III, accepts electrons from NADH. Oxygen reduction occurs at Complex IV. Complex III does contribute to the proton gradient.",
+      "concept_tags": ["complex-iii", "q-cycle", "proton-pumping", "electron-transport-chain"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-045",
+      "question_text": "During intense exercise, muscle cells may convert pyruvate to lactate instead of acetyl-CoA primarily to:",
+      "options": [
+        "A. Generate more ATP",
+        "B. Regenerate NAD+ for continued glycolysis",
+        "C. Increase citric acid cycle activity",
+        "D. Prevent mitochondrial damage"
+      ],
+      "correct_answer": "B",
+      "explanation": "During intense exercise when oxygen supply is limited, lactate dehydrogenase converts pyruvate to lactate to regenerate NAD+ from NADH. This allows glycolysis to continue producing ATP (2 per glucose) even when the electron transport chain cannot oxidize all the NADH produced. This is called anaerobic glycolysis or lactic acid fermentation.",
+      "concept_tags": ["lactate", "nad-regeneration", "anaerobic-glycolysis", "muscle-metabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-07-046",
+      "question_text": "The glycerol-3-phosphate shuttle differs from the malate-aspartate shuttle in that it:",
+      "options": [
+        "A. Produces more ATP per cytoplasmic NADH",
+        "B. Transfers electrons to mitochondrial FAD instead of NAD+",
+        "C. Is found only in liver cells",
+        "D. Does not involve the inner mitochondrial membrane"
+      ],
+      "correct_answer": "B",
+      "explanation": "The glycerol-3-phosphate shuttle transfers electrons from cytoplasmic NADH to mitochondrial FAD (via glycerol-3-phosphate dehydrogenase on the outer surface of the inner membrane). This results in FADH2 formation in the mitochondria, yielding only 1.5 ATP instead of the 2.5 ATP obtained with the malate-aspartate shuttle, which regenerates mitochondrial NADH.",
+      "concept_tags": ["glycerol-3-phosphate-shuttle", "malate-aspartate-shuttle", "fadh2", "atp-yield"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-047",
+      "question_text": "Which of the following best describes the proton-motive force?",
+      "options": [
+        "A. The concentration of protons in the mitochondrial matrix",
+        "B. The electrochemical gradient of protons across the inner mitochondrial membrane",
+        "C. The rate of ATP synthesis by ATP synthase",
+        "D. The electron flow through the respiratory chain"
+      ],
+      "correct_answer": "B",
+      "explanation": "The proton-motive force (pmf) is the electrochemical gradient of protons across the inner mitochondrial membrane. It has two components: the chemical gradient (pH difference, with the matrix being more basic) and the electrical gradient (membrane potential, with the matrix being negative). Together, these provide the energy that drives ATP synthesis when protons flow through ATP synthase.",
+      "concept_tags": ["proton-motive-force", "electrochemical-gradient", "chemiosmotic-theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-048",
+      "question_text": "Arsenic poisoning affects cellular respiration by inhibiting:",
+      "options": [
+        "A. Hexokinase in glycolysis",
+        "B. Lipoic acid-containing enzymes like pyruvate dehydrogenase",
+        "C. Cytochrome c oxidase",
+        "D. ATP synthase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Arsenite (As3+) binds to the sulfhydryl groups of lipoic acid, inhibiting enzymes that require this cofactor, including pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase. This blocks the entry of acetyl-CoA into the citric acid cycle and an important step within the cycle, severely impairing ATP production. Arsenate (As5+) can also substitute for phosphate, uncoupling substrate-level phosphorylation.",
+      "concept_tags": ["arsenic-poisoning", "lipoic-acid", "pyruvate-dehydrogenase", "metabolic-poison"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-07-049",
+      "question_text": "The inner mitochondrial membrane is impermeable to most molecules. How does ATP exit the mitochondria?",
+      "options": [
+        "A. Simple diffusion through the membrane",
+        "B. ATP-ADP translocase (adenine nucleotide translocator)",
+        "C. Voltage-gated channels",
+        "D. Exocytosis"
+      ],
+      "correct_answer": "B",
+      "explanation": "ATP exits the mitochondria via the ATP-ADP translocase (also called adenine nucleotide translocator or ANT). This antiporter exchanges matrix ATP for cytoplasmic ADP, driven by the membrane potential (ATP has one more negative charge than ADP). This transport consumes part of the proton-motive force, which is why the net ATP yield is slightly less than theoretical maximum.",
+      "concept_tags": ["atp-adp-translocase", "mitochondrial-transport", "adenine-nucleotide-translocator"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-07-050",
+      "question_text": "A patient with a deficiency in pyruvate dehydrogenase would be expected to have elevated blood levels of:",
+      "options": [
+        "A. Acetyl-CoA",
+        "B. Citrate",
+        "C. Lactate and pyruvate",
+        "D. Succinate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Pyruvate dehydrogenase deficiency prevents the conversion of pyruvate to acetyl-CoA. This causes pyruvate to accumulate, which is then converted to lactate by lactate dehydrogenase, leading to lactic acidosis. Patients typically present with elevated lactate and pyruvate levels, neurological deficits, and developmental delays. Treatment may include a ketogenic diet to bypass the need for glucose-derived acetyl-CoA.",
+      "concept_tags": ["pyruvate-dehydrogenase-deficiency", "lactic-acidosis", "metabolic-disorders", "clinical-biochemistry"],
+      "difficulty": "medium"
+    }
+  ]
+}

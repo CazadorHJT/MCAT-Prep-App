@@ -1,0 +1,457 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 1,
+  "chapter_title": "Sensation and Perception",
+  "questions": [
+    {
+      "id": "behavioral-sciences-01-001",
+      "question_text": "A researcher is determining the minimum intensity of light that a participant can detect 50% of the time. What is being measured?",
+      "options": ["A. Absolute threshold", "B. Difference threshold", "C. Weber's fraction", "D. Signal detection sensitivity"],
+      "correct_answer": "A",
+      "explanation": "The absolute threshold is defined as the minimum stimulus intensity that can be detected 50% of the time. This represents the boundary between stimuli that can and cannot be consciously perceived.",
+      "concept_tags": ["thresholds", "absolute-threshold", "psychophysics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-002",
+      "question_text": "According to Weber's law, if the just noticeable difference (JND) for a 100-gram weight is 2 grams, what would be the JND for a 200-gram weight?",
+      "options": ["A. 2 grams", "B. 4 grams", "C. 6 grams", "D. 8 grams"],
+      "correct_answer": "B",
+      "explanation": "Weber's law states that the JND is a constant proportion of the original stimulus. If 2g is the JND for 100g (ratio of 0.02), then for 200g the JND would be 200 × 0.02 = 4 grams.",
+      "concept_tags": ["thresholds", "webers-law", "difference-threshold"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-003",
+      "question_text": "Which structure of the eye is primarily responsible for focusing light onto the retina?",
+      "options": ["A. Cornea", "B. Iris", "C. Lens", "D. Pupil"],
+      "correct_answer": "C",
+      "explanation": "While the cornea provides about two-thirds of the eye's refractive power, the lens is responsible for fine-tuning focus through accommodation. The lens changes shape to focus light from objects at varying distances onto the retina.",
+      "concept_tags": ["vision", "eye-anatomy", "lens"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-004",
+      "question_text": "Rod photoreceptors are most concentrated in which area of the retina?",
+      "options": ["A. Fovea", "B. Peripheral retina", "C. Optic disc", "D. Macula"],
+      "correct_answer": "B",
+      "explanation": "Rods are concentrated in the peripheral retina and are responsible for scotopic (low-light) vision. The fovea contains only cones, which are responsible for photopic (daylight) vision and color perception.",
+      "concept_tags": ["vision", "photoreceptors", "rods", "retina"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-005",
+      "question_text": "A patient has damage to the left optic tract. What visual field deficit would result?",
+      "options": ["A. Blindness in the left eye only", "B. Blindness in the right eye only", "C. Right homonymous hemianopia", "D. Left homonymous hemianopia"],
+      "correct_answer": "C",
+      "explanation": "The left optic tract carries information from the left halves of both retinas, which receive light from the right visual field. Damage to the left optic tract results in right homonymous hemianopia (loss of the right visual field in both eyes).",
+      "concept_tags": ["vision", "visual-pathways", "optic-tract"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-01-006",
+      "question_text": "Which theory of color vision best explains the phenomenon of color afterimages?",
+      "options": ["A. Trichromatic theory", "B. Opponent-process theory", "C. Feature detection theory", "D. Parallel processing theory"],
+      "correct_answer": "B",
+      "explanation": "Opponent-process theory explains color afterimages. When you stare at one color, the neurons responding to that color become fatigued. When you look away, the opposing color neurons fire more strongly, producing an afterimage of the complementary color.",
+      "concept_tags": ["vision", "color-vision", "opponent-process"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-007",
+      "question_text": "The vibration of the basilar membrane is greatest at the base of the cochlea for which type of sounds?",
+      "options": ["A. Low-frequency sounds", "B. High-frequency sounds", "C. Low-amplitude sounds", "D. Complex sounds"],
+      "correct_answer": "B",
+      "explanation": "Place theory explains that different frequencies maximally stimulate different locations along the basilar membrane. High-frequency sounds cause maximum vibration at the base (near the oval window), while low-frequency sounds cause maximum vibration at the apex.",
+      "concept_tags": ["hearing", "cochlea", "place-theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-008",
+      "question_text": "Which structure converts sound waves into mechanical vibrations?",
+      "options": ["A. Cochlea", "B. Tympanic membrane", "C. Semicircular canals", "D. Auditory cortex"],
+      "correct_answer": "B",
+      "explanation": "The tympanic membrane (eardrum) converts sound waves in the air into mechanical vibrations. These vibrations are then transmitted through the ossicles to the oval window and into the fluid-filled cochlea.",
+      "concept_tags": ["hearing", "ear-anatomy", "tympanic-membrane"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-009",
+      "question_text": "Signal detection theory would predict that which of the following would increase the likelihood of a 'hit' when detecting a faint stimulus?",
+      "options": ["A. Decreasing the observer's motivation", "B. Increasing the cost of a false alarm", "C. Lowering the response criterion", "D. Increasing background noise"],
+      "correct_answer": "C",
+      "explanation": "A 'hit' occurs when a signal is present and detected. Lowering the response criterion (being more liberal) increases the likelihood of responding 'yes,' which increases both hits and false alarms.",
+      "concept_tags": ["signal-detection-theory", "psychophysics", "response-criterion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-010",
+      "question_text": "A radiologist examining X-rays for tumors is more likely to miss a tumor when tumors are rare. This phenomenon is best explained by:",
+      "options": ["A. Absolute threshold effects", "B. Signal detection theory and response bias", "C. Weber's law", "D. Sensory adaptation"],
+      "correct_answer": "B",
+      "explanation": "When targets are rare, observers adopt a more conservative response criterion, requiring stronger evidence before reporting a detection. This shifts the response bias and increases misses while reducing false alarms.",
+      "concept_tags": ["signal-detection-theory", "response-bias", "base-rate"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-01-011",
+      "question_text": "Which Gestalt principle explains why we perceive 'XXXX XXXX' as two groups rather than eight individual Xs?",
+      "options": ["A. Similarity", "B. Proximity", "C. Closure", "D. Continuity"],
+      "correct_answer": "B",
+      "explanation": "The Gestalt principle of proximity states that objects that are close together tend to be grouped together. The space between the two groups of Xs causes us to perceive them as two separate units.",
+      "concept_tags": ["gestalt-principles", "proximity", "perceptual-organization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-012",
+      "question_text": "When viewing a partially occluded circle, we tend to perceive it as a complete circle rather than an arc. This illustrates the Gestalt principle of:",
+      "options": ["A. Proximity", "B. Similarity", "C. Closure", "D. Figure-ground"],
+      "correct_answer": "C",
+      "explanation": "The principle of closure describes our tendency to fill in gaps and perceive incomplete figures as complete. We mentally 'close' the missing portion of the circle to perceive a whole object.",
+      "concept_tags": ["gestalt-principles", "closure", "perceptual-organization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-013",
+      "question_text": "Binocular disparity provides depth information because:",
+      "options": ["A. Each eye receives a slightly different image of the world", "B. The lens changes shape when focusing on near objects", "C. Distant objects appear smaller than near objects", "D. Parallel lines appear to converge at a distance"],
+      "correct_answer": "A",
+      "explanation": "Binocular disparity refers to the slight difference in the images projected onto each retina due to the horizontal separation of the eyes. The brain uses this difference to compute depth information.",
+      "concept_tags": ["depth-perception", "binocular-cues", "stereopsis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-014",
+      "question_text": "Which of the following is a monocular depth cue?",
+      "options": ["A. Convergence", "B. Binocular disparity", "C. Linear perspective", "D. Stereopsis"],
+      "correct_answer": "C",
+      "explanation": "Linear perspective is a monocular (pictorial) depth cue where parallel lines appear to converge as they recede into the distance. Convergence and binocular disparity are binocular cues requiring both eyes.",
+      "concept_tags": ["depth-perception", "monocular-cues", "linear-perspective"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-015",
+      "question_text": "The cocktail party effect demonstrates:",
+      "options": ["A. Sensory adaptation", "B. Selective attention", "C. Absolute threshold", "D. Sensory memory"],
+      "correct_answer": "B",
+      "explanation": "The cocktail party effect describes the ability to focus on one conversation while filtering out background noise, and then shifting attention when hearing one's name. This demonstrates selective attention.",
+      "concept_tags": ["attention", "selective-attention", "cocktail-party-effect"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-016",
+      "question_text": "A participant in a dichotic listening task is asked to shadow (repeat) the message in the left ear. According to Broadbent's filter model, the unattended message in the right ear will be:",
+      "options": ["A. Fully processed for meaning", "B. Filtered out before semantic processing", "C. Stored in long-term memory", "D. Processed unconsciously for meaning"],
+      "correct_answer": "B",
+      "explanation": "Broadbent's early selection (filter) model proposes that unattended information is filtered out at an early stage based on physical characteristics, before semantic (meaning) processing occurs.",
+      "concept_tags": ["attention", "broadbent-filter-model", "dichotic-listening"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-017",
+      "question_text": "Which type of cone is most sensitive to long wavelengths of light?",
+      "options": ["A. S-cones (blue)", "B. M-cones (green)", "C. L-cones (red)", "D. Rod cells"],
+      "correct_answer": "C",
+      "explanation": "L-cones (long-wavelength cones) are most sensitive to long wavelengths of light, which we perceive as red. S-cones respond to short wavelengths (blue), and M-cones respond to medium wavelengths (green).",
+      "concept_tags": ["vision", "photoreceptors", "cones", "color-vision"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-018",
+      "question_text": "Damage to which brain structure would most likely impair the ability to recognize faces?",
+      "options": ["A. Primary visual cortex (V1)", "B. Fusiform face area", "C. Lateral geniculate nucleus", "D. Superior colliculus"],
+      "correct_answer": "B",
+      "explanation": "The fusiform face area (FFA) in the temporal lobe is specialized for face recognition. Damage to this area can result in prosopagnosia, the inability to recognize faces despite intact general vision.",
+      "concept_tags": ["vision", "face-recognition", "fusiform-face-area"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-019",
+      "question_text": "The ossicles of the middle ear amplify sound by:",
+      "options": ["A. Increasing the frequency of sound waves", "B. Converting mechanical energy to electrical signals", "C. Concentrating force from a large area to a smaller area", "D. Separating different frequencies of sound"],
+      "correct_answer": "C",
+      "explanation": "The ossicles amplify sound through mechanical advantage, concentrating the force from the larger tympanic membrane onto the smaller oval window. This increases pressure approximately 20-fold.",
+      "concept_tags": ["hearing", "ossicles", "sound-amplification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-020",
+      "question_text": "Which taste quality is typically associated with detecting potentially poisonous substances?",
+      "options": ["A. Sweet", "B. Salty", "C. Bitter", "D. Umami"],
+      "correct_answer": "C",
+      "explanation": "Bitter taste receptors evolved to detect potentially toxic alkaloids in plants. This is why many poisons taste bitter and why humans have a natural aversion to bitter tastes, especially in childhood.",
+      "concept_tags": ["taste", "bitter", "chemical-senses"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-021",
+      "question_text": "Olfactory receptor neurons send their axons directly to the:",
+      "options": ["A. Thalamus", "B. Olfactory bulb", "C. Hippocampus", "D. Primary olfactory cortex"],
+      "correct_answer": "B",
+      "explanation": "Olfactory receptor neurons project their axons through the cribriform plate to synapse in the olfactory bulb. This is unique among senses as olfaction has direct access to cortical areas without first passing through the thalamus.",
+      "concept_tags": ["smell", "olfaction", "olfactory-bulb"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-022",
+      "question_text": "The sense of body position and movement without visual input is called:",
+      "options": ["A. Vestibular sense", "B. Proprioception", "C. Kinesthesia", "D. Somatosensation"],
+      "correct_answer": "B",
+      "explanation": "Proprioception is the sense of body position and limb location in space without relying on vision. It relies on receptors in muscles, tendons, and joints. Kinesthesia specifically refers to the sense of movement.",
+      "concept_tags": ["proprioception", "body-position", "somatosensation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-023",
+      "question_text": "A patient can perceive touch on their arm but cannot identify objects placed in their hand without looking. This patient most likely has damage to the:",
+      "options": ["A. Primary somatosensory cortex", "B. Somatosensory association cortex", "C. Spinal cord", "D. Thalamus"],
+      "correct_answer": "B",
+      "explanation": "The somatosensory association cortex integrates tactile information for object recognition (stereognosis). Damage here causes astereognosis - inability to identify objects by touch despite intact basic sensation.",
+      "concept_tags": ["touch", "somatosensory-cortex", "stereognosis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-01-024",
+      "question_text": "Gate control theory proposes that pain perception can be reduced by:",
+      "options": ["A. Increasing the activity of small diameter pain fibers", "B. Activation of large diameter touch fibers", "C. Blocking all spinal cord transmission", "D. Increasing inflammation at the injury site"],
+      "correct_answer": "B",
+      "explanation": "Gate control theory proposes that activation of large-diameter mechanoreceptor fibers (touch) can 'close the gate' on pain signals carried by small-diameter fibers, reducing pain perception. This explains why rubbing an injury can reduce pain.",
+      "concept_tags": ["pain", "gate-control-theory", "somatosensation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-025",
+      "question_text": "Which visual processing stream is primarily responsible for recognizing what an object is?",
+      "options": ["A. Dorsal stream", "B. Ventral stream", "C. Magnocellular pathway", "D. Retino-tectal pathway"],
+      "correct_answer": "B",
+      "explanation": "The ventral stream (temporal pathway) is known as the 'what' pathway and is responsible for object recognition and identification. The dorsal stream (parietal pathway) is the 'where' pathway for spatial processing.",
+      "concept_tags": ["vision", "visual-pathways", "ventral-stream"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-026",
+      "question_text": "The phenomenon where we perceive a door as rectangular even when viewing it at an angle is called:",
+      "options": ["A. Size constancy", "B. Shape constancy", "C. Brightness constancy", "D. Color constancy"],
+      "correct_answer": "B",
+      "explanation": "Shape constancy allows us to perceive objects as having a stable shape despite changes in the retinal image caused by viewing angle. A door appears rectangular even though its retinal image is trapezoidal when viewed at an angle.",
+      "concept_tags": ["perception", "perceptual-constancy", "shape-constancy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-027",
+      "question_text": "In signal detection theory, a 'miss' occurs when:",
+      "options": ["A. A signal is present and the observer says 'yes'", "B. A signal is absent and the observer says 'no'", "C. A signal is present and the observer says 'no'", "D. A signal is absent and the observer says 'yes'"],
+      "correct_answer": "C",
+      "explanation": "In signal detection theory, a 'miss' (or false negative) occurs when a signal is actually present but the observer fails to detect it and responds 'no.' This is distinguished from a hit (correct detection), false alarm, and correct rejection.",
+      "concept_tags": ["signal-detection-theory", "psychophysics", "miss"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-028",
+      "question_text": "Sensory adaptation refers to:",
+      "options": ["A. Learning to pay attention to important stimuli", "B. Decreased sensitivity to a constant stimulus over time", "C. The ability to detect very faint stimuli", "D. Adjusting response criterion based on expectations"],
+      "correct_answer": "B",
+      "explanation": "Sensory adaptation is the decreased responsiveness of sensory receptors to an unchanging stimulus over time. This allows the nervous system to focus on changes in the environment rather than constant stimulation.",
+      "concept_tags": ["sensation", "sensory-adaptation", "neural-adaptation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-029",
+      "question_text": "Which structure is responsible for adjusting the amount of light entering the eye?",
+      "options": ["A. Cornea", "B. Lens", "C. Iris", "D. Retina"],
+      "correct_answer": "C",
+      "explanation": "The iris is the colored part of the eye that contains muscles controlling the size of the pupil. By constricting or dilating the pupil, the iris regulates the amount of light that enters the eye and reaches the retina.",
+      "concept_tags": ["vision", "eye-anatomy", "iris", "pupil"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-030",
+      "question_text": "A researcher studying attention asks participants to count basketball passes while a person in a gorilla suit walks through the scene. Many participants fail to notice the gorilla. This demonstrates:",
+      "options": ["A. Change blindness", "B. Inattentional blindness", "C. Sensory adaptation", "D. Selective perception"],
+      "correct_answer": "B",
+      "explanation": "Inattentional blindness occurs when we fail to perceive clearly visible objects because our attention is focused elsewhere. This famous 'invisible gorilla' study demonstrates that attention is required for conscious perception.",
+      "concept_tags": ["attention", "inattentional-blindness", "selective-attention"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-031",
+      "question_text": "The semicircular canals are primarily responsible for detecting:",
+      "options": ["A. Linear acceleration", "B. Rotational acceleration", "C. Sound frequency", "D. Body position relative to gravity"],
+      "correct_answer": "B",
+      "explanation": "The three semicircular canals detect rotational (angular) acceleration of the head in three dimensions. The otolith organs (utricle and saccule) detect linear acceleration and head position relative to gravity.",
+      "concept_tags": ["vestibular-sense", "semicircular-canals", "balance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-032",
+      "question_text": "According to frequency theory, pitch perception for low-frequency sounds is encoded by:",
+      "options": ["A. The location of maximum displacement on the basilar membrane", "B. The rate of neural firing matching the sound frequency", "C. The amplitude of basilar membrane vibration", "D. The number of hair cells activated"],
+      "correct_answer": "B",
+      "explanation": "Frequency theory proposes that pitch is coded by the firing rate of auditory neurons, which matches the frequency of the sound wave. This works well for low frequencies (below ~1000 Hz) but not for higher frequencies due to neural firing limits.",
+      "concept_tags": ["hearing", "frequency-theory", "pitch-perception"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-033",
+      "question_text": "The phenomenon where afterimages appear in complementary colors is best explained by fatigue in:",
+      "options": ["A. Rod photoreceptors", "B. Ganglion cells", "C. Opponent-process cells", "D. Photopigment molecules"],
+      "correct_answer": "C",
+      "explanation": "When staring at a color, opponent-process cells responding to that color become fatigued. When looking at a neutral surface, the opposing cells (now relatively more active) create an afterimage in the complementary color.",
+      "concept_tags": ["vision", "color-vision", "opponent-process", "afterimages"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-034",
+      "question_text": "Motion parallax is a depth cue that relies on:",
+      "options": ["A. The difference between the images in each eye", "B. The relative movement of objects at different distances when the observer moves", "C. The convergence of the eyes when focusing on nearby objects", "D. Learned associations between size and distance"],
+      "correct_answer": "B",
+      "explanation": "Motion parallax provides depth information based on the relative motion of objects as the observer moves. Objects closer to the observer appear to move faster across the visual field than distant objects.",
+      "concept_tags": ["depth-perception", "monocular-cues", "motion-parallax"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-035",
+      "question_text": "A patient with damage to the primary visual cortex in one hemisphere would experience:",
+      "options": ["A. Complete blindness in the contralateral eye", "B. Blindness in the contralateral visual field of both eyes", "C. Color blindness in both eyes", "D. Inability to perceive motion"],
+      "correct_answer": "B",
+      "explanation": "Each primary visual cortex (V1) receives input from the contralateral visual field of BOTH eyes. Damage to left V1 causes right homonymous hemianopia - loss of the right visual field in both eyes, not blindness in one eye.",
+      "concept_tags": ["vision", "visual-cortex", "visual-pathways"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-01-036",
+      "question_text": "Which of the following best describes bottom-up processing?",
+      "options": ["A. Using prior knowledge to interpret sensory information", "B. Processing that begins with sensory input and builds to perception", "C. Automatic processing of familiar stimuli", "D. Selective attention to relevant stimuli"],
+      "correct_answer": "B",
+      "explanation": "Bottom-up processing (data-driven processing) begins with raw sensory input from receptors and builds up to a complete perception. This contrasts with top-down processing, which uses prior knowledge and expectations to interpret stimuli.",
+      "concept_tags": ["perception", "bottom-up-processing", "sensory-processing"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-037",
+      "question_text": "The minimum difference between two stimuli that can be detected 50% of the time is called the:",
+      "options": ["A. Absolute threshold", "B. Difference threshold", "C. Response criterion", "D. Sensitivity index"],
+      "correct_answer": "B",
+      "explanation": "The difference threshold (or just noticeable difference, JND) is the minimum amount of change in a stimulus that can be detected 50% of the time. This is distinct from the absolute threshold, which measures detection of a single stimulus.",
+      "concept_tags": ["thresholds", "difference-threshold", "JND"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-038",
+      "question_text": "Transduction of sound into neural signals occurs in the:",
+      "options": ["A. Tympanic membrane", "B. Ossicles", "C. Organ of Corti", "D. Auditory nerve"],
+      "correct_answer": "C",
+      "explanation": "The organ of Corti, located on the basilar membrane in the cochlea, contains hair cells that transduce mechanical vibrations into neural signals. When stereocilia bend, ion channels open and generate action potentials.",
+      "concept_tags": ["hearing", "organ-of-corti", "transduction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-039",
+      "question_text": "The Gestalt principle of common fate would predict that:",
+      "options": ["A. Objects of similar color will be grouped together", "B. Objects moving in the same direction will be perceived as a group", "C. Incomplete figures will be perceived as complete", "D. The simplest interpretation of a scene will be preferred"],
+      "correct_answer": "B",
+      "explanation": "The principle of common fate states that elements moving in the same direction and at the same speed tend to be perceived as belonging together. This helps us perceive flocks of birds or schools of fish as unified groups.",
+      "concept_tags": ["gestalt-principles", "common-fate", "perceptual-organization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-040",
+      "question_text": "Retinal disparity is greatest for objects that are:",
+      "options": ["A. Very close to the observer", "B. Very far from the observer", "C. Moving quickly", "D. Large in size"],
+      "correct_answer": "A",
+      "explanation": "Retinal (binocular) disparity decreases with distance. Objects close to the observer project very different images on each retina, while distant objects project nearly identical images. This is why stereopsis is most useful for near distances.",
+      "concept_tags": ["depth-perception", "binocular-disparity", "stereopsis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-041",
+      "question_text": "A person with red-green color blindness most likely has a deficiency in:",
+      "options": ["A. Rod photoreceptors", "B. S-cones (short wavelength)", "C. M-cones or L-cones", "D. Ganglion cells"],
+      "correct_answer": "C",
+      "explanation": "Red-green color blindness (the most common form) results from deficiencies in M-cones (green sensitive) or L-cones (red sensitive). These deficiencies are typically inherited in an X-linked recessive pattern.",
+      "concept_tags": ["vision", "color-blindness", "cones"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-042",
+      "question_text": "Which brain area receives visual information from the retina before it reaches the primary visual cortex?",
+      "options": ["A. Hippocampus", "B. Lateral geniculate nucleus", "C. Prefrontal cortex", "D. Cerebellum"],
+      "correct_answer": "B",
+      "explanation": "Visual information from the retina travels via the optic nerve to the lateral geniculate nucleus (LGN) of the thalamus, which then projects to the primary visual cortex (V1) in the occipital lobe.",
+      "concept_tags": ["vision", "visual-pathways", "lateral-geniculate-nucleus"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-043",
+      "question_text": "An air traffic controller must maintain vigilance while monitoring a radar screen for rare events. According to signal detection theory, which adjustment would minimize misses?",
+      "options": ["A. Increase the response criterion (be more conservative)", "B. Decrease the response criterion (be more liberal)", "C. Take more frequent breaks", "D. Reduce the display brightness"],
+      "correct_answer": "B",
+      "explanation": "Decreasing the response criterion (being more liberal) means saying 'yes' more often, which reduces misses (failing to detect a real signal). However, this also increases false alarms. In high-stakes situations like air traffic control, minimizing misses may be prioritized.",
+      "concept_tags": ["signal-detection-theory", "response-criterion", "vigilance"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-01-044",
+      "question_text": "The fovea contains predominantly which type of photoreceptor?",
+      "options": ["A. Rods", "B. Cones", "C. Equal numbers of rods and cones", "D. Bipolar cells"],
+      "correct_answer": "B",
+      "explanation": "The fovea is the central area of the retina specialized for high-acuity vision. It contains almost exclusively cones (especially L and M cones) and no rods. This provides maximum color vision and visual acuity in the center of the visual field.",
+      "concept_tags": ["vision", "fovea", "cones", "visual-acuity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-01-045",
+      "question_text": "Which depth cue involves the muscular feedback from the turning inward of the eyes when focusing on a nearby object?",
+      "options": ["A. Accommodation", "B. Convergence", "C. Retinal disparity", "D. Motion parallax"],
+      "correct_answer": "B",
+      "explanation": "Convergence is an oculomotor cue where the eyes turn inward (converge) when focusing on nearby objects. The brain uses feedback from the extraocular muscles controlling this movement to estimate object distance.",
+      "concept_tags": ["depth-perception", "binocular-cues", "convergence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-046",
+      "question_text": "A patient can describe what objects look like but cannot reach for them accurately. This pattern suggests damage to the:",
+      "options": ["A. Ventral visual stream", "B. Dorsal visual stream", "C. Primary visual cortex", "D. Optic chiasm"],
+      "correct_answer": "B",
+      "explanation": "The dorsal stream ('where/how' pathway) processes spatial information for action, including visually guided reaching. Damage causes optic ataxia - impaired visually guided action despite intact object recognition (ventral stream function).",
+      "concept_tags": ["vision", "dorsal-stream", "visual-pathways"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-01-047",
+      "question_text": "Taste receptor cells are most concentrated on the:",
+      "options": ["A. Tip of the tongue only", "B. Sides of the tongue only", "C. Papillae distributed across the tongue", "D. Soft palate only"],
+      "correct_answer": "C",
+      "explanation": "Taste receptors are located in taste buds within papillae distributed across the tongue, soft palate, and throat. The old 'tongue map' suggesting different regions for different tastes has been debunked; all taste qualities can be detected across the tongue.",
+      "concept_tags": ["taste", "taste-receptors", "papillae"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-048",
+      "question_text": "The olfactory system is unique among the senses because it:",
+      "options": ["A. Does not involve transduction", "B. Projects to cortex without passing through the thalamus first", "C. Lacks receptor specificity", "D. Cannot adapt to continuous stimulation"],
+      "correct_answer": "B",
+      "explanation": "Olfaction is the only sense that projects directly to the cortex (olfactory cortex and amygdala) without first relaying through the thalamus. This direct pathway may explain the strong connection between smell and emotion/memory.",
+      "concept_tags": ["smell", "olfaction", "olfactory-pathway"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-049",
+      "question_text": "A study finds that people are faster at detecting angry faces in a crowd than happy faces. This finding supports the idea that:",
+      "options": ["A. All faces are processed equally", "B. Threatening stimuli receive prioritized processing", "C. Happy faces are more common", "D. Face detection requires focused attention"],
+      "correct_answer": "B",
+      "explanation": "The 'anger superiority effect' suggests that threatening or negative stimuli are detected more quickly due to their evolutionary significance. This attentional bias toward threats has adaptive value for survival.",
+      "concept_tags": ["attention", "threat-detection", "face-perception"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-01-050",
+      "question_text": "According to Treisman's feature integration theory, visual search for a target defined by a single feature is:",
+      "options": ["A. Slow and serial, requiring focused attention", "B. Fast and parallel, occurring preattentively", "C. Impossible without prior training", "D. Limited by working memory capacity"],
+      "correct_answer": "B",
+      "explanation": "Feature integration theory proposes that single features (like color or orientation) are processed in parallel across the visual field ('pop out'), while conjunctions of features require serial, attention-demanding search to bind features together.",
+      "concept_tags": ["attention", "feature-integration", "visual-search"],
+      "difficulty": "hard"
+    }
+  ]
+}

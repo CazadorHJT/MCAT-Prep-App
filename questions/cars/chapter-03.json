@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 3,
+  "chapter_title": "Inference and Implication Questions",
+  "questions": [
+    {
+      "id": "cars-03-001",
+      "question_text": "Inference questions ask you to:",
+      "options": ["A. Find directly stated information", "B. Draw conclusions based on passage evidence", "C. Add outside knowledge", "D. Guess randomly"],
+      "correct_answer": "B",
+      "explanation": "Inferences are logical conclusions drawn from what is stated. They go beyond explicit text but must be supported by passage evidence.",
+      "concept_tags": ["inference", "conclusions", "evidence-based"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-002",
+      "question_text": "Which question stem typically signals an inference question?",
+      "options": ["A. 'The author states that...'", "B. 'It can be inferred from the passage that...'", "C. 'According to the passage...'", "D. 'The passage explicitly mentions...'"],
+      "correct_answer": "B",
+      "explanation": "'Can be inferred,' 'suggests,' 'implies,' and 'most likely' are typical inference question indicators.",
+      "concept_tags": ["question stems", "inference", "identification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-003",
+      "question_text": "A valid inference must be:",
+      "options": ["A. Explicitly stated in the passage", "B. Supported by passage evidence, not just possible", "C. Based on outside knowledge", "D. The reader's personal opinion"],
+      "correct_answer": "B",
+      "explanation": "Valid inferences follow logically from passage content. They must be supported, not just possible or imaginable.",
+      "concept_tags": ["valid inference", "evidence", "logic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-004",
+      "question_text": "The difference between an inference and a stated fact is:",
+      "options": ["A. No difference exists", "B. Inferences require reasoning beyond explicit text", "C. Facts require inference", "D. Inferences are always wrong"],
+      "correct_answer": "B",
+      "explanation": "Facts are directly stated; inferences require reasoning from what's stated to reach a conclusion not explicitly mentioned.",
+      "concept_tags": ["inference vs fact", "explicit vs implicit", "reasoning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-005",
+      "question_text": "An implication is something that:",
+      "options": ["A. Is directly stated", "B. Follows logically from what is stated", "C. Contradicts the passage", "D. Is unrelated to the passage"],
+      "correct_answer": "B",
+      "explanation": "Implications are logical consequences of what the author states. If A is true, B is implied as a necessary or likely consequence.",
+      "concept_tags": ["implication", "logical consequence", "inference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-006",
+      "question_text": "When asked 'The passage suggests,' you should look for:",
+      "options": ["A. Directly quoted statements", "B. Ideas indicated but not explicitly stated", "C. The reader's opinions", "D. Information from other sources"],
+      "correct_answer": "B",
+      "explanation": "'Suggests' indicates an inference question—something the passage points toward without directly stating.",
+      "concept_tags": ["suggests", "inference", "implicit meaning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-007",
+      "question_text": "Over-inferring means:",
+      "options": ["A. Not inferring enough", "B. Drawing conclusions that go beyond what the passage supports", "C. Reading too slowly", "D. Being too cautious"],
+      "correct_answer": "B",
+      "explanation": "Over-inference occurs when conclusions exceed what the evidence actually supports, adding unsupported assumptions.",
+      "concept_tags": ["over-inference", "error", "unsupported conclusions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-008",
+      "question_text": "Under-inferring means:",
+      "options": ["A. Drawing conclusions that go too far", "B. Failing to recognize what the passage logically implies", "C. Reading too quickly", "D. Making wild guesses"],
+      "correct_answer": "B",
+      "explanation": "Under-inference means being overly literal—missing logical implications that follow from the text.",
+      "concept_tags": ["under-inference", "error", "overly literal"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-009",
+      "question_text": "To answer inference questions correctly, you must find the 'sweet spot' between:",
+      "options": ["A. Reading fast and slow", "B. Not inferring enough and inferring too much", "C. Agreeing and disagreeing", "D. Short and long answers"],
+      "correct_answer": "B",
+      "explanation": "Correct inferences are supported by text (not too conservative) but don't add unsupported assumptions (not too liberal).",
+      "concept_tags": ["inference balance", "evidence-based", "logic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-010",
+      "question_text": "Implicit assumptions are:",
+      "options": ["A. Stated clearly in the passage", "B. Unstated beliefs that underlie the author's argument", "C. The reader's opinions", "D. Always incorrect"],
+      "correct_answer": "B",
+      "explanation": "Assumptions are unstated premises the author takes for granted. Identifying them helps understand and evaluate arguments.",
+      "concept_tags": ["assumptions", "unstated premises", "argument analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-011",
+      "question_text": "If an author argues that 'policy X has failed because outcomes Y and Z occurred,' the author assumes:",
+      "options": ["A. The policy was implemented perfectly", "B. Outcomes Y and Z constitute failure", "C. All policies fail", "D. Nothing is assumed"],
+      "correct_answer": "B",
+      "explanation": "The argument assumes Y and Z represent failure—an implicit standard of success that the author doesn't explicitly state.",
+      "concept_tags": ["assumptions", "argument structure", "implicit premises"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-012",
+      "question_text": "Questions asking 'what must be true' require:",
+      "options": ["A. Information possibly true", "B. Conclusions necessarily following from the passage", "C. The reader's speculation", "D. Outside knowledge"],
+      "correct_answer": "B",
+      "explanation": "'Must be true' indicates a strong inference—something that necessarily follows, not just possibly follows, from passage content.",
+      "concept_tags": ["must be true", "necessary inference", "strong support"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-013",
+      "question_text": "Questions asking 'what is most likely true' allow for:",
+      "options": ["A. Absolute certainty", "B. Probable inferences supported by evidence", "C. Random guessing", "D. Explicit statements only"],
+      "correct_answer": "B",
+      "explanation": "'Most likely' indicates probability—the inference doesn't require certainty but should be well-supported as the best conclusion.",
+      "concept_tags": ["most likely", "probable inference", "evidence-based"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-014",
+      "question_text": "Identifying the author's underlying values helps with inference because:",
+      "options": ["A. Values are always stated explicitly", "B. Values shape what the author would logically endorse or oppose", "C. Values are irrelevant", "D. Values only appear in conclusions"],
+      "correct_answer": "B",
+      "explanation": "Understanding an author's values allows you to infer their likely positions on related issues not directly addressed.",
+      "concept_tags": ["author's values", "inference", "perspective"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-015",
+      "question_text": "If an author criticizes reductionist thinking, you can infer they would likely:",
+      "options": ["A. Support more reductionism", "B. Favor holistic or nuanced approaches", "C. Ignore complexity", "D. Reject all analysis"],
+      "correct_answer": "B",
+      "explanation": "Opposition to reductionism typically implies preference for considering complexity, context, or multiple factors—holistic thinking.",
+      "concept_tags": ["logical extension", "author's position", "inference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-016",
+      "question_text": "Reading between the lines means:",
+      "options": ["A. Skipping lines of text", "B. Understanding implicit meaning beyond literal words", "C. Reading alternate paragraphs", "D. Speed reading"],
+      "correct_answer": "B",
+      "explanation": "Reading between the lines involves understanding implications, tone, and meaning that aren't explicitly spelled out.",
+      "concept_tags": ["implicit meaning", "reading skill", "interpretation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-017",
+      "question_text": "An inference about the author's attitude requires analyzing:",
+      "options": ["A. Only adjectives", "B. Word choice, emphasis, and treatment of subjects", "C. Passage length", "D. Publication date"],
+      "correct_answer": "B",
+      "explanation": "Attitude is inferred from how the author discusses topics—their diction, what they emphasize, and how they frame issues.",
+      "concept_tags": ["author's attitude", "tone", "inference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-018",
+      "question_text": "When an author discusses a view approvingly then shifts to 'however,' you can infer:",
+      "options": ["A. Complete agreement continues", "B. A criticism or qualification is coming", "C. The passage is ending", "D. A summary follows"],
+      "correct_answer": "B",
+      "explanation": "'However' signals contrast—the author will present a limitation, objection, or alternative to what preceded.",
+      "concept_tags": ["transition inference", "contrast", "argument structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-019",
+      "question_text": "Conditional reasoning in passages often uses 'if... then' structure. If the 'if' condition is met, you can infer:",
+      "options": ["A. The 'then' consequence may follow", "B. The 'then' consequence must follow", "C. Nothing follows", "D. The condition is false"],
+      "correct_answer": "B",
+      "explanation": "In conditional logic, if the antecedent (if-clause) is true, the consequent (then-clause) necessarily follows.",
+      "concept_tags": ["conditional reasoning", "logic", "if-then"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-020",
+      "question_text": "A necessary condition is one that:",
+      "options": ["A. Guarantees an outcome", "B. Must be present for something to occur", "C. Is optional", "D. Never matters"],
+      "correct_answer": "B",
+      "explanation": "A necessary condition must be present, but its presence alone doesn't guarantee the outcome—other conditions may also be needed.",
+      "concept_tags": ["necessary condition", "logic", "reasoning"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-021",
+      "question_text": "A sufficient condition is one that:",
+      "options": ["A. Is required but not enough", "B. Guarantees an outcome when present", "C. Is never mentioned", "D. Prevents an outcome"],
+      "correct_answer": "B",
+      "explanation": "A sufficient condition is enough by itself to ensure an outcome, though it may not be the only way to achieve it.",
+      "concept_tags": ["sufficient condition", "logic", "reasoning"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-022",
+      "question_text": "When the passage presents a cause-effect relationship, you can infer that:",
+      "options": ["A. The cause always produces the effect", "B. The author believes the causal connection exists", "C. No relationship exists", "D. The effect came first"],
+      "correct_answer": "B",
+      "explanation": "At minimum, you can infer the author posits a causal link. Whether it's always true depends on how the author qualifies the claim.",
+      "concept_tags": ["causation", "inference", "author's claims"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-023",
+      "question_text": "Extrapolating the author's view to new scenarios requires:",
+      "options": ["A. Ignoring the passage", "B. Understanding the author's principles well enough to apply them", "C. Random guessing", "D. Using only outside knowledge"],
+      "correct_answer": "B",
+      "explanation": "Extrapolation extends the author's reasoning to new cases, requiring deep understanding of their principles and perspective.",
+      "concept_tags": ["extrapolation", "application", "principles"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-024",
+      "question_text": "If an author argues that 'historical context is essential for understanding art,' they would likely oppose:",
+      "options": ["A. Studying art history", "B. Interpreting art solely based on formal elements", "C. Considering the artist's background", "D. Learning about art movements"],
+      "correct_answer": "B",
+      "explanation": "Emphasizing historical context implies opposition to approaches that ignore it—such as purely formalist interpretations.",
+      "concept_tags": ["logical extension", "opposition", "inference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-025",
+      "question_text": "Negation testing for inferences involves:",
+      "options": ["A. Choosing negative answer choices", "B. Checking if the opposite of an inference contradicts the passage", "C. Being pessimistic", "D. Ignoring the passage"],
+      "correct_answer": "B",
+      "explanation": "If negating a potential inference creates contradiction with the passage, the original inference is likely valid.",
+      "concept_tags": ["negation testing", "inference validation", "strategy"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-026",
+      "question_text": "Implicit comparisons in passages allow you to infer:",
+      "options": ["A. Nothing about relationships", "B. The author's evaluation of which option is better or worse", "C. Exact measurements", "D. Dates and times"],
+      "correct_answer": "B",
+      "explanation": "Comparative language (more, less, better, worse) implies the author's evaluative stance on what's being compared.",
+      "concept_tags": ["comparison", "evaluation", "inference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-027",
+      "question_text": "When an author uses words like 'unfortunately' or 'regrettably,' you can infer:",
+      "options": ["A. Neutral stance", "B. Negative evaluation of what follows", "C. Positive evaluation", "D. No attitude is conveyed"],
+      "correct_answer": "B",
+      "explanation": "Words like 'unfortunately' reveal the author's negative evaluation of the situation being described.",
+      "concept_tags": ["attitude inference", "evaluative language", "word choice"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-028",
+      "question_text": "Questions asking what the author 'would most likely agree with' test:",
+      "options": ["A. Memory of facts", "B. Understanding of the author's perspective beyond explicit statements", "C. Speed reading", "D. Vocabulary"],
+      "correct_answer": "B",
+      "explanation": "These require inferring positions the author would hold based on their stated views, values, and reasoning patterns.",
+      "concept_tags": ["author's perspective", "agreement", "extension"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-029",
+      "question_text": "The phrase 'the passage implies' indicates you need to find:",
+      "options": ["A. A direct quotation", "B. A conclusion supported by but not stated in the text", "C. The longest paragraph", "D. Statistical data"],
+      "correct_answer": "B",
+      "explanation": "'Implies' signals inference—finding what the passage points toward without explicitly stating.",
+      "concept_tags": ["implies", "inference question", "indirect meaning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-030",
+      "question_text": "For inference questions, wrong answers often:",
+      "options": ["A. Are perfectly supported", "B. Require information beyond what the passage provides", "C. Paraphrase the passage exactly", "D. Are obviously wrong"],
+      "correct_answer": "B",
+      "explanation": "Wrong inference answers often require assumptions or information not provided in the passage, going beyond what's supported.",
+      "concept_tags": ["wrong answers", "unsupported", "inference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-031",
+      "question_text": "An inference about consequences involves:",
+      "options": ["A. Only past events", "B. What would likely result from conditions or actions described", "C. Random outcomes", "D. Unrelated events"],
+      "correct_answer": "B",
+      "explanation": "Consequence inferences predict what would follow from described situations, based on logical relationships established in the passage.",
+      "concept_tags": ["consequences", "prediction", "logical extension"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-032",
+      "question_text": "If the passage criticizes a policy for its unintended consequences, you can infer the author believes:",
+      "options": ["A. Only intentions matter", "B. Outcomes should be considered in evaluating policies", "C. The policy was well-designed", "D. Consequences are irrelevant"],
+      "correct_answer": "B",
+      "explanation": "Focusing on unintended consequences implies the author values outcome-based evaluation, not just good intentions.",
+      "concept_tags": ["policy evaluation", "consequences", "author's values"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-033",
+      "question_text": "When an author provides an example, you can infer it serves to:",
+      "options": ["A. Distract from the argument", "B. Illustrate or support a broader point", "C. Contradict the main idea", "D. Fill space"],
+      "correct_answer": "B",
+      "explanation": "Examples are given for reasons—typically to illustrate abstract points, provide evidence, or clarify concepts.",
+      "concept_tags": ["examples", "function", "inference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-034",
+      "question_text": "Irony or sarcasm in a passage requires inferring:",
+      "options": ["A. The author means exactly what they say", "B. The author means something different from literal words", "C. The passage is poorly written", "D. No interpretation is needed"],
+      "correct_answer": "B",
+      "explanation": "Irony/sarcasm means the intended meaning differs from (often opposes) the literal statement. Detecting tone is crucial.",
+      "concept_tags": ["irony", "sarcasm", "tone inference"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-035",
+      "question_text": "When an author qualifies a claim with 'in most cases,' you can infer:",
+      "options": ["A. The claim is always true", "B. Exceptions exist", "C. The claim is never true", "D. No exceptions exist"],
+      "correct_answer": "B",
+      "explanation": "Qualifiers like 'most' or 'usually' acknowledge that exceptions exist—the claim isn't universal.",
+      "concept_tags": ["qualifiers", "exceptions", "inference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-036",
+      "question_text": "Questions about what the author 'assumes' require identifying:",
+      "options": ["A. Stated premises", "B. Unstated beliefs the argument depends on", "C. The conclusion", "D. Examples"],
+      "correct_answer": "B",
+      "explanation": "Assumption questions ask about unstated premises—beliefs the author takes for granted that are necessary for the argument.",
+      "concept_tags": ["assumptions", "unstated premises", "argument analysis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-037",
+      "question_text": "A gap in an argument can be filled by identifying:",
+      "options": ["A. Random information", "B. The unstated link between premises and conclusion", "C. Only stated facts", "D. The author's biography"],
+      "correct_answer": "B",
+      "explanation": "Arguments sometimes have gaps between stated premises and conclusions. The assumption fills this gap, making the reasoning complete.",
+      "concept_tags": ["argument gaps", "assumptions", "logical structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-038",
+      "question_text": "When two answer choices both seem to be valid inferences, choose:",
+      "options": ["A. The longer answer", "B. The one with stronger passage support", "C. The first one listed", "D. Neither"],
+      "correct_answer": "B",
+      "explanation": "When multiple inferences seem possible, the best answer has the strongest direct support from passage evidence.",
+      "concept_tags": ["answer selection", "evidence strength", "comparison"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-039",
+      "question_text": "A 'reasonable inference' is one that:",
+      "options": ["A. Could possibly be true in the real world", "B. Follows logically from evidence in the passage", "C. The reader personally believes", "D. Is creative and imaginative"],
+      "correct_answer": "B",
+      "explanation": "Reasonable inferences are grounded in passage evidence, not just logical possibility or personal belief.",
+      "concept_tags": ["reasonable inference", "evidence-based", "criteria"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-040",
+      "question_text": "When the author says 'it goes without saying,' this implies:",
+      "options": ["A. The point is unimportant", "B. The author considers something obvious or assumed", "C. The passage is ending", "D. Disagreement with readers"],
+      "correct_answer": "B",
+      "explanation": "This phrase indicates the author considers something self-evident—an assumption or shared understanding they expect readers to accept.",
+      "concept_tags": ["implicit assumptions", "shared assumptions", "phrase meaning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-041",
+      "question_text": "Inferring the author's intended audience helps because:",
+      "options": ["A. It's always stated explicitly", "B. It affects how the author frames arguments and what they assume", "C. It determines passage length", "D. It's irrelevant to understanding"],
+      "correct_answer": "B",
+      "explanation": "Authors adjust their approach based on audience—what they explain, what they assume, and how they argue varies accordingly.",
+      "concept_tags": ["audience", "context", "inference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-042",
+      "question_text": "If a passage discusses only benefits of something without mentioning drawbacks, you might infer:",
+      "options": ["A. No drawbacks exist", "B. The author is advocating for that position", "C. The passage is incomplete", "D. All facts are presented"],
+      "correct_answer": "B",
+      "explanation": "One-sided presentation suggests advocacy—the author is building a case rather than providing balanced analysis.",
+      "concept_tags": ["advocacy", "bias inference", "one-sided presentation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-043",
+      "question_text": "When an author refers to evidence 'conclusively' showing something, you can infer:",
+      "options": ["A. The author is uncertain", "B. The author considers the evidence very strong", "C. More evidence is needed", "D. The claim is disputed"],
+      "correct_answer": "B",
+      "explanation": "'Conclusively' conveys the author's confidence in the evidence's strength—a strong evaluative statement.",
+      "concept_tags": ["confidence level", "evidence evaluation", "word choice"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-03-044",
+      "question_text": "Inferential questions about 'what would happen if...' test:",
+      "options": ["A. Memory of passage details", "B. Ability to apply passage logic to hypothetical scenarios", "C. Speed reading skills", "D. Outside knowledge"],
+      "correct_answer": "B",
+      "explanation": "Hypothetical questions require extending passage reasoning to new scenarios—applying the author's logic or principles.",
+      "concept_tags": ["hypothetical", "application", "logical extension"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-045",
+      "question_text": "If an author emphasizes 'nuance' and 'complexity,' they would likely be skeptical of:",
+      "options": ["A. Detailed analysis", "B. Overly simple explanations", "C. Considering multiple factors", "D. Careful reasoning"],
+      "correct_answer": "B",
+      "explanation": "Valuing nuance implies skepticism toward reductive, oversimplified explanations that ignore complexity.",
+      "concept_tags": ["values", "nuance", "opposition inference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-046",
+      "question_text": "When a passage ends with a question rather than an answer, you might infer:",
+      "options": ["A. The author has no opinion", "B. The author wants readers to reflect on the complexity", "C. The passage is unfinished", "D. Questions are unimportant"],
+      "correct_answer": "B",
+      "explanation": "Ending with a question can be a rhetorical choice—inviting reflection or suggesting the issue remains open and complex.",
+      "concept_tags": ["rhetorical questions", "author's purpose", "open endings"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-047",
+      "question_text": "An inference drawn from a single sentence should be checked against:",
+      "options": ["A. Nothing else", "B. The broader passage context", "C. Only that paragraph", "D. Outside sources"],
+      "correct_answer": "B",
+      "explanation": "Context affects meaning. An inference from one sentence should be consistent with the overall passage.",
+      "concept_tags": ["context", "verification", "consistency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-048",
+      "question_text": "Questions asking what 'can be inferred' differ from 'must be inferred' in that:",
+      "options": ["A. They are the same", "B. 'Can be' allows weaker support than 'must be'", "C. 'Must be' is easier", "D. 'Can be' requires outside knowledge"],
+      "correct_answer": "B",
+      "explanation": "'Must be' requires stronger necessity—something that logically follows. 'Can be' allows reasonable but less certain inferences.",
+      "concept_tags": ["question wording", "inference strength", "must vs can"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-03-049",
+      "question_text": "Implicit definitions occur when:",
+      "options": ["A. A term is formally defined", "B. A term's meaning is conveyed through usage and context", "C. The dictionary is referenced", "D. Definitions are absent"],
+      "correct_answer": "B",
+      "explanation": "Authors sometimes define terms implicitly through how they use them rather than with explicit definitions.",
+      "concept_tags": ["implicit definition", "context", "terminology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-03-050",
+      "question_text": "The strongest inference answers are those that:",
+      "options": ["A. Add the most new information", "B. Require the smallest logical leap from passage evidence", "C. Are most creative", "D. Use the longest explanations"],
+      "correct_answer": "B",
+      "explanation": "Strong inferences stay close to evidence, requiring minimal additional assumptions or logical leaps.",
+      "concept_tags": ["inference strength", "evidence proximity", "answer evaluation"],
+      "difficulty": "medium"
+    }
+  ]
+}

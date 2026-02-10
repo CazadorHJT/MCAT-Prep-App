@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 7,
+  "chapter_title": "The Cardiovascular System",
+  "questions": [
+    {
+      "id": "biology-07-001",
+      "question_text": "Which chamber of the heart receives deoxygenated blood from the superior and inferior vena cava?",
+      "options": [
+        "A. Left atrium",
+        "B. Right atrium",
+        "C. Left ventricle",
+        "D. Right ventricle"
+      ],
+      "correct_answer": "B",
+      "explanation": "The right atrium receives deoxygenated blood from the systemic circulation via the superior vena cava (from the upper body) and inferior vena cava (from the lower body). The left atrium receives oxygenated blood from the pulmonary veins. The ventricles pump blood out of the heart rather than receiving blood from the vena cavae.",
+      "concept_tags": ["heart-anatomy", "chambers", "venous-return"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-002",
+      "question_text": "The tricuspid valve is located between the:",
+      "options": [
+        "A. left atrium and left ventricle",
+        "B. right atrium and right ventricle",
+        "C. right ventricle and pulmonary artery",
+        "D. left ventricle and aorta"
+      ],
+      "correct_answer": "B",
+      "explanation": "The tricuspid valve (with three cusps) is the atrioventricular valve located between the right atrium and right ventricle. The mitral (bicuspid) valve is between the left atrium and left ventricle (A). The pulmonary valve is between the right ventricle and pulmonary artery (C). The aortic valve is between the left ventricle and aorta (D).",
+      "concept_tags": ["heart-anatomy", "valves", "tricuspid-valve"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-003",
+      "question_text": "Which valve prevents backflow of blood from the aorta into the left ventricle?",
+      "options": [
+        "A. Tricuspid valve",
+        "B. Mitral valve",
+        "C. Pulmonary valve",
+        "D. Aortic valve"
+      ],
+      "correct_answer": "D",
+      "explanation": "The aortic valve is a semilunar valve that prevents backflow from the aorta into the left ventricle during diastole. The tricuspid valve is between the right atrium and ventricle. The mitral valve is between the left atrium and ventricle. The pulmonary valve prevents backflow from the pulmonary artery to the right ventricle.",
+      "concept_tags": ["heart-anatomy", "valves", "aortic-valve"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-004",
+      "question_text": "During ventricular systole, which of the following occurs?",
+      "options": [
+        "A. AV valves open, semilunar valves close",
+        "B. AV valves close, semilunar valves open",
+        "C. Both AV and semilunar valves open",
+        "D. Both AV and semilunar valves close"
+      ],
+      "correct_answer": "B",
+      "explanation": "During ventricular systole, the ventricles contract and pressure increases. This causes the AV valves (tricuspid and mitral) to close, preventing backflow to the atria, while the semilunar valves (aortic and pulmonary) open to allow blood ejection into the arteries. The first heart sound (S1) is produced by AV valve closure.",
+      "concept_tags": ["cardiac-cycle", "systole", "valves"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-005",
+      "question_text": "The 'lub' sound of the heartbeat is caused by:",
+      "options": [
+        "A. closure of the semilunar valves",
+        "B. closure of the atrioventricular valves",
+        "C. opening of the atrioventricular valves",
+        "D. contraction of the atria"
+      ],
+      "correct_answer": "B",
+      "explanation": "The first heart sound (S1 or 'lub') is caused by the closure of the atrioventricular valves (tricuspid and mitral) at the beginning of ventricular systole. The second heart sound (S2 or 'dub') is caused by closure of the semilunar valves at the beginning of ventricular diastole. Valve opening and atrial contraction do not produce significant sounds.",
+      "concept_tags": ["cardiac-cycle", "heart-sounds", "valves"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-006",
+      "question_text": "The pacemaker of the heart is the:",
+      "options": [
+        "A. AV node",
+        "B. Bundle of His",
+        "C. SA node",
+        "D. Purkinje fibers"
+      ],
+      "correct_answer": "C",
+      "explanation": "The sinoatrial (SA) node is the primary pacemaker of the heart, located in the right atrium. It has the fastest intrinsic firing rate (60-100 bpm) and initiates each heartbeat. The AV node, Bundle of His, and Purkinje fibers can serve as backup pacemakers if the SA node fails, but they have slower intrinsic rates.",
+      "concept_tags": ["electrical-conduction", "sa-node", "pacemaker"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-007",
+      "question_text": "The AV node delays the electrical impulse before it reaches the ventricles. This delay is important because it:",
+      "options": [
+        "A. allows time for the ventricles to fill with blood",
+        "B. increases the heart rate",
+        "C. prevents the SA node from firing",
+        "D. closes the semilunar valves"
+      ],
+      "correct_answer": "A",
+      "explanation": "The AV node delay (approximately 0.1 seconds) allows time for atrial contraction to complete and for the ventricles to fill with blood before ventricular contraction begins. This ensures efficient cardiac output. The delay does not increase heart rate, prevent SA node firing, or directly affect valve closure.",
+      "concept_tags": ["electrical-conduction", "av-node", "cardiac-cycle"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-008",
+      "question_text": "The Bundle of His and Purkinje fibers function to:",
+      "options": [
+        "A. initiate the heartbeat",
+        "B. delay conduction between atria and ventricles",
+        "C. rapidly conduct impulses throughout the ventricles",
+        "D. regulate blood pressure"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Bundle of His and Purkinje fibers rapidly conduct electrical impulses throughout the ventricles, ensuring coordinated ventricular contraction from the apex upward. The SA node initiates the heartbeat (A). The AV node provides the delay (B). Blood pressure regulation involves baroreceptors and the autonomic nervous system (D).",
+      "concept_tags": ["electrical-conduction", "bundle-of-his", "purkinje-fibers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-009",
+      "question_text": "If the SA node fails, which structure would most likely assume the role of pacemaker?",
+      "options": [
+        "A. Purkinje fibers",
+        "B. AV node",
+        "C. Bundle of His",
+        "D. Coronary sinus"
+      ],
+      "correct_answer": "B",
+      "explanation": "If the SA node fails, the AV node becomes the pacemaker because it has the next fastest intrinsic firing rate (40-60 bpm). The Bundle of His and Purkinje fibers have slower intrinsic rates (20-40 bpm) and would only take over if both SA and AV nodes fail. The coronary sinus is not part of the conduction system.",
+      "concept_tags": ["electrical-conduction", "av-node", "pacemaker"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-010",
+      "question_text": "Cardiac output is calculated by multiplying:",
+      "options": [
+        "A. heart rate by blood pressure",
+        "B. stroke volume by heart rate",
+        "C. blood pressure by total peripheral resistance",
+        "D. stroke volume by blood volume"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cardiac output (CO) equals stroke volume (SV) multiplied by heart rate (HR): CO = SV x HR. It represents the volume of blood pumped by the heart per minute. Blood pressure equals cardiac output times peripheral resistance. Blood volume is the total amount of blood in the body.",
+      "concept_tags": ["cardiac-output", "stroke-volume", "heart-rate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-011",
+      "question_text": "A person has a stroke volume of 70 mL and a heart rate of 75 beats per minute. What is their cardiac output?",
+      "options": [
+        "A. 145 mL/min",
+        "B. 5.25 L/min",
+        "C. 5,250 mL/min",
+        "D. Both B and C are correct"
+      ],
+      "correct_answer": "D",
+      "explanation": "Cardiac output = stroke volume x heart rate = 70 mL x 75 bpm = 5,250 mL/min = 5.25 L/min. This is a typical resting cardiac output for an adult. Options B and C represent the same value in different units, so both are correct.",
+      "concept_tags": ["cardiac-output", "stroke-volume", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-012",
+      "question_text": "According to the Frank-Starling mechanism, an increase in venous return will:",
+      "options": [
+        "A. decrease stroke volume",
+        "B. increase stroke volume",
+        "C. decrease heart rate",
+        "D. have no effect on cardiac output"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Frank-Starling mechanism states that increased venous return stretches the ventricles, which increases the force of contraction and thus stroke volume. This allows the heart to automatically adjust its output to match venous return. This mechanism ensures that the heart pumps out all the blood it receives.",
+      "concept_tags": ["frank-starling-mechanism", "stroke-volume", "venous-return"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-013",
+      "question_text": "Systolic blood pressure represents the pressure in arteries when the:",
+      "options": [
+        "A. ventricles are relaxing",
+        "B. ventricles are contracting",
+        "C. atria are contracting",
+        "D. heart is at rest between beats"
+      ],
+      "correct_answer": "B",
+      "explanation": "Systolic blood pressure is the maximum pressure in the arteries during ventricular contraction (systole). Diastolic blood pressure is the minimum pressure during ventricular relaxation (diastole). Atrial contraction contributes minimally to arterial pressure. The pressure between beats is diastolic pressure.",
+      "concept_tags": ["blood-pressure", "systole", "arterial-pressure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-014",
+      "question_text": "Blood pressure is regulated by all of the following EXCEPT:",
+      "options": [
+        "A. baroreceptors in the carotid sinus and aortic arch",
+        "B. the renin-angiotensin-aldosterone system",
+        "C. the cerebellum",
+        "D. the autonomic nervous system"
+      ],
+      "correct_answer": "C",
+      "explanation": "The cerebellum coordinates movement and balance but does not regulate blood pressure. Blood pressure is regulated by baroreceptors (detecting pressure changes), the RAAS (controlling fluid balance), and the autonomic nervous system (adjusting heart rate and vessel tone). The medulla oblongata, not cerebellum, contains cardiovascular control centers.",
+      "concept_tags": ["blood-pressure-regulation", "baroreceptors", "autonomic-nervous-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-015",
+      "question_text": "Baroreceptors respond to increased blood pressure by:",
+      "options": [
+        "A. increasing sympathetic stimulation to the heart",
+        "B. decreasing parasympathetic stimulation to the heart",
+        "C. increasing parasympathetic stimulation and decreasing sympathetic stimulation",
+        "D. releasing renin from the kidneys"
+      ],
+      "correct_answer": "C",
+      "explanation": "When baroreceptors detect high blood pressure, they trigger increased parasympathetic (vagal) stimulation and decreased sympathetic stimulation, which slows heart rate and dilates blood vessels, lowering blood pressure. Renin is released when blood pressure is low, not high, to activate the RAAS and increase pressure.",
+      "concept_tags": ["blood-pressure-regulation", "baroreceptors", "autonomic-nervous-system"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-016",
+      "question_text": "The renin-angiotensin-aldosterone system is activated when:",
+      "options": [
+        "A. blood pressure is too high",
+        "B. blood pressure is too low",
+        "C. blood oxygen levels are high",
+        "D. blood glucose levels are low"
+      ],
+      "correct_answer": "B",
+      "explanation": "The RAAS is activated when blood pressure is low. The kidneys release renin, which converts angiotensinogen to angiotensin I, then ACE converts it to angiotensin II. Angiotensin II causes vasoconstriction and stimulates aldosterone release, which increases sodium and water retention, raising blood pressure.",
+      "concept_tags": ["blood-pressure-regulation", "raas", "renin"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-017",
+      "question_text": "Which blood component is primarily responsible for oxygen transport?",
+      "options": [
+        "A. White blood cells",
+        "B. Platelets",
+        "C. Red blood cells",
+        "D. Plasma"
+      ],
+      "correct_answer": "C",
+      "explanation": "Red blood cells (erythrocytes) are primarily responsible for oxygen transport. They contain hemoglobin, which binds oxygen in the lungs and releases it in tissues. White blood cells fight infection (A). Platelets are involved in clotting (B). Plasma transports dissolved substances but carries minimal oxygen (D).",
+      "concept_tags": ["blood-components", "red-blood-cells", "oxygen-transport"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-018",
+      "question_text": "Mature red blood cells lack a nucleus, which:",
+      "options": [
+        "A. prevents them from carrying oxygen",
+        "B. allows more space for hemoglobin",
+        "C. enables them to divide and reproduce",
+        "D. makes them larger than other blood cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mature red blood cells lack a nucleus (and other organelles), which allows more space for hemoglobin and maximizes oxygen-carrying capacity. Without a nucleus, they cannot divide and have a limited lifespan (about 120 days). RBCs are actually smaller than most white blood cells.",
+      "concept_tags": ["red-blood-cells", "hemoglobin", "cell-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-019",
+      "question_text": "Hemoglobin is composed of:",
+      "options": [
+        "A. four polypeptide chains and four heme groups",
+        "B. two polypeptide chains and two heme groups",
+        "C. one polypeptide chain and one heme group",
+        "D. four polypeptide chains and one heme group"
+      ],
+      "correct_answer": "A",
+      "explanation": "Hemoglobin is a tetrameric protein consisting of four polypeptide chains (two alpha and two beta in adult hemoglobin), each containing one heme group with an iron atom that can bind one oxygen molecule. Thus, each hemoglobin molecule can carry up to four oxygen molecules.",
+      "concept_tags": ["hemoglobin", "protein-structure", "oxygen-transport"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-020",
+      "question_text": "The oxygen-hemoglobin dissociation curve shifts to the right in response to:",
+      "options": [
+        "A. decreased temperature",
+        "B. decreased CO2 levels",
+        "C. increased pH",
+        "D. increased temperature"
+      ],
+      "correct_answer": "D",
+      "explanation": "A right shift of the oxygen-hemoglobin dissociation curve (decreased oxygen affinity) occurs with increased temperature, increased CO2, decreased pH (more acidic), and increased 2,3-BPG. These conditions occur in active tissues and promote oxygen unloading. Decreased temperature, decreased CO2, and increased pH cause a left shift.",
+      "concept_tags": ["hemoglobin", "oxygen-transport", "bohr-effect"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-021",
+      "question_text": "The Bohr effect describes how:",
+      "options": [
+        "A. increased pH increases hemoglobin's oxygen affinity",
+        "B. decreased pH decreases hemoglobin's oxygen affinity",
+        "C. oxygen binds cooperatively to hemoglobin",
+        "D. carbon monoxide binds to hemoglobin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Bohr effect describes how decreased pH (increased H+ concentration) and increased CO2 decrease hemoglobin's affinity for oxygen, promoting oxygen release in metabolically active tissues. This shifts the dissociation curve to the right. Cooperative binding is a separate phenomenon. Carbon monoxide binding is unrelated to the Bohr effect.",
+      "concept_tags": ["hemoglobin", "bohr-effect", "oxygen-transport"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-022",
+      "question_text": "Carbon dioxide is transported in the blood primarily as:",
+      "options": [
+        "A. dissolved CO2 in plasma",
+        "B. bound to hemoglobin",
+        "C. bicarbonate ions (HCO3-)",
+        "D. carbonic acid (H2CO3)"
+      ],
+      "correct_answer": "C",
+      "explanation": "About 70% of CO2 is transported as bicarbonate ions in plasma. CO2 enters RBCs, where carbonic anhydrase converts it to carbonic acid, which dissociates into H+ and HCO3-. About 23% is bound to hemoglobin (carbaminohemoglobin), and only about 7% is dissolved directly in plasma.",
+      "concept_tags": ["carbon-dioxide-transport", "bicarbonate", "hemoglobin"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-023",
+      "question_text": "Which type of white blood cell is most abundant in the blood?",
+      "options": [
+        "A. Lymphocytes",
+        "B. Monocytes",
+        "C. Neutrophils",
+        "D. Eosinophils"
+      ],
+      "correct_answer": "C",
+      "explanation": "Neutrophils are the most abundant white blood cells, comprising 50-70% of all WBCs. They are phagocytes that respond rapidly to bacterial infections. Lymphocytes (20-40%) are involved in adaptive immunity. Monocytes (2-8%) become macrophages in tissues. Eosinophils (1-4%) combat parasites and are involved in allergies.",
+      "concept_tags": ["white-blood-cells", "neutrophils", "immune-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-024",
+      "question_text": "Platelets function primarily in:",
+      "options": [
+        "A. oxygen transport",
+        "B. immune defense",
+        "C. blood clotting",
+        "D. nutrient transport"
+      ],
+      "correct_answer": "C",
+      "explanation": "Platelets (thrombocytes) are cell fragments essential for blood clotting (hemostasis). They aggregate at injury sites, release clotting factors, and form a platelet plug. Red blood cells transport oxygen (A). White blood cells provide immune defense (B). Plasma transports nutrients (D).",
+      "concept_tags": ["platelets", "blood-clotting", "hemostasis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-025",
+      "question_text": "Plasma differs from serum in that plasma:",
+      "options": [
+        "A. lacks clotting factors",
+        "B. contains clotting factors including fibrinogen",
+        "C. contains more red blood cells",
+        "D. is obtained after blood has clotted"
+      ],
+      "correct_answer": "B",
+      "explanation": "Plasma is the liquid portion of blood that contains clotting factors, including fibrinogen. Serum is plasma with clotting factors removed (obtained after blood clots and the clot is removed). Neither plasma nor serum contains cells. Serum lacks fibrinogen because it was converted to fibrin during clotting.",
+      "concept_tags": ["plasma", "serum", "blood-components"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-026",
+      "question_text": "A person with type AB blood has which antigens on their red blood cells?",
+      "options": [
+        "A. Neither A nor B antigens",
+        "B. Only A antigens",
+        "C. Only B antigens",
+        "D. Both A and B antigens"
+      ],
+      "correct_answer": "D",
+      "explanation": "Type AB blood has both A and B antigens on red blood cells and neither anti-A nor anti-B antibodies in plasma. This makes AB the universal recipient because they can receive any blood type. Type O has neither antigen but both antibodies. Type A has A antigens and anti-B antibodies. Type B has B antigens and anti-A antibodies.",
+      "concept_tags": ["blood-types", "antigens", "abo-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-027",
+      "question_text": "Which blood type is considered the universal donor?",
+      "options": [
+        "A. Type A",
+        "B. Type B",
+        "C. Type AB",
+        "D. Type O"
+      ],
+      "correct_answer": "D",
+      "explanation": "Type O negative is the universal donor because O red blood cells lack both A and B antigens, so they won't trigger an immune response in recipients of any blood type. Type AB positive is the universal recipient. Types A and B can only donate to compatible types.",
+      "concept_tags": ["blood-types", "universal-donor", "transfusion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-028",
+      "question_text": "The Rh factor is important in pregnancy because:",
+      "options": [
+        "A. Rh-positive mothers may develop antibodies against Rh-negative fetuses",
+        "B. Rh-negative mothers may develop antibodies against Rh-positive fetuses",
+        "C. all pregnancies result in Rh incompatibility",
+        "D. the Rh factor determines the baby's blood type"
+      ],
+      "correct_answer": "B",
+      "explanation": "Rh-negative mothers carrying Rh-positive fetuses may develop anti-Rh antibodies if fetal blood enters maternal circulation (usually during delivery). In subsequent pregnancies with Rh-positive fetuses, these antibodies can cross the placenta and attack fetal red blood cells (hemolytic disease of the newborn). RhoGAM prevents this sensitization.",
+      "concept_tags": ["blood-types", "rh-factor", "pregnancy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-029",
+      "question_text": "The coagulation cascade ultimately results in the conversion of:",
+      "options": [
+        "A. prothrombin to thrombin",
+        "B. fibrinogen to fibrin",
+        "C. plasminogen to plasmin",
+        "D. Both A and B occur in sequence"
+      ],
+      "correct_answer": "D",
+      "explanation": "The coagulation cascade converts prothrombin to thrombin, which then converts fibrinogen to fibrin. Fibrin forms a mesh that stabilizes the platelet plug. Plasminogen to plasmin conversion occurs during fibrinolysis (clot breakdown), not coagulation. Both A and B are correct and occur in sequence.",
+      "concept_tags": ["blood-clotting", "coagulation-cascade", "fibrin"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-030",
+      "question_text": "Vitamin K is essential for blood clotting because it:",
+      "options": [
+        "A. directly strengthens the fibrin mesh",
+        "B. is required for the synthesis of several clotting factors",
+        "C. activates platelets",
+        "D. prevents excessive clot formation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Vitamin K is required for the hepatic synthesis of clotting factors II (prothrombin), VII, IX, and X. Without adequate vitamin K, these factors cannot be properly carboxylated and remain inactive. Vitamin K does not directly strengthen fibrin, activate platelets, or prevent clotting.",
+      "concept_tags": ["blood-clotting", "vitamin-k", "clotting-factors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-031",
+      "question_text": "Arteries differ from veins in that arteries:",
+      "options": [
+        "A. have valves to prevent backflow",
+        "B. have thicker walls to withstand higher pressure",
+        "C. always carry deoxygenated blood",
+        "D. have larger lumens"
+      ],
+      "correct_answer": "B",
+      "explanation": "Arteries have thicker, more muscular walls than veins to withstand the higher pressure of blood pumped from the heart. Veins have valves to prevent backflow (A). Arteries usually carry oxygenated blood, except pulmonary arteries (C). Veins generally have larger lumens than comparable arteries (D).",
+      "concept_tags": ["blood-vessels", "arteries", "veins"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-032",
+      "question_text": "Which blood vessel type is the primary site of gas and nutrient exchange?",
+      "options": [
+        "A. Arteries",
+        "B. Arterioles",
+        "C. Capillaries",
+        "D. Venules"
+      ],
+      "correct_answer": "C",
+      "explanation": "Capillaries are the primary site of gas and nutrient exchange between blood and tissues. Their walls are only one cell thick (endothelium), allowing efficient diffusion. Arteries and arterioles carry blood to capillaries. Venules collect blood from capillaries and drain into veins.",
+      "concept_tags": ["blood-vessels", "capillaries", "gas-exchange"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-033",
+      "question_text": "Veins have valves because:",
+      "options": [
+        "A. blood flows at high pressure in veins",
+        "B. blood must be prevented from flowing backward against gravity",
+        "C. veins have thicker walls than arteries",
+        "D. veins carry only deoxygenated blood"
+      ],
+      "correct_answer": "B",
+      "explanation": "Veins have valves to prevent backflow of blood, especially in the limbs where blood must flow against gravity to return to the heart. Venous pressure is low (not high), so valves and skeletal muscle contractions help move blood. Veins have thinner walls than arteries. Pulmonary veins carry oxygenated blood.",
+      "concept_tags": ["blood-vessels", "veins", "valves"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-034",
+      "question_text": "Arterioles are important in blood pressure regulation because they:",
+      "options": [
+        "A. are the primary site of gas exchange",
+        "B. can constrict or dilate to change peripheral resistance",
+        "C. contain the most blood volume",
+        "D. have the thickest walls of all blood vessels"
+      ],
+      "correct_answer": "B",
+      "explanation": "Arterioles are resistance vessels that can constrict or dilate to regulate peripheral resistance and blood flow to specific tissues. Vasoconstriction increases resistance and blood pressure; vasodilation decreases them. Capillaries are the site of gas exchange (A). Veins contain the most blood volume (C). Large arteries have the thickest walls (D).",
+      "concept_tags": ["blood-vessels", "arterioles", "blood-pressure-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-035",
+      "question_text": "The coronary arteries supply blood to the:",
+      "options": [
+        "A. lungs",
+        "B. brain",
+        "C. heart muscle",
+        "D. kidneys"
+      ],
+      "correct_answer": "C",
+      "explanation": "The coronary arteries branch from the aorta and supply oxygenated blood to the heart muscle (myocardium). Blockage of coronary arteries leads to myocardial infarction (heart attack). Pulmonary arteries supply the lungs (A). Carotid and vertebral arteries supply the brain (B). Renal arteries supply the kidneys (D).",
+      "concept_tags": ["coronary-circulation", "heart-anatomy", "arteries"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-036",
+      "question_text": "During diastole, the coronary arteries receive blood because:",
+      "options": [
+        "A. the heart is contracting and pushing blood into them",
+        "B. ventricular relaxation allows blood to flow into the coronary ostia",
+        "C. the semilunar valves are open",
+        "D. atrial contraction forces blood into the coronaries"
+      ],
+      "correct_answer": "B",
+      "explanation": "During diastole (ventricular relaxation), the aortic valve closes and blood in the aorta flows back toward the heart, filling the coronary arteries through their ostia (openings) in the aortic sinuses. During systole, ventricular contraction compresses coronary vessels, limiting flow. The semilunar valves are closed during diastole.",
+      "concept_tags": ["coronary-circulation", "diastole", "cardiac-cycle"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-037",
+      "question_text": "The pulmonary circulation differs from systemic circulation in that pulmonary arteries:",
+      "options": [
+        "A. carry oxygenated blood",
+        "B. carry deoxygenated blood",
+        "C. have higher pressure than systemic arteries",
+        "D. supply all body tissues except the lungs"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pulmonary arteries carry deoxygenated blood from the right ventricle to the lungs, where gas exchange occurs. Pulmonary veins return oxygenated blood to the left atrium. Pulmonary circulation is a low-pressure system compared to systemic circulation. Systemic circulation supplies all body tissues.",
+      "concept_tags": ["pulmonary-circulation", "arteries", "deoxygenated-blood"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-038",
+      "question_text": "The left ventricle has a thicker wall than the right ventricle because it:",
+      "options": [
+        "A. receives blood from the vena cava",
+        "B. pumps blood through the higher-resistance systemic circulation",
+        "C. pumps blood to the lungs",
+        "D. contains more blood at any given time"
+      ],
+      "correct_answer": "B",
+      "explanation": "The left ventricle has a thicker muscular wall because it must generate higher pressure to pump blood through the systemic circulation, which has greater resistance than pulmonary circulation. The right ventricle pumps blood to the lungs (C) at lower pressure. The right atrium receives blood from the vena cava (A).",
+      "concept_tags": ["heart-anatomy", "left-ventricle", "systemic-circulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-039",
+      "question_text": "An electrocardiogram (ECG) P wave represents:",
+      "options": [
+        "A. ventricular depolarization",
+        "B. atrial depolarization",
+        "C. ventricular repolarization",
+        "D. atrial repolarization"
+      ],
+      "correct_answer": "B",
+      "explanation": "The P wave represents atrial depolarization (contraction). The QRS complex represents ventricular depolarization. The T wave represents ventricular repolarization. Atrial repolarization occurs during the QRS complex and is usually not visible on the ECG because it is masked by the larger ventricular signal.",
+      "concept_tags": ["ecg", "electrical-conduction", "atrial-depolarization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-040",
+      "question_text": "The QRS complex on an ECG represents:",
+      "options": [
+        "A. atrial depolarization",
+        "B. atrial repolarization",
+        "C. ventricular depolarization",
+        "D. ventricular repolarization"
+      ],
+      "correct_answer": "C",
+      "explanation": "The QRS complex represents ventricular depolarization, which triggers ventricular contraction. It has a larger amplitude than the P wave because the ventricular muscle mass is greater than atrial muscle mass. The P wave represents atrial depolarization (A). The T wave represents ventricular repolarization (D).",
+      "concept_tags": ["ecg", "electrical-conduction", "ventricular-depolarization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-041",
+      "question_text": "Sympathetic stimulation of the heart causes:",
+      "options": [
+        "A. decreased heart rate and contractility",
+        "B. increased heart rate and contractility",
+        "C. vasodilation of coronary arteries only",
+        "D. no change in cardiac function"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sympathetic stimulation (via norepinephrine and epinephrine acting on beta-1 receptors) increases heart rate (positive chronotropy) and contractility (positive inotropy), thereby increasing cardiac output. Parasympathetic stimulation (via acetylcholine on muscarinic receptors) decreases heart rate (A).",
+      "concept_tags": ["autonomic-nervous-system", "sympathetic", "heart-rate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-042",
+      "question_text": "Parasympathetic stimulation of the heart primarily affects the:",
+      "options": [
+        "A. ventricular contractility",
+        "B. SA node and AV node",
+        "C. coronary blood flow",
+        "D. blood pressure in arteries"
+      ],
+      "correct_answer": "B",
+      "explanation": "Parasympathetic (vagal) stimulation primarily affects the SA node and AV node, decreasing heart rate and conduction velocity. Parasympathetic innervation of the ventricles is minimal, so ventricular contractility is not significantly affected. Sympathetic stimulation has more effect on contractility, coronary flow, and blood pressure.",
+      "concept_tags": ["autonomic-nervous-system", "parasympathetic", "heart-rate"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-043",
+      "question_text": "Erythropoietin (EPO) is released by the kidneys in response to:",
+      "options": [
+        "A. high blood oxygen levels",
+        "B. low blood oxygen levels",
+        "C. high blood glucose levels",
+        "D. low blood pressure"
+      ],
+      "correct_answer": "B",
+      "explanation": "Erythropoietin is released by the kidneys when blood oxygen levels are low (hypoxia). EPO stimulates the bone marrow to produce more red blood cells, increasing oxygen-carrying capacity. High oxygen suppresses EPO release. EPO is not directly related to glucose levels or blood pressure.",
+      "concept_tags": ["erythropoietin", "red-blood-cells", "hypoxia"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-07-044",
+      "question_text": "The normal resting heart rate for an adult is approximately:",
+      "options": [
+        "A. 40-50 beats per minute",
+        "B. 60-100 beats per minute",
+        "C. 120-150 beats per minute",
+        "D. 150-200 beats per minute"
+      ],
+      "correct_answer": "B",
+      "explanation": "The normal resting heart rate for adults is 60-100 beats per minute. Well-trained athletes may have lower resting rates (40-50 bpm) due to increased stroke volume. Rates above 100 bpm at rest (tachycardia) or below 60 bpm (bradycardia) may indicate abnormalities, though athlete bradycardia is normal.",
+      "concept_tags": ["heart-rate", "normal-values", "cardiac-physiology"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-045",
+      "question_text": "Preload refers to:",
+      "options": [
+        "A. the resistance the ventricle must overcome to eject blood",
+        "B. the degree of stretch of ventricular muscle before contraction",
+        "C. the pressure in the arteries during systole",
+        "D. the heart rate times stroke volume"
+      ],
+      "correct_answer": "B",
+      "explanation": "Preload is the degree of stretch (tension) on ventricular muscle fibers at the end of diastole, determined by venous return and end-diastolic volume. Increased preload increases stroke volume via the Frank-Starling mechanism. Afterload is the resistance the ventricle must overcome (A). Systolic pressure (C) and cardiac output (D) are different concepts.",
+      "concept_tags": ["preload", "cardiac-physiology", "stroke-volume"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-046",
+      "question_text": "Afterload is defined as:",
+      "options": [
+        "A. the volume of blood in the ventricle before contraction",
+        "B. the resistance the ventricle must overcome to eject blood",
+        "C. the amount of blood ejected per beat",
+        "D. the rate at which the heart beats"
+      ],
+      "correct_answer": "B",
+      "explanation": "Afterload is the resistance against which the ventricle must contract to eject blood, primarily determined by arterial blood pressure and vascular resistance. Increased afterload reduces stroke volume. Preload is ventricular volume before contraction (A). Stroke volume is blood ejected per beat (C). Heart rate is beats per minute (D).",
+      "concept_tags": ["afterload", "cardiac-physiology", "stroke-volume"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-047",
+      "question_text": "Lymphocytes are responsible for:",
+      "options": [
+        "A. phagocytosis of bacteria",
+        "B. adaptive (specific) immune responses",
+        "C. blood clotting",
+        "D. oxygen transport"
+      ],
+      "correct_answer": "B",
+      "explanation": "Lymphocytes (B cells and T cells) are responsible for adaptive immune responses, including antibody production (B cells) and cell-mediated immunity (T cells). Neutrophils and macrophages perform phagocytosis (A). Platelets are involved in clotting (C). Red blood cells transport oxygen (D).",
+      "concept_tags": ["white-blood-cells", "lymphocytes", "adaptive-immunity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-07-048",
+      "question_text": "The fetal circulation includes the foramen ovale, which allows blood to flow directly from the:",
+      "options": [
+        "A. right ventricle to left ventricle",
+        "B. right atrium to left atrium",
+        "C. pulmonary artery to aorta",
+        "D. umbilical vein to inferior vena cava"
+      ],
+      "correct_answer": "B",
+      "explanation": "The foramen ovale is an opening between the right and left atria in the fetal heart, allowing oxygenated blood from the placenta to bypass the pulmonary circulation and flow directly to the systemic circulation. It normally closes after birth. The ductus arteriosus connects the pulmonary artery to the aorta (C).",
+      "concept_tags": ["fetal-circulation", "foramen-ovale", "heart-anatomy"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-049",
+      "question_text": "Mean arterial pressure (MAP) is best approximated by:",
+      "options": [
+        "A. (systolic + diastolic) / 2",
+        "B. diastolic + 1/3 (systolic - diastolic)",
+        "C. systolic - diastolic",
+        "D. cardiac output x heart rate"
+      ],
+      "correct_answer": "B",
+      "explanation": "MAP is approximated by diastolic pressure plus one-third of pulse pressure: MAP = DBP + 1/3(SBP - DBP). This accounts for the heart spending more time in diastole than systole. Simple averaging (A) overestimates MAP. Pulse pressure is systolic minus diastolic (C). Cardiac output equals stroke volume times heart rate (D).",
+      "concept_tags": ["blood-pressure", "mean-arterial-pressure", "calculations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-07-050",
+      "question_text": "Atherosclerosis primarily affects cardiovascular function by:",
+      "options": [
+        "A. decreasing blood viscosity",
+        "B. increasing vessel elasticity",
+        "C. narrowing arterial lumens and reducing blood flow",
+        "D. increasing red blood cell production"
+      ],
+      "correct_answer": "C",
+      "explanation": "Atherosclerosis is the buildup of plaque (lipids, calcium, fibrous tissue) in arterial walls, narrowing the lumen and reducing blood flow. It also decreases vessel elasticity (not increases it). This can lead to ischemia, heart attack, or stroke. It does not affect blood viscosity or RBC production directly.",
+      "concept_tags": ["atherosclerosis", "cardiovascular-disease", "arteries"],
+      "difficulty": "medium"
+    }
+  ]
+}

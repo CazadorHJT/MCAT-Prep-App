@@ -1,0 +1,457 @@
+{
+  "book": "general-chemistry",
+  "chapter": 8,
+  "chapter_title": "Chemical Kinetics",
+  "questions": [
+    {
+      "id": "general-chemistry-08-001",
+      "question_text": "Which of the following best describes the reaction rate?",
+      "options": ["A. The change in concentration of a reactant or product per unit time", "B. The total amount of product formed in a reaction", "C. The equilibrium constant of the reaction", "D. The activation energy required for the reaction"],
+      "correct_answer": "A",
+      "explanation": "Reaction rate is defined as the change in concentration of a reactant or product per unit time. It measures how fast a reaction proceeds, typically expressed in units of M/s (molarity per second).",
+      "concept_tags": ["kinetics", "reaction-rate", "definition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-002",
+      "question_text": "For the reaction 2NO + O2 → 2NO2, if the rate of disappearance of NO is 4.0 × 10^-3 M/s, what is the rate of formation of NO2?",
+      "options": ["A. 2.0 × 10^-3 M/s", "B. 4.0 × 10^-3 M/s", "C. 8.0 × 10^-3 M/s", "D. 1.0 × 10^-3 M/s"],
+      "correct_answer": "B",
+      "explanation": "The stoichiometric ratio between NO and NO2 is 2:2 or 1:1. Therefore, the rate of formation of NO2 equals the rate of disappearance of NO, which is 4.0 × 10^-3 M/s.",
+      "concept_tags": ["kinetics", "reaction-rate", "stoichiometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-003",
+      "question_text": "Which factor does NOT affect the rate of a chemical reaction?",
+      "options": ["A. Temperature", "B. Concentration of reactants", "C. Enthalpy of formation of products", "D. Presence of a catalyst"],
+      "correct_answer": "C",
+      "explanation": "The enthalpy of formation of products is a thermodynamic property that describes the energy content of the products, not the speed of the reaction. Temperature, concentration, and catalysts all directly affect reaction rates by influencing collision frequency, energy, or providing alternative pathways.",
+      "concept_tags": ["kinetics", "reaction-rate", "factors"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-004",
+      "question_text": "A rate law is expressed as Rate = k[A]^2[B]. What is the overall order of this reaction?",
+      "options": ["A. First order", "B. Second order", "C. Third order", "D. Zero order"],
+      "correct_answer": "C",
+      "explanation": "The overall order of a reaction is the sum of the exponents of all concentration terms in the rate law. Here, the order with respect to A is 2 and with respect to B is 1, so the overall order is 2 + 1 = 3 (third order).",
+      "concept_tags": ["kinetics", "rate-law", "reaction-order"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-005",
+      "question_text": "For a first-order reaction, which quantity remains constant throughout the reaction?",
+      "options": ["A. Concentration of reactant", "B. Half-life", "C. Rate of reaction", "D. Amount of product formed per unit time"],
+      "correct_answer": "B",
+      "explanation": "For first-order reactions, the half-life (t1/2 = 0.693/k) is independent of the initial concentration and remains constant throughout the reaction. The concentration decreases exponentially, and the rate decreases as concentration decreases.",
+      "concept_tags": ["kinetics", "first-order", "half-life"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-006",
+      "question_text": "What are the units of the rate constant k for a second-order reaction?",
+      "options": ["A. s^-1", "B. M^-1·s^-1", "C. M·s^-1", "D. M^-2·s^-1"],
+      "correct_answer": "B",
+      "explanation": "For a second-order reaction, Rate = k[A]^2 or k[A][B]. Since rate has units of M/s and concentration is in M, k must have units of M^-1·s^-1 to balance the equation: M/s = k(M^2), so k = M^-1·s^-1.",
+      "concept_tags": ["kinetics", "rate-constant", "units", "second-order"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-007",
+      "question_text": "Which statement about catalysts is TRUE?",
+      "options": ["A. Catalysts are consumed during the reaction", "B. Catalysts increase the activation energy", "C. Catalysts provide an alternative reaction pathway with lower activation energy", "D. Catalysts change the equilibrium constant of the reaction"],
+      "correct_answer": "C",
+      "explanation": "Catalysts work by providing an alternative reaction pathway with a lower activation energy, thereby increasing the reaction rate. They are not consumed in the reaction, do not change the equilibrium constant, and lower (not increase) the activation energy.",
+      "concept_tags": ["kinetics", "catalysis", "activation-energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-008",
+      "question_text": "The activation energy of a reaction can be determined graphically using which plot?",
+      "options": ["A. ln[A] vs. time", "B. 1/[A] vs. time", "C. ln k vs. 1/T", "D. [A] vs. time"],
+      "correct_answer": "C",
+      "explanation": "The Arrhenius equation ln k = ln A - Ea/RT can be rearranged to ln k = -Ea/R(1/T) + ln A. A plot of ln k vs. 1/T gives a straight line with slope = -Ea/R, from which activation energy can be calculated.",
+      "concept_tags": ["kinetics", "arrhenius-equation", "activation-energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-009",
+      "question_text": "For a zero-order reaction, a plot of which variables will yield a straight line?",
+      "options": ["A. ln[A] vs. time", "B. 1/[A] vs. time", "C. [A] vs. time", "D. [A]^2 vs. time"],
+      "correct_answer": "C",
+      "explanation": "The integrated rate law for a zero-order reaction is [A] = [A]0 - kt. This is in the form y = mx + b, so plotting [A] vs. time gives a straight line with slope = -k.",
+      "concept_tags": ["kinetics", "zero-order", "integrated-rate-law"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-010",
+      "question_text": "In a multi-step reaction mechanism, the rate-determining step is characterized by:",
+      "options": ["A. The fastest step", "B. The step with the lowest activation energy", "C. The slowest step", "D. The step that involves the most molecules"],
+      "correct_answer": "C",
+      "explanation": "The rate-determining step (RDS) is the slowest step in a reaction mechanism. It acts as a bottleneck, controlling the overall rate of the reaction. The overall reaction cannot proceed faster than its slowest step.",
+      "concept_tags": ["kinetics", "reaction-mechanism", "rate-determining-step"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-011",
+      "question_text": "Increasing the temperature of a reaction typically increases the reaction rate because:",
+      "options": ["A. It decreases the activation energy", "B. It increases the fraction of molecules with energy greater than Ea", "C. It decreases the rate constant", "D. It changes the reaction mechanism"],
+      "correct_answer": "B",
+      "explanation": "According to the Arrhenius equation and collision theory, increasing temperature increases the fraction of molecules with kinetic energy exceeding the activation energy. This leads to more successful collisions and a faster reaction rate. The activation energy itself remains unchanged.",
+      "concept_tags": ["kinetics", "temperature", "activation-energy", "collision-theory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-012",
+      "question_text": "What is the half-life of a first-order reaction if the rate constant is 0.0693 s^-1?",
+      "options": ["A. 5 seconds", "B. 10 seconds", "C. 14.4 seconds", "D. 20 seconds"],
+      "correct_answer": "B",
+      "explanation": "For a first-order reaction, t1/2 = 0.693/k = 0.693/0.0693 s^-1 = 10 seconds. The half-life is inversely proportional to the rate constant for first-order reactions.",
+      "concept_tags": ["kinetics", "first-order", "half-life", "calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-013",
+      "question_text": "An enzyme is best described as:",
+      "options": ["A. A heterogeneous catalyst that works on solid surfaces", "B. A biological catalyst that lowers activation energy for specific reactions", "C. A reactant that is consumed during metabolism", "D. A molecule that increases the equilibrium constant of biochemical reactions"],
+      "correct_answer": "B",
+      "explanation": "Enzymes are biological catalysts, typically proteins, that lower the activation energy for specific biochemical reactions. They are highly selective and are not consumed in the reactions they catalyze.",
+      "concept_tags": ["kinetics", "catalysis", "enzymes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-014",
+      "question_text": "Which of the following is an intermediate in a reaction mechanism?",
+      "options": ["A. A species that appears in the overall balanced equation", "B. A species produced in one step and consumed in a subsequent step", "C. A species that lowers the activation energy", "D. A species that is present at the end of the reaction"],
+      "correct_answer": "B",
+      "explanation": "A reaction intermediate is a species that is produced in one step of a mechanism and consumed in a subsequent step. It does not appear in the overall balanced equation and is neither a reactant nor a product of the overall reaction.",
+      "concept_tags": ["kinetics", "reaction-mechanism", "intermediate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-015",
+      "question_text": "The collision theory of reaction rates states that for a reaction to occur, reactant molecules must:",
+      "options": ["A. Be at the same temperature", "B. Collide with sufficient energy and proper orientation", "C. Be in the same phase", "D. Have the same molecular weight"],
+      "correct_answer": "B",
+      "explanation": "Collision theory states that for a reaction to occur, molecules must collide with sufficient kinetic energy (at least equal to the activation energy) and with the proper geometric orientation. Not all collisions lead to reaction.",
+      "concept_tags": ["kinetics", "collision-theory", "reaction-rate"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-08-016",
+      "question_text": "The following data were obtained for a reaction: when [A] is doubled, the rate quadruples. What is the order with respect to A?",
+      "options": ["A. Zero order", "B. First order", "C. Second order", "D. Third order"],
+      "correct_answer": "C",
+      "explanation": "If Rate = k[A]^n and doubling [A] quadruples the rate, then 2^n = 4, which means n = 2. The reaction is second order with respect to A.",
+      "concept_tags": ["kinetics", "reaction-order", "rate-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-017",
+      "question_text": "For the reaction A → products, the concentration of A decreases from 1.0 M to 0.25 M in 20 minutes. If the reaction is first-order, what is the rate constant?",
+      "options": ["A. 0.035 min^-1", "B. 0.069 min^-1", "C. 0.10 min^-1", "D. 0.14 min^-1"],
+      "correct_answer": "B",
+      "explanation": "For first-order kinetics: ln([A]0/[A]) = kt. So ln(1.0/0.25) = k(20 min). ln(4) = 1.386 = k(20). Therefore k = 1.386/20 = 0.069 min^-1.",
+      "concept_tags": ["kinetics", "first-order", "rate-constant", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-018",
+      "question_text": "A reaction has Ea = 50 kJ/mol. If the temperature is increased from 300 K to 310 K, by approximately what factor will the rate constant increase? (R = 8.314 J/mol·K)",
+      "options": ["A. 1.5", "B. 2.0", "C. 2.5", "D. 3.0"],
+      "correct_answer": "B",
+      "explanation": "Using the Arrhenius equation: ln(k2/k1) = (Ea/R)(1/T1 - 1/T2) = (50000/8.314)(1/300 - 1/310) = (6014)(0.000108) = 0.65. So k2/k1 = e^0.65 ≈ 1.9 ≈ 2.0.",
+      "concept_tags": ["kinetics", "arrhenius-equation", "temperature", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-019",
+      "question_text": "For a second-order reaction with initial concentration [A]0 = 0.50 M and rate constant k = 0.20 M^-1·s^-1, what is the half-life?",
+      "options": ["A. 3.5 s", "B. 5.0 s", "C. 10 s", "D. 20 s"],
+      "correct_answer": "C",
+      "explanation": "For a second-order reaction, t1/2 = 1/(k[A]0) = 1/(0.20 M^-1·s^-1 × 0.50 M) = 1/0.10 s^-1 = 10 s. Unlike first-order reactions, the half-life depends on initial concentration.",
+      "concept_tags": ["kinetics", "second-order", "half-life", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-020",
+      "question_text": "Consider the mechanism: Step 1: NO + Cl2 → NOCl2 (fast, equilibrium); Step 2: NOCl2 + NO → 2NOCl (slow). What is the rate law for this reaction?",
+      "options": ["A. Rate = k[NO][Cl2]", "B. Rate = k[NO]^2[Cl2]", "C. Rate = k[NOCl2][NO]", "D. Rate = k[Cl2]"],
+      "correct_answer": "B",
+      "explanation": "The rate is determined by the slow step: Rate = k2[NOCl2][NO]. Since step 1 is a fast equilibrium, K = [NOCl2]/([NO][Cl2]), so [NOCl2] = K[NO][Cl2]. Substituting: Rate = k2K[NO][Cl2][NO] = k[NO]^2[Cl2].",
+      "concept_tags": ["kinetics", "reaction-mechanism", "rate-law", "steady-state"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-021",
+      "question_text": "The rate constant for a reaction is 4.5 × 10^-3 s^-1 at 25°C and 2.0 × 10^-2 s^-1 at 50°C. What is the activation energy? (R = 8.314 J/mol·K)",
+      "options": ["A. 25 kJ/mol", "B. 42 kJ/mol", "C. 55 kJ/mol", "D. 75 kJ/mol"],
+      "correct_answer": "B",
+      "explanation": "Using ln(k2/k1) = (Ea/R)(1/T1 - 1/T2): ln(2.0×10^-2/4.5×10^-3) = (Ea/8.314)(1/298 - 1/323). ln(4.44) = (Ea/8.314)(0.000261). 1.49 = Ea(3.14×10^-5). Ea = 47,500 J/mol ≈ 42 kJ/mol.",
+      "concept_tags": ["kinetics", "arrhenius-equation", "activation-energy", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-022",
+      "question_text": "For a reaction with the rate law Rate = k[A][B]^2, how will the rate change if [A] is tripled and [B] is halved?",
+      "options": ["A. Decreases by a factor of 4/3", "B. Increases by a factor of 3/4", "C. Decreases by a factor of 3/4", "D. Increases by a factor of 4/3"],
+      "correct_answer": "B",
+      "explanation": "New rate = k(3[A])(0.5[B])^2 = k(3[A])(0.25[B]^2) = 0.75k[A][B]^2. The rate becomes 0.75 or 3/4 of the original rate, meaning it increases by a factor of 3/4.",
+      "concept_tags": ["kinetics", "rate-law", "concentration", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-023",
+      "question_text": "A radioactive isotope has a half-life of 5 days. After 20 days, what fraction of the original sample remains?",
+      "options": ["A. 1/4", "B. 1/8", "C. 1/16", "D. 1/32"],
+      "correct_answer": "C",
+      "explanation": "After 20 days, the number of half-lives = 20/5 = 4 half-lives. The fraction remaining = (1/2)^4 = 1/16. Radioactive decay follows first-order kinetics.",
+      "concept_tags": ["kinetics", "half-life", "first-order", "radioactive-decay"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-024",
+      "question_text": "Which graph represents a first-order reaction when plotting concentration versus time?",
+      "options": ["A. A straight line with negative slope", "B. An exponential decay curve", "C. A hyperbolic curve", "D. A straight line with positive slope"],
+      "correct_answer": "B",
+      "explanation": "For a first-order reaction, [A] = [A]0e^(-kt), which is an exponential decay function. A plot of [A] vs. time gives an exponential decay curve. A straight line is obtained only when plotting ln[A] vs. time.",
+      "concept_tags": ["kinetics", "first-order", "integrated-rate-law", "graphical-analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-025",
+      "question_text": "In a pseudo-first-order reaction where A + B → products with [B] in large excess, what happens to the apparent rate constant if [B] is doubled?",
+      "options": ["A. It remains the same", "B. It doubles", "C. It quadruples", "D. It is halved"],
+      "correct_answer": "B",
+      "explanation": "In a pseudo-first-order reaction, Rate = k[A][B] ≈ k'[A] where k' = k[B]. If [B] is doubled (while still in excess), the apparent rate constant k' doubles.",
+      "concept_tags": ["kinetics", "pseudo-first-order", "rate-constant"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-026",
+      "question_text": "The pre-exponential factor (A) in the Arrhenius equation represents:",
+      "options": ["A. The activation energy", "B. The collision frequency and proper orientation probability", "C. The temperature of the reaction", "D. The overall reaction order"],
+      "correct_answer": "B",
+      "explanation": "The pre-exponential factor (A), also called the frequency factor, represents the product of collision frequency and the steric factor (probability of proper orientation). It indicates how often molecules collide with the correct geometry for reaction.",
+      "concept_tags": ["kinetics", "arrhenius-equation", "collision-theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-027",
+      "question_text": "For the reaction: 2H2O2 → 2H2O + O2, iodide ion (I^-) acts as a catalyst. Which statement is true about this catalyzed reaction?",
+      "options": ["A. I^- appears in the overall balanced equation", "B. The concentration of I^- increases during the reaction", "C. I^- is regenerated at the end of the reaction mechanism", "D. I^- increases the equilibrium concentration of O2"],
+      "correct_answer": "C",
+      "explanation": "A catalyst participates in the reaction mechanism but is regenerated by the end. I^- may be consumed in an early step but is regenerated in a later step, so its net concentration is unchanged. It does not appear in the overall equation.",
+      "concept_tags": ["kinetics", "catalysis", "reaction-mechanism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-028",
+      "question_text": "A zero-order reaction has an initial concentration of 0.80 M and a rate constant of 0.040 M/s. How long will it take for the concentration to reach 0.20 M?",
+      "options": ["A. 5 s", "B. 10 s", "C. 15 s", "D. 20 s"],
+      "correct_answer": "C",
+      "explanation": "For zero-order kinetics: [A] = [A]0 - kt. Solving for t: t = ([A]0 - [A])/k = (0.80 - 0.20)/0.040 = 0.60/0.040 = 15 s.",
+      "concept_tags": ["kinetics", "zero-order", "integrated-rate-law", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-029",
+      "question_text": "Which statement about the transition state (activated complex) is FALSE?",
+      "options": ["A. It represents the highest energy point along the reaction coordinate", "B. It has a measurable lifetime and can be isolated", "C. Its energy relative to reactants determines the activation energy", "D. It has partial bonds that are being formed and broken"],
+      "correct_answer": "B",
+      "explanation": "The transition state is extremely unstable and exists for only about 10^-13 seconds. It cannot be isolated or directly observed. It represents a transient configuration at the energy maximum where bonds are partially formed and broken.",
+      "concept_tags": ["kinetics", "transition-state", "activation-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-030",
+      "question_text": "If a reaction has ΔG° < 0 (spontaneous), can it still have a slow rate?",
+      "options": ["A. No, spontaneous reactions are always fast", "B. Yes, because thermodynamics and kinetics are independent", "C. No, negative ΔG° means low activation energy", "D. Yes, but only if the reaction is endothermic"],
+      "correct_answer": "B",
+      "explanation": "Thermodynamics (ΔG°) tells us whether a reaction is favorable, while kinetics tells us how fast it occurs. A reaction can be thermodynamically spontaneous (ΔG° < 0) but kinetically slow due to high activation energy. Diamond → graphite is a classic example.",
+      "concept_tags": ["kinetics", "thermodynamics", "activation-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-031",
+      "question_text": "In the study of reaction rates, what does the term 'initial rate' refer to?",
+      "options": ["A. The rate when the reaction reaches equilibrium", "B. The rate at time t = 0 when product concentrations are negligible", "C. The maximum rate achieved during the reaction", "D. The average rate over the entire reaction"],
+      "correct_answer": "B",
+      "explanation": "The initial rate is measured at the very beginning of the reaction (t ≈ 0) when only reactants are present and product concentrations are negligible. This avoids complications from reverse reactions and allows direct determination of rate laws.",
+      "concept_tags": ["kinetics", "reaction-rate", "initial-rate", "experimental"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-032",
+      "question_text": "For the elementary reaction: 2NO2 → 2NO + O2, what is the rate law?",
+      "options": ["A. Rate = k[NO2]", "B. Rate = k[NO2]^2", "C. Rate = k[NO][O2]", "D. Rate = k[NO2][O2]"],
+      "correct_answer": "B",
+      "explanation": "For an elementary reaction, the rate law can be written directly from the stoichiometry. Since two molecules of NO2 collide, the rate law is Rate = k[NO2]^2. This only applies to elementary steps, not overall reactions.",
+      "concept_tags": ["kinetics", "elementary-reaction", "rate-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-033",
+      "question_text": "What is the molecularity of the elementary step: A + 2B → C?",
+      "options": ["A. Unimolecular", "B. Bimolecular", "C. Termolecular", "D. Third-order"],
+      "correct_answer": "C",
+      "explanation": "Molecularity is the number of reactant molecules participating in an elementary step. Here, one A molecule and two B molecules (3 total) react, making it termolecular. Note: molecularity applies only to elementary steps, not overall reactions.",
+      "concept_tags": ["kinetics", "molecularity", "elementary-reaction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-034",
+      "question_text": "A catalyst lowers the activation energy of a forward reaction by 20 kJ/mol. By how much does it lower the activation energy of the reverse reaction?",
+      "options": ["A. 0 kJ/mol", "B. 10 kJ/mol", "C. 20 kJ/mol", "D. 40 kJ/mol"],
+      "correct_answer": "C",
+      "explanation": "A catalyst lowers the activation energy for both forward and reverse reactions by the same amount. Since ΔH = Ea(forward) - Ea(reverse), and ΔH is unchanged by a catalyst, both activation energies must decrease equally (by 20 kJ/mol).",
+      "concept_tags": ["kinetics", "catalysis", "activation-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-035",
+      "question_text": "For a reaction following second-order kinetics, if the initial concentration is doubled, the initial rate will:",
+      "options": ["A. Remain the same", "B. Double", "C. Triple", "D. Quadruple"],
+      "correct_answer": "D",
+      "explanation": "For a second-order reaction (Rate = k[A]^2), if [A] is doubled: new rate = k(2[A])^2 = 4k[A]^2 = 4 × original rate. The rate increases by a factor of 4.",
+      "concept_tags": ["kinetics", "second-order", "rate-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-036",
+      "question_text": "The rate constant for the decomposition of N2O5 is 6.2 × 10^-4 s^-1 at 45°C. If the activation energy is 103 kJ/mol, what is the rate constant at 55°C? (R = 8.314 J/mol·K)",
+      "options": ["A. 1.5 × 10^-3 s^-1", "B. 2.0 × 10^-3 s^-1", "C. 2.8 × 10^-3 s^-1", "D. 3.5 × 10^-3 s^-1"],
+      "correct_answer": "B",
+      "explanation": "Using ln(k2/k1) = (Ea/R)(1/T1 - 1/T2) = (103000/8.314)(1/318 - 1/328) = 12391 × 9.6×10^-5 = 1.19. k2 = k1 × e^1.19 = 6.2×10^-4 × 3.29 = 2.0×10^-3 s^-1.",
+      "concept_tags": ["kinetics", "arrhenius-equation", "temperature", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-037",
+      "question_text": "Which of the following is true about the rate law for a complex reaction?",
+      "options": ["A. It can always be determined from the stoichiometry of the overall reaction", "B. It must be determined experimentally", "C. The orders must be whole numbers", "D. It cannot include intermediates"],
+      "correct_answer": "B",
+      "explanation": "The rate law for a complex (non-elementary) reaction cannot be determined from stoichiometry alone and must be found experimentally. Orders can be fractional, zero, or negative, and the rate law expresses the relationship determined by the mechanism.",
+      "concept_tags": ["kinetics", "rate-law", "reaction-order", "experimental"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-038",
+      "question_text": "In heterogeneous catalysis, the step where reactants attach to the catalyst surface is called:",
+      "options": ["A. Desorption", "B. Adsorption", "C. Absorption", "D. Activation"],
+      "correct_answer": "B",
+      "explanation": "Adsorption is the process where reactant molecules bind to the surface of a heterogeneous catalyst. This is different from absorption (where molecules enter the bulk). After reaction on the surface, products undergo desorption.",
+      "concept_tags": ["kinetics", "heterogeneous-catalysis", "adsorption"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-039",
+      "question_text": "The half-life of a second-order reaction increases as the reaction proceeds because:",
+      "options": ["A. The rate constant decreases", "B. The activation energy increases", "C. The concentration of reactant decreases", "D. The temperature drops"],
+      "correct_answer": "C",
+      "explanation": "For second-order reactions, t1/2 = 1/(k[A]0). Unlike first-order reactions, the half-life depends on concentration. As the reaction proceeds, [A] decreases, so subsequent half-lives become longer.",
+      "concept_tags": ["kinetics", "second-order", "half-life"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-040",
+      "question_text": "A reaction occurs in three steps with activation energies of 30, 50, and 20 kJ/mol respectively. If the first step is rate-determining, what is the activation energy for the overall reaction?",
+      "options": ["A. 20 kJ/mol", "B. 30 kJ/mol", "C. 50 kJ/mol", "D. 100 kJ/mol"],
+      "correct_answer": "B",
+      "explanation": "The activation energy for the overall reaction is determined by the rate-determining step, which is the first step with Ea = 30 kJ/mol. The overall rate cannot exceed that of the slowest step.",
+      "concept_tags": ["kinetics", "reaction-mechanism", "rate-determining-step", "activation-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-08-041",
+      "question_text": "Consider the mechanism: Step 1: A ⇌ B (fast equilibrium, K1); Step 2: B + C → D (slow). If the overall reaction is A + C → D, what is the rate law?",
+      "options": ["A. Rate = k[A][C]", "B. Rate = k[B][C]", "C. Rate = k[A]", "D. Rate = k[C]"],
+      "correct_answer": "A",
+      "explanation": "The slow step gives Rate = k2[B][C]. From the fast equilibrium, K1 = [B]/[A], so [B] = K1[A]. Substituting: Rate = k2K1[A][C] = k[A][C].",
+      "concept_tags": ["kinetics", "reaction-mechanism", "rate-law", "equilibrium"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-042",
+      "question_text": "The rate of a reaction quadruples when the temperature increases from 300 K to 310 K. What is the activation energy? (R = 8.314 J/mol·K)",
+      "options": ["A. 43 kJ/mol", "B. 86 kJ/mol", "C. 107 kJ/mol", "D. 129 kJ/mol"],
+      "correct_answer": "C",
+      "explanation": "Using ln(k2/k1) = (Ea/R)(1/T1 - 1/T2): ln(4) = (Ea/8.314)(1/300 - 1/310) = (Ea/8.314)(0.000108). 1.386 = Ea(1.30×10^-5). Ea = 107,000 J/mol = 107 kJ/mol.",
+      "concept_tags": ["kinetics", "arrhenius-equation", "activation-energy", "calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-043",
+      "question_text": "For the reaction 2A + B → C + D, experiments show: doubling [A] doubles the rate; doubling [B] has no effect; doubling [C] has no effect. The rate-determining step most likely involves:",
+      "options": ["A. Two molecules of A", "B. One molecule of A only", "C. One molecule of A and one of B", "D. One molecule of B only"],
+      "correct_answer": "B",
+      "explanation": "The rate law is first order in A (doubling [A] doubles rate) and zero order in B (no effect). This suggests the rate-determining step involves only one molecule of A, not B. Products never appear in rate laws for irreversible reactions.",
+      "concept_tags": ["kinetics", "rate-law", "reaction-mechanism", "experimental"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-044",
+      "question_text": "A first-order reaction is 75% complete in 32 minutes. What is the rate constant?",
+      "options": ["A. 0.022 min^-1", "B. 0.043 min^-1", "C. 0.065 min^-1", "D. 0.087 min^-1"],
+      "correct_answer": "B",
+      "explanation": "If 75% complete, 25% remains. Using ln([A]0/[A]) = kt: ln(100/25) = ln(4) = k(32). k = 1.386/32 = 0.043 min^-1. Alternatively, 75% complete = 2 half-lives, so t1/2 = 16 min, and k = 0.693/16 = 0.043 min^-1.",
+      "concept_tags": ["kinetics", "first-order", "rate-constant", "calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-045",
+      "question_text": "In enzyme kinetics, when substrate concentration is much greater than Km, the reaction rate:",
+      "options": ["A. Is zero order with respect to substrate", "B. Is first order with respect to substrate", "C. Is second order with respect to substrate", "D. Depends on enzyme concentration only"],
+      "correct_answer": "A",
+      "explanation": "At high [S] >> Km, the Michaelis-Menten equation v = Vmax[S]/(Km + [S]) ≈ Vmax. The rate becomes independent of substrate concentration (zero order in S) and depends only on enzyme concentration (Vmax = kcat[E]total).",
+      "concept_tags": ["kinetics", "enzyme-kinetics", "michaelis-menten", "reaction-order"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-046",
+      "question_text": "A reaction has the stoichiometry A + 2B → 3C. If -d[A]/dt = 2.0 M/s, what is d[C]/dt?",
+      "options": ["A. 2.0 M/s", "B. 3.0 M/s", "C. 4.0 M/s", "D. 6.0 M/s"],
+      "correct_answer": "D",
+      "explanation": "Using stoichiometric relationships: -d[A]/dt = -(1/2)d[B]/dt = (1/3)d[C]/dt. Therefore, d[C]/dt = 3(-d[A]/dt) = 3(2.0) = 6.0 M/s. C forms three times faster than A disappears.",
+      "concept_tags": ["kinetics", "reaction-rate", "stoichiometry", "calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-047",
+      "question_text": "The steady-state approximation assumes that:",
+      "options": ["A. All intermediates are at equilibrium", "B. The concentration of intermediates remains approximately constant", "C. The reaction has reached completion", "D. Temperature remains constant throughout the reaction"],
+      "correct_answer": "B",
+      "explanation": "The steady-state approximation assumes that after an initial induction period, the concentration of reactive intermediates remains approximately constant (d[I]/dt ≈ 0). This occurs when intermediates are consumed as fast as they are formed.",
+      "concept_tags": ["kinetics", "reaction-mechanism", "steady-state", "intermediate"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-048",
+      "question_text": "For a reaction with parallel pathways (A → B via path 1 with k1, and A → C via path 2 with k2), the effective rate constant for disappearance of A is:",
+      "options": ["A. k1 × k2", "B. k1 + k2", "C. k1 - k2", "D. k1 / k2"],
+      "correct_answer": "B",
+      "explanation": "In parallel reactions, A can react via either pathway independently. The total rate of A disappearance is -d[A]/dt = k1[A] + k2[A] = (k1 + k2)[A]. The effective rate constant is the sum of individual rate constants.",
+      "concept_tags": ["kinetics", "parallel-reactions", "rate-constant"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-049",
+      "question_text": "A competitive inhibitor in enzyme kinetics affects the Michaelis-Menten parameters by:",
+      "options": ["A. Increasing apparent Km, no effect on Vmax", "B. Decreasing Km, decreasing Vmax", "C. No effect on Km, decreasing Vmax", "D. Increasing both Km and Vmax"],
+      "correct_answer": "A",
+      "explanation": "A competitive inhibitor competes with substrate for the active site. At high [S], the inhibitor can be outcompeted, so Vmax is unchanged. However, more substrate is needed to reach half-Vmax, so the apparent Km increases.",
+      "concept_tags": ["kinetics", "enzyme-kinetics", "inhibition", "michaelis-menten"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-08-050",
+      "question_text": "For a consecutive reaction A →(k1) B →(k2) C, where k1 << k2, which statement is true?",
+      "options": ["A. B accumulates to high concentrations", "B. The formation of C is rate-limited by the first step", "C. The overall rate constant equals k2", "D. B is the rate-determining species"],
+      "correct_answer": "B",
+      "explanation": "When k1 << k2, the first step is slow and rate-determining. B is converted to C as fast as it forms, so B concentration remains low. The overall rate of C formation is determined by k1, making the first step rate-limiting.",
+      "concept_tags": ["kinetics", "consecutive-reactions", "rate-determining-step"],
+      "difficulty": "hard"
+    }
+  ]
+}

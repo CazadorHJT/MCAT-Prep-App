@@ -1,0 +1,547 @@
+{
+  "book": "physics-math",
+  "chapter": 11,
+  "chapter_title": "Research Methods",
+  "questions": [
+    {
+      "id": "physics-math-11-001",
+      "question_text": "A researcher hypothesizes that a new drug reduces blood pressure. In her experiment, she administers the drug to one group and a placebo to another. What is the independent variable in this study?",
+      "options": ["A. Blood pressure measurements", "B. The type of treatment (drug vs. placebo)", "C. The number of participants", "D. The duration of the study"],
+      "correct_answer": "B",
+      "explanation": "The independent variable is the factor that the researcher manipulates. In this case, the researcher is manipulating whether participants receive the drug or the placebo, making the type of treatment the independent variable. Blood pressure is the dependent variable that is measured as an outcome.",
+      "concept_tags": ["independent-variable", "experimental-design", "variables"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-002",
+      "question_text": "In a study examining the effect of sleep duration on memory performance, participants are randomly assigned to sleep for 4, 6, or 8 hours before taking a memory test. What is the dependent variable?",
+      "options": ["A. Sleep duration", "B. Memory test scores", "C. Random assignment", "D. Number of participants in each group"],
+      "correct_answer": "B",
+      "explanation": "The dependent variable is the outcome that is measured and is expected to change based on the independent variable. Memory test scores are measured as the outcome of the experiment, making them the dependent variable. Sleep duration is the independent variable that is manipulated.",
+      "concept_tags": ["dependent-variable", "experimental-design", "variables"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-003",
+      "question_text": "What is the primary purpose of using a control group in an experiment?",
+      "options": ["A. To increase the sample size", "B. To provide a baseline for comparison", "C. To reduce the cost of the experiment", "D. To eliminate all confounding variables"],
+      "correct_answer": "B",
+      "explanation": "A control group provides a baseline for comparison, allowing researchers to determine whether changes in the dependent variable are due to the independent variable or other factors. Without a control group, it would be difficult to attribute observed effects to the treatment being studied.",
+      "concept_tags": ["control-group", "experimental-design", "scientific-method"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-004",
+      "question_text": "A pharmaceutical company tests a new medication but does not tell participants whether they receive the actual drug or a placebo. This describes which type of study design?",
+      "options": ["A. Double-blind study", "B. Single-blind study", "C. Open-label study", "D. Crossover study"],
+      "correct_answer": "B",
+      "explanation": "In a single-blind study, the participants do not know whether they are receiving the treatment or placebo, but the researchers do know. In a double-blind study, neither the participants nor the researchers know who receives which treatment. This design helps reduce participant bias.",
+      "concept_tags": ["blinding", "experimental-design", "bias-reduction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-005",
+      "question_text": "Which step of the scientific method involves making predictions based on the hypothesis?",
+      "options": ["A. Observation", "B. Experimentation", "C. Formulating the hypothesis", "D. Deriving testable predictions"],
+      "correct_answer": "D",
+      "explanation": "After formulating a hypothesis, scientists derive testable predictions that can be verified through experimentation. These predictions specify what outcomes should be observed if the hypothesis is correct, making the hypothesis falsifiable.",
+      "concept_tags": ["scientific-method", "hypothesis", "predictions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-006",
+      "question_text": "A study finds that ice cream sales and drowning deaths are positively correlated. What is the most likely explanation for this correlation?",
+      "options": ["A. Ice cream consumption causes drowning", "B. Drowning causes increased ice cream consumption", "C. A confounding variable (temperature) influences both", "D. The correlation is due to random chance"],
+      "correct_answer": "C",
+      "explanation": "This is a classic example of a confounding variable. Hot weather (temperature) is a third variable that causes both increased ice cream sales and more swimming, which leads to more drowning deaths. Correlation does not imply causation, especially when confounding variables may be present.",
+      "concept_tags": ["confounding-variables", "correlation", "causation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-007",
+      "question_text": "What is the main advantage of random assignment in experimental research?",
+      "options": ["A. It ensures the sample represents the population", "B. It equalizes groups on both known and unknown variables", "C. It eliminates the need for a control group", "D. It increases the sample size"],
+      "correct_answer": "B",
+      "explanation": "Random assignment helps ensure that experimental groups are equivalent before treatment by distributing both known and unknown participant characteristics evenly across groups. This reduces the likelihood that group differences in outcomes are due to pre-existing differences rather than the treatment.",
+      "concept_tags": ["randomization", "experimental-design", "internal-validity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-008",
+      "question_text": "A measurement tool yields consistent results when used multiple times under the same conditions. This describes which property?",
+      "options": ["A. Validity", "B. Reliability", "C. Sensitivity", "D. Specificity"],
+      "correct_answer": "B",
+      "explanation": "Reliability refers to the consistency or repeatability of a measurement. A reliable instrument produces similar results under consistent conditions. Validity, in contrast, refers to whether the instrument measures what it is intended to measure.",
+      "concept_tags": ["reliability", "measurement", "research-methods"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-009",
+      "question_text": "In a longitudinal study, researchers:",
+      "options": ["A. Study different groups at the same point in time", "B. Follow the same participants over an extended period", "C. Compare participants across different locations", "D. Use only observational methods without intervention"],
+      "correct_answer": "B",
+      "explanation": "A longitudinal study follows the same participants over an extended period of time, allowing researchers to observe changes and development. This design is useful for studying how variables change over time and for establishing temporal precedence in causal relationships.",
+      "concept_tags": ["longitudinal-study", "study-types", "research-design"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-010",
+      "question_text": "Which of the following best describes an observational study?",
+      "options": ["A. The researcher manipulates the independent variable", "B. The researcher observes without manipulating variables", "C. The researcher uses only laboratory settings", "D. The researcher eliminates all confounding variables"],
+      "correct_answer": "B",
+      "explanation": "In an observational study, the researcher observes and records data without manipulating any variables. This contrasts with experimental studies where the researcher actively manipulates the independent variable. Observational studies are useful when manipulation would be unethical or impractical.",
+      "concept_tags": ["observational-study", "study-types", "research-design"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-011",
+      "question_text": "A researcher wants to determine if a new teaching method improves student test scores. She uses the new method with one class and the traditional method with another class at the same school. What type of study design is this?",
+      "options": ["A. Case study", "B. Correlational study", "C. Experimental study", "D. Meta-analysis"],
+      "correct_answer": "C",
+      "explanation": "This is an experimental study because the researcher is manipulating the independent variable (teaching method) and measuring its effect on the dependent variable (test scores). The presence of a comparison group receiving the traditional method serves as the control condition.",
+      "concept_tags": ["experimental-study", "study-types", "research-design"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-012",
+      "question_text": "What does statistical power represent in research?",
+      "options": ["A. The probability of making a Type I error", "B. The probability of detecting an effect when one exists", "C. The size of the effect being measured", "D. The variability within the sample"],
+      "correct_answer": "B",
+      "explanation": "Statistical power is the probability that a study will detect an effect when there truly is one to detect (i.e., correctly rejecting a false null hypothesis). Power is influenced by sample size, effect size, and significance level. Low power increases the risk of Type II errors (failing to detect real effects).",
+      "concept_tags": ["statistical-power", "sample-size", "statistics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-013",
+      "question_text": "A researcher studies whether coffee consumption affects reaction time. Unbeknownst to the researcher, participants who drink more coffee also tend to sleep less. Sleep duration in this scenario is a:",
+      "options": ["A. Dependent variable", "B. Independent variable", "C. Confounding variable", "D. Control variable"],
+      "correct_answer": "C",
+      "explanation": "Sleep duration is a confounding variable because it is associated with both the independent variable (coffee consumption) and the dependent variable (reaction time). It could provide an alternative explanation for any observed relationship between coffee and reaction time.",
+      "concept_tags": ["confounding-variables", "experimental-design", "internal-validity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-014",
+      "question_text": "A psychology test measures what it claims to measure. This refers to:",
+      "options": ["A. Test-retest reliability", "B. Internal consistency", "C. Validity", "D. Inter-rater reliability"],
+      "correct_answer": "C",
+      "explanation": "Validity refers to whether a test measures what it is intended to measure. There are several types of validity including construct validity, content validity, and criterion validity. A test can be reliable without being valid, but a valid test must also be reliable.",
+      "concept_tags": ["validity", "measurement", "research-methods"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-015",
+      "question_text": "In a double-blind study:",
+      "options": ["A. Only participants are unaware of group assignment", "B. Only researchers are unaware of group assignment", "C. Both participants and researchers are unaware of group assignment", "D. Neither participants nor researchers are involved in data collection"],
+      "correct_answer": "C",
+      "explanation": "In a double-blind study, neither the participants nor the researchers who interact with them know which treatment each participant receives. This design minimizes both participant expectation effects (placebo effect) and researcher bias in administering treatments or recording outcomes.",
+      "concept_tags": ["blinding", "experimental-design", "bias-reduction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-016",
+      "question_text": "A researcher conducts an experiment with 10 participants in each group. Another researcher repeats the study with 100 participants in each group. How does increasing sample size affect statistical power?",
+      "options": ["A. Decreases power", "B. Increases power", "C. Has no effect on power", "D. First increases then decreases power"],
+      "correct_answer": "B",
+      "explanation": "Increasing sample size increases statistical power. Larger samples provide more precise estimates of population parameters and make it easier to detect true effects. This is why power analyses are conducted before studies to determine the minimum sample size needed to detect an expected effect.",
+      "concept_tags": ["sample-size", "statistical-power", "research-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-017",
+      "question_text": "A cross-sectional study differs from a longitudinal study in that it:",
+      "options": ["A. Studies participants at multiple time points", "B. Studies participants at a single point in time", "C. Always uses experimental manipulation", "D. Requires larger sample sizes"],
+      "correct_answer": "B",
+      "explanation": "A cross-sectional study collects data from participants at a single point in time, providing a snapshot of a population. In contrast, a longitudinal study follows the same participants over multiple time points. Cross-sectional studies are quicker and less expensive but cannot establish temporal precedence.",
+      "concept_tags": ["cross-sectional-study", "longitudinal-study", "study-types"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-018",
+      "question_text": "Internal validity refers to:",
+      "options": ["A. The extent to which results can be generalized", "B. The degree to which a study establishes a causal relationship", "C. The consistency of measurements over time", "D. The accuracy of statistical analyses"],
+      "correct_answer": "B",
+      "explanation": "Internal validity refers to the degree to which a study can establish a causal relationship between the independent and dependent variables. High internal validity means that observed effects can be confidently attributed to the manipulation rather than confounding variables or other factors.",
+      "concept_tags": ["internal-validity", "validity", "causation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-019",
+      "question_text": "External validity refers to:",
+      "options": ["A. The degree to which results can be generalized to other settings and populations", "B. The consistency of measurements within the study", "C. The accuracy of the experimental manipulation", "D. The statistical significance of findings"],
+      "correct_answer": "A",
+      "explanation": "External validity refers to the extent to which research findings can be generalized beyond the specific conditions of the study to other populations, settings, and times. Studies with high external validity have results that are applicable to real-world situations.",
+      "concept_tags": ["external-validity", "validity", "generalizability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-020",
+      "question_text": "A researcher notices that participants in a study perform better simply because they know they are being observed. This phenomenon is known as:",
+      "options": ["A. Placebo effect", "B. Hawthorne effect", "C. Confirmation bias", "D. Selection bias"],
+      "correct_answer": "B",
+      "explanation": "The Hawthorne effect occurs when participants modify their behavior because they know they are being observed, not because of the experimental treatment. This can threaten the internal validity of a study by introducing a confounding variable related to observation awareness.",
+      "concept_tags": ["hawthorne-effect", "bias", "internal-validity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-021",
+      "question_text": "Which type of validity assesses whether a test covers all aspects of the construct being measured?",
+      "options": ["A. Criterion validity", "B. Content validity", "C. Construct validity", "D. Face validity"],
+      "correct_answer": "B",
+      "explanation": "Content validity assesses whether a test adequately covers all aspects of the construct it intends to measure. For example, a comprehensive exam should include questions from all topics covered in the course, not just a subset.",
+      "concept_tags": ["content-validity", "validity", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-022",
+      "question_text": "A researcher finds a correlation of r = 0.85 between two administrations of the same test given two weeks apart. This demonstrates:",
+      "options": ["A. Construct validity", "B. Inter-rater reliability", "C. Test-retest reliability", "D. Internal consistency"],
+      "correct_answer": "C",
+      "explanation": "Test-retest reliability measures the consistency of test scores when the same test is administered to the same individuals at different times. A high correlation (r = 0.85) indicates that the test produces stable, consistent results over time.",
+      "concept_tags": ["test-retest-reliability", "reliability", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-023",
+      "question_text": "In a randomized controlled trial (RCT), the 'controlled' aspect refers to:",
+      "options": ["A. Controlling participant behavior during the study", "B. Using a control group that does not receive the treatment", "C. Controlling the laboratory environment", "D. Controlling for all possible confounding variables"],
+      "correct_answer": "B",
+      "explanation": "In a randomized controlled trial, 'controlled' refers to the use of a control group that serves as a comparison to the treatment group. The control group typically receives a placebo or standard treatment, allowing researchers to isolate the effect of the experimental intervention.",
+      "concept_tags": ["randomized-controlled-trial", "control-group", "experimental-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-024",
+      "question_text": "Selection bias in research occurs when:",
+      "options": ["A. Participants drop out of the study", "B. The sample is not representative of the target population", "C. Researchers favor certain hypotheses", "D. The measurement tool is inaccurate"],
+      "correct_answer": "B",
+      "explanation": "Selection bias occurs when the sample selected for a study is not representative of the target population, often due to systematic differences in how participants are recruited or selected. This threatens external validity by limiting the generalizability of results.",
+      "concept_tags": ["selection-bias", "bias", "sampling"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-025",
+      "question_text": "A cohort study follows a group of individuals who share a common characteristic over time. This type of study is best classified as:",
+      "options": ["A. Experimental", "B. Cross-sectional", "C. Observational longitudinal", "D. Case-control"],
+      "correct_answer": "C",
+      "explanation": "A cohort study is an observational longitudinal study that follows a group (cohort) of participants over time. Researchers do not manipulate variables but observe and record outcomes as they naturally occur, making it observational rather than experimental.",
+      "concept_tags": ["cohort-study", "longitudinal-study", "observational-study"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-026",
+      "question_text": "A Type I error occurs when:",
+      "options": ["A. The null hypothesis is incorrectly rejected", "B. The null hypothesis is incorrectly accepted", "C. The sample size is too small", "D. The effect size is overestimated"],
+      "correct_answer": "A",
+      "explanation": "A Type I error (false positive) occurs when the null hypothesis is rejected when it is actually true. This means concluding that an effect exists when it does not. The probability of making a Type I error is denoted by alpha (typically set at 0.05).",
+      "concept_tags": ["type-I-error", "statistics", "hypothesis-testing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-027",
+      "question_text": "A Type II error occurs when:",
+      "options": ["A. The null hypothesis is incorrectly rejected", "B. The null hypothesis is incorrectly accepted (failing to reject when false)", "C. The p-value is less than alpha", "D. The confidence interval is too wide"],
+      "correct_answer": "B",
+      "explanation": "A Type II error (false negative) occurs when the null hypothesis is not rejected when it is actually false. This means failing to detect an effect that truly exists. The probability of making a Type II error is denoted by beta, and power equals 1 - beta.",
+      "concept_tags": ["type-II-error", "statistics", "hypothesis-testing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-028",
+      "question_text": "Which factor does NOT increase statistical power?",
+      "options": ["A. Increasing sample size", "B. Increasing effect size", "C. Increasing alpha level", "D. Increasing variability in the data"],
+      "correct_answer": "D",
+      "explanation": "Increasing variability (standard deviation) in the data decreases statistical power because it makes it harder to detect true effects. Power is increased by larger sample sizes, larger effect sizes, and higher alpha levels (though increasing alpha also increases Type I error risk).",
+      "concept_tags": ["statistical-power", "sample-size", "effect-size"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-029",
+      "question_text": "In a case-control study, researchers:",
+      "options": ["A. Randomly assign participants to groups", "B. Compare individuals with a condition to those without", "C. Manipulate the independent variable", "D. Follow participants prospectively over time"],
+      "correct_answer": "B",
+      "explanation": "In a case-control study, researchers identify individuals with a condition (cases) and compare them to similar individuals without the condition (controls). This retrospective design looks back in time to identify potential risk factors or exposures that differ between groups.",
+      "concept_tags": ["case-control-study", "observational-study", "study-types"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-030",
+      "question_text": "The placebo effect demonstrates the importance of:",
+      "options": ["A. Large sample sizes", "B. Random sampling", "C. Blinding in experimental design", "D. Longitudinal follow-up"],
+      "correct_answer": "C",
+      "explanation": "The placebo effect, where participants experience improvements simply because they believe they are receiving treatment, demonstrates why blinding is essential in experimental design. Without blinding, participant expectations can influence outcomes independently of the actual treatment.",
+      "concept_tags": ["placebo-effect", "blinding", "experimental-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-031",
+      "question_text": "Stratified random sampling involves:",
+      "options": ["A. Selecting every nth person from a list", "B. Dividing the population into subgroups and sampling from each", "C. Allowing participants to self-select into the study", "D. Using convenience samples from available populations"],
+      "correct_answer": "B",
+      "explanation": "Stratified random sampling involves dividing the population into distinct subgroups (strata) based on relevant characteristics (such as age or gender) and then randomly sampling from each stratum. This ensures that important subgroups are represented in the sample.",
+      "concept_tags": ["stratified-sampling", "sampling", "research-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-032",
+      "question_text": "A researcher measures intelligence using a test that actually measures memory. This test lacks:",
+      "options": ["A. Reliability", "B. Construct validity", "C. Internal consistency", "D. Test-retest reliability"],
+      "correct_answer": "B",
+      "explanation": "Construct validity refers to whether a test measures the theoretical construct it is intended to measure. If an intelligence test actually measures memory rather than intelligence, it lacks construct validity because it is not measuring the intended psychological construct.",
+      "concept_tags": ["construct-validity", "validity", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-033",
+      "question_text": "A study examining whether children who play violent video games become more aggressive is conducted by surveying parents about their children's gaming habits and behavior. This study design is:",
+      "options": ["A. Experimental", "B. Correlational", "C. True experiment", "D. Quasi-experimental"],
+      "correct_answer": "B",
+      "explanation": "This is a correlational study because the researcher is not manipulating any variables but rather measuring the relationship between two naturally occurring variables (video game playing and aggression). Correlational studies cannot establish causation because they do not control for confounding variables.",
+      "concept_tags": ["correlational-study", "study-types", "research-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-034",
+      "question_text": "Inter-rater reliability is important when:",
+      "options": ["A. Measuring the same variable at multiple time points", "B. Multiple observers are rating or scoring the same behavior", "C. Comparing results across different studies", "D. Administering the same test to different populations"],
+      "correct_answer": "B",
+      "explanation": "Inter-rater reliability measures the degree of agreement among different raters or observers evaluating the same phenomenon. High inter-rater reliability indicates that the ratings are consistent regardless of who performs the assessment, which is crucial for observational studies.",
+      "concept_tags": ["inter-rater-reliability", "reliability", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-035",
+      "question_text": "A quasi-experimental design differs from a true experiment because it:",
+      "options": ["A. Uses smaller sample sizes", "B. Lacks random assignment to conditions", "C. Does not measure dependent variables", "D. Only studies naturally occurring phenomena"],
+      "correct_answer": "B",
+      "explanation": "Quasi-experimental designs lack random assignment to conditions, which is a defining feature of true experiments. In quasi-experiments, groups are often formed based on pre-existing characteristics. This makes it more difficult to establish causation because groups may differ in ways other than the treatment.",
+      "concept_tags": ["quasi-experimental", "experimental-design", "research-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-036",
+      "question_text": "Which of the following would most threaten the internal validity of an experiment?",
+      "options": ["A. Using a homogeneous sample", "B. A confounding variable that differs between groups", "C. Having a large sample size", "D. Using a standardized measurement tool"],
+      "correct_answer": "B",
+      "explanation": "A confounding variable that differs between experimental groups threatens internal validity because it provides an alternative explanation for observed differences in the dependent variable. This makes it difficult to determine whether the independent variable or the confound caused the effect.",
+      "concept_tags": ["internal-validity", "confounding-variables", "experimental-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-037",
+      "question_text": "A researcher wants to study how stress affects immune function. For ethical reasons, she cannot induce severe stress in participants. Which type of study would be most appropriate?",
+      "options": ["A. True experiment with random assignment", "B. Observational study of naturally stressed individuals", "C. Double-blind placebo-controlled trial", "D. Laboratory manipulation of stress hormones"],
+      "correct_answer": "B",
+      "explanation": "When ethical constraints prevent experimental manipulation, observational studies are the appropriate alternative. The researcher can study individuals who are naturally experiencing stress (such as exam stress or work stress) and measure their immune function without creating potentially harmful stress conditions.",
+      "concept_tags": ["observational-study", "ethics", "research-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-038",
+      "question_text": "Operationalization in research refers to:",
+      "options": ["A. Training research assistants", "B. Defining abstract concepts in measurable terms", "C. Standardizing laboratory procedures", "D. Calculating effect sizes"],
+      "correct_answer": "B",
+      "explanation": "Operationalization is the process of defining abstract or theoretical concepts in terms of specific, measurable procedures or indicators. For example, operationalizing 'anxiety' might involve defining it as a score on a validated anxiety questionnaire, making the abstract concept measurable.",
+      "concept_tags": ["operationalization", "measurement", "research-methods"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-039",
+      "question_text": "Publication bias refers to:",
+      "options": ["A. Journals preferring to publish studies with significant results", "B. Researchers citing only studies that support their hypothesis", "C. Authors publishing the same study in multiple journals", "D. The tendency to publish studies with larger sample sizes"],
+      "correct_answer": "A",
+      "explanation": "Publication bias occurs when journals preferentially publish studies with statistically significant or positive results while rejecting null or negative findings. This distorts the scientific literature because published research does not represent all research conducted on a topic.",
+      "concept_tags": ["publication-bias", "research-methods", "statistics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-040",
+      "question_text": "A study has high reliability but low validity. This means:",
+      "options": ["A. The study consistently measures something other than what is intended", "B. The study is both accurate and consistent", "C. The study cannot be replicated", "D. The study accurately measures the intended construct"],
+      "correct_answer": "A",
+      "explanation": "When a measure is reliable but not valid, it consistently measures something, but not what it is supposed to measure. For example, a broken scale that always reads 5 pounds too heavy is reliable (consistent) but not valid (inaccurate for measuring true weight).",
+      "concept_tags": ["reliability", "validity", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-041",
+      "question_text": "A researcher conducts a meta-analysis. This involves:",
+      "options": ["A. Conducting a single large-scale study", "B. Statistically combining results from multiple studies", "C. Replicating a previous study with new participants", "D. Analyzing the relationship between two variables"],
+      "correct_answer": "B",
+      "explanation": "A meta-analysis is a statistical technique that combines the results of multiple studies addressing the same research question. By aggregating data across studies, meta-analyses can provide more precise estimates of effects and identify patterns that may not be apparent in individual studies.",
+      "concept_tags": ["meta-analysis", "research-methods", "statistics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-042",
+      "question_text": "In a within-subjects design, the same participants:",
+      "options": ["A. Are observed without any experimental intervention", "B. Serve in all conditions of the experiment", "C. Are randomly assigned to only one condition", "D. Are matched with participants in other groups"],
+      "correct_answer": "B",
+      "explanation": "In a within-subjects (repeated measures) design, each participant experiences all conditions of the experiment. This design is powerful because individual differences are controlled (each person serves as their own control), but it can be affected by order effects.",
+      "concept_tags": ["within-subjects-design", "experimental-design", "research-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-043",
+      "question_text": "A researcher conducts an experiment in a tightly controlled laboratory setting with carefully selected participants. This study likely has:",
+      "options": ["A. High external validity and low internal validity", "B. High internal validity and potentially lower external validity", "C. Low internal and external validity", "D. High validity of all types"],
+      "correct_answer": "B",
+      "explanation": "Laboratory experiments with tight controls and selected participants typically have high internal validity because confounding variables are minimized. However, they may have lower external validity because the artificial setting and non-representative sample may limit generalizability to real-world situations.",
+      "concept_tags": ["internal-validity", "external-validity", "experimental-design"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-044",
+      "question_text": "Attrition in a longitudinal study refers to:",
+      "options": ["A. The addition of new participants over time", "B. The loss of participants from the study over time", "C. The degradation of measurement instruments", "D. The decrease in effect size over time"],
+      "correct_answer": "B",
+      "explanation": "Attrition refers to the loss of participants from a study over time, whether due to dropout, death, relocation, or other reasons. Attrition can threaten both internal validity (if dropout is related to the treatment) and external validity (if remaining participants differ from those who left).",
+      "concept_tags": ["attrition", "longitudinal-study", "internal-validity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-045",
+      "question_text": "A researcher studies whether a new therapy reduces depression. She measures depression before and after therapy in the same group of patients without a control group. The main limitation of this design is:",
+      "options": ["A. It lacks reliability", "B. Effects could be due to factors other than the therapy", "C. The sample size is necessarily too small", "D. Depression cannot be measured quantitatively"],
+      "correct_answer": "B",
+      "explanation": "Without a control group, it is impossible to determine whether improvements are due to the therapy or other factors such as spontaneous remission, placebo effects, regression to the mean, or passage of time. A control group is essential for establishing that the treatment caused the observed changes.",
+      "concept_tags": ["control-group", "internal-validity", "experimental-design"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-046",
+      "question_text": "Regression to the mean can threaten internal validity when:",
+      "options": ["A. Participants are selected based on extreme scores", "B. Random assignment is used", "C. Double-blinding is employed", "D. The sample size is very large"],
+      "correct_answer": "A",
+      "explanation": "Regression to the mean occurs when participants are selected based on extreme scores; on subsequent measurements, their scores tend to move toward the average. This can be mistaken for a treatment effect in studies without control groups, threatening internal validity.",
+      "concept_tags": ["regression-to-mean", "internal-validity", "statistics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-047",
+      "question_text": "A study finds that a treatment is effective in the laboratory but shows no effect when implemented in real-world settings. This illustrates a problem with:",
+      "options": ["A. Statistical power", "B. Internal validity", "C. External validity", "D. Reliability"],
+      "correct_answer": "C",
+      "explanation": "This scenario illustrates an external validity problem. The treatment effect found in the controlled laboratory setting does not generalize to real-world conditions. This can occur when laboratory conditions differ substantially from typical implementation settings.",
+      "concept_tags": ["external-validity", "generalizability", "research-design"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-048",
+      "question_text": "A researcher studies whether meditation reduces anxiety. Group A meditates in the morning and is tested for anxiety in the evening. Group B meditates in the evening and is tested immediately after. Any observed difference between groups could be due to:",
+      "options": ["A. Random measurement error only", "B. Time of testing being confounded with meditation timing", "C. Inadequate sample size", "D. Participant expectations"],
+      "correct_answer": "B",
+      "explanation": "The study has a confound: time of testing is confounded with the meditation condition. The time delay between meditation and testing differs between groups, so any differences could be due to this timing factor rather than meditation effectiveness. Both groups should be tested at consistent intervals after meditation.",
+      "concept_tags": ["confounding-variables", "experimental-design", "internal-validity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-049",
+      "question_text": "In a study with multiple outcome measures, a researcher only reports the one significant finding. This is an example of:",
+      "options": ["A. Publication bias", "B. Selective reporting or p-hacking", "C. Confirmation bias", "D. Attrition bias"],
+      "correct_answer": "B",
+      "explanation": "Selective reporting (or p-hacking) occurs when researchers selectively report only significant findings while omitting non-significant results. This inflates the false positive rate because, with multiple tests, some significant results are expected by chance alone.",
+      "concept_tags": ["selective-reporting", "research-ethics", "statistics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-050",
+      "question_text": "A study examines whether a drug improves memory. The researcher knows which participants receive the drug and unconsciously provides subtle cues that influence their performance. This is an example of:",
+      "options": ["A. Placebo effect", "B. Experimenter expectancy effect", "C. Hawthorne effect", "D. Selection bias"],
+      "correct_answer": "B",
+      "explanation": "The experimenter expectancy effect (or Rosenthal effect) occurs when researchers' expectations unconsciously influence participant behavior or their recording of results. This is why double-blind procedures, where neither participants nor researchers know group assignments, are important.",
+      "concept_tags": ["experimenter-expectancy", "bias", "blinding"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-051",
+      "question_text": "A researcher calculates that she needs 80 participants to achieve 80% power for detecting a medium effect size. If she can only recruit 40 participants, her study is:",
+      "options": ["A. Sufficiently powered", "B. Underpowered and at increased risk of Type II error", "C. At increased risk of Type I error", "D. Invalid regardless of results"],
+      "correct_answer": "B",
+      "explanation": "With only half the required sample size, the study is underpowered. Underpowered studies have a higher probability of failing to detect real effects (Type II error) because they lack the statistical sensitivity to distinguish true effects from random variation.",
+      "concept_tags": ["statistical-power", "sample-size", "type-II-error"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-052",
+      "question_text": "Criterion validity is established when:",
+      "options": ["A. Test items appear to measure what they claim to measure", "B. Test scores correlate with an external standard or outcome", "C. The test has consistent internal structure", "D. Different raters give similar scores"],
+      "correct_answer": "B",
+      "explanation": "Criterion validity is demonstrated when test scores correlate with an external criterion or outcome. This includes concurrent validity (correlation with a current criterion) and predictive validity (correlation with a future outcome). For example, SAT scores predicting college GPA demonstrates predictive criterion validity.",
+      "concept_tags": ["criterion-validity", "validity", "measurement"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-053",
+      "question_text": "In counterbalancing, researchers:",
+      "options": ["A. Use equal numbers of males and females", "B. Vary the order of conditions across participants", "C. Match participants on key characteristics", "D. Use multiple control groups"],
+      "correct_answer": "B",
+      "explanation": "Counterbalancing is a technique used in within-subjects designs where the order of conditions is varied across participants to control for order effects. For example, half the participants might receive treatment A first then B, while the other half receive B first then A.",
+      "concept_tags": ["counterbalancing", "within-subjects-design", "experimental-design"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-054",
+      "question_text": "A study compares test scores between students at School A and School B, but School A has newer facilities and more experienced teachers. The schools' differences in resources represent:",
+      "options": ["A. Independent variables", "B. Dependent variables", "C. Confounding variables", "D. Controlled variables"],
+      "correct_answer": "C",
+      "explanation": "The differences in facilities and teacher experience between schools are confounding variables because they are associated with the grouping variable (school) and could independently affect the outcome (test scores). Any differences in test scores cannot be solely attributed to being at School A vs. B.",
+      "concept_tags": ["confounding-variables", "quasi-experimental", "internal-validity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-055",
+      "question_text": "A researcher wants to determine causation but cannot randomly assign participants for ethical reasons. The most appropriate design would be:",
+      "options": ["A. True experiment", "B. Quasi-experiment or natural experiment", "C. Case study", "D. Correlational survey"],
+      "correct_answer": "B",
+      "explanation": "When random assignment is not possible for ethical or practical reasons, quasi-experimental or natural experimental designs are appropriate alternatives. These designs take advantage of naturally occurring variation or pre-existing groups while attempting to control for confounds through matching or statistical techniques.",
+      "concept_tags": ["quasi-experimental", "natural-experiment", "ethics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-056",
+      "question_text": "Effect size measures:",
+      "options": ["A. The probability of obtaining results by chance", "B. The magnitude or strength of a relationship or difference", "C. The sample size needed for adequate power", "D. The reliability of the measurement instrument"],
+      "correct_answer": "B",
+      "explanation": "Effect size quantifies the magnitude or strength of a relationship or difference, independent of sample size. Common effect size measures include Cohen's d for mean differences and Pearson's r for correlations. Effect sizes help interpret the practical significance of findings beyond statistical significance.",
+      "concept_tags": ["effect-size", "statistics", "research-methods"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-11-057",
+      "question_text": "Demand characteristics in an experiment refer to:",
+      "options": ["A. The requirements for participant inclusion", "B. Cues that suggest to participants how they should behave", "C. The statistical requirements for significance", "D. The resources needed to conduct the study"],
+      "correct_answer": "B",
+      "explanation": "Demand characteristics are cues in an experimental setting that suggest to participants what behavior is expected or what the hypothesis is. Participants may consciously or unconsciously alter their behavior based on these cues, threatening the validity of results. Blinding and deception can help minimize this threat.",
+      "concept_tags": ["demand-characteristics", "bias", "internal-validity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-11-058",
+      "question_text": "Which of the following represents the correct sequence of steps in the scientific method?",
+      "options": ["A. Hypothesis, observation, experiment, theory", "B. Observation, hypothesis, experiment, analysis, conclusion", "C. Theory, experiment, observation, conclusion", "D. Experiment, hypothesis, observation, theory"],
+      "correct_answer": "B",
+      "explanation": "The scientific method typically follows this sequence: observation of a phenomenon, formulation of a hypothesis to explain it, designing and conducting an experiment to test the hypothesis, analyzing the data, and drawing conclusions. The cycle may then repeat with new observations based on findings.",
+      "concept_tags": ["scientific-method", "research-process", "hypothesis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-059",
+      "question_text": "A null hypothesis typically states that:",
+      "options": ["A. The treatment will have a significant effect", "B. There is no effect or relationship between variables", "C. The experiment is flawed", "D. The sample is not representative"],
+      "correct_answer": "B",
+      "explanation": "The null hypothesis (H0) states that there is no effect or no relationship between variables. Statistical tests are designed to determine whether the data provide sufficient evidence to reject the null hypothesis in favor of the alternative hypothesis, which proposes that an effect or relationship exists.",
+      "concept_tags": ["null-hypothesis", "hypothesis-testing", "statistics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-11-060",
+      "question_text": "A p-value of 0.03 indicates:",
+      "options": ["A. There is a 3% chance the null hypothesis is true", "B. There is a 3% probability of observing results this extreme if the null hypothesis is true", "C. The effect size is 0.03", "D. 3% of participants showed the expected effect"],
+      "correct_answer": "B",
+      "explanation": "A p-value represents the probability of obtaining results at least as extreme as those observed, assuming the null hypothesis is true. A p-value of 0.03 means there is a 3% probability of seeing such results by chance alone. It does not represent the probability that the null hypothesis is true.",
+      "concept_tags": ["p-value", "statistics", "hypothesis-testing"],
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "book": "physics-math",
+  "chapter": 1,
+  "chapter_title": "Kinematics and Newton's Laws",
+  "questions": [
+    {
+      "id": "physics-math-01-001",
+      "question_text": "A vector quantity differs from a scalar quantity in that a vector has:",
+      "options": [
+        "A. magnitude only",
+        "B. direction only",
+        "C. both magnitude and direction",
+        "D. neither magnitude nor direction"
+      ],
+      "correct_answer": "C",
+      "explanation": "Vectors have both magnitude and direction (e.g., velocity, force, displacement). Scalars have magnitude only (e.g., speed, mass, temperature). This distinction is crucial for physics problems involving motion and forces.",
+      "concept_tags": ["vectors", "scalars", "kinematics-basics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-002",
+      "question_text": "Which of the following is a vector quantity?",
+      "options": [
+        "A. Speed",
+        "B. Mass",
+        "C. Temperature",
+        "D. Velocity"
+      ],
+      "correct_answer": "D",
+      "explanation": "Velocity is a vector because it has both magnitude (speed) and direction. Speed, mass, and temperature are all scalars with magnitude only. Velocity tells us how fast something moves AND in what direction.",
+      "concept_tags": ["vectors", "velocity", "scalars"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-003",
+      "question_text": "Displacement differs from distance in that displacement:",
+      "options": [
+        "A. is always greater than distance",
+        "B. is a vector representing change in position",
+        "C. measures total path length",
+        "D. is always positive"
+      ],
+      "correct_answer": "B",
+      "explanation": "Displacement is a vector representing the change in position (straight-line from start to end). Distance is a scalar measuring total path length traveled. Displacement can be zero even when distance is not (returning to starting point).",
+      "concept_tags": ["displacement", "distance", "vectors"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-004",
+      "question_text": "Average velocity is defined as:",
+      "options": [
+        "A. total distance divided by total time",
+        "B. displacement divided by time interval",
+        "C. instantaneous speed at any moment",
+        "D. change in speed divided by time"
+      ],
+      "correct_answer": "B",
+      "explanation": "Average velocity = displacement/time (v = Δx/Δt). It's a vector quantity. Average speed = distance/time (scalar). Instantaneous velocity is velocity at a specific moment. Change in velocity over time is acceleration.",
+      "concept_tags": ["average-velocity", "displacement", "kinematics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-005",
+      "question_text": "Acceleration is defined as:",
+      "options": [
+        "A. change in position over time",
+        "B. change in velocity over time",
+        "C. constant velocity",
+        "D. total distance traveled"
+      ],
+      "correct_answer": "B",
+      "explanation": "Acceleration is the rate of change of velocity (a = Δv/Δt). It's a vector quantity with units of m/s². An object accelerates when its speed changes OR its direction changes (or both).",
+      "concept_tags": ["acceleration", "velocity", "kinematics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-006",
+      "question_text": "An object moving in a circle at constant speed is:",
+      "options": [
+        "A. not accelerating because speed is constant",
+        "B. accelerating because direction is changing",
+        "C. decelerating continuously",
+        "D. in equilibrium"
+      ],
+      "correct_answer": "B",
+      "explanation": "An object in circular motion at constant speed is still accelerating because its velocity direction continuously changes. This centripetal acceleration points toward the center of the circle. Acceleration requires change in velocity (magnitude OR direction).",
+      "concept_tags": ["circular-motion", "centripetal-acceleration", "velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-007",
+      "question_text": "Newton's First Law states that an object will:",
+      "options": [
+        "A. always accelerate when a force is applied",
+        "B. remain at rest or in uniform motion unless acted upon by a net force",
+        "C. exert an equal and opposite reaction force",
+        "D. accelerate proportionally to applied force"
+      ],
+      "correct_answer": "B",
+      "explanation": "Newton's First Law (Law of Inertia) states that an object remains at rest or in uniform motion in a straight line unless acted upon by a net external force. This defines inertia as resistance to changes in motion.",
+      "concept_tags": ["newtons-first-law", "inertia", "forces"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-008",
+      "question_text": "Newton's Second Law is expressed as:",
+      "options": [
+        "A. F = ma",
+        "B. F = mv",
+        "C. F = m/a",
+        "D. F = a/m"
+      ],
+      "correct_answer": "A",
+      "explanation": "Newton's Second Law: F = ma (net force equals mass times acceleration). This shows that acceleration is directly proportional to net force and inversely proportional to mass. Force and acceleration are in the same direction.",
+      "concept_tags": ["newtons-second-law", "force", "acceleration", "mass"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-009",
+      "question_text": "Newton's Third Law states that:",
+      "options": [
+        "A. force equals mass times acceleration",
+        "B. every action has an equal and opposite reaction",
+        "C. objects at rest stay at rest",
+        "D. acceleration is proportional to force"
+      ],
+      "correct_answer": "B",
+      "explanation": "Newton's Third Law: For every action force, there is an equal and opposite reaction force. These forces act on different objects. If object A exerts force on object B, object B exerts an equal but opposite force on A.",
+      "concept_tags": ["newtons-third-law", "action-reaction", "forces"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-010",
+      "question_text": "The SI unit of force is the:",
+      "options": [
+        "A. joule",
+        "B. watt",
+        "C. newton",
+        "D. pascal"
+      ],
+      "correct_answer": "C",
+      "explanation": "The newton (N) is the SI unit of force. 1 N = 1 kg·m/s². The joule is energy, watt is power, and pascal is pressure. Force causes acceleration: 1 N accelerates 1 kg at 1 m/s².",
+      "concept_tags": ["units", "newton", "force"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-011",
+      "question_text": "Weight is the force of:",
+      "options": [
+        "A. mass times velocity",
+        "B. gravity acting on mass (W = mg)",
+        "C. friction on a surface",
+        "D. normal force from a surface"
+      ],
+      "correct_answer": "B",
+      "explanation": "Weight is the gravitational force on an object: W = mg, where g ≈ 9.8 m/s² on Earth. Weight is a force (measured in newtons), while mass is the amount of matter (measured in kilograms). Weight varies with location; mass does not.",
+      "concept_tags": ["weight", "gravity", "mass", "forces"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-012",
+      "question_text": "The normal force on an object resting on a horizontal surface equals:",
+      "options": [
+        "A. zero",
+        "B. the object's mass",
+        "C. the object's weight",
+        "D. twice the weight"
+      ],
+      "correct_answer": "C",
+      "explanation": "For an object at rest on a horizontal surface, the normal force equals the weight (N = mg). The normal force is perpendicular to the surface and balances gravity, resulting in zero net force and no acceleration.",
+      "concept_tags": ["normal-force", "weight", "equilibrium"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-013",
+      "question_text": "Friction force depends on:",
+      "options": [
+        "A. velocity only",
+        "B. surface area only",
+        "C. normal force and coefficient of friction",
+        "D. mass only"
+      ],
+      "correct_answer": "C",
+      "explanation": "Friction force f = μN, where μ is the coefficient of friction and N is the normal force. Friction is independent of surface area and velocity (for kinetic friction). Static friction can range from zero up to μsN.",
+      "concept_tags": ["friction", "normal-force", "coefficient-of-friction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-014",
+      "question_text": "Static friction compared to kinetic friction is generally:",
+      "options": [
+        "A. smaller",
+        "B. larger",
+        "C. equal",
+        "D. unrelated"
+      ],
+      "correct_answer": "B",
+      "explanation": "Static friction (preventing motion) is generally larger than kinetic friction (during motion): μs > μk. This is why it takes more force to start an object moving than to keep it moving. Once motion begins, friction decreases.",
+      "concept_tags": ["static-friction", "kinetic-friction", "friction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-015",
+      "question_text": "For an object in free fall (ignoring air resistance), the acceleration is:",
+      "options": [
+        "A. zero",
+        "B. increasing with time",
+        "C. constant at g ≈ 9.8 m/s²",
+        "D. dependent on the object's mass"
+      ],
+      "correct_answer": "C",
+      "explanation": "In free fall, all objects accelerate at g ≈ 9.8 m/s² (or 10 m/s² for MCAT estimates), regardless of mass. This was demonstrated by Galileo. Air resistance can affect the actual acceleration of falling objects.",
+      "concept_tags": ["free-fall", "gravity", "acceleration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-016",
+      "question_text": "A projectile is launched horizontally. Its horizontal velocity:",
+      "options": [
+        "A. increases due to gravity",
+        "B. decreases due to gravity",
+        "C. remains constant (ignoring air resistance)",
+        "D. becomes zero at maximum height"
+      ],
+      "correct_answer": "C",
+      "explanation": "Horizontal and vertical motions are independent. Gravity only affects vertical motion. Horizontal velocity remains constant (no horizontal acceleration) while vertical velocity changes at rate g. This is key for projectile problems.",
+      "concept_tags": ["projectile-motion", "horizontal-velocity", "independence-of-motion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-017",
+      "question_text": "For projectile motion, at the highest point of the trajectory:",
+      "options": [
+        "A. velocity is zero",
+        "B. acceleration is zero",
+        "C. vertical velocity is zero",
+        "D. horizontal velocity is zero"
+      ],
+      "correct_answer": "C",
+      "explanation": "At the highest point, vertical velocity is zero (momentarily), but horizontal velocity continues unchanged. Acceleration remains g (downward) throughout the motion. Total velocity is not zero unless launched straight up.",
+      "concept_tags": ["projectile-motion", "trajectory", "velocity-components"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-018",
+      "question_text": "The kinematic equation v = v₀ + at is used when:",
+      "options": [
+        "A. acceleration is changing",
+        "B. acceleration is constant",
+        "C. velocity is constant",
+        "D. no forces act on the object"
+      ],
+      "correct_answer": "B",
+      "explanation": "The kinematic equations (including v = v₀ + at) apply only when acceleration is constant. For varying acceleration, calculus methods are needed. The MCAT typically involves constant acceleration problems.",
+      "concept_tags": ["kinematic-equations", "constant-acceleration", "velocity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-019",
+      "question_text": "An object starts from rest and accelerates at 2 m/s² for 5 seconds. Its final velocity is:",
+      "options": [
+        "A. 2.5 m/s",
+        "B. 7 m/s",
+        "C. 10 m/s",
+        "D. 25 m/s"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using v = v₀ + at: v = 0 + (2)(5) = 10 m/s. Starting from rest means v₀ = 0. The velocity increases linearly with time under constant acceleration.",
+      "concept_tags": ["kinematic-equations", "acceleration", "velocity-calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-020",
+      "question_text": "The displacement of an object with constant acceleration is given by:",
+      "options": [
+        "A. x = vt only",
+        "B. x = v₀t + ½at²",
+        "C. x = at only",
+        "D. x = v₀/t"
+      ],
+      "correct_answer": "B",
+      "explanation": "For constant acceleration: x = v₀t + ½at². This accounts for both initial velocity and the additional displacement from acceleration. If v₀ = 0, this simplifies to x = ½at².",
+      "concept_tags": ["kinematic-equations", "displacement", "acceleration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-021",
+      "question_text": "An object is dropped from rest and falls for 2 seconds. How far does it fall? (g = 10 m/s²)",
+      "options": [
+        "A. 10 m",
+        "B. 20 m",
+        "C. 40 m",
+        "D. 5 m"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using x = ½gt²: x = ½(10)(2)² = ½(10)(4) = 20 m. For free fall from rest, displacement equals ½gt². This is a common MCAT calculation.",
+      "concept_tags": ["free-fall", "kinematic-equations", "displacement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-022",
+      "question_text": "If the net force on an object is zero, the object:",
+      "options": [
+        "A. must be at rest",
+        "B. must be accelerating",
+        "C. is in equilibrium (at rest or constant velocity)",
+        "D. must be decelerating"
+      ],
+      "correct_answer": "C",
+      "explanation": "Zero net force means zero acceleration (F = ma). The object is in equilibrium: either at rest or moving at constant velocity. This is Newton's First Law. Motion at constant velocity requires no net force.",
+      "concept_tags": ["equilibrium", "net-force", "newtons-first-law"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-023",
+      "question_text": "A 2 kg object experiences a net force of 10 N. Its acceleration is:",
+      "options": [
+        "A. 0.2 m/s²",
+        "B. 5 m/s²",
+        "C. 12 m/s²",
+        "D. 20 m/s²"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using F = ma: a = F/m = 10/2 = 5 m/s². Greater mass means less acceleration for the same force. This is a direct application of Newton's Second Law.",
+      "concept_tags": ["newtons-second-law", "acceleration", "force-calculation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-024",
+      "question_text": "Two forces of 3 N and 4 N act perpendicular to each other. The resultant force magnitude is:",
+      "options": [
+        "A. 1 N",
+        "B. 5 N",
+        "C. 7 N",
+        "D. 12 N"
+      ],
+      "correct_answer": "B",
+      "explanation": "For perpendicular vectors, use Pythagorean theorem: R = √(3² + 4²) = √(9 + 16) = √25 = 5 N. This is a 3-4-5 right triangle, common on the MCAT.",
+      "concept_tags": ["vector-addition", "resultant-force", "pythagorean-theorem"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-025",
+      "question_text": "An object on an inclined plane experiences a component of gravity parallel to the plane equal to:",
+      "options": [
+        "A. mg cos θ",
+        "B. mg sin θ",
+        "C. mg tan θ",
+        "D. mg"
+      ],
+      "correct_answer": "B",
+      "explanation": "On an incline at angle θ, the component of gravity parallel to the plane (causing sliding) is mg sin θ. The perpendicular component (into the plane) is mg cos θ. These are essential for inclined plane problems.",
+      "concept_tags": ["inclined-plane", "force-components", "trigonometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-026",
+      "question_text": "Centripetal force is:",
+      "options": [
+        "A. a force that pushes objects outward",
+        "B. the net force directed toward the center of circular motion",
+        "C. equal to the centrifugal force",
+        "D. always provided by gravity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Centripetal force is the net force directed toward the center of the circle, causing circular motion. It can be provided by tension, gravity, friction, or normal force. 'Centrifugal force' is a fictitious force in rotating reference frames.",
+      "concept_tags": ["centripetal-force", "circular-motion", "net-force"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-027",
+      "question_text": "The centripetal acceleration of an object in circular motion equals:",
+      "options": [
+        "A. v/r",
+        "B. v²/r",
+        "C. vr",
+        "D. r/v²"
+      ],
+      "correct_answer": "B",
+      "explanation": "Centripetal acceleration ac = v²/r, where v is speed and r is radius. This can also be written as ac = ω²r using angular velocity. The acceleration points toward the center of the circle.",
+      "concept_tags": ["centripetal-acceleration", "circular-motion", "velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-028",
+      "question_text": "Tension in a rope always:",
+      "options": [
+        "A. pushes on objects",
+        "B. pulls on objects",
+        "C. acts perpendicular to the rope",
+        "D. equals the weight of attached objects"
+      ],
+      "correct_answer": "B",
+      "explanation": "Tension is a pulling force that acts along the rope, away from the object. Ropes can only pull, not push. Tension acts in both directions along the rope (Newton's Third Law). It doesn't always equal weight (depends on acceleration).",
+      "concept_tags": ["tension", "forces", "ropes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-029",
+      "question_text": "For an object hanging from a rope in an elevator accelerating upward, the tension is:",
+      "options": [
+        "A. less than the object's weight",
+        "B. equal to the object's weight",
+        "C. greater than the object's weight",
+        "D. zero"
+      ],
+      "correct_answer": "C",
+      "explanation": "When accelerating upward, T - mg = ma, so T = m(g + a) > mg. The tension must exceed the weight to provide upward acceleration. When accelerating downward, tension is less than weight.",
+      "concept_tags": ["tension", "elevator-problems", "acceleration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-030",
+      "question_text": "Momentum is defined as:",
+      "options": [
+        "A. mass times acceleration",
+        "B. mass times velocity",
+        "C. force times time",
+        "D. energy per unit mass"
+      ],
+      "correct_answer": "B",
+      "explanation": "Momentum p = mv (mass times velocity). It's a vector quantity with units kg·m/s. Momentum is conserved in isolated systems. Force times time (impulse) equals change in momentum.",
+      "concept_tags": ["momentum", "mass", "velocity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-031",
+      "question_text": "Impulse equals:",
+      "options": [
+        "A. force times distance",
+        "B. force times time (or change in momentum)",
+        "C. mass times acceleration",
+        "D. kinetic energy"
+      ],
+      "correct_answer": "B",
+      "explanation": "Impulse J = FΔt = Δp (change in momentum). This is the impulse-momentum theorem. Impulse has units of N·s or kg·m/s. Greater contact time with same force produces greater impulse.",
+      "concept_tags": ["impulse", "momentum", "force"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-032",
+      "question_text": "In a perfectly inelastic collision:",
+      "options": [
+        "A. kinetic energy is conserved",
+        "B. objects stick together and momentum is conserved",
+        "C. both kinetic energy and momentum are conserved",
+        "D. neither kinetic energy nor momentum is conserved"
+      ],
+      "correct_answer": "B",
+      "explanation": "In perfectly inelastic collisions, objects stick together. Momentum is always conserved in collisions, but kinetic energy is NOT conserved in inelastic collisions (converted to heat, sound, deformation).",
+      "concept_tags": ["inelastic-collision", "momentum-conservation", "kinetic-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-033",
+      "question_text": "In an elastic collision:",
+      "options": [
+        "A. only momentum is conserved",
+        "B. only kinetic energy is conserved",
+        "C. both momentum and kinetic energy are conserved",
+        "D. objects always stick together"
+      ],
+      "correct_answer": "C",
+      "explanation": "In elastic collisions, both momentum and kinetic energy are conserved. Objects bounce off each other. Perfectly elastic collisions are idealized (atomic/molecular collisions approach this). Most macroscopic collisions are inelastic.",
+      "concept_tags": ["elastic-collision", "momentum-conservation", "kinetic-energy-conservation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-034",
+      "question_text": "The center of mass of a system:",
+      "options": [
+        "A. must be located within one of the objects",
+        "B. is the point where total mass is concentrated for translational motion",
+        "C. always accelerates",
+        "D. is always at the geometric center"
+      ],
+      "correct_answer": "B",
+      "explanation": "The center of mass is the point that moves as if all mass were concentrated there and all external forces acted there. It can be outside the physical objects (like a ring's center). It only accelerates if there's a net external force.",
+      "concept_tags": ["center-of-mass", "translational-motion", "systems"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-035",
+      "question_text": "Torque is calculated as:",
+      "options": [
+        "A. force times mass",
+        "B. force times lever arm (perpendicular distance)",
+        "C. force times velocity",
+        "D. mass times angular velocity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Torque τ = rF sin θ = r⊥F, where r⊥ is the lever arm (perpendicular distance from pivot to line of force). Torque causes rotational acceleration. Units are N·m (but not joules, which are for energy).",
+      "concept_tags": ["torque", "lever-arm", "rotational-motion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-036",
+      "question_text": "For rotational equilibrium, the sum of torques must equal:",
+      "options": [
+        "A. the total force",
+        "B. the moment of inertia",
+        "C. zero",
+        "D. the angular momentum"
+      ],
+      "correct_answer": "C",
+      "explanation": "Rotational equilibrium requires Στ = 0 (sum of torques equals zero). This means clockwise torques equal counterclockwise torques. Combined with ΣF = 0, this defines static equilibrium.",
+      "concept_tags": ["rotational-equilibrium", "torque", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-037",
+      "question_text": "Angular momentum is conserved when:",
+      "options": [
+        "A. linear momentum is conserved",
+        "B. no net external torque acts on the system",
+        "C. no forces act on the system",
+        "D. kinetic energy is conserved"
+      ],
+      "correct_answer": "B",
+      "explanation": "Angular momentum L = Iω is conserved when no net external torque acts (Στext = 0). This is analogous to linear momentum conservation when no net external force acts. It explains why spinning figure skaters speed up when they pull in their arms.",
+      "concept_tags": ["angular-momentum", "conservation-laws", "torque"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-038",
+      "question_text": "A figure skater pulls her arms in while spinning. Her angular velocity:",
+      "options": [
+        "A. decreases",
+        "B. increases",
+        "C. stays the same",
+        "D. becomes zero"
+      ],
+      "correct_answer": "B",
+      "explanation": "Angular momentum L = Iω is conserved. When arms are pulled in, moment of inertia I decreases. To conserve L, angular velocity ω must increase. This demonstrates angular momentum conservation.",
+      "concept_tags": ["angular-momentum-conservation", "moment-of-inertia", "angular-velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-039",
+      "question_text": "The SI unit of mass is the:",
+      "options": [
+        "A. gram",
+        "B. kilogram",
+        "C. pound",
+        "D. newton"
+      ],
+      "correct_answer": "B",
+      "explanation": "The kilogram (kg) is the SI base unit of mass. The gram is a CGS unit. Pounds are imperial units. Newtons measure force, not mass. The MCAT uses SI units unless otherwise specified.",
+      "concept_tags": ["units", "si-units", "mass"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-040",
+      "question_text": "If you double the distance between two objects, the gravitational force between them:",
+      "options": [
+        "A. doubles",
+        "B. quadruples",
+        "C. is halved",
+        "D. becomes one-fourth"
+      ],
+      "correct_answer": "D",
+      "explanation": "Gravitational force F = Gm₁m₂/r². Force varies inversely with the square of distance. Doubling r means F becomes F/2² = F/4. This inverse square relationship is also seen in electrostatic force and light intensity.",
+      "concept_tags": ["gravitational-force", "inverse-square-law", "newtons-law-of-gravitation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-041",
+      "question_text": "A ball thrown straight up reaches maximum height when its:",
+      "options": [
+        "A. acceleration is zero",
+        "B. velocity is zero",
+        "C. momentum is maximum",
+        "D. kinetic energy is maximum"
+      ],
+      "correct_answer": "B",
+      "explanation": "At maximum height, vertical velocity momentarily equals zero before the ball starts falling. However, acceleration remains g (downward) throughout the flight. Kinetic energy is minimum (zero) and potential energy is maximum at the peak.",
+      "concept_tags": ["projectile-motion", "maximum-height", "velocity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-042",
+      "question_text": "The period of a simple pendulum depends on:",
+      "options": [
+        "A. the mass of the bob",
+        "B. the amplitude of swing",
+        "C. the length of the pendulum and g",
+        "D. the material of the string"
+      ],
+      "correct_answer": "C",
+      "explanation": "For a simple pendulum, T = 2π√(L/g). Period depends only on length L and gravitational acceleration g, not on mass or amplitude (for small angles). This is useful for measuring g or timing applications.",
+      "concept_tags": ["simple-pendulum", "period", "oscillation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-043",
+      "question_text": "Hooke's Law states that the force exerted by a spring is:",
+      "options": [
+        "A. F = kx²",
+        "B. F = -kx (proportional to displacement)",
+        "C. F = k/x",
+        "D. F = mx"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hooke's Law: F = -kx, where k is the spring constant and x is displacement from equilibrium. The negative sign indicates the restoring force opposes displacement. This applies for elastic deformation within the elastic limit.",
+      "concept_tags": ["hookes-law", "spring-force", "elasticity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-044",
+      "question_text": "The period of a mass-spring system is given by T = 2π√(m/k). Increasing the mass will:",
+      "options": [
+        "A. decrease the period",
+        "B. increase the period",
+        "C. not change the period",
+        "D. stop the oscillation"
+      ],
+      "correct_answer": "B",
+      "explanation": "From T = 2π√(m/k), increasing mass m increases the period (slower oscillation). The period is independent of amplitude. Increasing spring constant k would decrease the period (stiffer spring, faster oscillation).",
+      "concept_tags": ["mass-spring-system", "period", "simple-harmonic-motion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-045",
+      "question_text": "Simple harmonic motion is characterized by:",
+      "options": [
+        "A. constant velocity",
+        "B. restoring force proportional to displacement",
+        "C. constant acceleration",
+        "D. increasing amplitude"
+      ],
+      "correct_answer": "B",
+      "explanation": "Simple harmonic motion occurs when the restoring force is proportional to displacement from equilibrium (F = -kx). This produces sinusoidal motion. Examples include mass-spring systems, pendulums (small angles), and many vibrating systems.",
+      "concept_tags": ["simple-harmonic-motion", "restoring-force", "oscillation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-046",
+      "question_text": "An object in uniform circular motion has:",
+      "options": [
+        "A. constant velocity",
+        "B. constant speed but changing velocity",
+        "C. zero acceleration",
+        "D. constant acceleration direction"
+      ],
+      "correct_answer": "B",
+      "explanation": "In uniform circular motion, speed is constant but velocity changes because direction changes. This means there's acceleration (centripetal, toward center). The acceleration direction continuously changes, always pointing to the center.",
+      "concept_tags": ["uniform-circular-motion", "velocity", "centripetal-acceleration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-047",
+      "question_text": "The coefficient of friction is:",
+      "options": [
+        "A. always greater than 1",
+        "B. a unitless ratio",
+        "C. measured in newtons",
+        "D. the same for all materials"
+      ],
+      "correct_answer": "B",
+      "explanation": "The coefficient of friction (μ) is a unitless ratio of friction force to normal force (μ = f/N). It's typically between 0 and 1 but can exceed 1 for very grippy surfaces. It depends on the materials in contact.",
+      "concept_tags": ["coefficient-of-friction", "friction", "units"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-01-048",
+      "question_text": "Two objects are connected by a massless string over a frictionless pulley (Atwood machine). The acceleration of the system depends on:",
+      "options": [
+        "A. the sum of the masses only",
+        "B. the difference in masses and the total mass",
+        "C. the individual masses only",
+        "D. the length of the string"
+      ],
+      "correct_answer": "B",
+      "explanation": "For an Atwood machine: a = g(m₁ - m₂)/(m₁ + m₂). The acceleration depends on mass difference (driving force from weight difference) divided by total mass (total inertia). Equal masses give zero acceleration.",
+      "concept_tags": ["atwood-machine", "pulleys", "acceleration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-049",
+      "question_text": "Terminal velocity is reached when:",
+      "options": [
+        "A. an object stops falling",
+        "B. air resistance equals weight",
+        "C. acceleration equals g",
+        "D. the object reaches maximum speed ever"
+      ],
+      "correct_answer": "B",
+      "explanation": "Terminal velocity is reached when air resistance (drag) equals weight, resulting in zero net force and zero acceleration. The object continues falling at constant terminal velocity. Different objects have different terminal velocities based on mass and shape.",
+      "concept_tags": ["terminal-velocity", "air-resistance", "drag"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-01-050",
+      "question_text": "When analyzing forces on an object, a free body diagram shows:",
+      "options": [
+        "A. only the object's velocity",
+        "B. all forces acting ON the object",
+        "C. forces the object exerts on others",
+        "D. only gravitational forces"
+      ],
+      "correct_answer": "B",
+      "explanation": "A free body diagram shows all forces acting ON a single object (not forces it exerts on others, which are reaction forces). It helps visualize the force balance for applying Newton's Second Law. Common forces include weight, normal, tension, and friction.",
+      "concept_tags": ["free-body-diagram", "forces", "problem-solving"],
+      "difficulty": "easy"
+    }
+  ]
+}

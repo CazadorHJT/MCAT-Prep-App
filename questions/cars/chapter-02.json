@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 2,
+  "chapter_title": "Comprehension and Main Idea Questions",
+  "questions": [
+    {
+      "id": "cars-02-001",
+      "question_text": "Main idea questions typically ask about:",
+      "options": ["A. Minor details", "B. The central thesis or overall argument of the passage", "C. Specific examples only", "D. The author's biography"],
+      "correct_answer": "B",
+      "explanation": "Main idea questions test your understanding of the passage's central argument or thesis—the overarching point that all details support.",
+      "concept_tags": ["main idea", "central thesis", "question types"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-002",
+      "question_text": "Which question stem most likely asks for the main idea?",
+      "options": ["A. 'According to the passage, when did...'", "B. 'The primary purpose of the passage is to...'", "C. 'The author mentions X in order to...'", "D. 'Which of the following is implied...'"],
+      "correct_answer": "B",
+      "explanation": "'Primary purpose' and 'main point' are key phrases indicating main idea questions, asking about the overall message rather than specific details.",
+      "concept_tags": ["question stems", "main idea", "identifying questions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-003",
+      "question_text": "The main idea is best identified by:",
+      "options": ["A. The first sentence only", "B. Synthesizing what all paragraphs contribute to argue", "C. The longest paragraph", "D. Statistical data in the passage"],
+      "correct_answer": "B",
+      "explanation": "The main idea emerges from understanding how all parts of the passage work together to support a central argument or thesis.",
+      "concept_tags": ["synthesis", "main idea", "paragraph integration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-004",
+      "question_text": "A correct main idea answer choice will typically be:",
+      "options": ["A. Extremely specific about one example", "B. Broad enough to encompass the whole passage but specific enough to be meaningful", "C. Unrelated to the passage's topic", "D. Very vague with no clear meaning"],
+      "correct_answer": "B",
+      "explanation": "Correct main idea answers capture the whole passage without being so broad they could apply to any passage, or so narrow they miss the full scope.",
+      "concept_tags": ["answer characteristics", "scope", "main idea"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-005",
+      "question_text": "Detail questions ask about:",
+      "options": ["A. The author's overall purpose", "B. Specific information explicitly stated in the passage", "C. Hypothetical scenarios", "D. What the reader thinks"],
+      "correct_answer": "B",
+      "explanation": "Detail questions test recall and location of specific information directly stated in the passage text.",
+      "concept_tags": ["detail questions", "explicit information", "comprehension"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-006",
+      "question_text": "For detail questions, the best strategy is to:",
+      "options": ["A. Rely on memory without checking the passage", "B. Locate the relevant section and verify the answer", "C. Choose the most detailed answer choice", "D. Guess based on general knowledge"],
+      "correct_answer": "B",
+      "explanation": "Always verify detail answers against the passage. Memory can be faulty, and tricky answer choices may distort actual passage content.",
+      "concept_tags": ["verification", "strategy", "detail questions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-007",
+      "question_text": "When a question asks 'According to the author,' it signals:",
+      "options": ["A. An inference question", "B. A question about explicit passage content", "C. A question about the reader's opinion", "D. A reasoning question"],
+      "correct_answer": "B",
+      "explanation": "'According to the author' or 'according to the passage' indicates the answer is directly stated or closely paraphrased from the text.",
+      "concept_tags": ["question stems", "explicit content", "comprehension"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-008",
+      "question_text": "Paraphrasing in answer choices means correct answers may:",
+      "options": ["A. Use the exact words from the passage", "B. Express the same idea in different words", "C. Contradict the passage", "D. Add new information"],
+      "correct_answer": "B",
+      "explanation": "Correct answers often paraphrase passage content rather than quoting directly. Recognizing equivalent meanings is essential.",
+      "concept_tags": ["paraphrase", "answer choices", "equivalent meanings"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-009",
+      "question_text": "A wrong answer that uses exact words from the passage might be:",
+      "options": ["A. Always correct", "B. A trap that distorts the original meaning or context", "C. The best choice", "D. Impossible to create"],
+      "correct_answer": "B",
+      "explanation": "Test makers create tempting wrong answers using passage language but changing the meaning, combining unrelated parts, or using words out of context.",
+      "concept_tags": ["trap answers", "distortion", "test awareness"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-010",
+      "question_text": "Definition questions ask you to:",
+      "options": ["A. Define scientific terms from memory", "B. Determine what a word or phrase means in context", "C. Provide dictionary definitions", "D. Correct grammar errors"],
+      "correct_answer": "B",
+      "explanation": "Definition-in-context questions test your ability to determine meaning from how a word is used in the passage, not dictionary knowledge.",
+      "concept_tags": ["definition", "context", "vocabulary"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-011",
+      "question_text": "When asked what a word 'most nearly means' in context, you should:",
+      "options": ["A. Use only dictionary definitions", "B. Examine how the word is used in that specific passage", "C. Choose the most common meaning", "D. Ignore surrounding sentences"],
+      "correct_answer": "B",
+      "explanation": "Context determines meaning. Authors may use words in specialized, figurative, or unusual ways that differ from common definitions.",
+      "concept_tags": ["context clues", "meaning in context", "word choice"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-012",
+      "question_text": "Summary questions require you to:",
+      "options": ["A. List every detail", "B. Identify the key points that capture the passage's essence", "C. Quote the passage directly", "D. Add your own analysis"],
+      "correct_answer": "B",
+      "explanation": "Summary questions test your ability to distill the passage to its essential points without including minor details or personal additions.",
+      "concept_tags": ["summary", "key points", "essence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-013",
+      "question_text": "Comprehension questions test your understanding of:",
+      "options": ["A. Only what is explicitly stated", "B. What is stated, implied, and how ideas connect", "C. Topics unrelated to the passage", "D. Your prior knowledge"],
+      "correct_answer": "B",
+      "explanation": "Comprehension encompasses understanding explicit statements, making reasonable inferences, and seeing relationships between ideas.",
+      "concept_tags": ["comprehension", "explicit", "implicit", "connections"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-014",
+      "question_text": "When the question asks about 'the author's claim,' it refers to:",
+      "options": ["A. Facts proven in the passage", "B. A statement or assertion the author makes", "C. Reader's opinion", "D. External sources"],
+      "correct_answer": "B",
+      "explanation": "A claim is an assertion the author makes, which may be supported by evidence or argument. Questions may ask you to identify or evaluate claims.",
+      "concept_tags": ["claims", "assertions", "author's argument"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-015",
+      "question_text": "A 'function' question about a paragraph asks:",
+      "options": ["A. What facts it contains", "B. What role it plays in the passage's overall argument", "C. How long it is", "D. What vocabulary it uses"],
+      "correct_answer": "B",
+      "explanation": "Function questions ask about the purpose or role of a paragraph, sentence, or example within the larger argument structure.",
+      "concept_tags": ["function", "role", "argument structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-016",
+      "question_text": "If a paragraph introduces an opposing view, its function might be to:",
+      "options": ["A. Conclude the passage", "B. Set up a view the author will challenge or qualify", "C. State the author's main thesis", "D. Provide unrelated information"],
+      "correct_answer": "B",
+      "explanation": "Authors often present opposing views as a setup to refute them, demonstrate their limitations, or incorporate them into a more nuanced position.",
+      "concept_tags": ["opposing view", "function", "argument strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-017",
+      "question_text": "Questions asking 'why does the author mention X' are:",
+      "options": ["A. Main idea questions", "B. Function questions about purpose of specific content", "C. Detail questions", "D. Application questions"],
+      "correct_answer": "B",
+      "explanation": "These function questions ask about the rhetorical purpose of including specific information—what role it plays in the argument.",
+      "concept_tags": ["function questions", "purpose", "rhetorical strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-018",
+      "question_text": "The 'scope' error in answer choices occurs when an answer:",
+      "options": ["A. Is too specific or too broad for what the passage claims", "B. Uses incorrect grammar", "C. Is too short", "D. Is the first choice listed"],
+      "correct_answer": "A",
+      "explanation": "Scope errors include answers that are narrower than the passage's actual claims or broader than what the passage supports.",
+      "concept_tags": ["scope", "answer errors", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-019",
+      "question_text": "An answer choice that is 'too narrow' might:",
+      "options": ["A. Capture only one aspect of a multifaceted main idea", "B. Be completely accurate", "C. Cover all passage content", "D. Be the best answer"],
+      "correct_answer": "A",
+      "explanation": "Too-narrow answers may be true but fail to capture the full scope of the main idea or claim being asked about.",
+      "concept_tags": ["too narrow", "scope error", "main idea"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-020",
+      "question_text": "An answer choice that is 'too broad' might:",
+      "options": ["A. Be specifically supported by passage evidence", "B. Make claims that go beyond what the passage actually supports", "C. Be too short", "D. Match the author's tone perfectly"],
+      "correct_answer": "B",
+      "explanation": "Too-broad answers claim more than the passage supports—generalizing beyond the specific scope of the author's argument.",
+      "concept_tags": ["too broad", "scope error", "overgeneralization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-021",
+      "question_text": "Extreme language in answer choices (always, never, all, none) is often:",
+      "options": ["A. The best indicator of a correct answer", "B. A warning sign of an incorrect answer", "C. Neutral", "D. Found in all correct answers"],
+      "correct_answer": "B",
+      "explanation": "Extreme language often creates unsupported claims. Authors usually qualify their arguments, so extreme answers are frequently wrong.",
+      "concept_tags": ["extreme language", "warning signs", "answer evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-022",
+      "question_text": "Opposite or reversed meanings in answer choices occur when:",
+      "options": ["A. The answer accurately paraphrases the passage", "B. The answer states the opposite of what the passage says", "C. The answer is too long", "D. The answer uses synonyms"],
+      "correct_answer": "B",
+      "explanation": "A common trap is an answer that reverses the passage's meaning—saying the author supports something they actually oppose, or vice versa.",
+      "concept_tags": ["reversed meaning", "trap answers", "attention to detail"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-023",
+      "question_text": "Understanding paragraph structure helps answer comprehension questions because:",
+      "options": ["A. Paragraphs are always the same length", "B. Topic sentences and transitions indicate main points", "C. Paragraphs are randomly organized", "D. Only the first paragraph matters"],
+      "correct_answer": "B",
+      "explanation": "Paragraph structure provides clues about where key information is located and how ideas develop and connect.",
+      "concept_tags": ["paragraph structure", "organization", "comprehension"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-024",
+      "question_text": "When looking for the location of an answer in the passage, you should use:",
+      "options": ["A. Random searching", "B. Key words from the question to locate relevant sections", "C. Only the first paragraph", "D. Only the last paragraph"],
+      "correct_answer": "B",
+      "explanation": "Use distinctive words or concepts from the question to quickly locate relevant passage sections for verification.",
+      "concept_tags": ["location strategy", "key words", "efficiency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-025",
+      "question_text": "Reference questions that cite specific lines or paragraphs require you to:",
+      "options": ["A. Ignore the cited location", "B. Read the cited section carefully and possibly surrounding context", "C. Read only that sentence in isolation", "D. Skip the question"],
+      "correct_answer": "B",
+      "explanation": "Read the specified section but also consider context—what comes before and after may be essential for understanding.",
+      "concept_tags": ["line reference", "context", "reading strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-026",
+      "question_text": "The 'author's attitude' questions ask about:",
+      "options": ["A. The reader's feelings", "B. How the author feels about the topic or aspects of it", "C. Dictionary definitions", "D. Chronological order"],
+      "correct_answer": "B",
+      "explanation": "Attitude questions test your ability to detect the author's feelings (supportive, critical, neutral, ambivalent, etc.) toward subjects in the passage.",
+      "concept_tags": ["author's attitude", "tone", "perspective"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-027",
+      "question_text": "Tone and attitude are determined by analyzing:",
+      "options": ["A. Passage length", "B. Word choice, emphasis, and treatment of subject matter", "C. Number of paragraphs", "D. Publication date"],
+      "correct_answer": "B",
+      "explanation": "Tone is conveyed through diction (word choice), how topics are discussed, what's emphasized, and what's critiqued or praised.",
+      "concept_tags": ["tone analysis", "word choice", "emphasis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-028",
+      "question_text": "A 'neutral' or 'objective' tone is indicated by:",
+      "options": ["A. Strong emotional language", "B. Balanced presentation without obvious bias", "C. Constant criticism", "D. Personal anecdotes only"],
+      "correct_answer": "B",
+      "explanation": "Neutral tone presents information or arguments without clear emotional valence or obvious preference for one view over another.",
+      "concept_tags": ["neutral tone", "objectivity", "balance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-029",
+      "question_text": "A 'critical' or 'skeptical' tone is indicated by:",
+      "options": ["A. Complete agreement with all views", "B. Questioning, challenging, or pointing out flaws", "C. No clear position", "D. Use of statistics only"],
+      "correct_answer": "B",
+      "explanation": "Critical tone involves challenging ideas, pointing out weaknesses, or expressing doubt about claims or positions.",
+      "concept_tags": ["critical tone", "skepticism", "questioning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-030",
+      "question_text": "An 'enthusiastic' or 'supportive' tone is indicated by:",
+      "options": ["A. Constant criticism", "B. Positive language and favorable treatment of the subject", "C. Neutral vocabulary only", "D. Confusion about the topic"],
+      "correct_answer": "B",
+      "explanation": "Supportive tone uses positive language, emphasizes strengths, and treats the subject favorably.",
+      "concept_tags": ["supportive tone", "positive language", "attitude"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-031",
+      "question_text": "Process of elimination is useful when:",
+      "options": ["A. You are completely certain of the answer", "B. You can identify why some choices are wrong", "C. All answers look identical", "D. You want to save time by not reading choices"],
+      "correct_answer": "B",
+      "explanation": "When the correct answer isn't obvious, eliminating clearly wrong choices increases odds of selecting correctly among remaining options.",
+      "concept_tags": ["process of elimination", "strategy", "answer evaluation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-032",
+      "question_text": "A 'distractor' answer choice is designed to:",
+      "options": ["A. Be obviously wrong", "B. Tempt you with plausible but incorrect content", "C. Be the longest choice", "D. Repeat the question"],
+      "correct_answer": "B",
+      "explanation": "Distractors are deliberately designed to seem appealing through partial truths, passage language, or plausible-sounding content while being ultimately incorrect.",
+      "concept_tags": ["distractors", "trap answers", "test design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-033",
+      "question_text": "Comparative questions that ask about relationships between ideas require understanding:",
+      "options": ["A. Only individual facts", "B. How concepts are connected, contrasted, or related", "C. Publication information", "D. The reader's preferences"],
+      "correct_answer": "B",
+      "explanation": "These questions test your grasp of how ideas in the passage relate—through similarity, contrast, causation, sequence, or other connections.",
+      "concept_tags": ["relationships", "comparison", "connections"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-034",
+      "question_text": "Understanding cause-and-effect relationships in passages helps answer questions about:",
+      "options": ["A. Word definitions only", "B. Why events occur or what results from actions/conditions", "C. The author's biography", "D. Chronological order only"],
+      "correct_answer": "B",
+      "explanation": "Passages often explain causal relationships. Understanding these helps answer questions about reasons, results, and consequences.",
+      "concept_tags": ["cause and effect", "relationships", "reasoning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-035",
+      "question_text": "When a question asks about 'the passage as a whole,' you should:",
+      "options": ["A. Focus on one paragraph only", "B. Consider how all parts contribute to the overall argument", "C. Ignore the conclusion", "D. Only read the title"],
+      "correct_answer": "B",
+      "explanation": "'As a whole' signals a question about overall structure, main idea, or general purpose—requiring synthesis of the entire passage.",
+      "concept_tags": ["whole passage", "synthesis", "main idea"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-036",
+      "question_text": "Questions about what the author 'would most likely agree with' require:",
+      "options": ["A. Finding explicit agreement statements", "B. Understanding the author's perspective to extrapolate to new claims", "C. Guessing randomly", "D. Reading external sources"],
+      "correct_answer": "B",
+      "explanation": "These questions require understanding the author's viewpoint well enough to determine what they would consistently agree with beyond explicit statements.",
+      "concept_tags": ["author's perspective", "extrapolation", "consistency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-037",
+      "question_text": "When two answer choices seem very similar, the difference often lies in:",
+      "options": ["A. Length of the answer", "B. Subtle word choices that change meaning or scope", "C. Grammar", "D. Which comes first"],
+      "correct_answer": "B",
+      "explanation": "Similar-seeming answers often differ in key words that affect scope, certainty, or meaning. Careful reading reveals crucial distinctions.",
+      "concept_tags": ["similar answers", "subtle differences", "precision"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-02-038",
+      "question_text": "Re-reading questions carefully before selecting an answer helps prevent:",
+      "options": ["A. Understanding the passage", "B. Answering a different question than asked", "C. Reading too slowly", "D. Correct answers"],
+      "correct_answer": "B",
+      "explanation": "Re-reading the question ensures you answer exactly what's being asked, not a related question you might have assumed.",
+      "concept_tags": ["attention to detail", "question reading", "accuracy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-039",
+      "question_text": "Answer choices containing partially true information are dangerous because:",
+      "options": ["A. They are always correct", "B. They may tempt you despite an incorrect element", "C. They are always completely wrong", "D. They are easy to identify"],
+      "correct_answer": "B",
+      "explanation": "Partially true answers contain accurate information but include incorrect elements, distortions, or unsupported additions that make them wrong overall.",
+      "concept_tags": ["partially true", "trap answers", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-040",
+      "question_text": "Questions about the author's purpose in writing are best answered by considering:",
+      "options": ["A. Only the first sentence", "B. What the author is trying to accomplish or convince readers of", "C. The passage length", "D. Publication date"],
+      "correct_answer": "B",
+      "explanation": "Purpose questions ask about the author's goal—to inform, persuade, critique, explore, compare, etc. Consider the overall effect intended.",
+      "concept_tags": ["author's purpose", "goal", "rhetorical intent"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-041",
+      "question_text": "A 'supporting detail' functions in the passage to:",
+      "options": ["A. State the main idea", "B. Provide evidence or examples for larger claims", "C. Contradict the author", "D. Introduce unrelated topics"],
+      "correct_answer": "B",
+      "explanation": "Supporting details include examples, evidence, explanations, and data that back up and substantiate the author's main claims and arguments.",
+      "concept_tags": ["supporting details", "evidence", "function"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-042",
+      "question_text": "Confusing a supporting detail with the main idea leads to selecting answers that are:",
+      "options": ["A. Always correct", "B. Too narrow in scope", "C. Perfectly broad", "D. Unrelated to the passage"],
+      "correct_answer": "B",
+      "explanation": "Mistaking a detail for the main idea results in too-narrow answers that capture only one supporting element rather than the overall thesis.",
+      "concept_tags": ["main idea vs detail", "scope error", "common mistake"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-043",
+      "question_text": "When passage structure moves from general to specific, the main idea is typically:",
+      "options": ["A. In the conclusion only", "B. Stated early and then developed with specifics", "C. Never stated", "D. In a footnote"],
+      "correct_answer": "B",
+      "explanation": "General-to-specific (deductive) structure presents the main idea early, then elaborates with examples, evidence, and details.",
+      "concept_tags": ["passage structure", "deductive", "organization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-044",
+      "question_text": "When passage structure moves from specific to general, the main idea may be:",
+      "options": ["A. In the first sentence", "B. Revealed through accumulation of details leading to a conclusion", "C. Never mentioned", "D. Unrelated to the examples"],
+      "correct_answer": "B",
+      "explanation": "Specific-to-general (inductive) structure builds from examples toward a concluding main point or generalization.",
+      "concept_tags": ["passage structure", "inductive", "organization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-045",
+      "question_text": "Synthesis in reading means:",
+      "options": ["A. Reading quickly", "B. Combining information from different parts to form complete understanding", "C. Focusing on one paragraph", "D. Memorizing vocabulary"],
+      "correct_answer": "B",
+      "explanation": "Synthesis involves integrating information from various passage parts to develop a holistic understanding of the author's argument.",
+      "concept_tags": ["synthesis", "integration", "comprehension"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-046",
+      "question_text": "When you encounter contradictory information in a passage, you should:",
+      "options": ["A. Assume the passage is poorly written", "B. Consider whether the author is presenting and then refuting a view", "C. Ignore the contradiction", "D. Choose the first statement as correct"],
+      "correct_answer": "B",
+      "explanation": "Apparent contradictions often represent opposing views being presented, with the author favoring one or synthesizing them. Track who holds which view.",
+      "concept_tags": ["contradictions", "viewpoints", "argument structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-02-047",
+      "question_text": "Qualifying language like 'some,' 'often,' or 'may' in answer choices is often:",
+      "options": ["A. A sign of a weak answer", "B. More accurate than extreme language", "C. Always incorrect", "D. Irrelevant"],
+      "correct_answer": "B",
+      "explanation": "Qualified language often matches the nuanced claims authors make and is more likely to be supportable than absolute statements.",
+      "concept_tags": ["qualifying language", "nuance", "answer evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-048",
+      "question_text": "Understanding the difference between what's stated and what's implied helps with:",
+      "options": ["A. Only main idea questions", "B. Many question types including inference and comprehension", "C. None of the questions", "D. Only vocabulary questions"],
+      "correct_answer": "B",
+      "explanation": "This distinction is fundamental—some questions ask about explicit content while others require reading between the lines.",
+      "concept_tags": ["explicit vs implicit", "inference", "comprehension"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-02-049",
+      "question_text": "An author's 'stance' on an issue refers to:",
+      "options": ["A. How they physically stand", "B. Their position, opinion, or perspective on the issue", "C. The passage length", "D. Their writing style only"],
+      "correct_answer": "B",
+      "explanation": "Stance is the author's position or viewpoint on an issue—supportive, critical, neutral, ambivalent, etc.",
+      "concept_tags": ["stance", "position", "viewpoint"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-02-050",
+      "question_text": "Effective reading for comprehension requires:",
+      "options": ["A. Memorizing every word", "B. Engaging actively and asking what the author is trying to convey", "C. Reading as fast as possible only", "D. Skipping difficult sections"],
+      "correct_answer": "B",
+      "explanation": "Active engagement—questioning, summarizing, predicting—leads to deeper comprehension than passive reading or pure speed.",
+      "concept_tags": ["active reading", "engagement", "comprehension"],
+      "difficulty": "easy"
+    }
+  ]
+}

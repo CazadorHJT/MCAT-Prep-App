@@ -1,0 +1,457 @@
+{
+  "book": "organic-chemistry",
+  "chapter": 7,
+  "chapter_title": "Carboxylic Acids",
+  "questions": [
+    {
+      "id": "organic-chemistry-07-001",
+      "question_text": "The functional group in carboxylic acids is:",
+      "options": ["A. -CHO", "B. -COOH", "C. -COO-", "D. -C=O"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids contain the carboxyl group (-COOH), which consists of a carbonyl and hydroxyl group on the same carbon.",
+      "concept_tags": ["carboxylic acids", "functional group", "carboxyl"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-002",
+      "question_text": "Carboxylic acids are named with the suffix:",
+      "options": ["A. -al", "B. -one", "C. -oic acid", "D. -ol"],
+      "correct_answer": "C",
+      "explanation": "In IUPAC nomenclature, carboxylic acids use the suffix -oic acid (e.g., ethanoic acid for acetic acid).",
+      "concept_tags": ["nomenclature", "carboxylic acids", "IUPAC"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-003",
+      "question_text": "Carboxylic acids are more acidic than alcohols because:",
+      "options": ["A. They have more hydrogens", "B. The conjugate base is resonance-stabilized", "C. Oxygen is more electronegative", "D. They are larger molecules"],
+      "correct_answer": "B",
+      "explanation": "The carboxylate conjugate base is resonance-stabilized with the negative charge delocalized over both oxygen atoms, making carboxylic acids (pKa ~5) much more acidic than alcohols (pKa ~16).",
+      "concept_tags": ["acidity", "resonance", "carboxylate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-004",
+      "question_text": "The pKa of typical carboxylic acids is approximately:",
+      "options": ["A. 0-2", "B. 4-5", "C. 10-12", "D. 15-17"],
+      "correct_answer": "B",
+      "explanation": "Typical carboxylic acids have pKa values around 4-5, making them weak acids that are partially ionized in water.",
+      "concept_tags": ["pKa", "acidity", "carboxylic acids"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-005",
+      "question_text": "Electron-withdrawing groups near the carboxyl group will:",
+      "options": ["A. Decrease acidity", "B. Increase acidity", "C. Have no effect", "D. Change the functional group"],
+      "correct_answer": "B",
+      "explanation": "Electron-withdrawing groups stabilize the carboxylate conjugate base through inductive effects, making the acid stronger (lower pKa).",
+      "concept_tags": ["acidity", "inductive effect", "electron-withdrawing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-006",
+      "question_text": "Which acid is strongest?",
+      "options": ["A. CH3COOH", "B. ClCH2COOH", "C. Cl2CHCOOH", "D. Cl3CCOOH"],
+      "correct_answer": "D",
+      "explanation": "Trichloroacetic acid (Cl3CCOOH) is strongest because three electron-withdrawing chlorines maximally stabilize the conjugate base through inductive effects.",
+      "concept_tags": ["acidity", "inductive effect", "halogenation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-007",
+      "question_text": "Carboxylic acids have high boiling points primarily due to:",
+      "options": ["A. High molecular weight", "B. Hydrogen bonding forming dimers", "C. London dispersion forces", "D. Ionic bonding"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids form stable hydrogen-bonded dimers, effectively doubling their molecular weight and significantly raising their boiling points.",
+      "concept_tags": ["boiling point", "hydrogen bonding", "dimers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-008",
+      "question_text": "Short-chain carboxylic acids are water-soluble because:",
+      "options": ["A. They are nonpolar", "B. They can hydrogen bond with water", "C. They are ionic", "D. They have low molecular weight only"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids are water-soluble due to hydrogen bonding between the carboxyl group and water molecules. Solubility decreases with increasing chain length.",
+      "concept_tags": ["solubility", "hydrogen bonding", "polarity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-009",
+      "question_text": "Oxidation of a primary alcohol with strong oxidizing agents produces:",
+      "options": ["A. An aldehyde", "B. A ketone", "C. A carboxylic acid", "D. An ether"],
+      "correct_answer": "C",
+      "explanation": "Strong oxidizing agents (like KMnO4, H2CrO4) oxidize primary alcohols fully to carboxylic acids. Mild oxidizers (PCC) stop at the aldehyde.",
+      "concept_tags": ["oxidation", "primary alcohol", "synthesis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-010",
+      "question_text": "Oxidation of an aldehyde produces:",
+      "options": ["A. A primary alcohol", "B. A ketone", "C. A carboxylic acid", "D. An ester"],
+      "correct_answer": "C",
+      "explanation": "Aldehydes are readily oxidized to carboxylic acids by various oxidizing agents including KMnO4, CrO3, and even mild oxidizers like Tollens' reagent.",
+      "concept_tags": ["oxidation", "aldehyde", "synthesis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-011",
+      "question_text": "Grignard reagents react with CO2 to form:",
+      "options": ["A. Aldehydes", "B. Ketones", "C. Carboxylic acids (after workup)", "D. Alcohols"],
+      "correct_answer": "C",
+      "explanation": "Grignard reagents attack CO2 to form carboxylate salts, which upon acidic workup give carboxylic acids with one more carbon than the original Grignard.",
+      "concept_tags": ["Grignard", "carboxylation", "synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-012",
+      "question_text": "Hydrolysis of a nitrile (R-CN) produces:",
+      "options": ["A. An amine", "B. A carboxylic acid", "C. An alcohol", "D. An aldehyde"],
+      "correct_answer": "B",
+      "explanation": "Nitriles undergo hydrolysis with aqueous acid or base to form carboxylic acids (through an amide intermediate).",
+      "concept_tags": ["hydrolysis", "nitrile", "synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-013",
+      "question_text": "Reduction of a carboxylic acid with LiAlH4 produces:",
+      "options": ["A. An aldehyde", "B. A primary alcohol", "C. A secondary alcohol", "D. An alkane"],
+      "correct_answer": "B",
+      "explanation": "LiAlH4 reduces carboxylic acids to primary alcohols. This strong reducing agent reduces all the way to the alcohol level.",
+      "concept_tags": ["reduction", "LiAlH4", "primary alcohol"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-014",
+      "question_text": "NaBH4 does NOT reduce carboxylic acids because:",
+      "options": ["A. NaBH4 is too reactive", "B. NaBH4 is not strong enough to reduce carboxylic acids", "C. Carboxylic acids are already reduced", "D. The reaction is too slow"],
+      "correct_answer": "B",
+      "explanation": "NaBH4 is a mild reducing agent that can reduce aldehydes and ketones but is not strong enough to reduce carboxylic acids or their derivatives.",
+      "concept_tags": ["NaBH4", "reducing agents", "selectivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-015",
+      "question_text": "The reaction of a carboxylic acid with an alcohol in the presence of acid catalyst produces:",
+      "options": ["A. An ether", "B. An ester", "C. An aldehyde", "D. A ketone"],
+      "correct_answer": "B",
+      "explanation": "Fischer esterification: carboxylic acids react with alcohols under acid catalysis to form esters and water.",
+      "concept_tags": ["Fischer esterification", "ester synthesis", "condensation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-016",
+      "question_text": "Fischer esterification is an example of a:",
+      "options": ["A. Redox reaction", "B. Nucleophilic acyl substitution", "C. Elimination reaction", "D. Radical reaction"],
+      "correct_answer": "B",
+      "explanation": "Fischer esterification is a nucleophilic acyl substitution where the hydroxyl group of the acid is replaced by an alkoxy group from the alcohol.",
+      "concept_tags": ["nucleophilic acyl substitution", "mechanism", "esterification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-017",
+      "question_text": "The carbonyl carbon of carboxylic acids is less electrophilic than aldehydes because:",
+      "options": ["A. The molecular weight is higher", "B. The -OH group donates electrons by resonance", "C. The -OH group is electron-withdrawing", "D. The carbon is sp3 hybridized"],
+      "correct_answer": "B",
+      "explanation": "The hydroxyl oxygen donates electrons through resonance into the carbonyl, reducing the electrophilicity of the carbonyl carbon.",
+      "concept_tags": ["electrophilicity", "resonance", "reactivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-018",
+      "question_text": "Decarboxylation of a carboxylic acid removes:",
+      "options": ["A. A hydrogen atom", "B. Water", "C. CO2", "D. An oxygen atom"],
+      "correct_answer": "C",
+      "explanation": "Decarboxylation is the loss of CO2 from a carboxylic acid, replacing the -COOH group with a hydrogen atom.",
+      "concept_tags": ["decarboxylation", "CO2 loss", "reaction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-019",
+      "question_text": "Beta-keto acids undergo decarboxylation readily because:",
+      "options": ["A. They are unstable", "B. The reaction proceeds through a cyclic transition state", "C. They are weak acids", "D. CO2 is a good leaving group"],
+      "correct_answer": "B",
+      "explanation": "Beta-keto acids decarboxylate easily through a six-membered cyclic transition state, with the enol tautomerizing to the ketone product.",
+      "concept_tags": ["decarboxylation", "beta-keto acid", "mechanism"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-07-020",
+      "question_text": "Soap is made by the reaction of fats with:",
+      "options": ["A. Strong acid", "B. Strong base (saponification)", "C. Alcohol", "D. Aldehyde"],
+      "correct_answer": "B",
+      "explanation": "Saponification is the base-catalyzed hydrolysis of fats (triesters of glycerol) to produce glycerol and fatty acid salts (soap).",
+      "concept_tags": ["saponification", "soap", "base hydrolysis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-021",
+      "question_text": "Carboxylic acids react with SOCl2 to form:",
+      "options": ["A. Esters", "B. Amides", "C. Acid chlorides", "D. Anhydrides"],
+      "correct_answer": "C",
+      "explanation": "Thionyl chloride (SOCl2) converts carboxylic acids to acid chlorides, with SO2 and HCl as byproducts.",
+      "concept_tags": ["acid chloride", "thionyl chloride", "synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-022",
+      "question_text": "Acid chlorides are more reactive than carboxylic acids toward nucleophiles because:",
+      "options": ["A. Chlorine is more electronegative than oxygen", "B. Cl- is a better leaving group than OH-", "C. The carbonyl is more electrophilic", "D. All of the above"],
+      "correct_answer": "D",
+      "explanation": "Acid chlorides are highly reactive due to chlorine's electronegativity (making the carbonyl more electrophilic), Cl- being an excellent leaving group, and less resonance stabilization.",
+      "concept_tags": ["acid chloride", "reactivity", "leaving group"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-023",
+      "question_text": "The reaction of two carboxylic acids with heat and dehydrating agent forms:",
+      "options": ["A. An ester", "B. An anhydride", "C. An ether", "D. A lactone"],
+      "correct_answer": "B",
+      "explanation": "Two carboxylic acids can combine with loss of water to form an acid anhydride, containing two acyl groups linked by an oxygen.",
+      "concept_tags": ["anhydride", "dehydration", "synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-024",
+      "question_text": "A lactone is:",
+      "options": ["A. A cyclic ester", "B. A cyclic amide", "C. A cyclic ether", "D. A cyclic carboxylic acid"],
+      "correct_answer": "A",
+      "explanation": "A lactone is a cyclic ester formed when a hydroxy acid undergoes intramolecular esterification.",
+      "concept_tags": ["lactone", "cyclic ester", "intramolecular"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-025",
+      "question_text": "Gamma and delta-hydroxy acids tend to form lactones because:",
+      "options": ["A. They are unstable", "B. 5- and 6-membered rings are stable", "C. They are acidic", "D. The reaction is irreversible"],
+      "correct_answer": "B",
+      "explanation": "Gamma (4-carbon) and delta (5-carbon) hydroxy acids readily form 5- and 6-membered lactone rings, which are thermodynamically stable due to low ring strain.",
+      "concept_tags": ["lactone formation", "ring size", "thermodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-026",
+      "question_text": "In IR spectroscopy, the carboxylic acid O-H stretch appears as:",
+      "options": ["A. A sharp peak at 3300 cm⁻¹", "B. A very broad peak from 2500-3300 cm⁻¹", "C. A sharp peak at 1715 cm⁻¹", "D. No characteristic peak"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids show a very broad O-H stretch from about 2500-3300 cm⁻¹ due to extensive hydrogen bonding in dimers.",
+      "concept_tags": ["IR spectroscopy", "O-H stretch", "hydrogen bonding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-027",
+      "question_text": "The carboxylic acid C=O stretch in IR appears at approximately:",
+      "options": ["A. 1600 cm⁻¹", "B. 1715 cm⁻¹", "C. 1800 cm⁻¹", "D. 2000 cm⁻¹"],
+      "correct_answer": "B",
+      "explanation": "The carbonyl stretch of carboxylic acids typically appears around 1710-1715 cm⁻¹, similar to ketones.",
+      "concept_tags": ["IR spectroscopy", "carbonyl stretch", "carboxylic acids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-028",
+      "question_text": "The carboxylic acid proton in ¹H NMR typically appears at:",
+      "options": ["A. 1-2 ppm", "B. 4-5 ppm", "C. 7-8 ppm", "D. 10-12 ppm"],
+      "correct_answer": "D",
+      "explanation": "The highly deshielded carboxylic acid proton appears far downfield, typically from 10-12 ppm, and often appears as a broad peak.",
+      "concept_tags": ["NMR spectroscopy", "chemical shift", "acid proton"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-029",
+      "question_text": "Dicarboxylic acids contain:",
+      "options": ["A. One carboxyl group", "B. Two carboxyl groups", "C. One hydroxyl and one carboxyl group", "D. Two hydroxyl groups"],
+      "correct_answer": "B",
+      "explanation": "Dicarboxylic acids have two carboxyl groups (e.g., oxalic acid, malonic acid, succinic acid) and show two pKa values.",
+      "concept_tags": ["dicarboxylic acid", "two COOH groups", "nomenclature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-030",
+      "question_text": "For dicarboxylic acids, pKa1 is always lower than pKa2 because:",
+      "options": ["A. The first proton is more acidic", "B. After the first deprotonation, the negative charge destabilizes loss of the second proton", "C. The second carboxyl group is different", "D. Measurement error"],
+      "correct_answer": "B",
+      "explanation": "The first deprotonation leaves a negative charge that makes the second deprotonation more difficult due to electrostatic repulsion.",
+      "concept_tags": ["dicarboxylic acid", "pKa", "electrostatic effect"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-031",
+      "question_text": "Alpha-amino acids contain which functional groups?",
+      "options": ["A. Carboxyl and aldehyde", "B. Carboxyl and amine on the same carbon", "C. Two carboxyl groups", "D. Amine and ketone"],
+      "correct_answer": "B",
+      "explanation": "Alpha-amino acids have both an amino group (-NH2) and a carboxyl group (-COOH) attached to the same (alpha) carbon.",
+      "concept_tags": ["amino acids", "alpha carbon", "functional groups"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-032",
+      "question_text": "At physiological pH (~7.4), amino acids exist primarily as:",
+      "options": ["A. Neutral molecules", "B. Zwitterions (internal salts)", "C. Cations", "D. Anions"],
+      "correct_answer": "B",
+      "explanation": "At physiological pH, amino acids exist as zwitterions with a protonated amino group (NH3+) and deprotonated carboxyl group (COO-).",
+      "concept_tags": ["zwitterion", "amino acids", "physiological pH"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-033",
+      "question_text": "The isoelectric point (pI) of an amino acid is the pH where:",
+      "options": ["A. The amino acid is fully protonated", "B. The amino acid has no net charge", "C. The amino acid is fully deprotonated", "D. The amino acid denatures"],
+      "correct_answer": "B",
+      "explanation": "The isoelectric point is the pH at which the amino acid has no net electrical charge and will not migrate in an electric field.",
+      "concept_tags": ["isoelectric point", "amino acids", "charge"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-034",
+      "question_text": "Fatty acids are:",
+      "options": ["A. Short-chain carboxylic acids", "B. Long-chain carboxylic acids found in fats", "C. Aromatic carboxylic acids", "D. Dicarboxylic acids"],
+      "correct_answer": "B",
+      "explanation": "Fatty acids are long-chain carboxylic acids (typically 12-20 carbons) that are the building blocks of fats and oils.",
+      "concept_tags": ["fatty acids", "lipids", "long chain"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-035",
+      "question_text": "Saturated fatty acids have:",
+      "options": ["A. One double bond", "B. No carbon-carbon double bonds", "C. Multiple double bonds", "D. Triple bonds"],
+      "correct_answer": "B",
+      "explanation": "Saturated fatty acids have no C=C double bonds in their carbon chain, meaning all carbons are 'saturated' with hydrogens.",
+      "concept_tags": ["saturated", "fatty acids", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-036",
+      "question_text": "The Hell-Volhard-Zelinsky reaction is used to:",
+      "options": ["A. Reduce carboxylic acids", "B. Halogenate the alpha position of carboxylic acids", "C. Decarboxylate carboxylic acids", "D. Form esters"],
+      "correct_answer": "B",
+      "explanation": "The Hell-Volhard-Zelinsky reaction uses Br2/PBr3 to selectively brominate the alpha carbon of carboxylic acids.",
+      "concept_tags": ["HVZ reaction", "alpha halogenation", "carboxylic acids"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-07-037",
+      "question_text": "Benzoic acid is an example of:",
+      "options": ["A. An aliphatic carboxylic acid", "B. An aromatic carboxylic acid", "C. A dicarboxylic acid", "D. A fatty acid"],
+      "correct_answer": "B",
+      "explanation": "Benzoic acid (C6H5COOH) is an aromatic carboxylic acid with the carboxyl group directly attached to a benzene ring.",
+      "concept_tags": ["benzoic acid", "aromatic", "carboxylic acid"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-038",
+      "question_text": "Aspirin (acetylsalicylic acid) contains which functional groups?",
+      "options": ["A. Carboxylic acid and ester", "B. Carboxylic acid and ether", "C. Ester and alcohol", "D. Aldehyde and ketone"],
+      "correct_answer": "A",
+      "explanation": "Aspirin contains both a carboxylic acid group and an ester group (acetyl ester of salicylic acid).",
+      "concept_tags": ["aspirin", "functional groups", "ester"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-039",
+      "question_text": "Carboxylic acids can be converted to amides by reaction with:",
+      "options": ["A. Water", "B. Ammonia or amines (with heating)", "C. Alcohols", "D. Aldehydes"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids react with ammonia or amines to first form ammonium carboxylate salts, which upon strong heating lose water to form amides.",
+      "concept_tags": ["amide formation", "ammonia", "condensation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-040",
+      "question_text": "A more efficient route to amides from carboxylic acids is through:",
+      "options": ["A. Direct heating with amines", "B. Reaction via acid chloride intermediate", "C. Reduction", "D. Oxidation"],
+      "correct_answer": "B",
+      "explanation": "Converting the acid to an acid chloride first, then reacting with an amine, is a more efficient route to amides under milder conditions.",
+      "concept_tags": ["amide synthesis", "acid chloride", "efficiency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-041",
+      "question_text": "The Kolbe reaction involves electrolysis of carboxylate salts to produce:",
+      "options": ["A. Aldehydes", "B. Alkanes (coupling product)", "C. Alcohols", "D. Ethers"],
+      "correct_answer": "B",
+      "explanation": "The Kolbe electrolysis decarboxylates carboxylate anions and couples the resulting radicals to form alkanes with twice the carbon chain minus two.",
+      "concept_tags": ["Kolbe reaction", "electrolysis", "radical coupling"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-07-042",
+      "question_text": "Carboxylic acids react with sodium bicarbonate to produce:",
+      "options": ["A. An ester", "B. Bubbles of CO2 gas", "C. A precipitate", "D. No reaction"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids are strong enough to react with NaHCO3 (pKa ~6.4), producing the carboxylate salt, water, and CO2 gas (bubbles).",
+      "concept_tags": ["bicarbonate test", "acid-base reaction", "CO2"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-043",
+      "question_text": "The bicarbonate test distinguishes carboxylic acids from:",
+      "options": ["A. Aldehydes", "B. Phenols", "C. Ketones", "D. Esters"],
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids (pKa ~5) react with NaHCO3, but phenols (pKa ~10) are not acidic enough to do so, allowing distinction between them.",
+      "concept_tags": ["bicarbonate test", "phenols", "acidity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-044",
+      "question_text": "Which carboxylic acid derivative is most stable (least reactive)?",
+      "options": ["A. Acid chloride", "B. Anhydride", "C. Ester", "D. Amide"],
+      "correct_answer": "D",
+      "explanation": "Amides are the most stable carboxylic acid derivatives due to strong resonance donation from nitrogen, making them the least reactive toward nucleophilic acyl substitution.",
+      "concept_tags": ["carboxylic acid derivatives", "stability", "amide"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-07-045",
+      "question_text": "The order of reactivity for carboxylic acid derivatives (most to least reactive) is:",
+      "options": ["A. Amide > Ester > Anhydride > Acid chloride", "B. Acid chloride > Anhydride > Ester > Amide", "C. Ester > Amide > Acid chloride > Anhydride", "D. Anhydride > Acid chloride > Amide > Ester"],
+      "correct_answer": "B",
+      "explanation": "Reactivity decreases as resonance stabilization increases and leaving group ability decreases: acid chloride > anhydride > ester > amide.",
+      "concept_tags": ["reactivity order", "carboxylic acid derivatives", "resonance"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-07-046",
+      "question_text": "Acyl chlorides react with water to form:",
+      "options": ["A. Esters", "B. Carboxylic acids", "C. Anhydrides", "D. Amides"],
+      "correct_answer": "B",
+      "explanation": "Hydrolysis of acyl chlorides with water rapidly produces carboxylic acids and HCl.",
+      "concept_tags": ["hydrolysis", "acyl chloride", "carboxylic acid"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-047",
+      "question_text": "The Arndt-Eistert reaction converts carboxylic acids to:",
+      "options": ["A. Esters", "B. Homologated carboxylic acids (one carbon longer)", "C. Aldehydes", "D. Ketones"],
+      "correct_answer": "B",
+      "explanation": "The Arndt-Eistert reaction extends the carbon chain of a carboxylic acid by one carbon through a diazoketone intermediate and Wolff rearrangement.",
+      "concept_tags": ["Arndt-Eistert", "homologation", "chain extension"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-07-048",
+      "question_text": "Citric acid contains how many carboxyl groups?",
+      "options": ["A. One", "B. Two", "C. Three", "D. Four"],
+      "correct_answer": "C",
+      "explanation": "Citric acid is a tricarboxylic acid with three carboxyl groups, important in the citric acid cycle (Krebs cycle).",
+      "concept_tags": ["citric acid", "tricarboxylic", "Krebs cycle"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-07-049",
+      "question_text": "Malonic acid undergoes decarboxylation more readily than acetic acid because:",
+      "options": ["A. It is more acidic", "B. It has a β-carbonyl that stabilizes the transition state", "C. It is larger", "D. It has more hydrogens"],
+      "correct_answer": "B",
+      "explanation": "Malonic acid (1,3-dicarboxylic acid) decarboxylates easily because the β-carboxyl group stabilizes the transition state through a six-membered cyclic mechanism.",
+      "concept_tags": ["malonic acid", "decarboxylation", "beta-carbonyl"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-07-050",
+      "question_text": "Propionic acid (propanoic acid) has how many carbons?",
+      "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+      "correct_answer": "C",
+      "explanation": "Propionic/propanoic acid (CH3CH2COOH) has three carbons, as indicated by the 'prop-' prefix meaning three.",
+      "concept_tags": ["nomenclature", "propionic acid", "carbon count"],
+      "difficulty": "easy"
+    }
+  ]
+}

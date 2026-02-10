@@ -1,0 +1,457 @@
+{
+  "book": "general-chemistry",
+  "chapter": 2,
+  "chapter_title": "Chemical Bonding",
+  "questions": [
+    {
+      "id": "general-chemistry-02-001",
+      "question_text": "Which of the following elements is most likely to form an ionic bond with chlorine?",
+      "options": ["A. Carbon", "B. Sodium", "C. Nitrogen", "D. Oxygen"],
+      "correct_answer": "B",
+      "explanation": "Sodium (Na) is an alkali metal with low electronegativity (0.93), while chlorine has high electronegativity (3.16). The large electronegativity difference (>1.7) between sodium and chlorine leads to ionic bond formation. Sodium readily loses one electron to form Na+, while chlorine gains one electron to form Cl-, resulting in the ionic compound NaCl.",
+      "concept_tags": ["ionic-bonds", "electronegativity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-002",
+      "question_text": "What is the formal charge on the nitrogen atom in the ammonium ion (NH4+)?",
+      "options": ["A. -1", "B. 0", "C. +1", "D. +2"],
+      "correct_answer": "C",
+      "explanation": "Formal charge = valence electrons - (lone pair electrons + 1/2 bonding electrons). For nitrogen in NH4+: valence electrons = 5, lone pair electrons = 0, bonding electrons = 8 (four bonds). Formal charge = 5 - (0 + 4) = +1. The positive charge on the ion is localized on the nitrogen atom.",
+      "concept_tags": ["formal-charge", "lewis-structures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-003",
+      "question_text": "Which molecular geometry is predicted by VSEPR theory for a molecule with four bonding pairs and no lone pairs around the central atom?",
+      "options": ["A. Trigonal planar", "B. Tetrahedral", "C. Trigonal pyramidal", "D. Bent"],
+      "correct_answer": "B",
+      "explanation": "According to VSEPR theory, four electron domains (all bonding pairs) arrange themselves in a tetrahedral geometry to minimize electron-electron repulsion. The bond angles are approximately 109.5 degrees. Examples include CH4 and CCl4.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-004",
+      "question_text": "What type of hybridization is present in the carbon atoms of ethene (C2H4)?",
+      "options": ["A. sp", "B. sp2", "C. sp3", "D. sp3d"],
+      "correct_answer": "B",
+      "explanation": "In ethene, each carbon atom forms three sigma bonds (two C-H and one C-C) and one pi bond (the double bond). This requires sp2 hybridization, which leaves one unhybridized p orbital to form the pi bond. The geometry around each carbon is trigonal planar with 120-degree bond angles.",
+      "concept_tags": ["hybridization", "covalent-bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-005",
+      "question_text": "Which intermolecular force is primarily responsible for the high boiling point of water compared to hydrogen sulfide (H2S)?",
+      "options": ["A. London dispersion forces", "B. Dipole-dipole interactions", "C. Hydrogen bonding", "D. Ion-dipole forces"],
+      "correct_answer": "C",
+      "explanation": "Water exhibits strong hydrogen bonding because oxygen is highly electronegative and small, allowing strong O-H---O interactions. Sulfur is less electronegative and larger, so H2S cannot form effective hydrogen bonds. This explains why water (bp 100°C) boils at a much higher temperature than H2S (bp -60°C).",
+      "concept_tags": ["intermolecular-forces", "hydrogen-bonding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-006",
+      "question_text": "A bond between two atoms with an electronegativity difference of 0.4 would be classified as:",
+      "options": ["A. Ionic", "B. Polar covalent", "C. Nonpolar covalent", "D. Metallic"],
+      "correct_answer": "C",
+      "explanation": "Electronegativity differences less than 0.5 generally indicate nonpolar covalent bonds, where electrons are shared relatively equally. Polar covalent bonds typically have differences between 0.5 and 1.7, while ionic bonds have differences greater than 1.7.",
+      "concept_tags": ["covalent-bonds", "electronegativity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-007",
+      "question_text": "How many resonance structures can be drawn for the nitrate ion (NO3-)?",
+      "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+      "correct_answer": "C",
+      "explanation": "The nitrate ion has three equivalent resonance structures, each with the double bond on a different oxygen atom. In each structure, one oxygen has a double bond to nitrogen (formal charge 0) and two oxygens have single bonds (formal charge -1 each). The actual structure is a resonance hybrid with all N-O bonds being equivalent.",
+      "concept_tags": ["resonance-structures", "lewis-structures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-008",
+      "question_text": "Which of the following molecules has a linear geometry?",
+      "options": ["A. H2O", "B. CO2", "C. NH3", "D. CH4"],
+      "correct_answer": "B",
+      "explanation": "CO2 has two double bonds and no lone pairs on the central carbon atom, giving it two electron domains. According to VSEPR theory, two electron domains adopt a linear arrangement (180-degree bond angle) to minimize repulsion. H2O is bent, NH3 is trigonal pyramidal, and CH4 is tetrahedral.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-009",
+      "question_text": "Which statement correctly describes London dispersion forces?",
+      "options": ["A. They only occur between polar molecules", "B. They result from temporary dipoles due to electron movement", "C. They are stronger than hydrogen bonds", "D. They only occur in ionic compounds"],
+      "correct_answer": "B",
+      "explanation": "London dispersion forces arise from temporary, instantaneous dipoles caused by the random movement of electrons. These temporary dipoles induce dipoles in neighboring molecules, creating an attractive force. London dispersion forces are present in all molecules but are the only intermolecular force in nonpolar molecules.",
+      "concept_tags": ["intermolecular-forces", "london-dispersion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-010",
+      "question_text": "What is the hybridization of the oxygen atom in water (H2O)?",
+      "options": ["A. sp", "B. sp2", "C. sp3", "D. unhybridized"],
+      "correct_answer": "C",
+      "explanation": "Oxygen in water has two bonding pairs and two lone pairs, giving four electron domains. Four electron domains require sp3 hybridization. Although the molecular geometry is bent (due to lone pairs), the electron domain geometry is tetrahedral, consistent with sp3 hybridization.",
+      "concept_tags": ["hybridization", "molecular-geometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-011",
+      "question_text": "Which of the following is NOT a characteristic of ionic compounds?",
+      "options": ["A. High melting points", "B. Conduct electricity when molten", "C. Soluble in nonpolar solvents", "D. Form crystal lattice structures"],
+      "correct_answer": "C",
+      "explanation": "Ionic compounds are generally insoluble in nonpolar solvents because the strong electrostatic forces between ions cannot be overcome by weak interactions with nonpolar solvent molecules. Ionic compounds typically dissolve in polar solvents like water, which can stabilize the separated ions through ion-dipole interactions.",
+      "concept_tags": ["ionic-bonds", "intermolecular-forces"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-012",
+      "question_text": "The bond order in a molecule with a triple bond is:",
+      "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+      "correct_answer": "C",
+      "explanation": "Bond order represents the number of chemical bonds between a pair of atoms. A triple bond consists of one sigma bond and two pi bonds, giving a bond order of 3. Higher bond orders correlate with shorter, stronger bonds. Examples include N2 and acetylene (C2H2).",
+      "concept_tags": ["covalent-bonds", "lewis-structures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-013",
+      "question_text": "Which molecule would have the largest dipole moment?",
+      "options": ["A. CCl4", "B. CO2", "C. CHCl3", "D. CH4"],
+      "correct_answer": "C",
+      "explanation": "CHCl3 (chloroform) has a net dipole moment because the three C-Cl bond dipoles do not cancel out due to the tetrahedral geometry with one hydrogen. CCl4 and CH4 are tetrahedral with symmetrically arranged atoms, so their bond dipoles cancel. CO2 is linear and symmetrical, so its bond dipoles also cancel.",
+      "concept_tags": ["covalent-bonds", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-014",
+      "question_text": "In the Lewis structure of ozone (O3), what is the formal charge on the central oxygen atom?",
+      "options": ["A. -1", "B. 0", "C. +1", "D. +2"],
+      "correct_answer": "C",
+      "explanation": "In the Lewis structure of ozone, the central oxygen has one double bond, one single bond, and one lone pair. Formal charge = 6 - (2 + 1/2(6)) = 6 - 5 = +1. One terminal oxygen has a formal charge of 0 (double bonded), and the other has -1 (single bonded with three lone pairs).",
+      "concept_tags": ["formal-charge", "lewis-structures", "resonance-structures"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-015",
+      "question_text": "Which of the following molecules exhibits resonance?",
+      "options": ["A. CH4", "B. H2O", "C. CO3^2-", "D. NH3"],
+      "correct_answer": "C",
+      "explanation": "The carbonate ion (CO3^2-) has three resonance structures, each with the double bond on a different oxygen. Resonance occurs when multiple valid Lewis structures can be drawn by moving electrons (not atoms). CH4, H2O, and NH3 have only one valid Lewis structure and do not exhibit resonance.",
+      "concept_tags": ["resonance-structures", "lewis-structures"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-016",
+      "question_text": "A molecule with the formula AX3E2 (where E represents lone pairs) would have which molecular geometry?",
+      "options": ["A. Trigonal bipyramidal", "B. T-shaped", "C. Trigonal planar", "D. Trigonal pyramidal"],
+      "correct_answer": "B",
+      "explanation": "AX3E2 indicates three bonding pairs and two lone pairs, for a total of five electron domains. The electron domain geometry is trigonal bipyramidal, but the molecular geometry (considering only atoms) is T-shaped. Lone pairs preferentially occupy equatorial positions to minimize repulsion.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-017",
+      "question_text": "What is the hybridization of carbon in acetylene (C2H2)?",
+      "options": ["A. sp", "B. sp2", "C. sp3", "D. sp3d"],
+      "correct_answer": "A",
+      "explanation": "In acetylene, each carbon forms two sigma bonds (one C-H and one C-C) and two pi bonds (the triple bond). This requires sp hybridization, leaving two unhybridized p orbitals for pi bonding. The geometry is linear with 180-degree bond angles.",
+      "concept_tags": ["hybridization", "covalent-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-018",
+      "question_text": "Which of the following correctly ranks the intermolecular forces from weakest to strongest?",
+      "options": ["A. Hydrogen bonding < dipole-dipole < London dispersion", "B. London dispersion < dipole-dipole < hydrogen bonding", "C. Dipole-dipole < London dispersion < hydrogen bonding", "D. London dispersion < hydrogen bonding < dipole-dipole"],
+      "correct_answer": "B",
+      "explanation": "Generally, London dispersion forces are the weakest, followed by dipole-dipole interactions, with hydrogen bonding being the strongest of the three. However, London dispersion forces can become significant in large molecules with many electrons.",
+      "concept_tags": ["intermolecular-forces", "hydrogen-bonding", "london-dispersion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-019",
+      "question_text": "The bond angle in ammonia (NH3) is approximately 107 degrees rather than 109.5 degrees because:",
+      "options": ["A. Nitrogen has a smaller atomic radius than carbon", "B. Lone pair-bonding pair repulsion is greater than bonding pair-bonding pair repulsion", "C. The N-H bonds are polar", "D. Ammonia has resonance structures"],
+      "correct_answer": "B",
+      "explanation": "In ammonia, the lone pair on nitrogen occupies more space than bonding pairs because it is held closer to the nucleus and spread over a larger region. This increased lone pair-bonding pair repulsion compresses the H-N-H bond angles from the ideal tetrahedral angle of 109.5 degrees to approximately 107 degrees.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-020",
+      "question_text": "Which of the following pairs of atoms would form the most polar bond?",
+      "options": ["A. C and H", "B. O and H", "C. N and H", "D. S and H"],
+      "correct_answer": "B",
+      "explanation": "Bond polarity increases with electronegativity difference. Oxygen (3.44) minus hydrogen (2.20) = 1.24. This is greater than C-H (0.35), N-H (0.84), and S-H (0.38). The O-H bond is highly polar, which contributes to water's unique properties.",
+      "concept_tags": ["covalent-bonds", "electronegativity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-021",
+      "question_text": "What is the electron domain geometry of SF4?",
+      "options": ["A. Tetrahedral", "B. Trigonal bipyramidal", "C. See-saw", "D. Square planar"],
+      "correct_answer": "B",
+      "explanation": "SF4 has four bonding pairs and one lone pair on sulfur, giving five electron domains. Five electron domains adopt a trigonal bipyramidal electron domain geometry. The molecular geometry (which considers only bonded atoms) is see-saw because the lone pair occupies an equatorial position.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-022",
+      "question_text": "In which compound does phosphorus violate the octet rule by having an expanded octet?",
+      "options": ["A. PH3", "B. PCl3", "C. PCl5", "D. P4"],
+      "correct_answer": "C",
+      "explanation": "In PCl5, phosphorus is bonded to five chlorine atoms, requiring 10 electrons in its valence shell. This is possible because phosphorus is in the third period and has access to d orbitals for bonding. PH3 and PCl3 have eight electrons around phosphorus, satisfying the octet rule.",
+      "concept_tags": ["lewis-structures", "covalent-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-023",
+      "question_text": "Which molecule would be expected to have the highest boiling point?",
+      "options": ["A. CH3CH3 (ethane)", "B. CH3OH (methanol)", "C. CH3F (fluoromethane)", "D. CH3CH2CH3 (propane)"],
+      "correct_answer": "B",
+      "explanation": "Methanol has hydrogen bonding capability due to its O-H group, which is much stronger than the dipole-dipole forces in fluoromethane or the London dispersion forces in ethane and propane. Hydrogen bonding requires more energy to overcome, resulting in a higher boiling point (65°C for methanol vs. -89°C for ethane).",
+      "concept_tags": ["intermolecular-forces", "hydrogen-bonding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-024",
+      "question_text": "The carbon-carbon bond length in benzene is:",
+      "options": ["A. Equal to a typical C-C single bond", "B. Equal to a typical C=C double bond", "C. Intermediate between a single and double bond", "D. Longer than a single bond"],
+      "correct_answer": "C",
+      "explanation": "Due to resonance in benzene, all carbon-carbon bonds are equivalent with a bond order of 1.5. The C-C bond length in benzene (139 pm) is intermediate between a typical single bond (154 pm) and a double bond (134 pm). This reflects the delocalized pi electron system.",
+      "concept_tags": ["resonance-structures", "covalent-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-025",
+      "question_text": "Which of the following statements about sp3 hybrid orbitals is correct?",
+      "options": ["A. They are formed from one s and two p orbitals", "B. They point toward the corners of a tetrahedron", "C. They can only form sigma bonds", "D. They have 25% s character and 75% p character, making them planar"],
+      "correct_answer": "B",
+      "explanation": "sp3 hybrid orbitals are formed from one s and three p orbitals (not two), giving four equivalent hybrid orbitals that point toward the corners of a tetrahedron at 109.5-degree angles. They have 25% s character and 75% p character. While they primarily form sigma bonds, this is not exclusive.",
+      "concept_tags": ["hybridization", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-026",
+      "question_text": "What is the molecular geometry of XeF4?",
+      "options": ["A. Tetrahedral", "B. Square planar", "C. See-saw", "D. Trigonal bipyramidal"],
+      "correct_answer": "B",
+      "explanation": "XeF4 has four bonding pairs and two lone pairs on xenon, giving six electron domains with octahedral electron domain geometry. The two lone pairs occupy axial positions (opposite each other) to minimize repulsion, resulting in a square planar molecular geometry with 90-degree bond angles.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-027",
+      "question_text": "Which of the following Lewis structures correctly shows all atoms with zero formal charge?",
+      "options": ["A. CO with a triple bond", "B. O3 with one double bond", "C. CO2 with two double bonds", "D. NO with a double bond"],
+      "correct_answer": "C",
+      "explanation": "In CO2 with two double bonds, carbon has 4 - 0 - 4 = 0 formal charge, and each oxygen has 6 - 4 - 2 = 0 formal charge. In CO with a triple bond, oxygen has -1 and carbon has +1. In O3, the central oxygen has +1. In NO, formal charges exist regardless of bonding arrangement.",
+      "concept_tags": ["formal-charge", "lewis-structures"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-028",
+      "question_text": "Lattice energy of an ionic compound increases with:",
+      "options": ["A. Increasing ionic radii and decreasing ionic charges", "B. Decreasing ionic radii and increasing ionic charges", "C. Increasing ionic radii and increasing ionic charges", "D. Decreasing ionic radii and decreasing ionic charges"],
+      "correct_answer": "B",
+      "explanation": "Lattice energy is proportional to the product of ionic charges and inversely proportional to the distance between ions (related to ionic radii). Therefore, smaller ions with higher charges produce greater lattice energies. For example, MgO has a much higher lattice energy than NaCl due to higher charges and smaller ions.",
+      "concept_tags": ["ionic-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-029",
+      "question_text": "In terms of orbital overlap, what is the difference between a sigma bond and a pi bond?",
+      "options": ["A. Sigma bonds involve side-to-side overlap; pi bonds involve head-to-head overlap", "B. Sigma bonds involve head-to-head overlap; pi bonds involve side-to-side overlap", "C. Both involve head-to-head overlap but pi bonds are weaker", "D. Both involve side-to-side overlap but sigma bonds are stronger"],
+      "correct_answer": "B",
+      "explanation": "Sigma bonds form from head-to-head (end-on) overlap of orbitals along the internuclear axis, providing maximum overlap and stronger bonds. Pi bonds form from side-to-side (parallel) overlap of p orbitals perpendicular to the internuclear axis, resulting in less overlap and weaker bonds.",
+      "concept_tags": ["covalent-bonds", "hybridization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-030",
+      "question_text": "Which of the following molecules is nonpolar despite having polar bonds?",
+      "options": ["A. NH3", "B. H2O", "C. BF3", "D. HCl"],
+      "correct_answer": "C",
+      "explanation": "BF3 has three polar B-F bonds, but the molecule is nonpolar because of its trigonal planar geometry. The three bond dipoles are arranged symmetrically at 120-degree angles and cancel out, resulting in no net dipole moment. NH3 and H2O are polar due to their asymmetric geometries, and HCl is inherently polar.",
+      "concept_tags": ["covalent-bonds", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-031",
+      "question_text": "What is the formal charge on sulfur in the sulfate ion (SO4^2-)?",
+      "options": ["A. 0", "B. +2", "C. -2", "D. +6"],
+      "correct_answer": "B",
+      "explanation": "In the common Lewis structure of sulfate with four single bonds, sulfur has formal charge = 6 - 0 - 4 = +2. Each oxygen has formal charge = 6 - 6 - 1 = -1, giving a total charge of +2 + 4(-1) = -2. Alternative resonance structures with double bonds can reduce sulfur's formal charge.",
+      "concept_tags": ["formal-charge", "lewis-structures"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-032",
+      "question_text": "Which factor primarily determines whether hydrogen bonding can occur?",
+      "options": ["A. The presence of any hydrogen atom in the molecule", "B. The presence of hydrogen bonded to N, O, or F", "C. The molecular weight of the compound", "D. The number of lone pairs on any atom"],
+      "correct_answer": "B",
+      "explanation": "Hydrogen bonding requires hydrogen to be covalently bonded to a highly electronegative atom (N, O, or F), creating a highly polar bond with a partial positive charge on hydrogen. This hydrogen can then interact with lone pairs on N, O, or F of another molecule.",
+      "concept_tags": ["intermolecular-forces", "hydrogen-bonding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-033",
+      "question_text": "The bond angles in a molecule with sp2 hybridization are approximately:",
+      "options": ["A. 90 degrees", "B. 109.5 degrees", "C. 120 degrees", "D. 180 degrees"],
+      "correct_answer": "C",
+      "explanation": "sp2 hybridization results in three equivalent hybrid orbitals arranged in a trigonal planar geometry with bond angles of approximately 120 degrees. This is seen in molecules like BF3 and in the carbon atoms of ethene and benzene.",
+      "concept_tags": ["hybridization", "molecular-geometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-034",
+      "question_text": "Which of the following molecules can act as both a hydrogen bond donor and acceptor?",
+      "options": ["A. CH3OCH3 (dimethyl ether)", "B. CH3NH2 (methylamine)", "C. CH3CH2CH3 (propane)", "D. CH3F (fluoromethane)"],
+      "correct_answer": "B",
+      "explanation": "Methylamine has an N-H bond that can donate hydrogen bonds and lone pairs on nitrogen that can accept hydrogen bonds. Dimethyl ether can only accept hydrogen bonds (no O-H or N-H). Propane cannot participate in hydrogen bonding. Fluoromethane can only accept (has no H-F, H-O, or H-N bonds).",
+      "concept_tags": ["intermolecular-forces", "hydrogen-bonding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-035",
+      "question_text": "In the molecular orbital description of O2, the bond order is:",
+      "options": ["A. 1", "B. 2", "C. 3", "D. 2.5"],
+      "correct_answer": "B",
+      "explanation": "For O2, the molecular orbital configuration shows 8 bonding electrons and 4 antibonding electrons. Bond order = (bonding - antibonding)/2 = (8-4)/2 = 2. This corresponds to a double bond and explains oxygen's paramagnetic properties due to two unpaired electrons in pi* orbitals.",
+      "concept_tags": ["covalent-bonds", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-036",
+      "question_text": "Which of the following best explains why diamond is much harder than graphite?",
+      "options": ["A. Diamond has stronger London dispersion forces", "B. Diamond has a three-dimensional network of covalent bonds while graphite has layered sheets", "C. Diamond has ionic bonds while graphite has covalent bonds", "D. Diamond has sp2 hybridized carbons while graphite has sp3"],
+      "correct_answer": "B",
+      "explanation": "In diamond, each carbon is sp3 hybridized and bonded to four other carbons in a rigid 3D tetrahedral network. In graphite, sp2 hybridized carbons form planar sheets held together by weak London dispersion forces, allowing layers to slide over each other. The continuous 3D covalent bonding in diamond makes it extremely hard.",
+      "concept_tags": ["covalent-bonds", "hybridization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-037",
+      "question_text": "What is the geometry of the electron domains around the central atom in ClF3?",
+      "options": ["A. Trigonal planar", "B. Tetrahedral", "C. Trigonal bipyramidal", "D. Octahedral"],
+      "correct_answer": "C",
+      "explanation": "ClF3 has three bonding pairs and two lone pairs on the central chlorine atom, giving five electron domains total. Five electron domains adopt a trigonal bipyramidal electron domain geometry. The molecular geometry is T-shaped because lone pairs occupy equatorial positions.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-038",
+      "question_text": "A researcher isolates a pure compound with a very high melting point that conducts electricity when dissolved in water but not as a solid. This compound is most likely:",
+      "options": ["A. A covalent network solid", "B. An ionic compound", "C. A molecular compound with hydrogen bonding", "D. A metallic solid"],
+      "correct_answer": "B",
+      "explanation": "Ionic compounds have high melting points due to strong electrostatic forces in the crystal lattice. They conduct electricity when dissolved (or molten) because the ions become mobile, but not as solids because ions are fixed in the lattice. Covalent network solids don't conduct; molecular compounds have lower melting points; metals conduct as solids.",
+      "concept_tags": ["ionic-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-039",
+      "question_text": "The concept of resonance implies that:",
+      "options": ["A. Electrons rapidly move between different bonding arrangements", "B. The actual structure is a hybrid of contributing structures that cannot be represented by a single Lewis structure", "C. Multiple Lewis structures exist because the molecule constantly changes shape", "D. The bonds in the molecule are alternating single and double bonds"],
+      "correct_answer": "B",
+      "explanation": "Resonance does not mean electrons are moving or the molecule is changing structure. The actual molecule is a resonance hybrid - a single structure with electron density delocalized between the positions shown in the contributing structures. The individual resonance structures are not real but help describe the actual electron distribution.",
+      "concept_tags": ["resonance-structures"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-040",
+      "question_text": "Which of the following atoms can form the maximum number of hydrogen bonds?",
+      "options": ["A. Carbon in CH4", "B. Nitrogen in NH3", "C. Oxygen in H2O", "D. Fluorine in HF"],
+      "correct_answer": "B",
+      "explanation": "Nitrogen in NH3 can form up to 4 hydrogen bonds - 3 as donor (three N-H bonds) and 1 as acceptor (one lone pair). Oxygen in water can form up to 4 as well (2 donor, 2 acceptor), but nitrogen has more donor sites. Fluorine in HF has only one donor site. Carbon in CH4 cannot form hydrogen bonds.",
+      "concept_tags": ["intermolecular-forces", "hydrogen-bonding"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-02-041",
+      "question_text": "For the reaction between atoms A and B where A has an electronegativity of 0.9 and B has an electronegativity of 3.5, what type of bond would most likely form?",
+      "options": ["A. Nonpolar covalent", "B. Polar covalent", "C. Ionic", "D. Metallic"],
+      "correct_answer": "C",
+      "explanation": "The electronegativity difference is 3.5 - 0.9 = 2.6, which is greater than 1.7 (the typical threshold for ionic bonds). This large difference means electrons are essentially transferred from the less electronegative atom (A) to the more electronegative atom (B), forming an ionic bond.",
+      "concept_tags": ["ionic-bonds", "electronegativity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-042",
+      "question_text": "Which compound would have the strongest London dispersion forces?",
+      "options": ["A. CH4 (methane)", "B. C2H6 (ethane)", "C. C4H10 (butane)", "D. C8H18 (octane)"],
+      "correct_answer": "D",
+      "explanation": "London dispersion forces increase with the number of electrons in a molecule, which correlates with molecular size and molar mass. Octane has the most electrons and the largest surface area for temporary dipole interactions, resulting in the strongest London dispersion forces and the highest boiling point among these alkanes.",
+      "concept_tags": ["intermolecular-forces", "london-dispersion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-02-043",
+      "question_text": "Consider the molecule ICl4-. What is its molecular geometry and hybridization of the central iodine atom?",
+      "options": ["A. Tetrahedral, sp3", "B. Square planar, sp3d2", "C. See-saw, sp3d", "D. Octahedral, sp3d2"],
+      "correct_answer": "B",
+      "explanation": "ICl4- has four bonding pairs and two lone pairs around iodine, giving six electron domains. Six domains require sp3d2 hybridization with octahedral electron geometry. The two lone pairs occupy axial positions (trans to each other), resulting in a square planar molecular geometry.",
+      "concept_tags": ["vsepr", "molecular-geometry", "hybridization"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-02-044",
+      "question_text": "Which of the following represents the correct order of increasing O-N-O bond angle?",
+      "options": ["A. NO2- < NO2 < NO2+", "B. NO2+ < NO2 < NO2-", "C. NO2 < NO2- < NO2+", "D. NO2+ < NO2- < NO2"],
+      "correct_answer": "A",
+      "explanation": "Bond angles depend on electron domain geometry. NO2- has two bonding pairs and one lone pair (bent, ~115°). NO2 has 2.5 bonding pairs and 0.5 lone pair (bent, ~134°). NO2+ has two bonding pairs and no lone pairs (linear, 180°). More lone pairs cause greater repulsion and smaller bond angles.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-02-045",
+      "question_text": "The compound BeCl2 is an exception to the octet rule because:",
+      "options": ["A. Beryllium has an expanded octet", "B. Beryllium has only 4 electrons in its valence shell when bonded", "C. Chlorine does not complete its octet", "D. The Be-Cl bonds are ionic, not covalent"],
+      "correct_answer": "B",
+      "explanation": "Beryllium forms only two covalent bonds with chlorine, giving it just 4 electrons in its valence shell rather than 8. This is an example of an incomplete octet. Beryllium is too small and has too few valence electrons to accommodate more than four electrons around it.",
+      "concept_tags": ["lewis-structures", "covalent-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-02-046",
+      "question_text": "A student draws multiple Lewis structures for a molecule and needs to determine which is most stable. The most stable structure will have:",
+      "options": ["A. Maximum formal charges on all atoms", "B. Formal charges close to zero and negative charges on more electronegative atoms", "C. All single bonds", "D. The maximum number of resonance structures"],
+      "correct_answer": "B",
+      "explanation": "The most stable Lewis structure minimizes formal charges (ideally zero on all atoms). When formal charges cannot be avoided, negative formal charges should be on more electronegative atoms and positive charges on less electronegative atoms. This represents the most realistic electron distribution.",
+      "concept_tags": ["formal-charge", "lewis-structures"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-02-047",
+      "question_text": "Which of the following molecules would be expected to have the shortest carbon-oxygen bond?",
+      "options": ["A. CH3OH (methanol)", "B. H2CO (formaldehyde)", "C. CO (carbon monoxide)", "D. CO2 (carbon dioxide)"],
+      "correct_answer": "C",
+      "explanation": "Bond length decreases as bond order increases. CO has a triple bond (bond order 3), CO2 has double bonds (bond order 2), H2CO has a double bond (bond order 2), and CH3OH has a single bond (bond order 1). Therefore, CO has the shortest and strongest C-O bond.",
+      "concept_tags": ["covalent-bonds", "lewis-structures"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-02-048",
+      "question_text": "In terms of VSEPR theory, why do lone pairs occupy equatorial positions in a trigonal bipyramidal arrangement?",
+      "options": ["A. Equatorial positions are farther from the nucleus", "B. Equatorial positions have only two 90° interactions compared to three for axial positions", "C. Lone pairs are smaller than bonding pairs", "D. Equatorial positions allow for better orbital overlap"],
+      "correct_answer": "B",
+      "explanation": "In a trigonal bipyramidal geometry, equatorial positions have two 90° neighbors (the axial positions) and two 120° neighbors. Axial positions have three 90° neighbors (all three equatorial positions). Since lone pairs occupy more space and cause more repulsion, they minimize repulsion by occupying equatorial positions.",
+      "concept_tags": ["vsepr", "molecular-geometry"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-02-049",
+      "question_text": "Consider the compound N2O (nitrous oxide). Which of the following is the most stable resonance structure?",
+      "options": ["A. N=N=O with formal charges: left N = -1, center N = +1, O = 0", "B. N-N≡O with formal charges: left N = -2, center N = +1, O = +1", "C. N≡N-O with formal charges: left N = 0, center N = +1, O = -1", "D. N=N=O with formal charges: left N = 0, center N = 0, O = 0"],
+      "correct_answer": "A",
+      "explanation": "The most stable resonance structure has minimal formal charges with negative charges on more electronegative atoms. Structure A (N=N=O) has formal charges of -1 on terminal N, +1 on central N, and 0 on O. While structure C places -1 on the more electronegative O, structure A has smaller magnitude charges overall, making it most stable.",
+      "concept_tags": ["resonance-structures", "formal-charge", "lewis-structures"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-02-050",
+      "question_text": "A molecule has the following properties: it is nonpolar, has a central atom with sp3d hybridization, and contains 5 identical atoms bonded to the central atom. What is the molecular geometry?",
+      "options": ["A. Square pyramidal", "B. Trigonal bipyramidal", "C. Octahedral", "D. Pentagonal planar"],
+      "correct_answer": "B",
+      "explanation": "sp3d hybridization gives 5 hybrid orbitals. With 5 identical atoms bonded and no lone pairs (nonpolar molecule), the molecular geometry is trigonal bipyramidal. This has three atoms in the equatorial plane (120° apart) and two atoms in axial positions (180° apart). An example is PCl5.",
+      "concept_tags": ["hybridization", "vsepr", "molecular-geometry"],
+      "difficulty": "hard"
+    }
+  ]
+}

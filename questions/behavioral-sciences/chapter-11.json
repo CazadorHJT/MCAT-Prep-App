@@ -1,0 +1,457 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 11,
+  "chapter_title": "Social Change and Demographics",
+  "questions": [
+    {
+      "id": "behavioral-sciences-11-001",
+      "question_text": "Demography is the study of:",
+      "options": ["A. Democratic governments", "B. Population characteristics and changes", "C. Geographic features", "D. Cultural practices"],
+      "correct_answer": "B",
+      "explanation": "Demography is the statistical study of populations, including their size, composition, distribution, and changes over time due to births, deaths, and migration.",
+      "concept_tags": ["demography", "population", "statistics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-002",
+      "question_text": "The crude birth rate is calculated as:",
+      "options": ["A. Births per 1000 women of childbearing age", "B. Births per 1000 people in the population", "C. Total births divided by total deaths", "D. Births per married couple"],
+      "correct_answer": "B",
+      "explanation": "The crude birth rate is the number of live births per 1000 people in the population per year. It's 'crude' because it doesn't account for age or sex distribution.",
+      "concept_tags": ["crude birth rate", "vital statistics", "population measures"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-003",
+      "question_text": "The fertility rate differs from the crude birth rate by:",
+      "options": ["A. Including stillbirths", "B. Considering only women of childbearing age", "C. Excluding first births", "D. Counting multiple births as one"],
+      "correct_answer": "B",
+      "explanation": "The fertility rate (often the total fertility rate) measures births per woman of childbearing age, providing a more refined measure than the crude birth rate.",
+      "concept_tags": ["fertility rate", "birth rate", "population measures"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-004",
+      "question_text": "Replacement level fertility is approximately:",
+      "options": ["A. 1.0 children per woman", "B. 2.1 children per woman", "C. 3.0 children per woman", "D. 4.0 children per woman"],
+      "correct_answer": "B",
+      "explanation": "Replacement level fertility is about 2.1 children per woman, the level needed to maintain a stable population (slightly above 2 to account for mortality before reproduction).",
+      "concept_tags": ["replacement fertility", "population stability", "demography"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-005",
+      "question_text": "The mortality rate measures:",
+      "options": ["A. Deaths from disease only", "B. Deaths per 1000 people per year", "C. Infant deaths only", "D. Deaths from accidents"],
+      "correct_answer": "B",
+      "explanation": "The crude mortality (death) rate is the number of deaths per 1000 people in the population per year, regardless of cause.",
+      "concept_tags": ["mortality rate", "death rate", "vital statistics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-006",
+      "question_text": "Infant mortality rate specifically measures deaths of children:",
+      "options": ["A. Under 5 years old", "B. Under 1 year old", "C. At birth only", "D. Under 10 years old"],
+      "correct_answer": "B",
+      "explanation": "Infant mortality rate measures deaths of children under one year of age per 1000 live births. It's an important indicator of population health and healthcare access.",
+      "concept_tags": ["infant mortality", "health indicators", "demography"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-007",
+      "question_text": "The demographic transition model describes:",
+      "options": ["A. Immigration patterns", "B. Changes in birth and death rates with development", "C. Age distribution changes", "D. Urbanization trends"],
+      "correct_answer": "B",
+      "explanation": "The demographic transition model describes how populations move from high birth/death rates to low birth/death rates as societies industrialize and develop.",
+      "concept_tags": ["demographic transition", "development", "population change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-008",
+      "question_text": "In Stage 1 of the demographic transition, populations have:",
+      "options": ["A. High birth rates and low death rates", "B. High birth rates and high death rates", "C. Low birth rates and low death rates", "D. Low birth rates and high death rates"],
+      "correct_answer": "B",
+      "explanation": "Stage 1 (pre-industrial) is characterized by high birth and death rates, resulting in slow population growth. Few countries remain in this stage.",
+      "concept_tags": ["demographic transition", "stage 1", "pre-industrial"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-009",
+      "question_text": "The population explosion occurs during which stage of demographic transition?",
+      "options": ["A. Stage 1", "B. Stage 2", "C. Stage 3", "D. Stage 4"],
+      "correct_answer": "B",
+      "explanation": "Stage 2 sees rapid population growth as death rates fall (due to improved healthcare/sanitation) while birth rates remain high, creating a population explosion.",
+      "concept_tags": ["demographic transition", "stage 2", "population growth"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-010",
+      "question_text": "A population pyramid with a wide base indicates:",
+      "options": ["A. An aging population", "B. A young, growing population", "C. Zero population growth", "D. High death rates in elderly"],
+      "correct_answer": "B",
+      "explanation": "A wide-base pyramid shows a large proportion of young people, indicating high fertility and a growing population typical of developing countries.",
+      "concept_tags": ["population pyramid", "age structure", "population growth"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-011",
+      "question_text": "Malthusian theory predicts that:",
+      "options": ["A. Population will always decrease", "B. Population will outgrow food supply", "C. Technology will solve all problems", "D. Birth rates will fall naturally"],
+      "correct_answer": "B",
+      "explanation": "Malthus argued that population grows geometrically while food supply grows arithmetically, leading to inevitable food shortages and population checks.",
+      "concept_tags": ["Malthusian theory", "population growth", "food supply"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-012",
+      "question_text": "Migration is defined as:",
+      "options": ["A. Daily commuting to work", "B. Movement of people across significant boundaries", "C. Seasonal travel for vacation", "D. Short-term displacement"],
+      "correct_answer": "B",
+      "explanation": "Migration is the relatively permanent movement of people across significant geographic boundaries, whether international or internal.",
+      "concept_tags": ["migration", "population movement", "demography"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-013",
+      "question_text": "Push factors in migration include:",
+      "options": ["A. Better job opportunities elsewhere", "B. War, poverty, and persecution at origin", "C. Family connections in new location", "D. Higher wages abroad"],
+      "correct_answer": "B",
+      "explanation": "Push factors are negative conditions in the origin area that motivate people to leave, such as conflict, poverty, discrimination, or natural disasters.",
+      "concept_tags": ["push factors", "migration", "displacement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-014",
+      "question_text": "Pull factors in migration include:",
+      "options": ["A. Natural disasters at home", "B. Economic opportunities at destination", "C. Political persecution at home", "D. Famine in origin country"],
+      "correct_answer": "B",
+      "explanation": "Pull factors are attractive conditions at the destination that draw migrants, such as job opportunities, political freedom, better living conditions, or family reunification.",
+      "concept_tags": ["pull factors", "migration", "opportunity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-015",
+      "question_text": "Urbanization refers to:",
+      "options": ["A. Improving city infrastructure", "B. Movement of population from rural to urban areas", "C. Building more skyscrapers", "D. Expanding city boundaries"],
+      "correct_answer": "B",
+      "explanation": "Urbanization is the process by which an increasing proportion of a population comes to live in cities and urban areas rather than rural areas.",
+      "concept_tags": ["urbanization", "rural-urban migration", "population distribution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-016",
+      "question_text": "Suburbanization describes:",
+      "options": ["A. Growth of inner cities", "B. Movement from cities to surrounding suburban areas", "C. Urban renewal programs", "D. Gentrification of neighborhoods"],
+      "correct_answer": "B",
+      "explanation": "Suburbanization is the movement of population from urban centers to surrounding suburbs, often driven by desire for space, safety, and affordability.",
+      "concept_tags": ["suburbanization", "population movement", "urban development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-017",
+      "question_text": "Gentrification involves:",
+      "options": ["A. Population aging in place", "B. Renovation of deteriorated neighborhoods attracting wealthier residents", "C. Industrial development of cities", "D. Preservation of historic buildings"],
+      "correct_answer": "B",
+      "explanation": "Gentrification is the process where deteriorated urban neighborhoods are renovated, attracting wealthier residents and often displacing original lower-income residents.",
+      "concept_tags": ["gentrification", "urban change", "displacement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-018",
+      "question_text": "Urban sprawl refers to:",
+      "options": ["A. High-density urban development", "B. Low-density, automobile-dependent expansion", "C. Vertical growth of cities", "D. Mixed-use development"],
+      "correct_answer": "B",
+      "explanation": "Urban sprawl describes low-density, automobile-dependent development spreading outward from urban centers, often characterized by single-family homes and shopping centers.",
+      "concept_tags": ["urban sprawl", "suburban development", "land use"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-019",
+      "question_text": "Globalization is characterized by:",
+      "options": ["A. Isolation of national economies", "B. Increased interconnection of world economies and cultures", "C. Return to traditional practices", "D. Decreased international travel"],
+      "correct_answer": "B",
+      "explanation": "Globalization refers to the increasing interconnection of world economies, cultures, and populations through trade, technology, migration, and information exchange.",
+      "concept_tags": ["globalization", "interconnection", "world systems"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-020",
+      "question_text": "Social movements are:",
+      "options": ["A. Random collective behaviors", "B. Organized efforts to promote or resist social change", "C. Government-sponsored programs", "D. Individual acts of protest"],
+      "correct_answer": "B",
+      "explanation": "Social movements are organized collective efforts by groups to promote social change (progressive) or resist change (reactionary/conservative movements).",
+      "concept_tags": ["social movements", "collective action", "social change"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-021",
+      "question_text": "The civil rights movement is an example of a:",
+      "options": ["A. Reactionary movement", "B. Reform movement", "C. Revolutionary movement", "D. Regressive movement"],
+      "correct_answer": "B",
+      "explanation": "The civil rights movement sought reform within the existing system to achieve equal rights, rather than complete system overthrow (revolutionary) or return to past conditions (reactionary).",
+      "concept_tags": ["reform movement", "civil rights", "social change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-022",
+      "question_text": "Resource mobilization theory suggests that social movements succeed through:",
+      "options": ["A. Spontaneous collective behavior", "B. Effective organization and resource acquisition", "C. Charismatic leadership alone", "D. Government support"],
+      "correct_answer": "B",
+      "explanation": "Resource mobilization theory emphasizes that successful movements require effective organization, resources (money, members, media access), and strategic action.",
+      "concept_tags": ["resource mobilization", "social movement theory", "organization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-023",
+      "question_text": "Frame alignment in social movements refers to:",
+      "options": ["A. Physical organization of protests", "B. Linking movement goals to potential supporters' values", "C. Setting up organizational structures", "D. Creating physical barriers"],
+      "correct_answer": "B",
+      "explanation": "Frame alignment involves connecting a movement's interpretive framework with that of potential participants, making the movement's goals resonate with their values and beliefs.",
+      "concept_tags": ["framing", "social movements", "recruitment"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-11-024",
+      "question_text": "Political opportunity structure theory argues that movements emerge when:",
+      "options": ["A. Leaders are most charismatic", "B. Political conditions become favorable", "C. Resources are most abundant", "D. Public opinion is unified"],
+      "correct_answer": "B",
+      "explanation": "Political opportunity structure theory emphasizes that social movements emerge and succeed when political conditions create openings, such as divided elites or increased political access.",
+      "concept_tags": ["political opportunity", "social movement theory", "political context"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-11-025",
+      "question_text": "New social movements primarily focus on:",
+      "options": ["A. Economic class issues", "B. Identity, lifestyle, and quality of life issues", "C. Workplace rights", "D. Government overthrow"],
+      "correct_answer": "B",
+      "explanation": "New social movements (environmental, LGBTQ+, feminist) focus on identity, lifestyle, and quality-of-life issues rather than traditional class-based economic concerns.",
+      "concept_tags": ["new social movements", "identity politics", "post-material"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-026",
+      "question_text": "Social change refers to:",
+      "options": ["A. Individual behavior modification", "B. Significant alteration of social structures and patterns", "C. Changes in government only", "D. Technological innovation exclusively"],
+      "correct_answer": "B",
+      "explanation": "Social change encompasses significant alterations in social structures, cultural patterns, and behavioral norms over time within a society.",
+      "concept_tags": ["social change", "society", "transformation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-027",
+      "question_text": "Technology as a driver of social change is illustrated by:",
+      "options": ["A. The printing press enabling mass communication", "B. Changes in religious beliefs", "C. Political revolutions alone", "D. Natural disasters"],
+      "correct_answer": "A",
+      "explanation": "Technological innovations like the printing press, industrial machinery, and digital technology have driven profound social changes in communication, work, and social organization.",
+      "concept_tags": ["technology", "social change", "innovation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-028",
+      "question_text": "Cultural lag occurs when:",
+      "options": ["A. Cultures never change", "B. Material culture changes faster than non-material culture", "C. Values change faster than technology", "D. All cultural elements change equally"],
+      "correct_answer": "B",
+      "explanation": "Cultural lag (William Ogburn) describes when material culture (technology) changes faster than non-material culture (values, norms, laws), creating social strain.",
+      "concept_tags": ["cultural lag", "Ogburn", "social change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-029",
+      "question_text": "An example of cultural lag would be:",
+      "options": ["A. Simultaneous changes in all institutions", "B. Laws struggling to keep up with internet technology", "C. Fashion trends changing quickly", "D. New foods becoming popular"],
+      "correct_answer": "B",
+      "explanation": "Laws and ethical frameworks (non-material culture) often struggle to keep pace with rapid technological changes like the internet, illustrating cultural lag.",
+      "concept_tags": ["cultural lag", "technology", "regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-030",
+      "question_text": "Collective behavior differs from institutionalized behavior in that it is:",
+      "options": ["A. Always violent", "B. Relatively spontaneous and unstructured", "C. Government-organized", "D. Highly predictable"],
+      "correct_answer": "B",
+      "explanation": "Collective behavior (crowds, riots, fads) is relatively spontaneous, unstructured, and unpredictable compared to routine institutionalized behavior.",
+      "concept_tags": ["collective behavior", "spontaneity", "social behavior"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-031",
+      "question_text": "A fad is characterized by:",
+      "options": ["A. Long-lasting social significance", "B. Short-lived, intense enthusiasm for something", "C. Deep cultural meaning", "D. Resistance to change"],
+      "correct_answer": "B",
+      "explanation": "Fads are short-lived enthusiastic embrace of specific activities, fashions, or products that spread quickly but fade just as fast with little lasting impact.",
+      "concept_tags": ["fad", "collective behavior", "popular culture"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-032",
+      "question_text": "Mass hysteria involves:",
+      "options": ["A. Rational collective decision-making", "B. Collective anxiety about perceived threat, often unfounded", "C. Organized political protest", "D. Individual mental illness"],
+      "correct_answer": "B",
+      "explanation": "Mass hysteria is collective anxiety based on false or exaggerated beliefs about a threat, spreading rapidly through a population with physical or psychological symptoms.",
+      "concept_tags": ["mass hysteria", "collective behavior", "anxiety"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-033",
+      "question_text": "Moral panic occurs when society:",
+      "options": ["A. Achieves moral consensus", "B. Experiences exaggerated fear about a perceived threat to values", "C. Debates ethical issues calmly", "D. Implements moral education"],
+      "correct_answer": "B",
+      "explanation": "Moral panic is an intense collective concern about a perceived threat to societal values, often amplified by media, that exceeds the actual danger posed.",
+      "concept_tags": ["moral panic", "media amplification", "social threat"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-034",
+      "question_text": "The dependency ratio measures:",
+      "options": ["A. Economic dependence on imports", "B. Non-working population relative to working-age population", "C. Children's dependence on parents", "D. Government debt levels"],
+      "correct_answer": "B",
+      "explanation": "The dependency ratio compares the dependent population (typically under 15 and over 65) to the working-age population, indicating economic burden on workers.",
+      "concept_tags": ["dependency ratio", "age structure", "economics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-035",
+      "question_text": "An aging population creates challenges including:",
+      "options": ["A. Too many workers", "B. Strain on healthcare and pension systems", "C. Excess school capacity", "D. Housing surplus"],
+      "correct_answer": "B",
+      "explanation": "Aging populations strain healthcare systems and pension/social security programs as the ratio of retirees to workers increases.",
+      "concept_tags": ["aging population", "healthcare", "social security"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-036",
+      "question_text": "The epidemiological transition describes changes in:",
+      "options": ["A. Economic development stages", "B. Primary causes of death as societies develop", "C. Educational systems", "D. Political structures"],
+      "correct_answer": "B",
+      "explanation": "The epidemiological transition describes the shift from infectious diseases as primary causes of death to chronic/degenerative diseases as societies develop and life expectancy increases.",
+      "concept_tags": ["epidemiological transition", "mortality", "disease patterns"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-037",
+      "question_text": "Life expectancy at birth in developed nations is typically:",
+      "options": ["A. 50-60 years", "B. 60-70 years", "C. 75-85+ years", "D. 40-50 years"],
+      "correct_answer": "C",
+      "explanation": "Life expectancy in developed nations typically ranges from 75-85+ years due to advanced healthcare, sanitation, nutrition, and lower infant mortality.",
+      "concept_tags": ["life expectancy", "developed nations", "health"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-038",
+      "question_text": "Modernization theory argues that development occurs through:",
+      "options": ["A. Maintaining traditional practices", "B. Adoption of Western values and institutions", "C. Rejection of capitalism", "D. Agricultural expansion"],
+      "correct_answer": "B",
+      "explanation": "Modernization theory suggests that developing nations can achieve progress by adopting Western values, institutions, technology, and economic practices.",
+      "concept_tags": ["modernization theory", "development", "westernization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-039",
+      "question_text": "World systems theory views global inequality as resulting from:",
+      "options": ["A. Natural resource distribution", "B. Core nations exploiting peripheral nations", "C. Cultural differences only", "D. Climate variations"],
+      "correct_answer": "B",
+      "explanation": "World systems theory (Wallerstein) argues that wealthy core nations exploit peripheral nations through unequal economic relations, perpetuating global inequality.",
+      "concept_tags": ["world systems theory", "exploitation", "global inequality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-040",
+      "question_text": "Social institutions change through all of the following EXCEPT:",
+      "options": ["A. Technological innovation", "B. Social movements", "C. Biological evolution", "D. Cultural diffusion"],
+      "correct_answer": "C",
+      "explanation": "Social institutions change through technology, social movements, cultural diffusion, and other social processes. Biological evolution operates on much longer timescales and affects organisms, not institutions.",
+      "concept_tags": ["institutional change", "social change", "evolution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-041",
+      "question_text": "Cultural diffusion refers to:",
+      "options": ["A. Culture becoming less important", "B. Spread of cultural elements between societies", "C. Cultural isolation", "D. Loss of cultural traditions"],
+      "correct_answer": "B",
+      "explanation": "Cultural diffusion is the spread of cultural beliefs, practices, objects, and ideas from one society or group to another through contact and communication.",
+      "concept_tags": ["cultural diffusion", "cultural change", "globalization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-042",
+      "question_text": "Assimilation involves:",
+      "options": ["A. Maintaining distinct cultural identity", "B. Adopting the dominant group's culture", "C. Rejecting all cultural practices", "D. Cultural isolation"],
+      "correct_answer": "B",
+      "explanation": "Assimilation is the process by which minority groups gradually adopt the culture, values, and practices of the dominant group, often losing distinctive cultural traits.",
+      "concept_tags": ["assimilation", "acculturation", "minority groups"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-043",
+      "question_text": "Multiculturalism differs from assimilation by:",
+      "options": ["A. Requiring cultural uniformity", "B. Valuing maintenance of diverse cultural identities", "C. Promoting dominant culture only", "D. Discouraging immigration"],
+      "correct_answer": "B",
+      "explanation": "Multiculturalism values and supports the maintenance of distinct cultural identities within a society, in contrast to assimilation's emphasis on cultural uniformity.",
+      "concept_tags": ["multiculturalism", "cultural diversity", "integration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-044",
+      "question_text": "Conflict theory views social change as driven by:",
+      "options": ["A. Gradual consensus building", "B. Struggle between competing groups for resources", "C. Natural evolution", "D. Divine intervention"],
+      "correct_answer": "B",
+      "explanation": "Conflict theory sees social change as arising from struggle between groups with competing interests, particularly conflicts over economic resources and power.",
+      "concept_tags": ["conflict theory", "social change", "power"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-045",
+      "question_text": "Functionalist theory views social change as:",
+      "options": ["A. Always disruptive", "B. Adaptive responses to maintain social equilibrium", "C. Random and unpredictable", "D. Primarily driven by conflict"],
+      "correct_answer": "B",
+      "explanation": "Functionalism views change as societies adapting to restore equilibrium when disrupted, with institutions evolving to meet new needs and maintain social stability.",
+      "concept_tags": ["functionalism", "social change", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-046",
+      "question_text": "Net migration is calculated as:",
+      "options": ["A. Total immigrants only", "B. Immigration minus emigration", "C. Total emigrants only", "D. Internal migration only"],
+      "correct_answer": "B",
+      "explanation": "Net migration is the difference between the number of people entering (immigration) and leaving (emigration) a geographic area during a period.",
+      "concept_tags": ["net migration", "immigration", "emigration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-047",
+      "question_text": "Diaspora refers to:",
+      "options": ["A. Immigration policy", "B. Dispersion of a people from their homeland", "C. Return migration", "D. Seasonal migration"],
+      "correct_answer": "B",
+      "explanation": "Diaspora describes the dispersion of any people from their original homeland, often maintaining cultural ties and identity while living in other countries.",
+      "concept_tags": ["diaspora", "migration", "ethnic community"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-048",
+      "question_text": "The brain drain phenomenon involves:",
+      "options": ["A. Decreased education quality", "B. Emigration of highly skilled professionals", "C. Memory loss in aging populations", "D. Decline in intelligence testing"],
+      "correct_answer": "B",
+      "explanation": "Brain drain is the emigration of highly trained and educated professionals from their home country, often to developed nations offering better opportunities.",
+      "concept_tags": ["brain drain", "skilled migration", "human capital"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-11-049",
+      "question_text": "Relative deprivation theory suggests that social movements arise when people:",
+      "options": ["A. Are objectively the poorest", "B. Feel deprived relative to others or their expectations", "C. Have all their needs met", "D. Are isolated from society"],
+      "correct_answer": "B",
+      "explanation": "Relative deprivation theory argues that discontent and social movements arise from perceived gaps between what people have and what they feel entitled to or see others having.",
+      "concept_tags": ["relative deprivation", "social movements", "expectations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-11-050",
+      "question_text": "A census is important for:",
+      "options": ["A. Entertainment purposes only", "B. Counting and characterizing the population for planning", "C. Limiting immigration", "D. Collecting taxes only"],
+      "correct_answer": "B",
+      "explanation": "Census data provides essential information about population characteristics for government planning, resource allocation, political representation, and social research.",
+      "concept_tags": ["census", "population data", "planning"],
+      "difficulty": "easy"
+    }
+  ]
+}

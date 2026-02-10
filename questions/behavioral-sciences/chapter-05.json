@@ -1,0 +1,457 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 5,
+  "chapter_title": "Identity and Personality",
+  "questions": [
+    {
+      "id": "behavioral-sciences-05-001",
+      "question_text": "According to Freud, the id operates on the:",
+      "options": ["A. Reality principle", "B. Pleasure principle", "C. Moral principle", "D. Social principle"],
+      "correct_answer": "B",
+      "explanation": "The id is the primitive, instinctual part of personality operating on the pleasure principle—seeking immediate gratification without considering reality or morality.",
+      "concept_tags": ["freud", "id", "pleasure-principle"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-002",
+      "question_text": "The Big Five personality traits include all EXCEPT:",
+      "options": ["A. Openness", "B. Conscientiousness", "C. Introversion", "D. Agreeableness"],
+      "correct_answer": "C",
+      "explanation": "The Big Five (OCEAN) are: Openness, Conscientiousness, Extraversion (not introversion), Agreeableness, and Neuroticism.",
+      "concept_tags": ["big-five", "personality-traits", "OCEAN"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-003",
+      "question_text": "Erikson's stage of identity vs. role confusion occurs during:",
+      "options": ["A. Early childhood", "B. Adolescence", "C. Middle adulthood", "D. Late adulthood"],
+      "correct_answer": "B",
+      "explanation": "Identity vs. role confusion is Erikson's fifth stage (adolescence). Teens explore and form their identity; failure leads to role confusion.",
+      "concept_tags": ["erikson", "identity", "adolescence"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-004",
+      "question_text": "Self-concept refers to:",
+      "options": ["A. How others see us", "B. Our ideal self", "C. Our overall perception of ourselves", "D. Our unconscious mind"],
+      "correct_answer": "C",
+      "explanation": "Self-concept is the overall perception and understanding we have of ourselves—our beliefs about our attributes, abilities, and characteristics.",
+      "concept_tags": ["self-concept", "self-perception", "identity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-005",
+      "question_text": "The looking-glass self theory suggests that:",
+      "options": ["A. We see ourselves accurately", "B. Our self-concept is shaped by how we think others see us", "C. Mirrors affect self-esteem", "D. Self-concept is entirely innate"],
+      "correct_answer": "B",
+      "explanation": "Cooley's looking-glass self: we develop our sense of self based on how we imagine others perceive us—their judgments become internalized.",
+      "concept_tags": ["looking-glass-self", "cooley", "social-self"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-006",
+      "question_text": "According to Kohlberg, conventional morality is characterized by:",
+      "options": ["A. Avoiding punishment", "B. Seeking personal gain", "C. Following social norms and laws", "D. Abstract ethical principles"],
+      "correct_answer": "C",
+      "explanation": "Conventional morality (stages 3-4) involves conforming to social expectations and maintaining social order. Pre-conventional focuses on self-interest; post-conventional on universal principles.",
+      "concept_tags": ["kohlberg", "moral-development", "conventional"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-007",
+      "question_text": "The superego in Freud's model represents:",
+      "options": ["A. Primitive impulses", "B. Reality-based decision making", "C. Internalized moral standards", "D. Defense mechanisms"],
+      "correct_answer": "C",
+      "explanation": "The superego contains internalized moral standards and ideals from parents and society. It creates guilt when we violate these standards.",
+      "concept_tags": ["freud", "superego", "morality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-008",
+      "question_text": "Locus of control refers to:",
+      "options": ["A. Physical location of self-control", "B. Beliefs about what controls outcomes in life", "C. Brain regions for impulse control", "D. Social hierarchy"],
+      "correct_answer": "B",
+      "explanation": "Locus of control (Rotter) is the extent to which people believe they control outcomes (internal) versus outside forces control them (external).",
+      "concept_tags": ["locus-of-control", "rotter", "attribution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-009",
+      "question_text": "The humanistic perspective on personality emphasizes:",
+      "options": ["A. Unconscious conflicts", "B. Learned behaviors", "C. Self-actualization and personal growth", "D. Genetic determinism"],
+      "correct_answer": "C",
+      "explanation": "Humanistic psychology (Maslow, Rogers) emphasizes free will, personal growth, self-actualization, and the inherent goodness of people.",
+      "concept_tags": ["humanistic", "self-actualization", "rogers"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-010",
+      "question_text": "Social identity theory proposes that:",
+      "options": ["A. Identity is entirely personal", "B. Group memberships contribute to self-concept", "C. Identity is fixed at birth", "D. Social factors don't affect identity"],
+      "correct_answer": "B",
+      "explanation": "Social identity theory (Tajfel): part of our self-concept comes from group memberships. We categorize ourselves and others into in-groups and out-groups.",
+      "concept_tags": ["social-identity", "tajfel", "group-membership"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-011",
+      "question_text": "Carl Rogers emphasized the importance of:",
+      "options": ["A. Conditional positive regard", "B. Unconditional positive regard", "C. Punishment", "D. Defense mechanisms"],
+      "correct_answer": "B",
+      "explanation": "Rogers believed unconditional positive regard—acceptance without conditions—is essential for healthy personality development and self-actualization.",
+      "concept_tags": ["rogers", "unconditional-positive-regard", "humanistic"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-012",
+      "question_text": "Projection as a defense mechanism involves:",
+      "options": ["A. Attributing one's own unacceptable impulses to others", "B. Returning to an earlier stage of development", "C. Channeling impulses into acceptable activities", "D. Pushing thoughts into the unconscious"],
+      "correct_answer": "A",
+      "explanation": "Projection involves attributing one's own unacceptable thoughts, feelings, or impulses to someone else—e.g., a dishonest person accusing others of dishonesty.",
+      "concept_tags": ["projection", "defense-mechanisms", "freud"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-013",
+      "question_text": "Self-esteem refers to:",
+      "options": ["A. Knowledge about oneself", "B. Evaluation of one's worth", "C. Ideal self-image", "D. Others' opinions of us"],
+      "correct_answer": "B",
+      "explanation": "Self-esteem is the evaluative component of self-concept—how positively or negatively we evaluate our own worth and value.",
+      "concept_tags": ["self-esteem", "self-evaluation", "self-worth"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-014",
+      "question_text": "Marcia's identity status of 'moratorium' is characterized by:",
+      "options": ["A. Commitment without exploration", "B. Active exploration without commitment", "C. No exploration or commitment", "D. Commitment after exploration"],
+      "correct_answer": "B",
+      "explanation": "Moratorium: actively exploring identity options without having made commitments. Foreclosure = commitment without exploration; Diffusion = neither; Achievement = both.",
+      "concept_tags": ["marcia", "identity-status", "moratorium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-015",
+      "question_text": "Trait theory differs from psychodynamic theory in that traits are:",
+      "options": ["A. Unconscious", "B. Relatively stable and measurable", "C. Determined by early childhood", "D. Entirely genetic"],
+      "correct_answer": "B",
+      "explanation": "Trait theory views personality as composed of stable, measurable characteristics. Psychodynamic theory emphasizes unconscious processes and early experiences.",
+      "concept_tags": ["trait-theory", "personality-assessment", "stability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-016",
+      "question_text": "The self-serving bias leads people to:",
+      "options": ["A. Blame themselves for failures", "B. Attribute successes to themselves and failures to external factors", "C. View themselves negatively", "D. Accurately assess their abilities"],
+      "correct_answer": "B",
+      "explanation": "Self-serving bias: taking credit for successes (internal attribution) while blaming failures on external factors. This protects self-esteem.",
+      "concept_tags": ["self-serving-bias", "attribution", "self-esteem"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-017",
+      "question_text": "Regression as a defense mechanism involves:",
+      "options": ["A. Moving forward developmentally", "B. Reverting to behaviors from an earlier developmental stage", "C. Suppressing all emotions", "D. Intellectualizing problems"],
+      "correct_answer": "B",
+      "explanation": "Regression is reverting to behaviors characteristic of an earlier developmental stage when stressed—e.g., an adult throwing tantrums like a child.",
+      "concept_tags": ["regression", "defense-mechanisms", "development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-018",
+      "question_text": "Gender identity differs from gender role in that identity is:",
+      "options": ["A. Based on biological sex", "B. One's internal sense of being male, female, or other", "C. Behaviors expected based on gender", "D. Unchangeable"],
+      "correct_answer": "B",
+      "explanation": "Gender identity is one's internal, personal sense of their own gender. Gender role refers to socially expected behaviors based on perceived gender.",
+      "concept_tags": ["gender-identity", "gender-role", "distinction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-019",
+      "question_text": "Bandura's concept of reciprocal determinism suggests that:",
+      "options": ["A. Behavior is entirely determined by environment", "B. Personality, behavior, and environment mutually influence each other", "C. Personality is fixed at birth", "D. Environment has no effect on behavior"],
+      "correct_answer": "B",
+      "explanation": "Reciprocal determinism: personal factors (cognition, personality), behavior, and environment all interact and influence each other bidirectionally.",
+      "concept_tags": ["reciprocal-determinism", "bandura", "social-cognitive"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-020",
+      "question_text": "The ego operates on the:",
+      "options": ["A. Pleasure principle", "B. Reality principle", "C. Moral principle", "D. Social principle"],
+      "correct_answer": "B",
+      "explanation": "The ego mediates between id and superego, operating on the reality principle—finding realistic ways to satisfy id desires while considering consequences.",
+      "concept_tags": ["ego", "reality-principle", "freud"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-021",
+      "question_text": "Rationalization involves:",
+      "options": ["A. Using logic to solve problems", "B. Creating seemingly logical explanations for irrational behavior", "C. Becoming more rational over time", "D. Suppressing emotions"],
+      "correct_answer": "B",
+      "explanation": "Rationalization is justifying unacceptable behavior with logical-sounding but false explanations—e.g., 'I didn't really want that job anyway.'",
+      "concept_tags": ["rationalization", "defense-mechanisms", "justification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-022",
+      "question_text": "Erikson's first psychosocial stage (trust vs. mistrust) occurs during:",
+      "options": ["A. Adolescence", "B. Infancy (0-1 year)", "C. Early childhood (1-3 years)", "D. Middle childhood"],
+      "correct_answer": "B",
+      "explanation": "Trust vs. mistrust occurs in infancy. Consistent, responsive caregiving leads to trust; inconsistent care leads to mistrust.",
+      "concept_tags": ["erikson", "trust-mistrust", "infancy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-023",
+      "question_text": "The MMPI is used primarily to:",
+      "options": ["A. Measure intelligence", "B. Assess personality and psychopathology", "C. Test memory", "D. Evaluate creativity"],
+      "correct_answer": "B",
+      "explanation": "The Minnesota Multiphasic Personality Inventory (MMPI) is an objective personality test used to assess personality traits and psychological disorders.",
+      "concept_tags": ["MMPI", "personality-assessment", "psychopathology"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-024",
+      "question_text": "Displacement redirects emotions toward:",
+      "options": ["A. The original source", "B. A safer, substitute target", "C. Oneself", "D. No target"],
+      "correct_answer": "B",
+      "explanation": "Displacement redirects emotions from a threatening target to a safer substitute—e.g., getting angry at a boss but yelling at family instead.",
+      "concept_tags": ["displacement", "defense-mechanisms", "redirection"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-025",
+      "question_text": "Kohlberg's post-conventional morality involves:",
+      "options": ["A. Following rules to avoid punishment", "B. Conforming to social expectations", "C. Reasoning based on universal ethical principles", "D. Self-interest"],
+      "correct_answer": "C",
+      "explanation": "Post-conventional morality (stages 5-6) involves reasoning based on social contracts, individual rights, and universal ethical principles that may transcend laws.",
+      "concept_tags": ["kohlberg", "post-conventional", "moral-reasoning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-026",
+      "question_text": "The self-reference effect demonstrates that:",
+      "options": ["A. We forget information about ourselves", "B. Information relating to ourselves is better remembered", "C. We accurately recall all personal events", "D. Self-focus impairs memory"],
+      "correct_answer": "B",
+      "explanation": "The self-reference effect: we remember information better when it's related to ourselves. Processing information in terms of 'how does this relate to me?' enhances encoding.",
+      "concept_tags": ["self-reference-effect", "memory", "self-relevance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-027",
+      "question_text": "Repression differs from suppression in that repression is:",
+      "options": ["A. Conscious", "B. Unconscious", "C. More effective", "D. Less harmful"],
+      "correct_answer": "B",
+      "explanation": "Repression is unconsciously blocking threatening thoughts from awareness. Suppression is consciously trying not to think about something.",
+      "concept_tags": ["repression", "suppression", "defense-mechanisms"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-028",
+      "question_text": "Temperament refers to:",
+      "options": ["A. Learned personality traits", "B. Innate behavioral and emotional characteristics", "C. Cultural influences on personality", "D. Adult personality only"],
+      "correct_answer": "B",
+      "explanation": "Temperament refers to innate, biologically-based behavioral and emotional characteristics present from infancy. It's the foundation of personality.",
+      "concept_tags": ["temperament", "innate", "infant-personality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-029",
+      "question_text": "In Erikson's generativity vs. stagnation stage, generativity involves:",
+      "options": ["A. Forming an identity", "B. Contributing to future generations", "C. Reviewing one's life", "D. Developing intimate relationships"],
+      "correct_answer": "B",
+      "explanation": "Generativity (middle adulthood) involves contributing to society and guiding the next generation through parenting, mentoring, or creative work.",
+      "concept_tags": ["erikson", "generativity", "middle-adulthood"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-030",
+      "question_text": "Reaction formation involves:",
+      "options": ["A. Expressing true feelings", "B. Behaving opposite to one's actual feelings", "C. Imitating others' behaviors", "D. Suppressing all behavior"],
+      "correct_answer": "B",
+      "explanation": "Reaction formation: unconsciously converting unacceptable impulses into their opposites—e.g., treating a disliked person with excessive friendliness.",
+      "concept_tags": ["reaction-formation", "defense-mechanisms", "opposite"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-031",
+      "question_text": "Possible selves refer to:",
+      "options": ["A. Past versions of oneself", "B. Ideas about what we might become in the future", "C. Multiple personality disorder", "D. Unconscious selves"],
+      "correct_answer": "B",
+      "explanation": "Possible selves are cognitive representations of what we might become, hope to become, or fear becoming. They guide goal-setting and behavior.",
+      "concept_tags": ["possible-selves", "future-orientation", "motivation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-032",
+      "question_text": "The Thematic Apperception Test (TAT) is a:",
+      "options": ["A. Objective personality test", "B. Projective personality test", "C. Intelligence test", "D. Achievement test"],
+      "correct_answer": "B",
+      "explanation": "The TAT is a projective test where people create stories about ambiguous pictures. Their responses presumably reveal unconscious motives and conflicts.",
+      "concept_tags": ["TAT", "projective-test", "personality-assessment"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-033",
+      "question_text": "Self-verification theory suggests people prefer:",
+      "options": ["A. Only positive feedback", "B. Feedback consistent with their self-views", "C. Feedback from strangers only", "D. No feedback"],
+      "correct_answer": "B",
+      "explanation": "Self-verification theory: people prefer feedback that confirms their existing self-concept, even if that self-concept is negative, to maintain a stable identity.",
+      "concept_tags": ["self-verification", "self-concept", "feedback"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-05-034",
+      "question_text": "Intellectualization involves:",
+      "options": ["A. Becoming more intelligent", "B. Focusing on intellectual aspects to avoid emotional impact", "C. Using emotion over logic", "D. Denying reality"],
+      "correct_answer": "B",
+      "explanation": "Intellectualization is focusing on abstract or intellectual aspects of a situation to avoid its emotional impact—e.g., discussing illness in clinical terms only.",
+      "concept_tags": ["intellectualization", "defense-mechanisms", "emotional-avoidance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-035",
+      "question_text": "Gilligan criticized Kohlberg's theory for:",
+      "options": ["A. Including too many stages", "B. Being biased toward male moral reasoning", "C. Ignoring cognitive development", "D. Being too focused on emotions"],
+      "correct_answer": "B",
+      "explanation": "Gilligan argued Kohlberg's theory was based on male development. She proposed that women's moral reasoning emphasizes care and relationships, not just abstract justice.",
+      "concept_tags": ["gilligan", "moral-development", "gender-differences"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-036",
+      "question_text": "Self-efficacy is most likely to be enhanced by:",
+      "options": ["A. Repeated failures", "B. Mastery experiences (successes)", "C. Negative feedback", "D. Avoiding challenges"],
+      "correct_answer": "B",
+      "explanation": "Bandura identified mastery experiences (personal successes) as the most powerful source of self-efficacy. Other sources include vicarious experience and verbal persuasion.",
+      "concept_tags": ["self-efficacy", "mastery-experiences", "bandura"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-037",
+      "question_text": "Identity foreclosure occurs when an adolescent:",
+      "options": ["A. Has explored and committed to an identity", "B. Commits to an identity without exploration", "C. Actively explores without committing", "D. Has neither explored nor committed"],
+      "correct_answer": "B",
+      "explanation": "Foreclosure: committing to an identity (often adopted from parents) without exploring alternatives. The identity is not truly one's own.",
+      "concept_tags": ["marcia", "foreclosure", "identity-development"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-038",
+      "question_text": "Neuroticism as a Big Five trait is characterized by:",
+      "options": ["A. Emotional stability", "B. Tendency toward negative emotions and emotional instability", "C. Openness to new experiences", "D. High agreeableness"],
+      "correct_answer": "B",
+      "explanation": "Neuroticism involves tendency toward anxiety, depression, anger, and emotional instability. Low neuroticism means emotional stability.",
+      "concept_tags": ["neuroticism", "big-five", "emotional-instability"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-039",
+      "question_text": "The fundamental attribution error is:",
+      "options": ["A. Overestimating situational factors for others' behavior", "B. Underestimating dispositional factors for our own behavior", "C. Overestimating dispositional factors for others' behavior", "D. Accurate attribution"],
+      "correct_answer": "C",
+      "explanation": "The fundamental attribution error: overestimating internal/dispositional factors and underestimating situational factors when explaining others' behavior.",
+      "concept_tags": ["fundamental-attribution-error", "attribution", "bias"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-040",
+      "question_text": "Erikson's integrity vs. despair stage involves:",
+      "options": ["A. Forming an identity", "B. Developing intimate relationships", "C. Reflecting on life with satisfaction or regret", "D. Contributing to future generations"],
+      "correct_answer": "C",
+      "explanation": "Integrity vs. despair (late adulthood): reflecting on life. Integrity comes from feeling life was meaningful; despair from regret and fear of death.",
+      "concept_tags": ["erikson", "integrity-despair", "late-adulthood"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-041",
+      "question_text": "The social cognitive theory of personality emphasizes:",
+      "options": ["A. Unconscious conflicts", "B. Learning through observation and cognitive processes", "C. Biological determinism", "D. Instincts"],
+      "correct_answer": "B",
+      "explanation": "Social cognitive theory (Bandura) emphasizes learning through observation, cognitive processes (expectations, beliefs), and reciprocal determinism.",
+      "concept_tags": ["social-cognitive", "bandura", "observational-learning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-042",
+      "question_text": "Stereotype threat can affect:",
+      "options": ["A. Only those who believe the stereotype", "B. Performance of anyone aware of a negative stereotype about their group", "C. Only minority groups", "D. Physical abilities only"],
+      "correct_answer": "B",
+      "explanation": "Stereotype threat: awareness of negative stereotypes about one's group can impair performance on related tasks due to anxiety and self-consciousness.",
+      "concept_tags": ["stereotype-threat", "performance", "self-concept"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-043",
+      "question_text": "Self-handicapping involves:",
+      "options": ["A. Creating obstacles to success to protect self-esteem", "B. Working harder to succeed", "C. Accurate self-assessment", "D. Setting realistic goals"],
+      "correct_answer": "A",
+      "explanation": "Self-handicapping: creating obstacles (procrastinating, not trying) so failure can be attributed to the obstacle rather than lack of ability.",
+      "concept_tags": ["self-handicapping", "self-esteem-protection", "attribution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-044",
+      "question_text": "The spotlight effect refers to:",
+      "options": ["A. Being good at public speaking", "B. Overestimating how much others notice our appearance and behavior", "C. Underestimating others' attention", "D. Accurate social perception"],
+      "correct_answer": "B",
+      "explanation": "The spotlight effect: we overestimate how much others notice and pay attention to our appearance, behavior, and mistakes.",
+      "concept_tags": ["spotlight-effect", "self-consciousness", "social-perception"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-045",
+      "question_text": "Ethnic identity development typically involves:",
+      "options": ["A. Rejecting one's ethnic background", "B. Exploration and commitment to one's ethnic group membership", "C. Ignoring ethnic heritage", "D. Assimilating completely"],
+      "correct_answer": "B",
+      "explanation": "Ethnic identity development involves exploring the meaning of ethnicity in one's life and developing commitment to and pride in one's ethnic group.",
+      "concept_tags": ["ethnic-identity", "identity-development", "culture"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-046",
+      "question_text": "Denial differs from repression in that denial involves:",
+      "options": ["A. Refusing to acknowledge external reality", "B. Pushing internal thoughts into the unconscious", "C. Conscious awareness", "D. Intellectual understanding"],
+      "correct_answer": "A",
+      "explanation": "Denial involves refusing to accept external reality (a diagnosis, a death). Repression involves pushing internal thoughts and memories into the unconscious.",
+      "concept_tags": ["denial", "repression", "defense-mechanisms"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-047",
+      "question_text": "Internal locus of control is associated with:",
+      "options": ["A. Helplessness", "B. Better coping with stress", "C. External attribution for success", "D. Lower motivation"],
+      "correct_answer": "B",
+      "explanation": "Internal locus of control (believing you control outcomes) is associated with better coping, higher motivation, and better health outcomes.",
+      "concept_tags": ["internal-locus", "coping", "control-beliefs"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-048",
+      "question_text": "Self-discrepancy theory suggests distress arises from:",
+      "options": ["A. Accurate self-perception", "B. Gaps between actual self and ideal/ought selves", "C. Too much self-focus", "D. Lack of self-awareness"],
+      "correct_answer": "B",
+      "explanation": "Higgins' self-discrepancy theory: psychological distress occurs when there are discrepancies between our actual self and our ideal self (hopes) or ought self (duties).",
+      "concept_tags": ["self-discrepancy", "higgins", "ideal-self"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-05-049",
+      "question_text": "Openness to experience includes:",
+      "options": ["A. Preference for routine", "B. Curiosity, creativity, and appreciation for new ideas", "C. Emotional stability", "D. Sociability"],
+      "correct_answer": "B",
+      "explanation": "Openness to experience involves curiosity, creativity, imagination, appreciation for art and ideas, and willingness to try new things.",
+      "concept_tags": ["openness", "big-five", "creativity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-05-050",
+      "question_text": "The Rorschach inkblot test is criticized for:",
+      "options": ["A. Being too objective", "B. Low reliability and validity", "C. Being too long", "D. Requiring special equipment"],
+      "correct_answer": "B",
+      "explanation": "The Rorschach test has questionable reliability (inconsistent results) and validity (doesn't clearly measure what it claims). It's a projective test with subjective interpretation.",
+      "concept_tags": ["rorschach", "projective-test", "reliability-validity"],
+      "difficulty": "medium"
+    }
+  ]
+}

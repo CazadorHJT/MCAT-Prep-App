@@ -1,0 +1,457 @@
+{
+  "book": "organic-chemistry",
+  "chapter": 6,
+  "chapter_title": "Aldehydes and Ketones",
+  "questions": [
+    {
+      "id": "organic-chemistry-06-001",
+      "question_text": "The carbonyl group in aldehydes is bonded to:",
+      "options": ["A. Two alkyl groups", "B. At least one hydrogen atom", "C. Two hydrogen atoms only", "D. A hydroxyl group"],
+      "correct_answer": "B",
+      "explanation": "Aldehydes have a carbonyl group bonded to at least one hydrogen atom and either another H (formaldehyde) or an alkyl/aryl group.",
+      "concept_tags": ["aldehydes", "carbonyl", "functional groups"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-002",
+      "question_text": "The carbonyl carbon is electrophilic because:",
+      "options": ["A. It has a full positive charge", "B. The C=O bond is polarized with partial positive charge on carbon", "C. It has empty d orbitals", "D. Oxygen donates electrons to carbon"],
+      "correct_answer": "B",
+      "explanation": "The electronegative oxygen creates a polarized C=O bond, giving the carbonyl carbon a partial positive charge (δ+), making it electrophilic.",
+      "concept_tags": ["carbonyl", "electrophilicity", "polarity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-003",
+      "question_text": "Which reagent selectively oxidizes primary alcohols to aldehydes without over-oxidation?",
+      "options": ["A. KMnO4", "B. CrO3/H2SO4", "C. PCC (pyridinium chlorochromate)", "D. Na2Cr2O7/H2SO4"],
+      "correct_answer": "C",
+      "explanation": "PCC is a mild oxidizing agent that converts primary alcohols to aldehydes without further oxidation to carboxylic acids, unlike stronger oxidizers.",
+      "concept_tags": ["PCC", "oxidation", "aldehydes", "selective oxidation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-004",
+      "question_text": "Aldehydes can be distinguished from ketones using:",
+      "options": ["A. Brady's reagent", "B. Tollens' test", "C. IR spectroscopy alone", "D. Mass spectrometry"],
+      "correct_answer": "B",
+      "explanation": "Tollens' test (silver mirror test) oxidizes aldehydes to carboxylic acids while reducing Ag+ to metallic silver. Ketones do not react.",
+      "concept_tags": ["Tollens test", "aldehydes", "chemical tests"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-005",
+      "question_text": "The product of nucleophilic addition to a carbonyl is called a:",
+      "options": ["A. Carbanion", "B. Carbocation", "C. Tetrahedral intermediate", "D. Radical"],
+      "correct_answer": "C",
+      "explanation": "Nucleophilic attack on the carbonyl carbon converts the sp2 carbon to sp3, forming a tetrahedral intermediate with the oxygen bearing a negative charge.",
+      "concept_tags": ["nucleophilic addition", "tetrahedral intermediate", "mechanism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-006",
+      "question_text": "Grignard reagents react with aldehydes to form:",
+      "options": ["A. Primary alcohols", "B. Secondary alcohols", "C. Tertiary alcohols", "D. Carboxylic acids"],
+      "correct_answer": "B",
+      "explanation": "Grignard reagents add to aldehydes (except formaldehyde) to form secondary alcohols after protonation. Formaldehyde gives primary alcohols.",
+      "concept_tags": ["Grignard reaction", "aldehydes", "secondary alcohols"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-007",
+      "question_text": "Grignard reagents react with ketones to form:",
+      "options": ["A. Primary alcohols", "B. Secondary alcohols", "C. Tertiary alcohols", "D. Ethers"],
+      "correct_answer": "C",
+      "explanation": "Grignard reagents add to ketones to form tertiary alcohols after protonation, as the ketone already has two carbon substituents.",
+      "concept_tags": ["Grignard reaction", "ketones", "tertiary alcohols"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-008",
+      "question_text": "The reaction of an aldehyde with HCN produces:",
+      "options": ["A. An amine", "B. A cyanohydrin", "C. A nitrile", "D. An amide"],
+      "correct_answer": "B",
+      "explanation": "HCN adds to the carbonyl to form a cyanohydrin, with the CN group attached to the former carbonyl carbon and an OH group.",
+      "concept_tags": ["cyanohydrin", "HCN addition", "aldehydes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-009",
+      "question_text": "A hemiacetal is formed by the reaction of an aldehyde with:",
+      "options": ["A. Water", "B. One equivalent of alcohol", "C. Two equivalents of alcohol", "D. A Grignard reagent"],
+      "correct_answer": "B",
+      "explanation": "A hemiacetal forms when one equivalent of alcohol adds to an aldehyde, creating a carbon with both -OR and -OH groups attached.",
+      "concept_tags": ["hemiacetal", "alcohol addition", "aldehydes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-010",
+      "question_text": "An acetal is formed from a hemiacetal by:",
+      "options": ["A. Reduction", "B. Oxidation", "C. Reaction with another alcohol equivalent under acid catalysis", "D. Hydrolysis"],
+      "correct_answer": "C",
+      "explanation": "Acetals form when hemiacetals react with another equivalent of alcohol under acid catalysis, replacing the -OH with another -OR group.",
+      "concept_tags": ["acetal", "hemiacetal", "protecting groups"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-011",
+      "question_text": "Acetals are useful in synthesis because they are:",
+      "options": ["A. Strong reducing agents", "B. Stable to base but cleaved by acid", "C. Stable to acid but cleaved by base", "D. Unreactive under all conditions"],
+      "correct_answer": "B",
+      "explanation": "Acetals are stable under basic conditions but readily hydrolyzed back to carbonyls under acidic conditions, making them excellent protecting groups.",
+      "concept_tags": ["acetal", "protecting groups", "stability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-012",
+      "question_text": "The Wittig reaction converts aldehydes and ketones to:",
+      "options": ["A. Alcohols", "B. Alkenes", "C. Carboxylic acids", "D. Amines"],
+      "correct_answer": "B",
+      "explanation": "The Wittig reaction uses phosphorus ylides to convert carbonyl compounds to alkenes, replacing the C=O with C=C.",
+      "concept_tags": ["Wittig reaction", "alkene synthesis", "ylide"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-013",
+      "question_text": "In the Wittig reaction, the byproduct is:",
+      "options": ["A. Water", "B. Carbon dioxide", "C. Triphenylphosphine oxide", "D. Hydrogen gas"],
+      "correct_answer": "C",
+      "explanation": "The Wittig reaction produces triphenylphosphine oxide (Ph3P=O) as a byproduct, driven by the strong P=O bond formation.",
+      "concept_tags": ["Wittig reaction", "mechanism", "phosphine oxide"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-014",
+      "question_text": "NaBH4 reduces aldehydes and ketones by acting as a source of:",
+      "options": ["A. Electrons", "B. Hydride (H-)", "C. Protons (H+)", "D. Hydrogen radicals"],
+      "correct_answer": "B",
+      "explanation": "NaBH4 delivers hydride (H-) to the electrophilic carbonyl carbon, reducing aldehydes to primary alcohols and ketones to secondary alcohols.",
+      "concept_tags": ["NaBH4", "reduction", "hydride"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-015",
+      "question_text": "LiAlH4 differs from NaBH4 in that LiAlH4:",
+      "options": ["A. Is a weaker reducing agent", "B. Can reduce carboxylic acids and esters", "C. Only reduces aldehydes", "D. Requires aqueous conditions"],
+      "correct_answer": "B",
+      "explanation": "LiAlH4 is a stronger reducing agent than NaBH4 and can reduce carboxylic acids, esters, and amides, which NaBH4 cannot reduce.",
+      "concept_tags": ["LiAlH4", "NaBH4", "reducing agents", "selectivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-016",
+      "question_text": "Reduction of an aldehyde with NaBH4 produces:",
+      "options": ["A. A primary alcohol", "B. A secondary alcohol", "C. A tertiary alcohol", "D. An alkane"],
+      "correct_answer": "A",
+      "explanation": "NaBH4 reduces aldehydes to primary alcohols by adding hydride to the carbonyl carbon.",
+      "concept_tags": ["reduction", "aldehydes", "primary alcohols"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-017",
+      "question_text": "Reduction of a ketone with NaBH4 produces:",
+      "options": ["A. A primary alcohol", "B. A secondary alcohol", "C. A tertiary alcohol", "D. An aldehyde"],
+      "correct_answer": "B",
+      "explanation": "NaBH4 reduces ketones to secondary alcohols by adding hydride to the carbonyl carbon.",
+      "concept_tags": ["reduction", "ketones", "secondary alcohols"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-018",
+      "question_text": "The Clemmensen reduction converts carbonyls to:",
+      "options": ["A. Alcohols", "B. Alkanes (CH2 groups)", "C. Carboxylic acids", "D. Alkenes"],
+      "correct_answer": "B",
+      "explanation": "The Clemmensen reduction (Zn-Hg, HCl) completely reduces the carbonyl to a methylene (CH2) group, useful for deoxygenation.",
+      "concept_tags": ["Clemmensen reduction", "deoxygenation", "alkane synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-019",
+      "question_text": "The Wolff-Kishner reduction uses which reagents?",
+      "options": ["A. Zn-Hg, HCl", "B. NH2NH2, KOH, heat", "C. H2, Pd", "D. NaBH4, MeOH"],
+      "correct_answer": "B",
+      "explanation": "The Wolff-Kishner reduction uses hydrazine and strong base at high temperature to reduce carbonyls to methylene groups under basic conditions.",
+      "concept_tags": ["Wolff-Kishner reduction", "hydrazine", "deoxygenation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-020",
+      "question_text": "Clemmensen and Wolff-Kishner reductions give the same product but differ in:",
+      "options": ["A. The type of carbonyl reduced", "B. Reaction conditions (acidic vs basic)", "C. The carbon skeleton produced", "D. The functional group formed"],
+      "correct_answer": "B",
+      "explanation": "Both reduce carbonyls to CH2, but Clemmensen uses acidic conditions (useful for acid-stable substrates) while Wolff-Kishner uses basic conditions.",
+      "concept_tags": ["Clemmensen", "Wolff-Kishner", "reaction conditions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-021",
+      "question_text": "Aldehydes are generally MORE reactive than ketones toward nucleophilic addition due to:",
+      "options": ["A. Greater resonance stabilization", "B. Less steric hindrance and less electron donation", "C. Higher electronegativity", "D. More acidic hydrogen"],
+      "correct_answer": "B",
+      "explanation": "Aldehydes are more reactive because they have less steric hindrance (only one R group) and less electron donation to the carbonyl carbon compared to ketones.",
+      "concept_tags": ["reactivity", "aldehydes vs ketones", "steric effects"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-022",
+      "question_text": "The alpha carbon of a carbonyl compound is:",
+      "options": ["A. The carbonyl carbon itself", "B. The carbon directly attached to the carbonyl carbon", "C. The carbon farthest from the carbonyl", "D. Any sp3 carbon"],
+      "correct_answer": "B",
+      "explanation": "The alpha carbon is the carbon atom directly bonded to the carbonyl carbon. Hydrogens on this carbon are called alpha hydrogens.",
+      "concept_tags": ["alpha carbon", "nomenclature", "carbonyl"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-023",
+      "question_text": "Alpha hydrogens are acidic (pKa ~20) because:",
+      "options": ["A. The carbonyl is electron-withdrawing", "B. The resulting enolate is resonance-stabilized", "C. The alpha carbon is sp2 hybridized", "D. Both A and B"],
+      "correct_answer": "D",
+      "explanation": "Alpha hydrogens are acidic due to the electron-withdrawing carbonyl and because the conjugate base (enolate) is resonance-stabilized with negative charge delocalized onto oxygen.",
+      "concept_tags": ["alpha hydrogen", "acidity", "enolate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-024",
+      "question_text": "Tautomerization refers to the interconversion between:",
+      "options": ["A. Cis and trans isomers", "B. Keto and enol forms", "C. Aldehyde and ketone", "D. Primary and secondary alcohols"],
+      "correct_answer": "B",
+      "explanation": "Tautomerization is the equilibrium interconversion between keto (C=O) and enol (C=C-OH) forms, involving proton transfer and pi bond migration.",
+      "concept_tags": ["tautomerization", "keto-enol", "equilibrium"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-025",
+      "question_text": "Under normal conditions, the equilibrium between keto and enol forms:",
+      "options": ["A. Strongly favors the enol form", "B. Strongly favors the keto form", "C. Is approximately 1:1", "D. Depends only on temperature"],
+      "correct_answer": "B",
+      "explanation": "The keto form is typically much more stable and predominates (often >99%) because C=O bonds are stronger than C=C bonds, and C-H bonds are stronger than O-H bonds.",
+      "concept_tags": ["keto-enol equilibrium", "stability", "tautomerization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-026",
+      "question_text": "Which compound would have the highest enol content?",
+      "options": ["A. Acetone", "B. Acetaldehyde", "C. 2,4-pentanedione (acetylacetone)", "D. 3-pentanone"],
+      "correct_answer": "C",
+      "explanation": "2,4-pentanedione (acetylacetone) has high enol content because the enol is stabilized by conjugation with the second carbonyl and intramolecular hydrogen bonding.",
+      "concept_tags": ["enol stability", "beta-diketone", "conjugation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-06-027",
+      "question_text": "The aldol reaction involves:",
+      "options": ["A. Two different aldehydes combining", "B. An enolate attacking another carbonyl", "C. Reduction of an aldehyde", "D. Oxidation of an alcohol"],
+      "correct_answer": "B",
+      "explanation": "The aldol reaction involves an enolate nucleophile attacking the carbonyl carbon of another aldehyde or ketone, forming a β-hydroxy carbonyl (aldol).",
+      "concept_tags": ["aldol reaction", "enolate", "carbon-carbon bond"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-028",
+      "question_text": "The product of an aldol reaction followed by dehydration is called:",
+      "options": ["A. An aldol", "B. An α,β-unsaturated carbonyl", "C. An acetal", "D. A hemiacetal"],
+      "correct_answer": "B",
+      "explanation": "Aldol condensation (aldol addition + dehydration) produces an α,β-unsaturated carbonyl compound with conjugated C=C and C=O.",
+      "concept_tags": ["aldol condensation", "dehydration", "conjugated enone"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-029",
+      "question_text": "In an aldol reaction, which position of the enolate attacks the carbonyl?",
+      "options": ["A. The oxygen", "B. The alpha carbon", "C. The carbonyl carbon", "D. The beta carbon"],
+      "correct_answer": "B",
+      "explanation": "The nucleophilic alpha carbon of the enolate attacks the electrophilic carbonyl carbon of another molecule, forming a new C-C bond.",
+      "concept_tags": ["aldol mechanism", "enolate", "nucleophilic attack"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-030",
+      "question_text": "A retro-aldol reaction involves:",
+      "options": ["A. Reverse of aldol addition, cleaving C-C bond", "B. Addition of water to an aldol", "C. Reduction of an aldol", "D. Oxidation of an aldol"],
+      "correct_answer": "A",
+      "explanation": "A retro-aldol is the reverse of aldol addition, cleaving the C-C bond of a β-hydroxy carbonyl to regenerate an enolate and a carbonyl compound.",
+      "concept_tags": ["retro-aldol", "C-C cleavage", "reversibility"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-031",
+      "question_text": "Michael addition involves:",
+      "options": ["A. 1,2-addition to a carbonyl", "B. 1,4-addition to an α,β-unsaturated carbonyl", "C. Aldol reaction", "D. Grignard addition"],
+      "correct_answer": "B",
+      "explanation": "Michael addition is conjugate (1,4) addition of a nucleophile to the beta carbon of an α,β-unsaturated carbonyl compound.",
+      "concept_tags": ["Michael addition", "conjugate addition", "1,4-addition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-032",
+      "question_text": "In IR spectroscopy, aldehydes show a characteristic C=O stretch at approximately:",
+      "options": ["A. 1600 cm⁻¹", "B. 1715 cm⁻¹", "C. 2700-2850 cm⁻¹", "D. 3300 cm⁻¹"],
+      "correct_answer": "B",
+      "explanation": "Aldehydes show a strong C=O stretch around 1715 cm⁻¹. They also show characteristic C-H stretches of the aldehyde hydrogen at 2700-2850 cm⁻¹.",
+      "concept_tags": ["IR spectroscopy", "aldehydes", "carbonyl stretch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-033",
+      "question_text": "The aldehyde C-H stretch in IR appears as:",
+      "options": ["A. A single sharp peak at 3300 cm⁻¹", "B. Two peaks around 2700 and 2850 cm⁻¹", "C. A broad peak at 3400 cm⁻¹", "D. No characteristic peak"],
+      "correct_answer": "B",
+      "explanation": "Aldehyde C-H shows two peaks (Fermi doublet) around 2700-2850 cm⁻¹, which helps distinguish aldehydes from ketones.",
+      "concept_tags": ["IR spectroscopy", "aldehydes", "Fermi doublet"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-034",
+      "question_text": "In ¹H NMR, aldehyde protons typically appear at:",
+      "options": ["A. 0-2 ppm", "B. 2-4 ppm", "C. 4-6 ppm", "D. 9-10 ppm"],
+      "correct_answer": "D",
+      "explanation": "Aldehyde protons are highly deshielded by the electronegative carbonyl oxygen and appear far downfield at 9-10 ppm.",
+      "concept_tags": ["NMR spectroscopy", "aldehyde proton", "chemical shift"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-035",
+      "question_text": "Benedict's test is positive for:",
+      "options": ["A. All aldehydes", "B. Ketones only", "C. Reducing sugars (aldehydes with adjacent OH)", "D. Aromatic aldehydes only"],
+      "correct_answer": "C",
+      "explanation": "Benedict's test detects reducing sugars, which are aldehydes (or hemiacetals that can open to aldehydes) with adjacent hydroxyl groups.",
+      "concept_tags": ["Benedict's test", "reducing sugars", "chemical tests"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-036",
+      "question_text": "The Cannizzaro reaction occurs with aldehydes that:",
+      "options": ["A. Have alpha hydrogens", "B. Lack alpha hydrogens", "C. Are aromatic only", "D. Are aliphatic only"],
+      "correct_answer": "B",
+      "explanation": "The Cannizzaro reaction occurs with aldehydes lacking alpha hydrogens (like formaldehyde or benzaldehyde), where one aldehyde is oxidized and another reduced.",
+      "concept_tags": ["Cannizzaro reaction", "disproportionation", "no alpha hydrogen"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-06-037",
+      "question_text": "In the Cannizzaro reaction, the products are:",
+      "options": ["A. Two aldehydes", "B. An alcohol and a carboxylic acid", "C. An alkene and water", "D. Two ketones"],
+      "correct_answer": "B",
+      "explanation": "The Cannizzaro reaction is a disproportionation where one aldehyde molecule is reduced to an alcohol and another is oxidized to a carboxylic acid (or carboxylate).",
+      "concept_tags": ["Cannizzaro reaction", "disproportionation", "redox"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-038",
+      "question_text": "Fehling's solution contains:",
+      "options": ["A. Silver nitrate", "B. Copper(II) in basic tartrate solution", "C. Potassium permanganate", "D. Chromium trioxide"],
+      "correct_answer": "B",
+      "explanation": "Fehling's solution contains Cu²⁺ complexed with tartrate in basic solution. Reduction by aldehydes produces red Cu₂O precipitate.",
+      "concept_tags": ["Fehling's test", "aldehydes", "copper reduction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-039",
+      "question_text": "An imine (Schiff base) is formed by the reaction of an aldehyde or ketone with:",
+      "options": ["A. An alcohol", "B. A primary amine", "C. A carboxylic acid", "D. Water"],
+      "correct_answer": "B",
+      "explanation": "Imines (Schiff bases) form when a primary amine reacts with an aldehyde or ketone, with loss of water. The product contains a C=N bond.",
+      "concept_tags": ["imine", "Schiff base", "amine condensation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-06-040",
+      "question_text": "The reaction of a secondary amine with an aldehyde produces:",
+      "options": ["A. An imine", "B. An enamine", "C. An amide", "D. A nitrile"],
+      "correct_answer": "B",
+      "explanation": "Secondary amines react with aldehydes/ketones to form enamines, which have the nitrogen attached to a C=C double bond.",
+      "concept_tags": ["enamine", "secondary amine", "condensation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-041",
+      "question_text": "Enamines are useful in synthesis because they act as:",
+      "options": ["A. Electrophiles", "B. Nucleophiles (enolate equivalents)", "C. Reducing agents", "D. Oxidizing agents"],
+      "correct_answer": "B",
+      "explanation": "Enamines are nucleophilic at the alpha carbon and serve as enolate equivalents for alkylation and acylation reactions.",
+      "concept_tags": ["enamine", "nucleophile", "enolate equivalent"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-06-042",
+      "question_text": "Hydration of an aldehyde produces:",
+      "options": ["A. An acetal", "B. A hemiacetal", "C. A hydrate (geminal diol)", "D. An alcohol"],
+      "correct_answer": "C",
+      "explanation": "Addition of water to an aldehyde produces a hydrate (gem-diol), with two OH groups on the same carbon. This is reversible and usually unfavorable.",
+      "concept_tags": ["hydration", "gem-diol", "aldehydes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-043",
+      "question_text": "Formaldehyde exists primarily as its hydrate in aqueous solution because:",
+      "options": ["A. It is very unreactive", "B. It lacks steric hindrance and has no electron-donating groups", "C. Water is a poor nucleophile", "D. The C=O bond is very strong"],
+      "correct_answer": "B",
+      "explanation": "Formaldehyde's high hydration is due to lack of steric hindrance (no R groups) and absence of electron-donating groups that would stabilize the carbonyl.",
+      "concept_tags": ["formaldehyde", "hydration", "reactivity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-06-044",
+      "question_text": "The Baeyer-Villiger oxidation converts ketones to:",
+      "options": ["A. Alcohols", "B. Esters", "C. Carboxylic acids", "D. Aldehydes"],
+      "correct_answer": "B",
+      "explanation": "The Baeyer-Villiger oxidation uses peracids to insert an oxygen atom next to the carbonyl, converting ketones to esters (or aldehydes to formate esters).",
+      "concept_tags": ["Baeyer-Villiger", "oxidation", "ketone to ester"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-06-045",
+      "question_text": "In the Baeyer-Villiger oxidation, the group that migrates is the one that is:",
+      "options": ["A. Smallest", "B. Best able to stabilize positive charge", "C. Most electron-withdrawing", "D. Closest to the peroxide"],
+      "correct_answer": "B",
+      "explanation": "The migratory aptitude in Baeyer-Villiger follows: 3° > 2° > phenyl > 1° > methyl, based on ability to stabilize partial positive charge during migration.",
+      "concept_tags": ["Baeyer-Villiger", "migratory aptitude", "mechanism"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-06-046",
+      "question_text": "The haloform reaction occurs with methyl ketones and produces:",
+      "options": ["A. An aldehyde and alcohol", "B. A carboxylic acid and haloform (CHX₃)", "C. An alkene and water", "D. An ester and alcohol"],
+      "correct_answer": "B",
+      "explanation": "The haloform reaction converts methyl ketones to carboxylic acids and haloform (CHCl₃, CHBr₃, or CHI₃) through trihalogenation followed by cleavage.",
+      "concept_tags": ["haloform reaction", "methyl ketones", "carboxylic acid"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-047",
+      "question_text": "The iodoform test is positive for compounds containing:",
+      "options": ["A. Any carbonyl group", "B. A methyl group adjacent to C=O or CHOH", "C. An aldehyde group", "D. An aromatic ring"],
+      "correct_answer": "B",
+      "explanation": "The iodoform test is positive for methyl ketones and secondary alcohols with adjacent methyl groups (which are oxidized to methyl ketones), producing yellow CHI₃.",
+      "concept_tags": ["iodoform test", "methyl ketone", "chemical tests"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-048",
+      "question_text": "α,β-Unsaturated carbonyls are:",
+      "options": ["A. Less reactive than saturated carbonyls", "B. Susceptible to both 1,2 and 1,4 addition", "C. Unable to undergo reduction", "D. Only reactive with strong nucleophiles"],
+      "correct_answer": "B",
+      "explanation": "α,β-Unsaturated carbonyls can undergo both 1,2-addition (direct attack on carbonyl) and 1,4-addition (Michael addition at the beta carbon).",
+      "concept_tags": ["conjugated carbonyl", "1,2-addition", "1,4-addition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-06-049",
+      "question_text": "Nucleophilic attack at the carbonyl carbon vs. beta carbon depends primarily on:",
+      "options": ["A. Temperature only", "B. Solvent polarity only", "C. Nature of the nucleophile (hard vs soft)", "D. Concentration of substrate"],
+      "correct_answer": "C",
+      "explanation": "Hard nucleophiles (like Grignard, LiAlH₄) prefer 1,2-addition to the carbonyl, while soft nucleophiles (like enolates, cuprates) prefer 1,4-addition.",
+      "concept_tags": ["1,2-addition", "1,4-addition", "hard soft nucleophiles"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-06-050",
+      "question_text": "The carbonyl carbon in ¹³C NMR typically appears at:",
+      "options": ["A. 10-30 ppm", "B. 50-80 ppm", "C. 100-150 ppm", "D. 190-220 ppm"],
+      "correct_answer": "D",
+      "explanation": "Carbonyl carbons are highly deshielded and appear far downfield in ¹³C NMR, typically at 190-220 ppm for aldehydes and ketones.",
+      "concept_tags": ["13C NMR", "carbonyl carbon", "chemical shift"],
+      "difficulty": "medium"
+    }
+  ]
+}

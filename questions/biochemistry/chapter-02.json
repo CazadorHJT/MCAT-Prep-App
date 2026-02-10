@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 2,
+  "chapter_title": "Enzymes",
+  "questions": [
+    {
+      "id": "biochemistry-02-001",
+      "question_text": "Enzymes increase the rate of chemical reactions by:",
+      "options": [
+        "A. increasing the activation energy of the reaction",
+        "B. lowering the activation energy of the reaction",
+        "C. changing the equilibrium constant of the reaction",
+        "D. increasing the free energy change of the reaction"
+      ],
+      "correct_answer": "B",
+      "explanation": "Enzymes are biological catalysts that increase reaction rates by lowering the activation energy required for the reaction to proceed. They do not alter the equilibrium constant or the overall free energy change (delta G) of the reaction. The reaction reaches equilibrium faster, but the final equilibrium position remains unchanged.",
+      "concept_tags": ["enzymes", "activation-energy", "catalysis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-002",
+      "question_text": "The active site of an enzyme is best described as:",
+      "options": [
+        "A. the entire surface of the enzyme molecule",
+        "B. a specific three-dimensional region where substrate binding and catalysis occur",
+        "C. any region where cofactors can bind",
+        "D. the site where allosteric regulators bind"
+      ],
+      "correct_answer": "B",
+      "explanation": "The active site is a specific three-dimensional pocket or cleft within the enzyme where substrate molecules bind and the chemical reaction is catalyzed. It represents only a small portion of the total enzyme surface and contains amino acid residues that are critical for both substrate binding and catalytic activity.",
+      "concept_tags": ["active-site", "enzyme-structure", "substrate-binding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-003",
+      "question_text": "According to the lock and key model of enzyme specificity:",
+      "options": [
+        "A. the enzyme changes shape to accommodate the substrate",
+        "B. the substrate is complementary in shape to the enzyme active site",
+        "C. multiple substrates can fit into the same active site",
+        "D. the enzyme-substrate complex is unstable"
+      ],
+      "correct_answer": "B",
+      "explanation": "The lock and key model, proposed by Emil Fischer, suggests that the substrate has a complementary shape to the enzyme's active site, much like a key fits into a lock. This model explains enzyme specificity but does not account for conformational changes. The induced fit model later refined this concept by proposing that enzymes can change shape upon substrate binding.",
+      "concept_tags": ["lock-and-key", "enzyme-specificity", "active-site"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-004",
+      "question_text": "In the induced fit model, what occurs when a substrate binds to an enzyme?",
+      "options": [
+        "A. The substrate changes its chemical structure",
+        "B. The enzyme undergoes a conformational change to better fit the substrate",
+        "C. The activation energy increases",
+        "D. The enzyme becomes permanently denatured"
+      ],
+      "correct_answer": "B",
+      "explanation": "The induced fit model proposes that when a substrate binds to an enzyme, the enzyme undergoes a conformational change that results in a tighter, more complementary fit between the enzyme and substrate. This conformational change can help position catalytic residues optimally and may also destabilize the substrate, facilitating the reaction.",
+      "concept_tags": ["induced-fit", "enzyme-structure", "conformational-change"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-005",
+      "question_text": "Which of the following is TRUE about enzymes?",
+      "options": [
+        "A. They are consumed during the reaction they catalyze",
+        "B. They can only catalyze one type of reaction per molecule",
+        "C. They emerge unchanged after the reaction is complete",
+        "D. They shift the equilibrium toward products"
+      ],
+      "correct_answer": "C",
+      "explanation": "Enzymes are true catalysts and emerge unchanged after catalyzing a reaction. They can participate in multiple reaction cycles without being consumed. While enzymes are often specific for particular reactions, they do not shift the equilibrium position - they only increase the rate at which equilibrium is achieved.",
+      "concept_tags": ["enzymes", "catalysis", "enzyme-properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-006",
+      "question_text": "The Michaelis constant (Km) represents:",
+      "options": [
+        "A. the maximum velocity of an enzyme-catalyzed reaction",
+        "B. the substrate concentration at which the reaction velocity is half of Vmax",
+        "C. the rate constant for enzyme-substrate dissociation",
+        "D. the total enzyme concentration in the reaction"
+      ],
+      "correct_answer": "B",
+      "explanation": "Km is defined as the substrate concentration at which the reaction velocity is half of the maximum velocity (Vmax). It is a measure of the affinity of an enzyme for its substrate - a lower Km indicates higher affinity, meaning less substrate is needed to achieve half-maximal velocity. Km has units of concentration (typically molar).",
+      "concept_tags": ["michaelis-menten", "km", "enzyme-kinetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-007",
+      "question_text": "An enzyme with a low Km value:",
+      "options": [
+        "A. has low affinity for its substrate",
+        "B. requires high substrate concentrations to function",
+        "C. has high affinity for its substrate",
+        "D. catalyzes reactions slowly"
+      ],
+      "correct_answer": "C",
+      "explanation": "A low Km indicates that the enzyme achieves half-maximal velocity at a low substrate concentration, meaning it binds substrate efficiently and has high affinity. Conversely, a high Km indicates low affinity, requiring more substrate to achieve the same velocity. Km is inversely related to substrate affinity.",
+      "concept_tags": ["km", "substrate-affinity", "enzyme-kinetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-008",
+      "question_text": "Vmax in enzyme kinetics represents:",
+      "options": [
+        "A. the substrate concentration at half-maximal velocity",
+        "B. the maximum rate achieved when the enzyme is saturated with substrate",
+        "C. the dissociation constant of the enzyme-substrate complex",
+        "D. the rate of enzyme synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Vmax is the maximum velocity of an enzyme-catalyzed reaction, achieved when all enzyme active sites are saturated with substrate. At this point, increasing substrate concentration further will not increase the reaction rate. Vmax depends on the total enzyme concentration and the catalytic rate constant (kcat).",
+      "concept_tags": ["vmax", "enzyme-kinetics", "michaelis-menten"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-009",
+      "question_text": "Which type of inhibition increases the apparent Km without affecting Vmax?",
+      "options": [
+        "A. Noncompetitive inhibition",
+        "B. Uncompetitive inhibition",
+        "C. Competitive inhibition",
+        "D. Mixed inhibition"
+      ],
+      "correct_answer": "C",
+      "explanation": "Competitive inhibitors bind to the active site and compete with substrate for binding. Because competitive inhibition can be overcome by adding excess substrate, Vmax remains unchanged. However, more substrate is required to reach half-maximal velocity, so the apparent Km increases. This is a key distinguishing feature of competitive inhibition.",
+      "concept_tags": ["competitive-inhibition", "km", "vmax", "enzyme-inhibition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-010",
+      "question_text": "A cofactor is best described as:",
+      "options": [
+        "A. a protein that assists enzyme function",
+        "B. a non-protein molecule required for enzyme activity",
+        "C. the product of an enzyme-catalyzed reaction",
+        "D. an inhibitor that reduces enzyme activity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cofactors are non-protein molecules that are required for the catalytic activity of certain enzymes. They can be metal ions (such as Zn2+, Mg2+, or Fe2+) or organic molecules called coenzymes. Without their cofactors, these enzymes (called apoenzymes) are catalytically inactive.",
+      "concept_tags": ["cofactors", "enzyme-structure", "coenzymes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-011",
+      "question_text": "Allosteric enzymes differ from Michaelis-Menten enzymes in that they:",
+      "options": [
+        "A. do not require substrates",
+        "B. exhibit sigmoidal rather than hyperbolic kinetics",
+        "C. cannot be inhibited",
+        "D. have only one subunit"
+      ],
+      "correct_answer": "B",
+      "explanation": "Allosteric enzymes display sigmoidal (S-shaped) kinetics rather than the hyperbolic kinetics predicted by the Michaelis-Menten equation. This is due to cooperativity between subunits - binding of substrate to one subunit affects the affinity of other subunits. Allosteric enzymes typically have multiple subunits and can be regulated by activators and inhibitors binding at allosteric sites.",
+      "concept_tags": ["allosteric-regulation", "enzyme-kinetics", "cooperativity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-012",
+      "question_text": "Which vitamin serves as a precursor for the coenzyme NAD+?",
+      "options": [
+        "A. Thiamine (B1)",
+        "B. Riboflavin (B2)",
+        "C. Niacin (B3)",
+        "D. Pyridoxine (B6)"
+      ],
+      "correct_answer": "C",
+      "explanation": "Niacin (vitamin B3) is the precursor for the synthesis of NAD+ (nicotinamide adenine dinucleotide) and NADP+, which are essential coenzymes in redox reactions. Thiamine is a precursor for TPP, riboflavin for FAD, and pyridoxine for PLP. Each B vitamin gives rise to specific coenzymes with distinct functions.",
+      "concept_tags": ["coenzymes", "vitamins", "nad"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-013",
+      "question_text": "The enzyme-substrate complex is represented in the Michaelis-Menten mechanism as:",
+      "options": [
+        "A. E + P",
+        "B. ES",
+        "C. E + S",
+        "D. EP"
+      ],
+      "correct_answer": "B",
+      "explanation": "In the Michaelis-Menten mechanism, ES represents the enzyme-substrate complex formed when substrate (S) binds to the enzyme (E). The basic mechanism is: E + S <-> ES -> E + P, where P is the product. The ES complex is the intermediate state before product formation and release.",
+      "concept_tags": ["michaelis-menten", "enzyme-substrate-complex", "enzyme-kinetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-014",
+      "question_text": "Enzymes that catalyze the transfer of functional groups from one molecule to another belong to which class?",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Transferases catalyze the transfer of functional groups (such as amino, phosphate, or methyl groups) from one molecule to another. Oxidoreductases catalyze oxidation-reduction reactions, hydrolases catalyze hydrolysis reactions, and lyases catalyze the addition or removal of groups to form double bonds.",
+      "concept_tags": ["enzyme-classification", "transferases", "enzyme-function"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-015",
+      "question_text": "The relationship between enzyme velocity and substrate concentration follows what type of curve for Michaelis-Menten enzymes?",
+      "options": [
+        "A. Linear",
+        "B. Exponential",
+        "C. Hyperbolic",
+        "D. Sigmoidal"
+      ],
+      "correct_answer": "C",
+      "explanation": "Michaelis-Menten enzymes display hyperbolic kinetics when velocity is plotted against substrate concentration. At low [S], velocity increases nearly linearly with substrate. As [S] increases, the curve levels off as enzymes become saturated, approaching Vmax asymptotically. This hyperbolic relationship is characteristic of simple enzyme kinetics.",
+      "concept_tags": ["michaelis-menten", "enzyme-kinetics", "hyperbolic-kinetics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-02-016",
+      "question_text": "A researcher finds that adding a particular compound to an enzyme reaction decreases both Km and Vmax. This compound is most likely:",
+      "options": [
+        "A. a competitive inhibitor",
+        "B. a noncompetitive inhibitor",
+        "C. an uncompetitive inhibitor",
+        "D. an allosteric activator"
+      ],
+      "correct_answer": "C",
+      "explanation": "Uncompetitive inhibitors bind only to the enzyme-substrate (ES) complex, not to free enzyme. This binding removes ES from equilibrium, causing both apparent Km and Vmax to decrease by the same factor. The ratio Vmax/Km remains constant. Competitive inhibitors increase Km without changing Vmax, while noncompetitive inhibitors decrease Vmax without changing Km.",
+      "concept_tags": ["uncompetitive-inhibition", "enzyme-kinetics", "enzyme-inhibition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-017",
+      "question_text": "On a Lineweaver-Burk plot, the y-intercept represents:",
+      "options": [
+        "A. Km",
+        "B. 1/Km",
+        "C. Vmax",
+        "D. 1/Vmax"
+      ],
+      "correct_answer": "D",
+      "explanation": "The Lineweaver-Burk plot (double reciprocal plot) graphs 1/V versus 1/[S]. The equation is: 1/V = (Km/Vmax)(1/[S]) + 1/Vmax. The y-intercept (where 1/[S] = 0) equals 1/Vmax, and the x-intercept equals -1/Km. The slope of the line equals Km/Vmax.",
+      "concept_tags": ["lineweaver-burk", "enzyme-kinetics", "vmax"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-018",
+      "question_text": "On a Lineweaver-Burk plot, competitive inhibition is characterized by:",
+      "options": [
+        "A. lines that intersect on the y-axis",
+        "B. lines that intersect on the x-axis",
+        "C. parallel lines",
+        "D. lines that intersect at the origin"
+      ],
+      "correct_answer": "A",
+      "explanation": "In competitive inhibition, Vmax remains unchanged while apparent Km increases. On a Lineweaver-Burk plot, this means the y-intercept (1/Vmax) stays the same, so the lines for inhibited and uninhibited reactions intersect on the y-axis. The x-intercept (-1/Km) moves closer to zero (becomes less negative) with inhibitor.",
+      "concept_tags": ["lineweaver-burk", "competitive-inhibition", "enzyme-kinetics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-019",
+      "question_text": "Noncompetitive inhibition is characterized by:",
+      "options": [
+        "A. decreased Km with unchanged Vmax",
+        "B. increased Km with unchanged Vmax",
+        "C. unchanged Km with decreased Vmax",
+        "D. decreased Km and decreased Vmax"
+      ],
+      "correct_answer": "C",
+      "explanation": "Noncompetitive inhibitors bind to a site other than the active site and can bind to either free enzyme or the ES complex with equal affinity. This reduces the concentration of functional enzyme, decreasing Vmax. Since the inhibitor does not compete with substrate for the active site, Km remains unchanged.",
+      "concept_tags": ["noncompetitive-inhibition", "enzyme-kinetics", "enzyme-inhibition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-020",
+      "question_text": "The turnover number (kcat) of an enzyme represents:",
+      "options": [
+        "A. the number of enzyme molecules in a reaction",
+        "B. the number of substrate molecules converted to product per enzyme molecule per unit time when saturated",
+        "C. the equilibrium constant for substrate binding",
+        "D. the rate of enzyme denaturation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The turnover number (kcat) represents the maximum number of substrate molecules that can be converted to product per enzyme molecule per unit time when the enzyme is fully saturated with substrate. It is calculated as kcat = Vmax/[E]total and has units of reciprocal time (s^-1). It reflects the intrinsic catalytic efficiency of the enzyme.",
+      "concept_tags": ["kcat", "turnover-number", "enzyme-kinetics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-021",
+      "question_text": "The catalytic efficiency of an enzyme is best represented by:",
+      "options": [
+        "A. Km alone",
+        "B. Vmax alone",
+        "C. kcat/Km",
+        "D. Km/Vmax"
+      ],
+      "correct_answer": "C",
+      "explanation": "The ratio kcat/Km (also called the specificity constant) represents the catalytic efficiency of an enzyme. It takes into account both the rate of catalysis (kcat) and the enzyme's affinity for substrate (Km). A higher kcat/Km indicates a more efficient enzyme. The upper limit for kcat/Km is the diffusion limit (~10^8-10^9 M^-1s^-1).",
+      "concept_tags": ["catalytic-efficiency", "kcat", "km", "enzyme-kinetics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-022",
+      "question_text": "Zymogen activation involves:",
+      "options": [
+        "A. addition of a cofactor",
+        "B. proteolytic cleavage of an inactive precursor",
+        "C. phosphorylation of the enzyme",
+        "D. binding of an allosteric activator"
+      ],
+      "correct_answer": "B",
+      "explanation": "Zymogens (proenzymes) are inactive enzyme precursors that are activated by proteolytic cleavage. This irreversible activation mechanism is used for enzymes like digestive proteases (trypsinogen to trypsin) and blood clotting factors. The cleavage removes an inhibitory peptide segment, allowing the enzyme to adopt its active conformation.",
+      "concept_tags": ["zymogens", "enzyme-regulation", "proteolytic-activation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-023",
+      "question_text": "Which of the following is an example of covalent modification that regulates enzyme activity?",
+      "options": [
+        "A. Substrate binding",
+        "B. Temperature change",
+        "C. Phosphorylation",
+        "D. Competitive inhibition"
+      ],
+      "correct_answer": "C",
+      "explanation": "Phosphorylation is a common covalent modification that regulates enzyme activity. Protein kinases add phosphate groups to serine, threonine, or tyrosine residues, while phosphatases remove them. This modification can either activate or inhibit enzymes depending on the specific enzyme. Other covalent modifications include acetylation, methylation, and ubiquitination.",
+      "concept_tags": ["phosphorylation", "covalent-modification", "enzyme-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-024",
+      "question_text": "Feedback inhibition in metabolic pathways typically involves:",
+      "options": [
+        "A. the product of a pathway inhibiting an early enzyme in the same pathway",
+        "B. the substrate activating the last enzyme in the pathway",
+        "C. increased synthesis of all pathway enzymes",
+        "D. degradation of the final product"
+      ],
+      "correct_answer": "A",
+      "explanation": "Feedback inhibition (end-product inhibition) is a regulatory mechanism where the final product of a metabolic pathway inhibits an enzyme early in the pathway, often the committed step. This prevents overproduction of the product and conserves resources. The inhibition is typically allosteric, allowing for rapid and reversible regulation.",
+      "concept_tags": ["feedback-inhibition", "allosteric-regulation", "metabolic-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-025",
+      "question_text": "An enzyme that follows cooperative binding kinetics will show:",
+      "options": [
+        "A. a Hill coefficient equal to 1",
+        "B. a Hill coefficient greater than 1 for positive cooperativity",
+        "C. hyperbolic kinetics",
+        "D. decreased affinity upon substrate binding"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Hill coefficient (n) measures cooperativity. For positive cooperativity, n > 1, indicating that substrate binding to one subunit increases the affinity of other subunits. For negative cooperativity, n < 1. A Hill coefficient of 1 indicates no cooperativity (Michaelis-Menten kinetics). Positive cooperativity results in sigmoidal kinetics.",
+      "concept_tags": ["cooperativity", "hill-coefficient", "allosteric-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-026",
+      "question_text": "The enzyme hexokinase demonstrates induced fit by:",
+      "options": [
+        "A. releasing glucose immediately after binding",
+        "B. closing around glucose upon binding, excluding water from the active site",
+        "C. remaining rigid throughout the catalytic cycle",
+        "D. binding ATP before glucose"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hexokinase is a classic example of induced fit. When glucose binds, the enzyme undergoes a large conformational change, closing around the substrate. This excludes water from the active site, preventing the wasteful hydrolysis of ATP. The conformational change positions the catalytic residues optimally for phosphate transfer.",
+      "concept_tags": ["induced-fit", "hexokinase", "conformational-change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-027",
+      "question_text": "Which of the following mechanisms is NOT used by enzymes to stabilize the transition state?",
+      "options": [
+        "A. Proximity and orientation effects",
+        "B. Electrostatic stabilization",
+        "C. Increasing the energy of the ground state",
+        "D. Covalent catalysis"
+      ],
+      "correct_answer": "C",
+      "explanation": "Enzymes lower activation energy primarily by stabilizing the transition state, not by destabilizing the ground state. Mechanisms include: proximity and orientation effects (bringing substrates together correctly), electrostatic stabilization (charge complementarity with transition state), covalent catalysis (forming transient covalent bonds), and acid-base catalysis.",
+      "concept_tags": ["transition-state", "catalytic-mechanisms", "activation-energy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-028",
+      "question_text": "Coenzyme A (CoA) functions in metabolism primarily by:",
+      "options": [
+        "A. carrying electrons in redox reactions",
+        "B. activating acyl groups for transfer reactions",
+        "C. transferring phosphate groups",
+        "D. carrying amino groups"
+      ],
+      "correct_answer": "B",
+      "explanation": "Coenzyme A activates acyl groups (particularly acetyl groups as acetyl-CoA) by forming high-energy thioester bonds. This activation facilitates the transfer of acyl groups in metabolic reactions, including the citric acid cycle and fatty acid metabolism. The reactive thiol group of CoA forms the thioester linkage.",
+      "concept_tags": ["coenzyme-a", "coenzymes", "acyl-transfer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-029",
+      "question_text": "The prosthetic group of an enzyme differs from a coenzyme in that it:",
+      "options": [
+        "A. is always a metal ion",
+        "B. is loosely bound and easily dissociable",
+        "C. is tightly bound and does not dissociate during catalysis",
+        "D. is made entirely of amino acids"
+      ],
+      "correct_answer": "C",
+      "explanation": "A prosthetic group is a tightly bound cofactor that remains associated with the enzyme during catalysis. Examples include heme in hemoglobin and FAD in succinate dehydrogenase. In contrast, coenzymes like NAD+ bind more loosely and often dissociate from the enzyme after accepting or donating their chemical groups.",
+      "concept_tags": ["prosthetic-groups", "cofactors", "coenzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-030",
+      "question_text": "FAD (flavin adenine dinucleotide) serves as a coenzyme primarily in:",
+      "options": [
+        "A. phosphate group transfer reactions",
+        "B. oxidation-reduction reactions involving two hydrogen atoms",
+        "C. carboxylation reactions",
+        "D. amino group transfer reactions"
+      ],
+      "correct_answer": "B",
+      "explanation": "FAD is a redox coenzyme derived from riboflavin (vitamin B2). It participates in oxidation-reduction reactions by accepting two hydrogen atoms (two electrons and two protons) to form FADH2. Unlike NAD+, FAD is often tightly bound as a prosthetic group and participates in reactions involving C-C bond oxidation.",
+      "concept_tags": ["fad", "coenzymes", "redox-reactions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-031",
+      "question_text": "At very low substrate concentrations, the Michaelis-Menten equation simplifies to show that velocity is:",
+      "options": [
+        "A. equal to Vmax",
+        "B. independent of substrate concentration",
+        "C. directly proportional to substrate concentration",
+        "D. inversely proportional to substrate concentration"
+      ],
+      "correct_answer": "C",
+      "explanation": "At very low [S] (when [S] << Km), the Michaelis-Menten equation (V = Vmax[S]/(Km + [S])) simplifies to V = (Vmax/Km)[S]. This shows that velocity is directly proportional to substrate concentration (first-order kinetics). At high [S], the reaction approaches zero-order kinetics where V approaches Vmax.",
+      "concept_tags": ["michaelis-menten", "enzyme-kinetics", "reaction-order"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-032",
+      "question_text": "An enzyme inhibitor that forms a covalent bond with the enzyme is classified as:",
+      "options": [
+        "A. a competitive inhibitor",
+        "B. a reversible inhibitor",
+        "C. an irreversible inhibitor",
+        "D. an allosteric inhibitor"
+      ],
+      "correct_answer": "C",
+      "explanation": "Irreversible inhibitors form stable covalent bonds with the enzyme, permanently inactivating it. Examples include nerve agents that inhibit acetylcholinesterase and aspirin that acetylates cyclooxygenase. Unlike reversible inhibitors, the effect cannot be overcome by adding more substrate or by dialysis.",
+      "concept_tags": ["irreversible-inhibition", "covalent-inhibition", "enzyme-inhibition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-033",
+      "question_text": "The enzyme carbonic anhydrase contains which metal ion as a cofactor?",
+      "options": [
+        "A. Iron",
+        "B. Copper",
+        "C. Zinc",
+        "D. Magnesium"
+      ],
+      "correct_answer": "C",
+      "explanation": "Carbonic anhydrase contains a zinc ion (Zn2+) at its active site. The zinc coordinates with three histidine residues and activates a water molecule for nucleophilic attack on CO2. Carbonic anhydrase is one of the fastest enzymes known, with a turnover number of about 10^6 per second.",
+      "concept_tags": ["metal-cofactors", "carbonic-anhydrase", "zinc"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-034",
+      "question_text": "Allosteric activators typically:",
+      "options": [
+        "A. bind to the active site and compete with substrate",
+        "B. bind to a regulatory site and increase enzyme activity",
+        "C. form covalent bonds with the enzyme",
+        "D. denature the enzyme"
+      ],
+      "correct_answer": "B",
+      "explanation": "Allosteric activators bind to regulatory sites distinct from the active site, inducing conformational changes that increase enzyme activity. They may increase substrate affinity (decrease Km) or increase catalytic rate (increase Vmax). This regulation allows for fine-tuning of enzyme activity in response to cellular conditions.",
+      "concept_tags": ["allosteric-regulation", "enzyme-activation", "allosteric-activators"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-035",
+      "question_text": "The committed step in a metabolic pathway is typically:",
+      "options": [
+        "A. the last reaction in the pathway",
+        "B. the first irreversible reaction unique to that pathway",
+        "C. the fastest reaction in the pathway",
+        "D. the reaction with the lowest activation energy"
+      ],
+      "correct_answer": "B",
+      "explanation": "The committed step is usually the first irreversible reaction that is unique to a particular pathway. Once past this step, the intermediates are committed to that pathway. The enzyme catalyzing the committed step is often the most regulated enzyme in the pathway, subject to feedback inhibition and other regulatory mechanisms.",
+      "concept_tags": ["committed-step", "metabolic-regulation", "pathway-control"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-036",
+      "question_text": "Which statement about enzyme specificity is correct?",
+      "options": [
+        "A. Absolute specificity means the enzyme acts on only one substrate",
+        "B. Group specificity means the enzyme requires a metal cofactor",
+        "C. Stereospecificity means the enzyme can act on both D and L isomers",
+        "D. Linkage specificity refers to the enzyme's pH optimum"
+      ],
+      "correct_answer": "A",
+      "explanation": "Absolute specificity means an enzyme catalyzes reactions with only one specific substrate. Group specificity refers to enzymes that act on substrates with particular functional groups. Stereospecificity means the enzyme distinguishes between stereoisomers (e.g., D vs L forms). Linkage specificity refers to the type of bond an enzyme acts upon.",
+      "concept_tags": ["enzyme-specificity", "substrate-recognition", "stereochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-037",
+      "question_text": "Transition state analogs are effective enzyme inhibitors because they:",
+      "options": [
+        "A. resemble the substrate and compete for the active site",
+        "B. mimic the transition state and bind more tightly than substrate",
+        "C. are identical to the product of the reaction",
+        "D. denature the enzyme protein"
+      ],
+      "correct_answer": "B",
+      "explanation": "Transition state analogs are molecules that resemble the transition state of the enzyme-catalyzed reaction. Because enzymes bind the transition state more tightly than substrate (which is how they catalyze reactions), transition state analogs bind extremely tightly and are potent inhibitors. This principle is used in drug design.",
+      "concept_tags": ["transition-state-analogs", "enzyme-inhibition", "drug-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-038",
+      "question_text": "Which of the following amino acid residues is most commonly found in the catalytic triad of serine proteases?",
+      "options": [
+        "A. Glycine, Alanine, Valine",
+        "B. Serine, Histidine, Aspartate",
+        "C. Cysteine, Methionine, Tryptophan",
+        "D. Lysine, Arginine, Glutamate"
+      ],
+      "correct_answer": "B",
+      "explanation": "The catalytic triad of serine proteases (such as chymotrypsin, trypsin, and elastase) consists of Serine, Histidine, and Aspartate. Aspartate positions histidine, which acts as a general base to activate the serine nucleophile for attack on the peptide bond. This arrangement is a classic example of acid-base catalysis.",
+      "concept_tags": ["serine-proteases", "catalytic-triad", "acid-base-catalysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-039",
+      "question_text": "The Michaelis-Menten equation assumes all of the following EXCEPT:",
+      "options": [
+        "A. the enzyme-substrate complex reaches steady state",
+        "B. the substrate concentration is much greater than enzyme concentration",
+        "C. the enzyme has multiple substrate binding sites with cooperativity",
+        "D. the reverse reaction is negligible"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Michaelis-Menten equation assumes: (1) steady-state conditions where [ES] is constant, (2) [S] >> [E], (3) the reaction is measured at initial velocities so [P] is negligible and reverse reaction is minimal, and (4) the enzyme has a single substrate binding site. Cooperativity violates these assumptions and leads to sigmoidal kinetics.",
+      "concept_tags": ["michaelis-menten", "enzyme-kinetics", "steady-state"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-040",
+      "question_text": "An enzyme is found to have a Km of 5 mM and a Vmax of 100 micromol/min. What is the reaction velocity when [S] = 5 mM?",
+      "options": [
+        "A. 25 micromol/min",
+        "B. 50 micromol/min",
+        "C. 75 micromol/min",
+        "D. 100 micromol/min"
+      ],
+      "correct_answer": "B",
+      "explanation": "By definition, Km is the substrate concentration at which the reaction velocity is half of Vmax. When [S] = Km, the Michaelis-Menten equation gives: V = Vmax[S]/(Km + [S]) = Vmax(Km)/(Km + Km) = Vmax/2. Therefore, V = 100/2 = 50 micromol/min.",
+      "concept_tags": ["michaelis-menten", "km", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-02-041",
+      "question_text": "On a Lineweaver-Burk plot, noncompetitive inhibition shows lines that:",
+      "options": [
+        "A. intersect on the y-axis",
+        "B. intersect on the x-axis",
+        "C. are parallel to each other",
+        "D. have the same slope"
+      ],
+      "correct_answer": "B",
+      "explanation": "In pure noncompetitive inhibition, Km is unchanged while Vmax decreases. On a Lineweaver-Burk plot, the x-intercept (-1/Km) remains the same, so lines intersect on the x-axis. The y-intercept (1/Vmax) increases with inhibitor concentration. The slope (Km/Vmax) also increases because Vmax decreases while Km stays constant.",
+      "concept_tags": ["lineweaver-burk", "noncompetitive-inhibition", "enzyme-kinetics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-042",
+      "question_text": "Which kinetic parameter is altered by the presence of an uncompetitive inhibitor?",
+      "options": [
+        "A. Km increases and Vmax remains unchanged",
+        "B. Both Km and Vmax decrease by the same factor",
+        "C. Km remains unchanged and Vmax decreases",
+        "D. Both Km and Vmax increase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Uncompetitive inhibitors bind only to the ES complex, not free enzyme. This binding decreases both apparent Km and Vmax by the same factor (1 + [I]/Ki'). The ratio Vmax/Km remains constant. On a Lineweaver-Burk plot, this produces parallel lines because the slope (Km/Vmax) is unchanged.",
+      "concept_tags": ["uncompetitive-inhibition", "enzyme-kinetics", "lineweaver-burk"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-043",
+      "question_text": "A researcher determines that an enzyme has a kcat of 10^4 s^-1 and a Km of 10^-5 M. The catalytic efficiency is:",
+      "options": [
+        "A. 10^-9 M^-1s^-1",
+        "B. 10^-1 M^-1s^-1",
+        "C. 10^9 M^-1s^-1",
+        "D. 10^1 s^-1"
+      ],
+      "correct_answer": "C",
+      "explanation": "Catalytic efficiency is calculated as kcat/Km. Given kcat = 10^4 s^-1 and Km = 10^-5 M: kcat/Km = (10^4 s^-1)/(10^-5 M) = 10^4 x 10^5 M^-1s^-1 = 10^9 M^-1s^-1. This value is at the diffusion limit, indicating an extremely efficient enzyme.",
+      "concept_tags": ["catalytic-efficiency", "kcat", "km", "calculations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-044",
+      "question_text": "For an enzyme showing positive cooperativity with a Hill coefficient of 4, at what fraction of Vmax would the velocity be when [S] = K0.5?",
+      "options": [
+        "A. 25%",
+        "B. 50%",
+        "C. 75%",
+        "D. 100%"
+      ],
+      "correct_answer": "B",
+      "explanation": "K0.5 is defined as the substrate concentration at which velocity equals half of Vmax, regardless of the Hill coefficient. This is analogous to Km in Michaelis-Menten kinetics but applies to cooperative enzymes. The Hill coefficient affects the steepness of the sigmoidal curve but not the definition of K0.5 as the half-saturation point.",
+      "concept_tags": ["cooperativity", "hill-coefficient", "k-half"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-045",
+      "question_text": "The R state and T state of an allosteric enzyme differ in that:",
+      "options": [
+        "A. the R state has lower affinity for substrate than the T state",
+        "B. the T state is the relaxed, high-affinity state",
+        "C. the R state is the relaxed, high-affinity state while T is the tense, low-affinity state",
+        "D. both states have identical substrate affinities"
+      ],
+      "correct_answer": "C",
+      "explanation": "In the concerted (MWC) model of allostery, enzymes exist in equilibrium between two states: the R (relaxed) state with high substrate affinity and the T (tense) state with low substrate affinity. Allosteric activators shift the equilibrium toward the R state, while allosteric inhibitors favor the T state. All subunits change conformation simultaneously.",
+      "concept_tags": ["allosteric-regulation", "r-state", "t-state", "mwc-model"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-046",
+      "question_text": "In the sequential model of allostery proposed by Koshland, Nemethy, and Filmer (KNF):",
+      "options": [
+        "A. all subunits change conformation simultaneously",
+        "B. substrate binding to one subunit induces a conformational change that affects adjacent subunits",
+        "C. the enzyme exists only in the T state",
+        "D. cooperativity cannot occur"
+      ],
+      "correct_answer": "B",
+      "explanation": "The sequential (KNF) model proposes that substrate binding induces a conformational change in that subunit, which then affects the conformation and affinity of neighboring subunits. Unlike the concerted model, subunits can have different conformations simultaneously, and changes are induced sequentially rather than all at once.",
+      "concept_tags": ["allosteric-regulation", "knf-model", "sequential-model", "cooperativity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-047",
+      "question_text": "Phosphofructokinase-1 (PFK-1) is allosterically inhibited by ATP and activated by AMP. This regulation serves to:",
+      "options": [
+        "A. increase glycolysis when cellular energy charge is high",
+        "B. decrease glycolysis when cellular energy charge is high",
+        "C. maintain constant glycolytic flux regardless of energy status",
+        "D. prevent gluconeogenesis from occurring"
+      ],
+      "correct_answer": "B",
+      "explanation": "PFK-1 is a key regulatory enzyme in glycolysis. When ATP levels are high (high energy charge), ATP binds to an allosteric site and inhibits PFK-1, slowing glycolysis because the cell has sufficient energy. When ATP is depleted and AMP accumulates, AMP activates PFK-1, stimulating glycolysis to produce more ATP.",
+      "concept_tags": ["pfk-1", "glycolysis-regulation", "allosteric-regulation", "energy-charge"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-048",
+      "question_text": "The rate enhancement provided by enzymes compared to uncatalyzed reactions can be attributed to all of the following EXCEPT:",
+      "options": [
+        "A. stabilization of the transition state",
+        "B. proper orientation of substrates",
+        "C. change in the reaction mechanism",
+        "D. alteration of the reaction's equilibrium constant"
+      ],
+      "correct_answer": "D",
+      "explanation": "Enzymes cannot alter the equilibrium constant of a reaction; they only increase the rate at which equilibrium is reached. Rate enhancement is achieved through: transition state stabilization, proper substrate orientation (proximity effects), sometimes altering the reaction mechanism (providing alternative lower-energy pathways), and providing an optimal microenvironment.",
+      "concept_tags": ["catalysis", "rate-enhancement", "equilibrium", "transition-state"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-049",
+      "question_text": "A drug is designed to inhibit an enzyme by mimicking the transition state. Compared to a competitive inhibitor that resembles the substrate, this transition state analog would be expected to have:",
+      "options": [
+        "A. weaker binding affinity for the enzyme",
+        "B. approximately equal binding affinity",
+        "C. stronger binding affinity for the enzyme",
+        "D. no binding to the enzyme"
+      ],
+      "correct_answer": "C",
+      "explanation": "Enzymes are evolved to bind the transition state more tightly than substrate (this is fundamental to how they catalyze reactions). Therefore, transition state analogs bind more tightly than substrate analogs. The binding energy difference between transition state and substrate binding is what provides the activation energy reduction.",
+      "concept_tags": ["transition-state-analogs", "enzyme-inhibition", "drug-design", "binding-affinity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-02-050",
+      "question_text": "An enzyme shows the following kinetic data: without inhibitor, Km = 2 mM and Vmax = 100 U; with inhibitor, apparent Km = 2 mM and apparent Vmax = 50 U. The inhibitor concentration is equal to its Ki. What type of inhibition is occurring and what is the value of alpha?",
+      "options": [
+        "A. Competitive inhibition; alpha = 2",
+        "B. Noncompetitive inhibition; alpha = 2",
+        "C. Uncompetitive inhibition; alpha = 0.5",
+        "D. Mixed inhibition; alpha = 1"
+      ],
+      "correct_answer": "B",
+      "explanation": "Since Km is unchanged (2 mM) and Vmax is decreased (100 to 50 U), this is noncompetitive inhibition. For noncompetitive inhibition, alpha = 1 + [I]/Ki. When [I] = Ki, alpha = 1 + 1 = 2. The apparent Vmax = Vmax/alpha = 100/2 = 50 U, which matches the data. Alpha represents the factor by which Vmax is reduced.",
+      "concept_tags": ["noncompetitive-inhibition", "alpha", "ki", "enzyme-kinetics"],
+      "difficulty": "hard"
+    }
+  ]
+}

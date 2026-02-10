@@ -1,0 +1,457 @@
+{
+  "book": "organic-chemistry",
+  "chapter": 8,
+  "chapter_title": "Carboxylic Acid Derivatives",
+  "questions": [
+    {
+      "id": "organic-chemistry-08-001",
+      "question_text": "Which of the following is NOT a carboxylic acid derivative?",
+      "options": ["A. Ester", "B. Amide", "C. Ketone", "D. Acid chloride"],
+      "correct_answer": "C",
+      "explanation": "Ketones have a carbonyl between two carbons and are not derived from carboxylic acids. Esters, amides, acid chlorides, and anhydrides are carboxylic acid derivatives.",
+      "concept_tags": ["carboxylic acid derivatives", "functional groups", "classification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-002",
+      "question_text": "The general reactivity order of carboxylic acid derivatives toward nucleophilic acyl substitution is:",
+      "options": ["A. Amide > Ester > Anhydride > Acid chloride", "B. Acid chloride > Anhydride > Ester > Amide", "C. Ester > Amide > Acid chloride > Anhydride", "D. All derivatives are equally reactive"],
+      "correct_answer": "B",
+      "explanation": "Reactivity decreases with increasing resonance stabilization and decreasing leaving group ability: acid chloride > anhydride > ester > amide.",
+      "concept_tags": ["reactivity", "nucleophilic acyl substitution", "leaving groups"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-003",
+      "question_text": "Acid chlorides are highly reactive because:",
+      "options": ["A. The carbonyl is stabilized by resonance", "B. Chlorine is a poor leaving group", "C. Chlorine is electronegative and a good leaving group", "D. They are thermodynamically stable"],
+      "correct_answer": "C",
+      "explanation": "Chlorine's electronegativity makes the carbonyl carbon more electrophilic, and Cl⁻ is an excellent leaving group, making acid chlorides highly reactive.",
+      "concept_tags": ["acid chloride", "reactivity", "leaving group"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-004",
+      "question_text": "Amides are the least reactive carboxylic acid derivative because:",
+      "options": ["A. Nitrogen is very electronegative", "B. The nitrogen lone pair donates strongly into the carbonyl by resonance", "C. NH₂⁻ is an excellent leaving group", "D. Amides are ionic"],
+      "correct_answer": "B",
+      "explanation": "The nitrogen lone pair strongly delocalizes into the carbonyl through resonance, stabilizing the amide and making the carbonyl less electrophilic. Also, NH₂⁻ is a poor leaving group.",
+      "concept_tags": ["amide", "resonance", "stability", "reactivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-005",
+      "question_text": "Nucleophilic acyl substitution proceeds through:",
+      "options": ["A. An SN2 mechanism", "B. A carbocation intermediate", "C. A tetrahedral intermediate", "D. A radical mechanism"],
+      "correct_answer": "C",
+      "explanation": "Nucleophilic acyl substitution involves nucleophilic attack on the carbonyl to form a tetrahedral intermediate, followed by elimination of the leaving group.",
+      "concept_tags": ["mechanism", "tetrahedral intermediate", "nucleophilic acyl substitution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-006",
+      "question_text": "An acid chloride reacting with water produces:",
+      "options": ["A. An ester", "B. A carboxylic acid", "C. An amide", "D. An anhydride"],
+      "correct_answer": "B",
+      "explanation": "Hydrolysis of an acid chloride with water produces a carboxylic acid and HCl. This reaction is rapid and exothermic.",
+      "concept_tags": ["hydrolysis", "acid chloride", "carboxylic acid"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-007",
+      "question_text": "An acid chloride reacting with an alcohol produces:",
+      "options": ["A. A carboxylic acid", "B. An ester", "C. An amide", "D. An ether"],
+      "correct_answer": "B",
+      "explanation": "Acid chlorides react rapidly with alcohols to form esters and HCl in an alcoholysis reaction.",
+      "concept_tags": ["esterification", "acid chloride", "alcohol"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-008",
+      "question_text": "An acid chloride reacting with ammonia or an amine produces:",
+      "options": ["A. A carboxylic acid", "B. An ester", "C. An amide", "D. A nitrile"],
+      "correct_answer": "C",
+      "explanation": "Acid chlorides react with ammonia or amines to form amides. Two equivalents of amine are needed (one reacts, one neutralizes HCl).",
+      "concept_tags": ["amide formation", "acid chloride", "amine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-009",
+      "question_text": "Reduction of an acid chloride with LiAlH(O-tBu)₃ produces:",
+      "options": ["A. A carboxylic acid", "B. An aldehyde", "C. A primary alcohol", "D. An amine"],
+      "correct_answer": "B",
+      "explanation": "The bulky reducing agent LiAlH(O-tBu)₃ (lithium tri-tert-butoxyaluminum hydride) is mild enough to reduce acid chlorides to aldehydes without further reduction.",
+      "concept_tags": ["reduction", "acid chloride", "aldehyde", "selective reduction"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-08-010",
+      "question_text": "Reduction of an acid chloride with LiAlH₄ produces:",
+      "options": ["A. An aldehyde", "B. A primary alcohol", "C. A secondary alcohol", "D. An amine"],
+      "correct_answer": "B",
+      "explanation": "LiAlH₄ is a strong reducing agent that fully reduces acid chlorides to primary alcohols (through the aldehyde intermediate).",
+      "concept_tags": ["reduction", "LiAlH4", "primary alcohol"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-011",
+      "question_text": "Anhydrides are named by:",
+      "options": ["A. Adding '-anhydride' to the carboxylic acid name", "B. Replacing '-ic acid' with '-ic anhydride'", "C. Adding '-oyl' suffix", "D. Using '-ate' ending"],
+      "correct_answer": "B",
+      "explanation": "Anhydrides are named by replacing '-ic acid' of the parent carboxylic acid with '-ic anhydride' (e.g., acetic anhydride from acetic acid).",
+      "concept_tags": ["nomenclature", "anhydride", "naming"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-012",
+      "question_text": "Anhydrides react with water to form:",
+      "options": ["A. One carboxylic acid molecule", "B. Two carboxylic acid molecules", "C. An ester and a carboxylic acid", "D. An aldehyde"],
+      "correct_answer": "B",
+      "explanation": "Hydrolysis of an anhydride produces two molecules of carboxylic acid (or one molecule of each acid if mixed anhydride).",
+      "concept_tags": ["hydrolysis", "anhydride", "carboxylic acid"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-013",
+      "question_text": "Anhydrides are commonly used in synthesis because they are:",
+      "options": ["A. The least reactive derivatives", "B. More reactive than esters but more stable than acid chlorides", "C. Cheaper than all other reagents", "D. The most selective reagents"],
+      "correct_answer": "B",
+      "explanation": "Anhydrides provide a good balance of reactivity (more reactive than esters) and stability (more stable than acid chlorides), making them useful synthetic reagents.",
+      "concept_tags": ["anhydride", "synthetic utility", "reactivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-014",
+      "question_text": "Esters are named by:",
+      "options": ["A. Naming the alkyl group first, then '-oate' from the acid", "B. Naming the acid first, then the alcohol", "C. Using only the acid name", "D. Using only the alcohol name"],
+      "correct_answer": "A",
+      "explanation": "Esters are named by first naming the alkyl group from the alcohol, then the carboxylate part using '-oate' (e.g., ethyl acetate).",
+      "concept_tags": ["nomenclature", "ester", "naming"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-015",
+      "question_text": "Saponification is:",
+      "options": ["A. Acid-catalyzed ester hydrolysis", "B. Base-catalyzed ester hydrolysis", "C. Ester formation", "D. Amide hydrolysis"],
+      "correct_answer": "B",
+      "explanation": "Saponification is base-catalyzed (irreversible) hydrolysis of esters, producing a carboxylate salt and an alcohol. It's used in soap making from fats.",
+      "concept_tags": ["saponification", "base hydrolysis", "ester"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-016",
+      "question_text": "Base-catalyzed ester hydrolysis is irreversible because:",
+      "options": ["A. The products are more stable", "B. The carboxylate ion formed is resonance-stabilized and unreactive", "C. Water is removed", "D. The alcohol evaporates"],
+      "correct_answer": "B",
+      "explanation": "The carboxylate anion product is resonance-stabilized and unreactive toward nucleophilic attack, making the reaction irreversible.",
+      "concept_tags": ["saponification", "irreversibility", "carboxylate"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-017",
+      "question_text": "Acid-catalyzed ester hydrolysis is:",
+      "options": ["A. Irreversible", "B. Reversible (equilibrium reaction)", "C. Faster than saponification", "D. Not possible"],
+      "correct_answer": "B",
+      "explanation": "Acid-catalyzed ester hydrolysis is reversible (same mechanism as Fischer esterification in reverse) and requires excess water to drive toward products.",
+      "concept_tags": ["acid hydrolysis", "reversibility", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-018",
+      "question_text": "Transesterification involves:",
+      "options": ["A. Converting an ester to an amide", "B. Exchanging the alcohol portion of an ester", "C. Reducing an ester", "D. Oxidizing an ester"],
+      "correct_answer": "B",
+      "explanation": "Transesterification exchanges the alkoxy group of an ester with a different alcohol, catalyzed by acid or base.",
+      "concept_tags": ["transesterification", "ester exchange", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-019",
+      "question_text": "Reduction of an ester with LiAlH₄ produces:",
+      "options": ["A. An aldehyde only", "B. Two alcohols (one primary from the acid, one from the alkoxy group)", "C. A carboxylic acid", "D. A ketone"],
+      "correct_answer": "B",
+      "explanation": "LiAlH₄ reduces esters to give two alcohol products: a primary alcohol from the acyl portion and the alcohol from the alkoxy leaving group.",
+      "concept_tags": ["reduction", "LiAlH4", "ester", "alcohols"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-020",
+      "question_text": "DIBAL-H (diisobutylaluminum hydride) can reduce esters to:",
+      "options": ["A. Carboxylic acids", "B. Aldehydes (at low temperature)", "C. Ketones", "D. Amines"],
+      "correct_answer": "B",
+      "explanation": "DIBAL-H at low temperature (-78°C) can selectively reduce esters to aldehydes by adding only one equivalent of hydride.",
+      "concept_tags": ["DIBAL-H", "selective reduction", "aldehyde"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-08-021",
+      "question_text": "Grignard reagents react with esters to form:",
+      "options": ["A. Primary alcohols", "B. Secondary alcohols", "C. Tertiary alcohols", "D. Carboxylic acids"],
+      "correct_answer": "C",
+      "explanation": "Grignard reagents add twice to esters (once to form a ketone intermediate, then again) to produce tertiary alcohols with two identical groups from the Grignard.",
+      "concept_tags": ["Grignard", "ester", "tertiary alcohol"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-022",
+      "question_text": "A lactone is:",
+      "options": ["A. A cyclic ketone", "B. A cyclic ester", "C. A cyclic ether", "D. A cyclic amide"],
+      "correct_answer": "B",
+      "explanation": "A lactone is a cyclic ester, typically formed by intramolecular esterification of a hydroxy acid.",
+      "concept_tags": ["lactone", "cyclic ester", "nomenclature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-023",
+      "question_text": "Five and six-membered lactones are particularly stable because:",
+      "options": ["A. They are aromatic", "B. They have minimal ring strain", "C. They are ionic", "D. They have no carbonyl"],
+      "correct_answer": "B",
+      "explanation": "Five-membered (γ-lactones) and six-membered (δ-lactones) rings have minimal ring strain, making them thermodynamically favorable.",
+      "concept_tags": ["lactone", "ring strain", "stability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-024",
+      "question_text": "Amides are named by:",
+      "options": ["A. Adding '-amide' to the alkane name", "B. Replacing '-oic acid' with '-amide'", "C. Adding '-amine' suffix", "D. Using '-ate' ending"],
+      "correct_answer": "B",
+      "explanation": "Amides are named by replacing '-oic acid' (or '-ic acid') of the parent acid with '-amide' (e.g., acetamide from acetic acid).",
+      "concept_tags": ["nomenclature", "amide", "naming"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-025",
+      "question_text": "N-substituted amides are named by:",
+      "options": ["A. Ignoring the N-substituents", "B. Using N- prefix before substituent names", "C. Naming as amines", "D. Using Greek letters"],
+      "correct_answer": "B",
+      "explanation": "Substituents on the amide nitrogen are indicated with 'N-' prefix (e.g., N-methylacetamide, N,N-dimethylformamide).",
+      "concept_tags": ["nomenclature", "N-substituted amide", "naming"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-026",
+      "question_text": "Amide bonds have significant double-bond character because:",
+      "options": ["A. They contain a true C=N double bond", "B. Resonance delocalizes the nitrogen lone pair into the carbonyl", "C. The carbon is sp hybridized", "D. Nitrogen is very electronegative"],
+      "correct_answer": "B",
+      "explanation": "The nitrogen lone pair delocalizes into the carbonyl through resonance, giving the C-N bond partial double-bond character and making amides planar.",
+      "concept_tags": ["amide resonance", "partial double bond", "planarity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-027",
+      "question_text": "Due to resonance, amides are:",
+      "options": ["A. Planar around the C-N bond", "B. Freely rotating around the C-N bond", "C. Pyramidal at nitrogen", "D. Ionic"],
+      "correct_answer": "A",
+      "explanation": "The partial double-bond character from resonance restricts rotation around the C-N bond, making amides planar with cis/trans isomers possible.",
+      "concept_tags": ["amide", "planarity", "restricted rotation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-028",
+      "question_text": "Hydrolysis of amides requires:",
+      "options": ["A. Mild conditions", "B. Strong acid or base with heat", "C. Neutral pH", "D. No catalyst"],
+      "correct_answer": "B",
+      "explanation": "Amides are very stable and require vigorous conditions (strong acid or base with prolonged heating) for hydrolysis to carboxylic acids and amines/ammonia.",
+      "concept_tags": ["amide hydrolysis", "stability", "harsh conditions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-029",
+      "question_text": "Reduction of an amide with LiAlH₄ produces:",
+      "options": ["A. A carboxylic acid", "B. An aldehyde", "C. An amine", "D. An alcohol"],
+      "correct_answer": "C",
+      "explanation": "LiAlH₄ reduces amides to amines, removing the carbonyl oxygen entirely. The nitrogen remains in the product.",
+      "concept_tags": ["reduction", "amide", "amine", "LiAlH4"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-030",
+      "question_text": "A lactam is:",
+      "options": ["A. A cyclic ester", "B. A cyclic amide", "C. A cyclic anhydride", "D. A cyclic ketone"],
+      "correct_answer": "B",
+      "explanation": "A lactam is a cyclic amide, formed by intramolecular amide formation from an amino acid.",
+      "concept_tags": ["lactam", "cyclic amide", "nomenclature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-031",
+      "question_text": "Beta-lactams are important in medicine as:",
+      "options": ["A. Painkillers", "B. Antibiotics (penicillins, cephalosporins)", "C. Vitamins", "D. Hormones"],
+      "correct_answer": "B",
+      "explanation": "Beta-lactam antibiotics (including penicillins and cephalosporins) contain a four-membered lactam ring that inhibits bacterial cell wall synthesis.",
+      "concept_tags": ["beta-lactam", "antibiotics", "penicillin"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-032",
+      "question_text": "The carbonyl stretch in IR for acid chlorides appears at approximately:",
+      "options": ["A. 1650 cm⁻¹", "B. 1715 cm⁻¹", "C. 1800 cm⁻¹", "D. 1900 cm⁻¹"],
+      "correct_answer": "C",
+      "explanation": "Acid chlorides show a high carbonyl stretch around 1800 cm⁻¹ due to the electron-withdrawing chlorine reducing resonance stabilization.",
+      "concept_tags": ["IR spectroscopy", "acid chloride", "carbonyl stretch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-033",
+      "question_text": "Anhydrides show how many C=O stretches in IR?",
+      "options": ["A. One", "B. Two (symmetric and asymmetric)", "C. Three", "D. None"],
+      "correct_answer": "B",
+      "explanation": "Anhydrides show two carbonyl stretches (around 1820 and 1760 cm⁻¹) due to symmetric and asymmetric stretching of the two coupled carbonyls.",
+      "concept_tags": ["IR spectroscopy", "anhydride", "two peaks"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-034",
+      "question_text": "The carbonyl stretch for esters appears at approximately:",
+      "options": ["A. 1650 cm⁻¹", "B. 1735 cm⁻¹", "C. 1800 cm⁻¹", "D. 1550 cm⁻¹"],
+      "correct_answer": "B",
+      "explanation": "Esters typically show a carbonyl stretch around 1735 cm⁻¹, slightly higher than ketones due to the electron-withdrawing effect of the alkoxy oxygen.",
+      "concept_tags": ["IR spectroscopy", "ester", "carbonyl stretch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-035",
+      "question_text": "The carbonyl stretch for amides appears at approximately:",
+      "options": ["A. 1650 cm⁻¹", "B. 1735 cm⁻¹", "C. 1800 cm⁻¹", "D. 1550 cm⁻¹"],
+      "correct_answer": "A",
+      "explanation": "Amides show a low carbonyl stretch around 1650 cm⁻¹ (amide I band) due to strong resonance donation from nitrogen reducing C=O bond order.",
+      "concept_tags": ["IR spectroscopy", "amide", "carbonyl stretch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-036",
+      "question_text": "Primary amides show which characteristic IR absorption?",
+      "options": ["A. One N-H stretch", "B. Two N-H stretches", "C. No N-H stretch", "D. Three N-H stretches"],
+      "correct_answer": "B",
+      "explanation": "Primary amides (RCONH₂) show two N-H stretches around 3350 and 3180 cm⁻¹ due to symmetric and asymmetric N-H stretching.",
+      "concept_tags": ["IR spectroscopy", "primary amide", "N-H stretch"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-037",
+      "question_text": "The Claisen condensation involves:",
+      "options": ["A. Two aldehydes", "B. Two esters forming a β-keto ester", "C. An ester and a ketone", "D. Two amides"],
+      "correct_answer": "B",
+      "explanation": "The Claisen condensation is the base-catalyzed condensation of two ester molecules to form a β-keto ester, analogous to the aldol condensation.",
+      "concept_tags": ["Claisen condensation", "ester", "beta-keto ester"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-038",
+      "question_text": "In the Claisen condensation, the base abstracts a proton from:",
+      "options": ["A. The carbonyl carbon", "B. The alpha carbon of the ester", "C. The alcohol portion", "D. The beta carbon"],
+      "correct_answer": "B",
+      "explanation": "The base abstracts an alpha proton from one ester to form an enolate, which attacks the carbonyl of another ester molecule.",
+      "concept_tags": ["Claisen condensation", "enolate", "mechanism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-039",
+      "question_text": "The Claisen condensation requires a full equivalent of base because:",
+      "options": ["A. The base is consumed in a side reaction", "B. The β-keto ester product is acidic and deprotonated", "C. Two reactions occur", "D. The ester is very basic"],
+      "correct_answer": "B",
+      "explanation": "A full equivalent of base is needed because the β-keto ester product (more acidic due to two carbonyls) is deprotonated, driving the equilibrium forward.",
+      "concept_tags": ["Claisen condensation", "stoichiometry", "acidity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-08-040",
+      "question_text": "The Hofmann rearrangement converts amides to:",
+      "options": ["A. Carboxylic acids", "B. Amines with one fewer carbon", "C. Nitriles", "D. Esters"],
+      "correct_answer": "B",
+      "explanation": "The Hofmann rearrangement treats primary amides with bromine and base to produce amines with one fewer carbon than the starting amide.",
+      "concept_tags": ["Hofmann rearrangement", "amide degradation", "amine"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-08-041",
+      "question_text": "Peptide bonds in proteins are:",
+      "options": ["A. Ester bonds", "B. Ether bonds", "C. Amide bonds", "D. Disulfide bonds"],
+      "correct_answer": "C",
+      "explanation": "Peptide bonds linking amino acids in proteins are amide bonds, formed between the carboxyl group of one amino acid and the amino group of another.",
+      "concept_tags": ["peptide bond", "amide", "proteins"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "organic-chemistry-08-042",
+      "question_text": "Peptide bonds have restricted rotation, which is important for:",
+      "options": ["A. Protein digestion", "B. Protein secondary structure", "C. Protein synthesis rate", "D. Amino acid solubility"],
+      "correct_answer": "B",
+      "explanation": "The restricted rotation of peptide bonds (due to resonance) constrains protein backbone geometry, which is fundamental to secondary structures like alpha helices and beta sheets.",
+      "concept_tags": ["peptide bond", "protein structure", "restricted rotation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-043",
+      "question_text": "Polyesters are formed by:",
+      "options": ["A. Addition polymerization", "B. Condensation of diols with dicarboxylic acids/diesters", "C. Radical polymerization", "D. Ring-opening polymerization only"],
+      "correct_answer": "B",
+      "explanation": "Polyesters (like PET) are condensation polymers formed from the reaction of diols with dicarboxylic acids or their esters.",
+      "concept_tags": ["polyester", "condensation polymer", "synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-044",
+      "question_text": "Polyamides (nylons) are formed by:",
+      "options": ["A. Addition polymerization", "B. Condensation of diamines with dicarboxylic acids", "C. Radical polymerization", "D. Cationic polymerization"],
+      "correct_answer": "B",
+      "explanation": "Polyamides (nylons) are condensation polymers formed from the reaction of diamines with dicarboxylic acids or their derivatives.",
+      "concept_tags": ["polyamide", "nylon", "condensation polymer"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-045",
+      "question_text": "Acyl transfer reactions in biochemistry typically use which activated acyl derivative?",
+      "options": ["A. Acid chlorides", "B. Thioesters (like acetyl-CoA)", "C. Anhydrides", "D. Free carboxylic acids"],
+      "correct_answer": "B",
+      "explanation": "Thioesters (like acetyl-CoA) are commonly used in biology as activated acyl carriers because they are more reactive than esters but stable enough for biological systems.",
+      "concept_tags": ["thioester", "acetyl-CoA", "biochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-046",
+      "question_text": "Thioesters are more reactive than oxygen esters because:",
+      "options": ["A. Sulfur is more electronegative than oxygen", "B. Sulfur's lone pairs overlap less effectively with the carbonyl", "C. Thiols are more acidic", "D. C-S bonds are stronger"],
+      "correct_answer": "B",
+      "explanation": "Sulfur's larger orbitals overlap poorly with the carbonyl carbon, providing less resonance stabilization and making thioesters more reactive toward nucleophiles.",
+      "concept_tags": ["thioester", "reactivity", "resonance"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-08-047",
+      "question_text": "Mixed anhydrides can be prepared from:",
+      "options": ["A. Two different carboxylic acids", "B. A carboxylic acid and an acid chloride", "C. A carboxylic acid and a phosphoric acid", "D. All of the above"],
+      "correct_answer": "D",
+      "explanation": "Mixed anhydrides can be prepared from two different carboxylic acids, from a carboxylic acid and an acid chloride, or from carboxylic and phosphoric acids (mixed phosphoric anhydrides).",
+      "concept_tags": ["mixed anhydride", "synthesis", "activation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "organic-chemistry-08-048",
+      "question_text": "In ¹³C NMR, the carbonyl carbon of amides typically appears at:",
+      "options": ["A. 20-40 ppm", "B. 60-80 ppm", "C. 160-180 ppm", "D. 200-220 ppm"],
+      "correct_answer": "C",
+      "explanation": "Amide carbonyl carbons appear around 160-180 ppm in ¹³C NMR, slightly upfield from ester carbonyls due to greater resonance with nitrogen.",
+      "concept_tags": ["NMR spectroscopy", "amide", "13C chemical shift"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-049",
+      "question_text": "Urea is:",
+      "options": ["A. A diamide of carbonic acid", "B. A simple amide", "C. An ester", "D. An anhydride"],
+      "correct_answer": "A",
+      "explanation": "Urea (H₂N-CO-NH₂) is the diamide of carbonic acid, with two amino groups attached to a carbonyl carbon. It's a key nitrogen excretion product.",
+      "concept_tags": ["urea", "diamide", "carbonic acid"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "organic-chemistry-08-050",
+      "question_text": "Converting a more reactive derivative to a less reactive one (e.g., acid chloride to amide) is:",
+      "options": ["A. Not possible", "B. Thermodynamically and kinetically favorable", "C. Only possible with catalysts", "D. Reversible"],
+      "correct_answer": "B",
+      "explanation": "Interconversion of carboxylic acid derivatives generally proceeds from more reactive to less reactive (acid chloride → anhydride → ester → amide), driven by thermodynamics.",
+      "concept_tags": ["interconversion", "thermodynamics", "reactivity"],
+      "difficulty": "medium"
+    }
+  ]
+}

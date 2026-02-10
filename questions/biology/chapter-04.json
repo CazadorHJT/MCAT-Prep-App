@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 4,
+  "chapter_title": "The Nervous System",
+  "questions": [
+    {
+      "id": "biology-04-001",
+      "question_text": "The cell body of a neuron, which contains the nucleus and most organelles, is called the:",
+      "options": [
+        "A. axon",
+        "B. dendrite",
+        "C. soma",
+        "D. synapse"
+      ],
+      "correct_answer": "C",
+      "explanation": "The soma (cell body) contains the nucleus, endoplasmic reticulum, ribosomes, and other organelles. Dendrites receive incoming signals and transmit them to the soma. The axon transmits signals away from the soma. A synapse is the junction between neurons.",
+      "concept_tags": ["neuron-structure", "soma", "cell-body"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-002",
+      "question_text": "Dendrites function to:",
+      "options": [
+        "A. transmit signals away from the cell body",
+        "B. receive incoming signals from other neurons",
+        "C. release neurotransmitters",
+        "D. produce myelin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Dendrites are branched extensions that receive incoming signals from other neurons and transmit them toward the cell body. Axons transmit signals away from the cell body and release neurotransmitters at their terminals. Myelin is produced by glial cells.",
+      "concept_tags": ["dendrites", "neuron-structure", "signal-reception"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-003",
+      "question_text": "The axon hillock functions to:",
+      "options": [
+        "A. receive neurotransmitters",
+        "B. produce myelin",
+        "C. integrate signals and initiate action potentials if threshold is reached",
+        "D. release neurotransmitters into the synapse"
+      ],
+      "correct_answer": "C",
+      "explanation": "The axon hillock integrates excitatory and inhibitory signals from dendrites. If the sum of these signals reaches threshold, the axon hillock initiates an action potential that travels down the axon. Neurotransmitter release occurs at the axon terminal.",
+      "concept_tags": ["axon-hillock", "action-potential", "threshold", "signal-integration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-004",
+      "question_text": "Myelin in the central nervous system is produced by:",
+      "options": [
+        "A. Schwann cells",
+        "B. oligodendrocytes",
+        "C. astrocytes",
+        "D. microglia"
+      ],
+      "correct_answer": "B",
+      "explanation": "Oligodendrocytes produce myelin in the central nervous system (brain and spinal cord). Schwann cells produce myelin in the peripheral nervous system. Astrocytes support neurons and form the blood-brain barrier. Microglia are immune cells of the CNS.",
+      "concept_tags": ["myelin", "oligodendrocytes", "cns", "glial-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-005",
+      "question_text": "Myelin in the peripheral nervous system is produced by:",
+      "options": [
+        "A. oligodendrocytes",
+        "B. Schwann cells",
+        "C. astrocytes",
+        "D. ependymal cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Schwann cells produce myelin in the peripheral nervous system. Each Schwann cell myelinates a single segment of one axon. Oligodendrocytes produce myelin in the CNS, where one oligodendrocyte can myelinate segments of multiple axons.",
+      "concept_tags": ["myelin", "schwann-cells", "pns", "glial-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-006",
+      "question_text": "The nodes of Ranvier are:",
+      "options": [
+        "A. regions where myelin is thickest",
+        "B. gaps in the myelin sheath where the axon membrane is exposed",
+        "C. the sites of neurotransmitter release",
+        "D. the locations where dendrites branch"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nodes of Ranvier are gaps in the myelin sheath where the axon membrane is exposed. These nodes are essential for saltatory conduction, allowing action potentials to jump from node to node, which greatly increases conduction velocity.",
+      "concept_tags": ["nodes-of-ranvier", "myelin", "saltatory-conduction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-007",
+      "question_text": "The function of the myelin sheath includes all of the following EXCEPT:",
+      "options": [
+        "A. insulating the axon to prevent signal loss",
+        "B. increasing the speed of signal conduction",
+        "C. generating action potentials",
+        "D. preventing crossing of signals between adjacent neurons"
+      ],
+      "correct_answer": "C",
+      "explanation": "Myelin insulates axons, prevents signal crossing between adjacent neurons, and increases conduction speed through saltatory conduction. Action potentials are generated at the axon hillock and propagated by ion channels in the axon membrane, not by myelin itself.",
+      "concept_tags": ["myelin", "myelin-function", "action-potential", "insulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-008",
+      "question_text": "The synaptic bouton (nerve terminal) is specialized for:",
+      "options": [
+        "A. receiving incoming signals",
+        "B. integrating signals from multiple sources",
+        "C. releasing neurotransmitters",
+        "D. producing myelin"
+      ],
+      "correct_answer": "C",
+      "explanation": "The synaptic bouton (nerve terminal) is the enlarged ending of the axon that contains vesicles filled with neurotransmitters. When an action potential arrives, these vesicles fuse with the membrane and release neurotransmitters into the synaptic cleft.",
+      "concept_tags": ["synaptic-bouton", "nerve-terminal", "neurotransmitter-release"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-009",
+      "question_text": "The synaptic cleft is:",
+      "options": [
+        "A. the space between two neurons where neurotransmitters are released",
+        "B. the gap in the myelin sheath",
+        "C. the junction between an axon and its cell body",
+        "D. the branching point of dendrites"
+      ],
+      "correct_answer": "A",
+      "explanation": "The synaptic cleft is the small space between the axon terminal of one neuron and the dendrite or cell body of the next neuron. Neurotransmitters released from the presynaptic neuron diffuse across this cleft to bind receptors on the postsynaptic neuron.",
+      "concept_tags": ["synaptic-cleft", "synapse", "neurotransmission"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-010",
+      "question_text": "Astrocytes perform all of the following functions EXCEPT:",
+      "options": [
+        "A. forming the blood-brain barrier",
+        "B. providing structural support to neurons",
+        "C. producing myelin",
+        "D. regulating the extracellular environment"
+      ],
+      "correct_answer": "C",
+      "explanation": "Astrocytes provide structural support, form the blood-brain barrier, regulate ion and neurotransmitter concentrations, and supply nutrients to neurons. Myelin production is the function of oligodendrocytes (CNS) and Schwann cells (PNS), not astrocytes.",
+      "concept_tags": ["astrocytes", "glial-cells", "blood-brain-barrier"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-011",
+      "question_text": "Microglia function as:",
+      "options": [
+        "A. myelin-producing cells",
+        "B. immune cells of the central nervous system",
+        "C. cells that line the ventricles",
+        "D. structural support cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Microglia are the resident immune cells of the central nervous system. They phagocytose pathogens, dead cells, and debris. They are derived from myeloid precursors rather than neural precursors like other glial cells.",
+      "concept_tags": ["microglia", "immune-cells", "cns", "phagocytosis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-012",
+      "question_text": "The resting membrane potential of a typical neuron is approximately:",
+      "options": [
+        "A. +70 mV",
+        "B. 0 mV",
+        "C. -70 mV",
+        "D. -140 mV"
+      ],
+      "correct_answer": "C",
+      "explanation": "The resting membrane potential of a typical neuron is approximately -70 mV, meaning the inside of the cell is negative relative to the outside. This potential is maintained primarily by the Na+/K+-ATPase pump and the selective permeability of the membrane to K+.",
+      "concept_tags": ["resting-potential", "membrane-potential", "neuron"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-013",
+      "question_text": "The resting membrane potential is maintained primarily by:",
+      "options": [
+        "A. voltage-gated sodium channels",
+        "B. the Na+/K+-ATPase pump and potassium leak channels",
+        "C. calcium channels",
+        "D. chloride pumps"
+      ],
+      "correct_answer": "B",
+      "explanation": "The resting membrane potential is maintained primarily by the Na+/K+-ATPase (which pumps 3 Na+ out and 2 K+ in) and potassium leak channels (which allow K+ to flow out down its concentration gradient). This creates the negative resting potential.",
+      "concept_tags": ["resting-potential", "sodium-potassium-pump", "potassium-channels"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-014",
+      "question_text": "Depolarization of a neuron membrane refers to:",
+      "options": [
+        "A. the membrane potential becoming more negative",
+        "B. the membrane potential becoming less negative (more positive)",
+        "C. the membrane potential remaining at resting level",
+        "D. the complete loss of membrane potential"
+      ],
+      "correct_answer": "B",
+      "explanation": "Depolarization occurs when the membrane potential becomes less negative (moves toward 0 or positive values). This typically results from the opening of sodium channels and influx of Na+ ions. Hyperpolarization is when the membrane becomes more negative than resting potential.",
+      "concept_tags": ["depolarization", "membrane-potential", "action-potential"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-015",
+      "question_text": "During the depolarization phase of an action potential, which ion movement primarily occurs?",
+      "options": [
+        "A. K+ flows out of the cell",
+        "B. Na+ flows into the cell",
+        "C. Cl- flows into the cell",
+        "D. Ca2+ flows out of the cell"
+      ],
+      "correct_answer": "B",
+      "explanation": "During depolarization, voltage-gated sodium channels open, allowing Na+ to rapidly flow into the cell down its electrochemical gradient. This influx of positive charge causes the membrane potential to become positive (up to about +30 mV).",
+      "concept_tags": ["depolarization", "sodium-channels", "action-potential", "ion-movement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-016",
+      "question_text": "During repolarization of an action potential, which ion movement primarily occurs?",
+      "options": [
+        "A. Na+ flows into the cell",
+        "B. K+ flows out of the cell",
+        "C. Na+ flows out of the cell",
+        "D. Cl- flows out of the cell"
+      ],
+      "correct_answer": "B",
+      "explanation": "During repolarization, voltage-gated potassium channels open, allowing K+ to flow out of the cell down its electrochemical gradient. This efflux of positive charge returns the membrane potential toward (and briefly past) the resting potential.",
+      "concept_tags": ["repolarization", "potassium-channels", "action-potential", "ion-movement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-017",
+      "question_text": "Threshold potential is the:",
+      "options": [
+        "A. resting membrane potential",
+        "B. minimum depolarization needed to trigger an action potential",
+        "C. maximum membrane potential during an action potential",
+        "D. potential during the refractory period"
+      ],
+      "correct_answer": "B",
+      "explanation": "Threshold is the minimum level of depolarization (typically around -55 mV) that must be reached to trigger an action potential. If threshold is reached, voltage-gated sodium channels open and an all-or-none action potential is generated.",
+      "concept_tags": ["threshold", "action-potential", "depolarization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-018",
+      "question_text": "The 'all-or-none' principle of action potentials means that:",
+      "options": [
+        "A. action potential amplitude varies with stimulus strength",
+        "B. once threshold is reached, the action potential fires at full amplitude regardless of stimulus strength",
+        "C. action potentials can only travel in one direction",
+        "D. all neurons fire at the same time"
+      ],
+      "correct_answer": "B",
+      "explanation": "The all-or-none principle states that once threshold is reached, an action potential fires at full amplitude regardless of how strong the stimulus is. Stronger stimuli are coded by increased frequency of action potentials, not increased amplitude.",
+      "concept_tags": ["all-or-none", "action-potential", "threshold"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-019",
+      "question_text": "The absolute refractory period is the time during which:",
+      "options": [
+        "A. a stronger stimulus can trigger another action potential",
+        "B. no stimulus, regardless of strength, can trigger another action potential",
+        "C. the neuron is at resting potential",
+        "D. neurotransmitters are being released"
+      ],
+      "correct_answer": "B",
+      "explanation": "During the absolute refractory period, sodium channels are inactivated, making it impossible to generate another action potential regardless of stimulus strength. This ensures unidirectional propagation of action potentials and limits firing frequency.",
+      "concept_tags": ["absolute-refractory-period", "action-potential", "sodium-channels"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-020",
+      "question_text": "Saltatory conduction refers to:",
+      "options": [
+        "A. slow, continuous propagation of action potentials",
+        "B. action potentials jumping from node to node along a myelinated axon",
+        "C. transmission of signals across the synapse",
+        "D. backward propagation of action potentials"
+      ],
+      "correct_answer": "B",
+      "explanation": "Saltatory conduction occurs in myelinated axons where action potentials jump from one node of Ranvier to the next. This is much faster than continuous conduction in unmyelinated axons because the action potential doesn't need to regenerate along the entire axon length.",
+      "concept_tags": ["saltatory-conduction", "myelin", "nodes-of-ranvier", "conduction-velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-021",
+      "question_text": "Which of the following would increase the speed of action potential propagation?",
+      "options": [
+        "A. Decreased axon diameter",
+        "B. Removal of myelin",
+        "C. Increased axon diameter",
+        "D. Decreased temperature"
+      ],
+      "correct_answer": "C",
+      "explanation": "Increased axon diameter increases conduction velocity by reducing internal resistance to current flow. Myelination also increases speed (so removal would slow it). Decreased temperature slows enzyme and channel activity, reducing conduction velocity.",
+      "concept_tags": ["conduction-velocity", "axon-diameter", "action-potential"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-022",
+      "question_text": "Neurotransmitters are released from the presynaptic neuron by:",
+      "options": [
+        "A. simple diffusion",
+        "B. active transport",
+        "C. exocytosis of synaptic vesicles",
+        "D. endocytosis"
+      ],
+      "correct_answer": "C",
+      "explanation": "Neurotransmitters are released by exocytosis. When an action potential reaches the axon terminal, calcium ions enter, triggering synaptic vesicles to fuse with the presynaptic membrane and release their neurotransmitter contents into the synaptic cleft.",
+      "concept_tags": ["neurotransmitter-release", "exocytosis", "synaptic-vesicles", "calcium"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-023",
+      "question_text": "Calcium ions play what role in neurotransmitter release?",
+      "options": [
+        "A. They are the neurotransmitters themselves",
+        "B. They trigger fusion of synaptic vesicles with the presynaptic membrane",
+        "C. They repolarize the neuron",
+        "D. They generate the action potential"
+      ],
+      "correct_answer": "B",
+      "explanation": "When an action potential reaches the axon terminal, voltage-gated calcium channels open, allowing Ca2+ to enter. This calcium influx triggers synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitters via exocytosis.",
+      "concept_tags": ["calcium", "neurotransmitter-release", "synaptic-vesicles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-024",
+      "question_text": "An excitatory postsynaptic potential (EPSP) makes the postsynaptic neuron:",
+      "options": [
+        "A. more likely to fire an action potential",
+        "B. less likely to fire an action potential",
+        "C. immediately fire an action potential",
+        "D. enter the refractory period"
+      ],
+      "correct_answer": "A",
+      "explanation": "An EPSP is a small depolarization that makes the postsynaptic neuron more likely to reach threshold and fire an action potential. A single EPSP is usually not sufficient to reach threshold; multiple EPSPs must summate to trigger an action potential.",
+      "concept_tags": ["epsp", "excitatory", "depolarization", "postsynaptic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-025",
+      "question_text": "An inhibitory postsynaptic potential (IPSP) makes the postsynaptic neuron:",
+      "options": [
+        "A. more likely to fire an action potential",
+        "B. less likely to fire an action potential",
+        "C. immediately fire an action potential",
+        "D. release more neurotransmitters"
+      ],
+      "correct_answer": "B",
+      "explanation": "An IPSP is a small hyperpolarization that moves the membrane potential away from threshold, making the postsynaptic neuron less likely to fire an action potential. IPSPs are typically caused by opening of Cl- or K+ channels.",
+      "concept_tags": ["ipsp", "inhibitory", "hyperpolarization", "postsynaptic"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-026",
+      "question_text": "Temporal summation occurs when:",
+      "options": [
+        "A. multiple presynaptic neurons fire simultaneously",
+        "B. one presynaptic neuron fires repeatedly in quick succession",
+        "C. the action potential travels faster",
+        "D. neurotransmitters are degraded"
+      ],
+      "correct_answer": "B",
+      "explanation": "Temporal summation occurs when one presynaptic neuron fires multiple action potentials in rapid succession, and the resulting EPSPs add together before the previous ones decay. Spatial summation occurs when multiple presynaptic neurons fire simultaneously.",
+      "concept_tags": ["temporal-summation", "epsp", "signal-integration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-027",
+      "question_text": "Spatial summation occurs when:",
+      "options": [
+        "A. one presynaptic neuron fires repeatedly",
+        "B. multiple presynaptic neurons fire simultaneously and their signals combine",
+        "C. the action potential travels in both directions",
+        "D. neurotransmitters diffuse across the synaptic cleft"
+      ],
+      "correct_answer": "B",
+      "explanation": "Spatial summation occurs when EPSPs from multiple presynaptic neurons arrive at the postsynaptic neuron simultaneously (or nearly so) and their effects add together. This allows integration of inputs from many different sources.",
+      "concept_tags": ["spatial-summation", "epsp", "signal-integration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-028",
+      "question_text": "The central nervous system (CNS) consists of:",
+      "options": [
+        "A. all nerves outside the brain and spinal cord",
+        "B. the brain and spinal cord",
+        "C. only the brain",
+        "D. the autonomic nervous system"
+      ],
+      "correct_answer": "B",
+      "explanation": "The central nervous system consists of the brain and spinal cord. The peripheral nervous system (PNS) includes all neural tissue outside the CNS, including sensory and motor nerves, and the autonomic nervous system.",
+      "concept_tags": ["cns", "brain", "spinal-cord", "nervous-system-organization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-029",
+      "question_text": "The peripheral nervous system includes:",
+      "options": [
+        "A. the brain only",
+        "B. the spinal cord only",
+        "C. all neural tissue outside the brain and spinal cord",
+        "D. only motor neurons"
+      ],
+      "correct_answer": "C",
+      "explanation": "The peripheral nervous system includes all neural tissue outside the CNS: sensory (afferent) neurons, motor (efferent) neurons, and the autonomic nervous system. It connects the CNS to the rest of the body.",
+      "concept_tags": ["pns", "peripheral-nervous-system", "nervous-system-organization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-030",
+      "question_text": "Afferent neurons transmit signals:",
+      "options": [
+        "A. from the CNS to effectors",
+        "B. from sensory receptors to the CNS",
+        "C. between neurons in the CNS",
+        "D. from the brain to the spinal cord only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Afferent (sensory) neurons transmit signals from sensory receptors toward the CNS. Efferent (motor) neurons transmit signals from the CNS to effectors (muscles and glands). Interneurons connect neurons within the CNS.",
+      "concept_tags": ["afferent-neurons", "sensory-neurons", "nervous-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-031",
+      "question_text": "Efferent neurons transmit signals:",
+      "options": [
+        "A. from sensory receptors to the CNS",
+        "B. from the CNS to effectors (muscles and glands)",
+        "C. only within the spinal cord",
+        "D. from one sensory receptor to another"
+      ],
+      "correct_answer": "B",
+      "explanation": "Efferent (motor) neurons transmit signals from the CNS to effectors such as muscles and glands. The somatic motor division controls voluntary skeletal muscle, while the autonomic division controls involuntary functions.",
+      "concept_tags": ["efferent-neurons", "motor-neurons", "nervous-system"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-032",
+      "question_text": "The autonomic nervous system controls:",
+      "options": [
+        "A. voluntary skeletal muscle movement",
+        "B. involuntary functions like heart rate and digestion",
+        "C. only sensory perception",
+        "D. conscious thought"
+      ],
+      "correct_answer": "B",
+      "explanation": "The autonomic nervous system controls involuntary functions including heart rate, digestion, respiration rate, pupil dilation, and glandular secretions. Voluntary skeletal muscle movement is controlled by the somatic nervous system.",
+      "concept_tags": ["autonomic-nervous-system", "involuntary-functions", "visceral-control"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-033",
+      "question_text": "The sympathetic nervous system is associated with:",
+      "options": [
+        "A. 'rest and digest' responses",
+        "B. 'fight or flight' responses",
+        "C. only digestive functions",
+        "D. voluntary muscle control"
+      ],
+      "correct_answer": "B",
+      "explanation": "The sympathetic nervous system activates 'fight or flight' responses, preparing the body for stressful situations by increasing heart rate, dilating pupils, inhibiting digestion, and releasing glucose. The parasympathetic system promotes 'rest and digest' activities.",
+      "concept_tags": ["sympathetic-nervous-system", "fight-or-flight", "stress-response"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-034",
+      "question_text": "The parasympathetic nervous system is associated with:",
+      "options": [
+        "A. 'fight or flight' responses",
+        "B. 'rest and digest' responses",
+        "C. increased heart rate",
+        "D. pupil dilation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The parasympathetic nervous system promotes 'rest and digest' activities, including decreased heart rate, increased digestion, pupil constriction, and energy conservation. It dominates during calm, relaxed states.",
+      "concept_tags": ["parasympathetic-nervous-system", "rest-and-digest"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-035",
+      "question_text": "Which of the following is a sympathetic nervous system response?",
+      "options": [
+        "A. Decreased heart rate",
+        "B. Increased digestive activity",
+        "C. Pupil dilation",
+        "D. Constriction of bronchioles"
+      ],
+      "correct_answer": "C",
+      "explanation": "Sympathetic activation causes pupil dilation (to improve vision), increased heart rate, bronchiole dilation (to increase airflow), and decreased digestive activity. These changes prepare the body for action in stressful situations.",
+      "concept_tags": ["sympathetic-nervous-system", "pupil-dilation", "autonomic-responses"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-036",
+      "question_text": "The neurotransmitter released by postganglionic sympathetic neurons at most target organs is:",
+      "options": [
+        "A. acetylcholine",
+        "B. norepinephrine",
+        "C. dopamine",
+        "D. serotonin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Most postganglionic sympathetic neurons release norepinephrine (noradrenaline) at their target organs. The exception is sympathetic neurons innervating sweat glands, which release acetylcholine. All preganglionic neurons (both sympathetic and parasympathetic) release acetylcholine.",
+      "concept_tags": ["norepinephrine", "sympathetic-nervous-system", "neurotransmitters"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-037",
+      "question_text": "The neurotransmitter released by both preganglionic sympathetic and preganglionic parasympathetic neurons is:",
+      "options": [
+        "A. norepinephrine",
+        "B. epinephrine",
+        "C. acetylcholine",
+        "D. GABA"
+      ],
+      "correct_answer": "C",
+      "explanation": "All preganglionic neurons of both the sympathetic and parasympathetic divisions release acetylcholine (ACh). Postganglionic parasympathetic neurons also release ACh, while most postganglionic sympathetic neurons release norepinephrine.",
+      "concept_tags": ["acetylcholine", "preganglionic-neurons", "autonomic-nervous-system"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-038",
+      "question_text": "A reflex arc typically consists of, in order:",
+      "options": [
+        "A. effector → motor neuron → integration center → sensory neuron → receptor",
+        "B. receptor → sensory neuron → integration center → motor neuron → effector",
+        "C. motor neuron → sensory neuron → integration center → receptor → effector",
+        "D. integration center → receptor → sensory neuron → motor neuron → effector"
+      ],
+      "correct_answer": "B",
+      "explanation": "A reflex arc follows this pathway: receptor (detects stimulus) → sensory neuron (afferent) → integration center (usually in spinal cord or brainstem) → motor neuron (efferent) → effector (muscle or gland that responds).",
+      "concept_tags": ["reflex-arc", "reflexes", "sensory-neuron", "motor-neuron"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-039",
+      "question_text": "The knee-jerk reflex (patellar reflex) is an example of a:",
+      "options": [
+        "A. polysynaptic reflex",
+        "B. monosynaptic reflex",
+        "C. voluntary response",
+        "D. parasympathetic reflex"
+      ],
+      "correct_answer": "B",
+      "explanation": "The knee-jerk reflex is a monosynaptic reflex involving only one synapse: between the sensory neuron and the motor neuron. The sensory neuron synapses directly with the motor neuron in the spinal cord, allowing for rapid response without interneurons.",
+      "concept_tags": ["monosynaptic-reflex", "patellar-reflex", "knee-jerk", "stretch-reflex"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-040",
+      "question_text": "The withdrawal reflex (pulling your hand away from a hot stove) is an example of a:",
+      "options": [
+        "A. monosynaptic reflex",
+        "B. polysynaptic reflex",
+        "C. voluntary response",
+        "D. hormonal response"
+      ],
+      "correct_answer": "B",
+      "explanation": "The withdrawal reflex is a polysynaptic reflex involving multiple synapses and interneurons. This allows for coordination of multiple muscle groups and reciprocal inhibition (relaxation of antagonist muscles) for an effective withdrawal response.",
+      "concept_tags": ["polysynaptic-reflex", "withdrawal-reflex", "interneurons"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-041",
+      "question_text": "Multiple sclerosis (MS) is a disease characterized by:",
+      "options": [
+        "A. excess myelination",
+        "B. demyelination in the CNS",
+        "C. overproduction of neurotransmitters",
+        "D. increased conduction velocity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiple sclerosis is an autoimmune demyelinating disease affecting the CNS. The immune system attacks myelin, slowing or blocking nerve impulses. This leads to diverse symptoms including weakness, vision problems, and coordination difficulties.",
+      "concept_tags": ["multiple-sclerosis", "demyelination", "autoimmune-disease", "cns"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-042",
+      "question_text": "Neurotransmitters are removed from the synaptic cleft by all of the following mechanisms EXCEPT:",
+      "options": [
+        "A. enzymatic degradation",
+        "B. reuptake into the presynaptic neuron",
+        "C. diffusion away from the synapse",
+        "D. synthesis of new receptors"
+      ],
+      "correct_answer": "D",
+      "explanation": "Neurotransmitters are removed from the synaptic cleft by enzymatic degradation (e.g., acetylcholinesterase), reuptake into the presynaptic neuron, and diffusion away from the synapse. Receptor synthesis doesn't remove neurotransmitters from the cleft.",
+      "concept_tags": ["neurotransmitter-removal", "reuptake", "enzymatic-degradation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-043",
+      "question_text": "Acetylcholine in the neuromuscular junction is broken down by:",
+      "options": [
+        "A. monoamine oxidase",
+        "B. acetylcholinesterase",
+        "C. COMT",
+        "D. reuptake transporters"
+      ],
+      "correct_answer": "B",
+      "explanation": "Acetylcholinesterase (AChE) breaks down acetylcholine in the synaptic cleft into acetate and choline. This terminates the signal and allows the muscle to relax. Monoamine oxidase and COMT break down catecholamines like norepinephrine.",
+      "concept_tags": ["acetylcholinesterase", "acetylcholine", "neuromuscular-junction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-044",
+      "question_text": "In the peripheral nervous system, cell bodies of neurons are grouped into structures called:",
+      "options": [
+        "A. nuclei",
+        "B. ganglia",
+        "C. tracts",
+        "D. nerves"
+      ],
+      "correct_answer": "B",
+      "explanation": "In the PNS, cell bodies of neurons are clustered into ganglia. In the CNS, similar clusters of cell bodies are called nuclei. Axons bundled together are called nerves in the PNS and tracts in the CNS.",
+      "concept_tags": ["ganglia", "pns", "neuron-organization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-045",
+      "question_text": "Bundles of axons in the peripheral nervous system are called:",
+      "options": [
+        "A. nuclei",
+        "B. ganglia",
+        "C. tracts",
+        "D. nerves"
+      ],
+      "correct_answer": "D",
+      "explanation": "Bundles of axons in the PNS are called nerves, which can be sensory, motor, or mixed (carrying both types of information). In the CNS, bundled axons are called tracts, which carry only one type of information.",
+      "concept_tags": ["nerves", "pns", "axon-bundles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-046",
+      "question_text": "GABA (gamma-aminobutyric acid) is primarily an:",
+      "options": [
+        "A. excitatory neurotransmitter",
+        "B. inhibitory neurotransmitter",
+        "C. hormone",
+        "D. enzyme"
+      ],
+      "correct_answer": "B",
+      "explanation": "GABA is the primary inhibitory neurotransmitter in the CNS. It typically causes IPSPs by opening chloride channels, leading to hyperpolarization of the postsynaptic neuron. Glutamate is the primary excitatory neurotransmitter in the CNS.",
+      "concept_tags": ["gaba", "inhibitory-neurotransmitter", "cns"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-047",
+      "question_text": "Glutamate is primarily an:",
+      "options": [
+        "A. inhibitory neurotransmitter",
+        "B. excitatory neurotransmitter",
+        "C. hormone released by the adrenal gland",
+        "D. enzyme in the synaptic cleft"
+      ],
+      "correct_answer": "B",
+      "explanation": "Glutamate is the primary excitatory neurotransmitter in the central nervous system. It typically causes EPSPs by opening cation channels, leading to depolarization of the postsynaptic neuron. Excessive glutamate signaling can lead to excitotoxicity.",
+      "concept_tags": ["glutamate", "excitatory-neurotransmitter", "cns"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-04-048",
+      "question_text": "Ependymal cells function to:",
+      "options": [
+        "A. produce myelin in the CNS",
+        "B. line the ventricles and produce cerebrospinal fluid",
+        "C. phagocytose pathogens",
+        "D. release neurotransmitters"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ependymal cells line the ventricles of the brain and the central canal of the spinal cord. They are ciliated and help circulate cerebrospinal fluid (CSF). Some ependymal cells also contribute to CSF production.",
+      "concept_tags": ["ependymal-cells", "ventricles", "cerebrospinal-fluid", "glial-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-049",
+      "question_text": "The blood-brain barrier is primarily formed by:",
+      "options": [
+        "A. tight junctions between endothelial cells and astrocyte end-feet",
+        "B. myelin sheaths",
+        "C. ependymal cells only",
+        "D. microglia"
+      ],
+      "correct_answer": "A",
+      "explanation": "The blood-brain barrier is formed by tight junctions between endothelial cells of brain capillaries, reinforced by astrocyte end-feet. This barrier selectively restricts what can pass from the blood into brain tissue, protecting the CNS from pathogens and toxins.",
+      "concept_tags": ["blood-brain-barrier", "astrocytes", "endothelial-cells", "tight-junctions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-04-050",
+      "question_text": "A drug that blocks voltage-gated sodium channels would:",
+      "options": [
+        "A. increase the frequency of action potentials",
+        "B. prevent action potentials from being generated",
+        "C. cause continuous depolarization",
+        "D. increase neurotransmitter release"
+      ],
+      "correct_answer": "B",
+      "explanation": "Voltage-gated sodium channels are essential for the depolarization phase of action potentials. Blocking them would prevent action potentials from being generated, acting as a local anesthetic. This is how drugs like lidocaine work to block pain signals.",
+      "concept_tags": ["sodium-channels", "action-potential", "local-anesthetics", "ion-channels"],
+      "difficulty": "medium"
+    }
+  ]
+}

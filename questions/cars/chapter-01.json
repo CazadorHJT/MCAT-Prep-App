@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 1,
+  "chapter_title": "Introduction to CARS and Active Reading",
+  "questions": [
+    {
+      "id": "cars-01-001",
+      "question_text": "The primary purpose of the CARS section is to assess:",
+      "options": ["A. Scientific knowledge", "B. Critical analysis and reasoning skills", "C. Writing ability", "D. Memorization capacity"],
+      "correct_answer": "B",
+      "explanation": "CARS (Critical Analysis and Reasoning Skills) tests the ability to comprehend, analyze, and reason about complex texts rather than testing specific content knowledge.",
+      "concept_tags": ["CARS overview", "test purpose", "critical thinking"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-002",
+      "question_text": "Active reading differs from passive reading in that active reading involves:",
+      "options": ["A. Reading faster", "B. Engaging with and questioning the text", "C. Highlighting everything", "D. Reading multiple times"],
+      "correct_answer": "B",
+      "explanation": "Active reading involves engaging with the text through questioning, predicting, summarizing, and connecting ideas rather than passively absorbing information.",
+      "concept_tags": ["active reading", "reading strategies", "engagement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-003",
+      "question_text": "When encountering an unfamiliar word in a CARS passage, the best strategy is to:",
+      "options": ["A. Skip the word entirely", "B. Use context clues to infer meaning", "C. Stop reading to look it up", "D. Assume it's not important"],
+      "correct_answer": "B",
+      "explanation": "Context clues from surrounding sentences often reveal word meaning. The MCAT expects you to use contextual inference rather than prior vocabulary knowledge.",
+      "concept_tags": ["vocabulary", "context clues", "inference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-004",
+      "question_text": "The 'main idea' of a passage refers to:",
+      "options": ["A. The first sentence", "B. The central argument or thesis the author is presenting", "C. Every detail in the passage", "D. The conclusion only"],
+      "correct_answer": "B",
+      "explanation": "The main idea is the central thesis or overarching argument that unifies the passage. Details support this main idea.",
+      "concept_tags": ["main idea", "thesis", "central argument"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-005",
+      "question_text": "CARS passages are typically drawn from which disciplines?",
+      "options": ["A. Only natural sciences", "B. Humanities and social sciences", "C. Only philosophy", "D. Mathematics and statistics"],
+      "correct_answer": "B",
+      "explanation": "CARS passages come from humanities (philosophy, ethics, arts, literature) and social sciences (sociology, psychology, economics, political science).",
+      "concept_tags": ["passage topics", "humanities", "social sciences"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-006",
+      "question_text": "When reading a CARS passage, you should pay particular attention to:",
+      "options": ["A. Names and dates only", "B. The author's tone, purpose, and argument structure", "C. Scientific formulas", "D. Statistical data"],
+      "correct_answer": "B",
+      "explanation": "Understanding the author's perspective, purpose, and how they structure their argument is crucial for answering CARS questions correctly.",
+      "concept_tags": ["author's purpose", "tone", "argument structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-007",
+      "question_text": "Identifying the author's tone helps you understand:",
+      "options": ["A. Only the vocabulary used", "B. The author's attitude toward the subject matter", "C. The passage length", "D. Historical context only"],
+      "correct_answer": "B",
+      "explanation": "Tone reveals the author's attitude (critical, supportive, neutral, skeptical, etc.) which helps interpret their argument and answer questions about their perspective.",
+      "concept_tags": ["tone", "author's attitude", "interpretation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-008",
+      "question_text": "A passage with words like 'clearly,' 'obviously,' and 'undoubtedly' suggests the author is:",
+      "options": ["A. Uncertain about their claims", "B. Confident and assertive about their position", "C. Presenting opposing views", "D. Being purely objective"],
+      "correct_answer": "B",
+      "explanation": "Words like 'clearly' and 'obviously' indicate confidence and assertiveness. The author is presenting their position as self-evident or strongly supported.",
+      "concept_tags": ["tone indicators", "confidence", "word choice"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-009",
+      "question_text": "Transition words like 'however,' 'nevertheless,' and 'although' typically signal:",
+      "options": ["A. Agreement with previous point", "B. A contrast or shift in direction", "C. Additional supporting evidence", "D. A conclusion"],
+      "correct_answer": "B",
+      "explanation": "These contrast transitions indicate the author is about to present an opposing idea, qualification, or shift from what was previously stated.",
+      "concept_tags": ["transitions", "contrast", "text structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-010",
+      "question_text": "Transition words like 'moreover,' 'furthermore,' and 'additionally' signal:",
+      "options": ["A. Contrast", "B. Continuation or additional support", "C. Conclusion", "D. Cause and effect"],
+      "correct_answer": "B",
+      "explanation": "These additive transitions indicate the author is providing additional evidence or points that support their argument.",
+      "concept_tags": ["transitions", "addition", "support"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-011",
+      "question_text": "When an author uses 'some scholars argue' or 'critics contend,' they are likely:",
+      "options": ["A. Agreeing with those scholars", "B. Presenting a view they may challenge or qualify", "C. Stating their own view", "D. Summarizing the passage"],
+      "correct_answer": "B",
+      "explanation": "Attributing views to others often sets up a position the author will respond to, either agreeing, disagreeing, or qualifying it.",
+      "concept_tags": ["attribution", "opposing views", "argument structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-012",
+      "question_text": "The purpose of rhetorical questions in a passage is typically to:",
+      "options": ["A. Confuse the reader", "B. Emphasize a point or engage the reader", "C. Ask for reader response", "D. Show uncertainty"],
+      "correct_answer": "B",
+      "explanation": "Rhetorical questions are used for emphasis or to engage readers in thinking about a point the author considers obvious or important.",
+      "concept_tags": ["rhetorical questions", "emphasis", "engagement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-013",
+      "question_text": "Reading the first and last sentences of each paragraph during initial reading helps you:",
+      "options": ["A. Skip important content", "B. Quickly grasp the main idea and structure", "C. Avoid the details entirely", "D. Read faster without comprehension"],
+      "correct_answer": "B",
+      "explanation": "Topic sentences (often first) and concluding sentences (often last) frequently contain the paragraph's main point, helping you understand passage structure.",
+      "concept_tags": ["reading strategy", "paragraph structure", "efficiency"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-014",
+      "question_text": "When a CARS passage presents multiple viewpoints, it is important to:",
+      "options": ["A. Focus only on the author's view", "B. Track which ideas belong to whom", "C. Ignore attributed views", "D. Assume all views are the author's"],
+      "correct_answer": "B",
+      "explanation": "Questions often ask about specific viewpoints, so distinguishing between the author's views and views they're reporting or critiquing is essential.",
+      "concept_tags": ["multiple viewpoints", "attribution", "reading comprehension"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-015",
+      "question_text": "The scope of a passage refers to:",
+      "options": ["A. Its word count", "B. The boundaries of what the passage addresses", "C. The author's credentials", "D. Publication date"],
+      "correct_answer": "B",
+      "explanation": "Scope defines what the passage does and doesn't address. Understanding scope helps avoid answer choices that go beyond what the passage actually discusses.",
+      "concept_tags": ["scope", "boundaries", "passage limits"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-016",
+      "question_text": "An answer choice that is 'out of scope' means it:",
+      "options": ["A. Is too short", "B. Addresses something not covered in the passage", "C. Uses difficult vocabulary", "D. Is grammatically incorrect"],
+      "correct_answer": "B",
+      "explanation": "Out of scope answer choices introduce ideas, claims, or topics that the passage doesn't address, making them incorrect regardless of their truth in the real world.",
+      "concept_tags": ["out of scope", "answer evaluation", "test strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-017",
+      "question_text": "When reading CARS passages, you should NOT:",
+      "options": ["A. Identify the main idea", "B. Bring in outside knowledge to evaluate truth", "C. Note the author's tone", "D. Track the argument structure"],
+      "correct_answer": "B",
+      "explanation": "CARS tests comprehension of the passage itself. Outside knowledge about the topic should not be used to evaluate claims—only what's in the passage matters.",
+      "concept_tags": ["test strategy", "outside knowledge", "passage-based"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-018",
+      "question_text": "A 'strawman' argument in a passage occurs when:",
+      "options": ["A. The author uses strong evidence", "B. An opposing view is misrepresented to be easily refuted", "C. The author agrees with opponents", "D. Multiple sources are cited"],
+      "correct_answer": "B",
+      "explanation": "A strawman misrepresents an opposing position as weaker than it actually is, making it easier to attack. Recognizing this helps evaluate argument quality.",
+      "concept_tags": ["strawman", "logical fallacies", "argument analysis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-01-019",
+      "question_text": "Annotation strategies for CARS should focus on:",
+      "options": ["A. Underlining every sentence", "B. Key ideas, transitions, and author's attitude", "C. Only names and dates", "D. Nothing—annotations waste time"],
+      "correct_answer": "B",
+      "explanation": "Effective annotation marks main ideas, key transitions, author's position, and paragraph functions without over-marking, which wastes time.",
+      "concept_tags": ["annotation", "note-taking", "strategy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-020",
+      "question_text": "The relationship between paragraphs in a well-structured passage is typically:",
+      "options": ["A. Random and unconnected", "B. Logical and builds toward the author's conclusion", "C. Repetitive of the same points", "D. Always chronological"],
+      "correct_answer": "B",
+      "explanation": "Paragraphs in academic writing connect logically, with each building on previous ideas to develop and support the author's overall argument.",
+      "concept_tags": ["paragraph relationships", "structure", "coherence"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-021",
+      "question_text": "When the author uses examples, their primary function is usually to:",
+      "options": ["A. Add length to the passage", "B. Illustrate or support abstract points", "C. Distract from the argument", "D. Introduce new topics"],
+      "correct_answer": "B",
+      "explanation": "Examples make abstract arguments concrete and provide supporting evidence. Understanding what point an example supports is essential for comprehension.",
+      "concept_tags": ["examples", "evidence", "illustration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-022",
+      "question_text": "A thesis statement in a CARS passage is most likely found:",
+      "options": ["A. Only in the last paragraph", "B. Often in the first paragraph, sometimes developed throughout", "C. Hidden in footnotes", "D. Never explicitly stated"],
+      "correct_answer": "B",
+      "explanation": "While thesis placement varies, many passages state the main argument early and develop it. Some build to a thesis revealed later.",
+      "concept_tags": ["thesis", "main argument", "passage structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-023",
+      "question_text": "Time management in CARS is important because:",
+      "options": ["A. Passages are all the same difficulty", "B. You have limited time per passage and must pace yourself", "C. Speed is more important than accuracy", "D. All questions are worth different points"],
+      "correct_answer": "B",
+      "explanation": "With 53 questions in 90 minutes, effective pacing (about 10 minutes per passage including questions) is essential for completing the section.",
+      "concept_tags": ["time management", "pacing", "strategy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-024",
+      "question_text": "Reading the question stems before reading the passage can help you:",
+      "options": ["A. Memorize the questions", "B. Know what information to look for while reading", "C. Skip reading the passage", "D. Finish faster by guessing"],
+      "correct_answer": "B",
+      "explanation": "Previewing questions (or at least noting question types) can focus your reading on relevant information, though this strategy works differently for different test-takers.",
+      "concept_tags": ["question preview", "reading strategy", "focus"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-025",
+      "question_text": "When an author begins with a question, they typically:",
+      "options": ["A. Don't know the answer", "B. Will address or answer the question in the passage", "C. Are testing the reader", "D. Are confused about the topic"],
+      "correct_answer": "B",
+      "explanation": "Opening questions are rhetorical devices that frame the discussion. The passage typically explores or answers the question posed.",
+      "concept_tags": ["opening questions", "rhetorical device", "framing"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-026",
+      "question_text": "Concession words like 'admittedly' or 'granted' indicate the author is:",
+      "options": ["A. Completely agreeing with opponents", "B. Acknowledging a point before countering or qualifying it", "C. Ending their argument", "D. Introducing their main claim"],
+      "correct_answer": "B",
+      "explanation": "Concession language shows the author is acknowledging an opposing point or limitation before presenting a counter-argument or qualification.",
+      "concept_tags": ["concession", "argument structure", "qualification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-027",
+      "question_text": "The difference between explicit and implicit information is:",
+      "options": ["A. There is no difference", "B. Explicit is directly stated; implicit is suggested or implied", "C. Implicit is more important", "D. Explicit is always in the first paragraph"],
+      "correct_answer": "B",
+      "explanation": "Explicit information is directly stated in the text. Implicit information must be inferred from what's stated. CARS tests both types.",
+      "concept_tags": ["explicit", "implicit", "inference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-028",
+      "question_text": "An author's 'voice' in a passage refers to:",
+      "options": ["A. Whether they speak loudly", "B. Their distinctive style, tone, and perspective", "C. Direct quotations only", "D. The length of sentences"],
+      "correct_answer": "B",
+      "explanation": "Voice encompasses the author's distinctive way of expressing ideas, including their tone, style, word choice, and perspective.",
+      "concept_tags": ["author's voice", "style", "perspective"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-029",
+      "question_text": "When a passage uses technical jargon specific to a discipline, you should:",
+      "options": ["A. Already know all specialized terms", "B. Use context and any explanations provided to understand meaning", "C. Skip those sections", "D. Assume the terms are irrelevant"],
+      "correct_answer": "B",
+      "explanation": "CARS passages often define or contextualize specialized terms. Use provided context rather than outside knowledge to understand discipline-specific vocabulary.",
+      "concept_tags": ["jargon", "technical terms", "context"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-030",
+      "question_text": "Developing a 'mental map' of a passage means:",
+      "options": ["A. Drawing a physical map", "B. Understanding how different parts relate and fit together", "C. Memorizing every detail", "D. Creating a timeline"],
+      "correct_answer": "B",
+      "explanation": "A mental map is an understanding of the passage's structure—how paragraphs connect, where key ideas are located, and the overall argument flow.",
+      "concept_tags": ["mental map", "structure", "comprehension"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-031",
+      "question_text": "When encountering a dense or difficult paragraph, an effective strategy is to:",
+      "options": ["A. Skip it entirely", "B. Slow down and identify the main point before moving on", "C. Reread it five times", "D. Assume it's unimportant"],
+      "correct_answer": "B",
+      "explanation": "Dense paragraphs require more careful reading. Identify the main point even if some details remain unclear, then proceed. You can return if needed.",
+      "concept_tags": ["difficult passages", "reading strategy", "main point"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-032",
+      "question_text": "An author's perspective is shaped by their:",
+      "options": ["A. Word count", "B. Assumptions, values, and background", "C. Paragraph length", "D. Use of punctuation"],
+      "correct_answer": "B",
+      "explanation": "Every author brings assumptions and values that shape their argument. Recognizing these underlying perspectives aids in understanding and evaluating the text.",
+      "concept_tags": ["perspective", "assumptions", "values"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-033",
+      "question_text": "The 'counterargument' in a passage is:",
+      "options": ["A. The author's main claim", "B. An opposing view the author addresses or refutes", "C. Supporting evidence", "D. The conclusion"],
+      "correct_answer": "B",
+      "explanation": "A counterargument presents an opposing position that the author then addresses, refutes, or incorporates into a more nuanced view.",
+      "concept_tags": ["counterargument", "opposing views", "argument structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-034",
+      "question_text": "When an author says 'it may seem that... but in fact...', they are:",
+      "options": ["A. Agreeing with the first statement", "B. Setting up a misconception to correct", "C. Providing two equal viewpoints", "D. Expressing uncertainty"],
+      "correct_answer": "B",
+      "explanation": "This structure introduces a common belief or apparent truth that the author will then challenge or refine with their actual argument.",
+      "concept_tags": ["misconception", "argument structure", "correction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-035",
+      "question_text": "The 'conclusion' of an argument is:",
+      "options": ["A. Always the last sentence", "B. The claim that the premises are meant to support", "C. Only found in scientific papers", "D. The same as a summary"],
+      "correct_answer": "B",
+      "explanation": "In logical terms, the conclusion is the claim the author wants you to accept, supported by their premises (reasons/evidence). It may appear anywhere in the text.",
+      "concept_tags": ["conclusion", "argument", "premises"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-036",
+      "question_text": "Premises in an argument are:",
+      "options": ["A. The same as conclusions", "B. Reasons or evidence offered to support the conclusion", "C. Always statistical", "D. Optional elements"],
+      "correct_answer": "B",
+      "explanation": "Premises are the reasons, evidence, or grounds the author provides to support their conclusion. Identifying premises helps evaluate argument strength.",
+      "concept_tags": ["premises", "evidence", "argument structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-037",
+      "question_text": "A passage that uses anecdotes or personal stories is likely trying to:",
+      "options": ["A. Waste the reader's time", "B. Illustrate points and engage readers emotionally", "C. Replace logical argument", "D. Show off the author's life"],
+      "correct_answer": "B",
+      "explanation": "Anecdotes make abstract points concrete and can create emotional connection. However, they should be evaluated for how well they support the argument.",
+      "concept_tags": ["anecdotes", "emotional appeal", "illustration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-038",
+      "question_text": "Understanding paragraph function means knowing:",
+      "options": ["A. The exact word count", "B. What role each paragraph plays in the overall argument", "C. Who wrote it", "D. When it was written"],
+      "correct_answer": "B",
+      "explanation": "Each paragraph has a function (introduce, explain, provide evidence, counter, conclude, etc.). Understanding these roles clarifies overall passage structure.",
+      "concept_tags": ["paragraph function", "structure", "organization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-039",
+      "question_text": "When an author qualifies their claim (e.g., 'tends to,' 'often,' 'may'), they are:",
+      "options": ["A. Being weak or uncertain", "B. Being precise and acknowledging complexity", "C. Contradicting themselves", "D. Using filler words"],
+      "correct_answer": "B",
+      "explanation": "Qualifications show intellectual precision and acknowledgment that claims may have exceptions. They're signs of careful thinking, not weakness.",
+      "concept_tags": ["qualification", "precision", "nuance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-040",
+      "question_text": "Wrong answer choices in CARS often contain:",
+      "options": ["A. Perfect accuracy", "B. Extreme language, distortions, or out-of-scope claims", "C. Easy vocabulary", "D. The author's exact words"],
+      "correct_answer": "B",
+      "explanation": "Common wrong answer patterns include extreme language ('always,' 'never'), distorted claims, reversed meanings, and out-of-scope information.",
+      "concept_tags": ["wrong answers", "test strategy", "answer patterns"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-041",
+      "question_text": "The 'best' answer in CARS is:",
+      "options": ["A. Always the longest choice", "B. The one best supported by passage evidence", "C. The one that sounds smartest", "D. Always choice C"],
+      "correct_answer": "B",
+      "explanation": "CARS asks for the BEST answer—the one most strongly supported by what's in the passage. Other choices may be partially correct but less well-supported.",
+      "concept_tags": ["best answer", "evidence", "test strategy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-042",
+      "question_text": "Efficient reading for CARS balances:",
+      "options": ["A. Speed and comprehension", "B. Only speed", "C. Only comprehension", "D. Memorization and guessing"],
+      "correct_answer": "A",
+      "explanation": "Effective CARS reading requires adequate comprehension without spending excessive time. Finding your optimal balance through practice is key.",
+      "concept_tags": ["efficiency", "speed", "comprehension balance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-043",
+      "question_text": "When stuck between two answer choices, you should:",
+      "options": ["A. Always pick the first one", "B. Return to the passage to find distinguishing evidence", "C. Flip a coin", "D. Pick the longer answer"],
+      "correct_answer": "B",
+      "explanation": "When torn between answers, re-examine the passage for evidence that supports one over the other. The correct answer will have stronger textual support.",
+      "concept_tags": ["test strategy", "elimination", "evidence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-044",
+      "question_text": "Reading stamina for CARS requires:",
+      "options": ["A. Only natural talent", "B. Regular practice with timed passages", "C. Drinking coffee during the test", "D. Skipping difficult passages"],
+      "correct_answer": "B",
+      "explanation": "Sustaining focus through 9 passages requires building reading stamina through regular, timed practice sessions that simulate test conditions.",
+      "concept_tags": ["stamina", "practice", "focus"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-045",
+      "question_text": "The purpose of practice passages is to:",
+      "options": ["A. Memorize content", "B. Develop and refine reading and reasoning strategies", "C. Predict test passages", "D. Learn specific topics"],
+      "correct_answer": "B",
+      "explanation": "Practice develops transferable skills—how to read actively, identify argument structures, and answer question types—not content memorization.",
+      "concept_tags": ["practice", "skill development", "strategy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-046",
+      "question_text": "After completing a practice passage, reviewing wrong answers helps you:",
+      "options": ["A. Memorize the correct answers", "B. Understand reasoning errors and improve strategy", "C. Feel bad about mistakes", "D. Skip similar passages later"],
+      "correct_answer": "B",
+      "explanation": "Review reveals patterns in your errors (misreading, out-of-scope choices, etc.) so you can improve your approach for future passages.",
+      "concept_tags": ["review", "error analysis", "improvement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-047",
+      "question_text": "A passage with multiple theories or interpretations requires you to:",
+      "options": ["A. Accept only one as correct", "B. Track each theory and understand how the author treats each", "C. Ignore the theories", "D. Pick the most complicated one"],
+      "correct_answer": "B",
+      "explanation": "When passages present multiple theories, track each one and understand whether the author favors, critiques, or synthesizes them.",
+      "concept_tags": ["multiple theories", "tracking views", "comparison"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-01-048",
+      "question_text": "Being 'passage-centric' means:",
+      "options": ["A. Reading many passages", "B. Basing all answers on what the passage says, not outside knowledge", "C. Focusing on one paragraph", "D. Reading passively"],
+      "correct_answer": "B",
+      "explanation": "All answers must be justified by the passage itself. Outside knowledge or personal opinions should not influence answer selection.",
+      "concept_tags": ["passage-centric", "test approach", "evidence-based"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-049",
+      "question_text": "Key words in question stems like 'according to the passage' indicate:",
+      "options": ["A. An opinion question", "B. The answer is explicitly stated or directly supported in the text", "C. Outside knowledge is needed", "D. It's a trick question"],
+      "correct_answer": "B",
+      "explanation": "This phrasing signals a comprehension question where the answer is found in or directly supported by specific passage content.",
+      "concept_tags": ["question stems", "comprehension", "explicit information"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-01-050",
+      "question_text": "Success in CARS ultimately depends on:",
+      "options": ["A. Memorizing humanities facts", "B. Developing transferable critical reading and reasoning skills", "C. Reading speed alone", "D. Prior knowledge of all topics"],
+      "correct_answer": "B",
+      "explanation": "CARS tests skills applicable to any passage: comprehension, analysis, inference, and reasoning. These skills improve with deliberate practice.",
+      "concept_tags": ["skills", "critical thinking", "transferable abilities"],
+      "difficulty": "easy"
+    }
+  ]
+}

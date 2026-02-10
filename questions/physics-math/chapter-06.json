@@ -1,0 +1,707 @@
+{
+  "book": "physics-math",
+  "chapter": 6,
+  "chapter_title": "Circuits",
+  "questions": [
+    {
+      "id": "physics-math-06-001",
+      "question_text": "Electric current is defined as:",
+      "options": [
+        "A. charge times time",
+        "B. charge divided by time (I = Q/t)",
+        "C. voltage divided by charge",
+        "D. resistance times charge"
+      ],
+      "correct_answer": "B",
+      "explanation": "Current I = Q/t, where Q is charge (in coulombs) and t is time (in seconds). Current measures the rate of charge flow. The SI unit is the ampere (A), where 1 A = 1 C/s.",
+      "concept_tags": ["current", "charge", "basic-definitions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-002",
+      "question_text": "The SI unit of electric current is the:",
+      "options": [
+        "A. volt",
+        "B. ohm",
+        "C. ampere",
+        "D. coulomb"
+      ],
+      "correct_answer": "C",
+      "explanation": "The ampere (A) is the SI unit of current. One ampere equals one coulomb of charge flowing per second (1 A = 1 C/s). Volts measure voltage, ohms measure resistance, and coulombs measure charge.",
+      "concept_tags": ["units", "current", "ampere"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-003",
+      "question_text": "If 6 coulombs of charge pass through a wire in 2 seconds, the current is:",
+      "options": [
+        "A. 3 A",
+        "B. 12 A",
+        "C. 0.33 A",
+        "D. 8 A"
+      ],
+      "correct_answer": "A",
+      "explanation": "Using I = Q/t: I = 6 C / 2 s = 3 A. This is a direct application of the current definition. More charge flowing per unit time means higher current.",
+      "concept_tags": ["current", "charge", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-004",
+      "question_text": "Conventional current is defined as the direction of flow of:",
+      "options": [
+        "A. electrons",
+        "B. positive charges",
+        "C. neutrons",
+        "D. protons only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Conventional current is defined as the direction positive charges would flow (from high to low potential). This is opposite to electron flow. Historically established before electron discovery, this convention is still used in circuit analysis.",
+      "concept_tags": ["conventional-current", "charge-flow", "electrons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-005",
+      "question_text": "Ohm's law states that:",
+      "options": [
+        "A. V = I/R",
+        "B. V = IR",
+        "C. V = R/I",
+        "D. I = VR"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ohm's law: V = IR, where V is voltage, I is current, and R is resistance. This can be rearranged to I = V/R or R = V/I. It applies to ohmic (linear) resistors at constant temperature.",
+      "concept_tags": ["ohms-law", "voltage", "current", "resistance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-006",
+      "question_text": "A resistor has a voltage of 12 V across it and carries a current of 2 A. Its resistance is:",
+      "options": [
+        "A. 24 ohms",
+        "B. 6 ohms",
+        "C. 14 ohms",
+        "D. 0.17 ohms"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Ohm's law R = V/I: R = 12 V / 2 A = 6 ohms. This is a direct application of Ohm's law rearranged to solve for resistance.",
+      "concept_tags": ["ohms-law", "resistance", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-007",
+      "question_text": "The SI unit of resistance is the:",
+      "options": [
+        "A. ampere",
+        "B. volt",
+        "C. ohm",
+        "D. watt"
+      ],
+      "correct_answer": "C",
+      "explanation": "The ohm (symbol: Greek letter omega) is the SI unit of resistance. One ohm is the resistance that allows 1 ampere to flow when 1 volt is applied (1 ohm = 1 V/A).",
+      "concept_tags": ["units", "resistance", "ohm"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-008",
+      "question_text": "Resistance of a wire increases with:",
+      "options": [
+        "A. increasing cross-sectional area",
+        "B. decreasing length",
+        "C. increasing length",
+        "D. decreasing resistivity"
+      ],
+      "correct_answer": "C",
+      "explanation": "Resistance R = rho*L/A, where rho is resistivity, L is length, and A is cross-sectional area. Resistance increases with length and resistivity, but decreases with larger cross-sectional area.",
+      "concept_tags": ["resistance", "resistivity", "wire-properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-009",
+      "question_text": "The resistivity of a material depends on:",
+      "options": [
+        "A. the length of the conductor",
+        "B. the cross-sectional area",
+        "C. the material itself and temperature",
+        "D. the voltage applied"
+      ],
+      "correct_answer": "C",
+      "explanation": "Resistivity (rho) is an intrinsic property of the material that depends on its atomic structure and temperature. It does not depend on the dimensions of the conductor. Metals have low resistivity; insulators have high resistivity.",
+      "concept_tags": ["resistivity", "material-properties", "temperature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-010",
+      "question_text": "A copper wire has resistance R. If its length is doubled and its cross-sectional area is halved, the new resistance is:",
+      "options": [
+        "A. R",
+        "B. 2R",
+        "C. 4R",
+        "D. R/2"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using R = rho*L/A: If L doubles (factor of 2) and A halves (factor of 1/2), then R_new = rho*(2L)/(A/2) = 4*rho*L/A = 4R. Both changes increase resistance.",
+      "concept_tags": ["resistance", "resistivity", "wire-geometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-011",
+      "question_text": "For resistors in series, the total resistance is:",
+      "options": [
+        "A. less than the smallest resistor",
+        "B. the sum of all resistances",
+        "C. the reciprocal of the sum of reciprocals",
+        "D. the product divided by the sum"
+      ],
+      "correct_answer": "B",
+      "explanation": "For series resistors: R_total = R1 + R2 + R3 + ... The total resistance is always greater than any individual resistor. Current is the same through all series resistors, but voltage divides among them.",
+      "concept_tags": ["series-resistors", "total-resistance", "circuit-analysis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-012",
+      "question_text": "Three resistors of 2 ohms, 3 ohms, and 5 ohms are connected in series. The total resistance is:",
+      "options": [
+        "A. 0.97 ohms",
+        "B. 10 ohms",
+        "C. 30 ohms",
+        "D. 1.03 ohms"
+      ],
+      "correct_answer": "B",
+      "explanation": "For series resistors: R_total = R1 + R2 + R3 = 2 + 3 + 5 = 10 ohms. Series resistances simply add together.",
+      "concept_tags": ["series-resistors", "total-resistance", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-013",
+      "question_text": "For resistors in parallel, the total resistance is:",
+      "options": [
+        "A. the sum of all resistances",
+        "B. always greater than the largest resistor",
+        "C. less than the smallest individual resistor",
+        "D. the average of all resistances"
+      ],
+      "correct_answer": "C",
+      "explanation": "For parallel resistors: 1/R_total = 1/R1 + 1/R2 + ... The total resistance is always less than the smallest individual resistor. Adding more parallel paths makes it easier for current to flow.",
+      "concept_tags": ["parallel-resistors", "total-resistance", "circuit-analysis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-014",
+      "question_text": "Two 10-ohm resistors are connected in parallel. The equivalent resistance is:",
+      "options": [
+        "A. 20 ohms",
+        "B. 5 ohms",
+        "C. 10 ohms",
+        "D. 100 ohms"
+      ],
+      "correct_answer": "B",
+      "explanation": "For two equal resistors in parallel: R_eq = R/2 = 10/2 = 5 ohms. Alternatively, 1/R_eq = 1/10 + 1/10 = 2/10, so R_eq = 5 ohms. For n equal resistors in parallel, R_eq = R/n.",
+      "concept_tags": ["parallel-resistors", "equivalent-resistance", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-015",
+      "question_text": "A 6-ohm and a 3-ohm resistor are connected in parallel. The equivalent resistance is:",
+      "options": [
+        "A. 9 ohms",
+        "B. 2 ohms",
+        "C. 18 ohms",
+        "D. 4.5 ohms"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 1/R_eq = 1/R1 + 1/R2: 1/R_eq = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2, so R_eq = 2 ohms. Alternatively, for two resistors: R_eq = (R1*R2)/(R1+R2) = (6*3)/(6+3) = 18/9 = 2 ohms.",
+      "concept_tags": ["parallel-resistors", "equivalent-resistance", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-016",
+      "question_text": "In a series circuit, which quantity is the same through all components?",
+      "options": [
+        "A. Voltage",
+        "B. Current",
+        "C. Resistance",
+        "D. Power"
+      ],
+      "correct_answer": "B",
+      "explanation": "In a series circuit, current is the same through all components because there is only one path for charge to flow. Voltage divides among components according to their resistances (V = IR for each).",
+      "concept_tags": ["series-circuits", "current", "circuit-properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-017",
+      "question_text": "In a parallel circuit, which quantity is the same across all branches?",
+      "options": [
+        "A. Current",
+        "B. Resistance",
+        "C. Voltage",
+        "D. Power"
+      ],
+      "correct_answer": "C",
+      "explanation": "In a parallel circuit, voltage is the same across all branches because they share the same two nodes. Current divides among branches according to their resistances (I = V/R for each branch).",
+      "concept_tags": ["parallel-circuits", "voltage", "circuit-properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-018",
+      "question_text": "Kirchhoff's junction rule (current law) states that:",
+      "options": [
+        "A. the sum of voltages around a loop equals zero",
+        "B. the sum of currents entering a junction equals the sum leaving",
+        "C. current is constant throughout a circuit",
+        "D. voltage equals current times resistance"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kirchhoff's junction rule (KCL) states that the sum of currents entering a junction equals the sum of currents leaving. This reflects conservation of charge - charge cannot accumulate at a junction in steady state.",
+      "concept_tags": ["kirchhoffs-laws", "junction-rule", "current-conservation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-019",
+      "question_text": "Kirchhoff's loop rule (voltage law) states that:",
+      "options": [
+        "A. currents at a junction sum to zero",
+        "B. the sum of voltage changes around any closed loop equals zero",
+        "C. resistance is constant in a loop",
+        "D. power is conserved in a loop"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kirchhoff's loop rule (KVL) states that the sum of all voltage changes (rises and drops) around any closed loop equals zero. This reflects conservation of energy - a charge returning to its starting point has no net energy change.",
+      "concept_tags": ["kirchhoffs-laws", "loop-rule", "voltage-conservation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-020",
+      "question_text": "At a junction where three wires meet, currents of 3 A and 5 A flow into the junction. The current flowing out is:",
+      "options": [
+        "A. 2 A",
+        "B. 8 A",
+        "C. 15 A",
+        "D. 1.67 A"
+      ],
+      "correct_answer": "B",
+      "explanation": "By Kirchhoff's junction rule, current in = current out. Therefore, I_out = 3 A + 5 A = 8 A. Charge is conserved at the junction.",
+      "concept_tags": ["kirchhoffs-laws", "junction-rule", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-021",
+      "question_text": "The power dissipated by a resistor can be calculated using all of the following EXCEPT:",
+      "options": [
+        "A. P = IV",
+        "B. P = I^2*R",
+        "C. P = V^2/R",
+        "D. P = V/I"
+      ],
+      "correct_answer": "D",
+      "explanation": "Power formulas: P = IV, P = I^2*R (substituting V = IR), and P = V^2/R (substituting I = V/R). V/I equals resistance (R = V/I from Ohm's law), not power.",
+      "concept_tags": ["power", "circuit-power", "formulas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-022",
+      "question_text": "A 100-ohm resistor has 10 V across it. The power dissipated is:",
+      "options": [
+        "A. 1 W",
+        "B. 10 W",
+        "C. 1000 W",
+        "D. 0.1 W"
+      ],
+      "correct_answer": "A",
+      "explanation": "Using P = V^2/R: P = (10)^2/100 = 100/100 = 1 W. Alternatively, I = V/R = 0.1 A, then P = IV = (0.1)(10) = 1 W.",
+      "concept_tags": ["power", "calculations", "resistor-power"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-023",
+      "question_text": "If the current through a resistor doubles while resistance stays constant, the power dissipated:",
+      "options": [
+        "A. doubles",
+        "B. quadruples",
+        "C. halves",
+        "D. stays the same"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using P = I^2*R: If I doubles, P increases by a factor of 2^2 = 4 (quadruples). Power depends on the square of current, so doubling current quadruples power dissipation.",
+      "concept_tags": ["power", "current", "relationships"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-024",
+      "question_text": "The SI unit of electrical power is the:",
+      "options": [
+        "A. joule",
+        "B. watt",
+        "C. volt",
+        "D. ampere"
+      ],
+      "correct_answer": "B",
+      "explanation": "The watt (W) is the SI unit of power. One watt equals one joule per second (1 W = 1 J/s). Electrically, 1 W = 1 V * 1 A. The joule is energy, not power.",
+      "concept_tags": ["units", "power", "watt"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-025",
+      "question_text": "A 60 W light bulb operates on 120 V. The current through it is:",
+      "options": [
+        "A. 0.5 A",
+        "B. 2 A",
+        "C. 7200 A",
+        "D. 180 A"
+      ],
+      "correct_answer": "A",
+      "explanation": "Using P = IV, rearranged to I = P/V: I = 60 W / 120 V = 0.5 A. This is a typical calculation for household electrical devices.",
+      "concept_tags": ["power", "current", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-026",
+      "question_text": "In an RC circuit, the time constant (tau) equals:",
+      "options": [
+        "A. R/C",
+        "B. RC",
+        "C. R + C",
+        "D. C/R"
+      ],
+      "correct_answer": "B",
+      "explanation": "The time constant tau = RC, where R is resistance (ohms) and C is capacitance (farads). The time constant has units of seconds. After one time constant, a charging capacitor reaches about 63% of its final voltage.",
+      "concept_tags": ["rc-circuits", "time-constant", "capacitors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-027",
+      "question_text": "During capacitor charging in an RC circuit, after one time constant, the capacitor voltage reaches approximately:",
+      "options": [
+        "A. 37% of maximum",
+        "B. 50% of maximum",
+        "C. 63% of maximum",
+        "D. 100% of maximum"
+      ],
+      "correct_answer": "C",
+      "explanation": "After one time constant (t = RC), the capacitor voltage reaches approximately 63% (specifically, 1 - 1/e = 0.632) of its final value. After 5 time constants, it's essentially fully charged (>99%).",
+      "concept_tags": ["rc-circuits", "capacitor-charging", "time-constant"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-028",
+      "question_text": "During capacitor discharging, the voltage across the capacitor:",
+      "options": [
+        "A. decreases linearly with time",
+        "B. decreases exponentially with time",
+        "C. increases exponentially with time",
+        "D. remains constant"
+      ],
+      "correct_answer": "B",
+      "explanation": "During discharge, capacitor voltage decreases exponentially: V = V_0 * e^(-t/RC). The rate of decay is governed by the time constant tau = RC. After one time constant, voltage drops to about 37% of initial value.",
+      "concept_tags": ["rc-circuits", "capacitor-discharging", "exponential-decay"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-029",
+      "question_text": "An RC circuit has R = 1000 ohms and C = 2 microfarads. The time constant is:",
+      "options": [
+        "A. 0.002 s",
+        "B. 2 s",
+        "C. 500 s",
+        "D. 0.5 s"
+      ],
+      "correct_answer": "A",
+      "explanation": "tau = RC = (1000 ohms)(2 x 10^-6 F) = 2 x 10^-3 s = 0.002 s = 2 ms. Remember to convert microfarads to farads (1 microF = 10^-6 F).",
+      "concept_tags": ["rc-circuits", "time-constant", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-030",
+      "question_text": "In an RC circuit, increasing the resistance will:",
+      "options": [
+        "A. decrease the time constant",
+        "B. increase the time constant",
+        "C. not affect the time constant",
+        "D. decrease the maximum charge on the capacitor"
+      ],
+      "correct_answer": "B",
+      "explanation": "Since tau = RC, increasing R increases the time constant. This means the capacitor charges and discharges more slowly. Higher resistance limits current flow, slowing the charging/discharging process.",
+      "concept_tags": ["rc-circuits", "time-constant", "resistance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-031",
+      "question_text": "An ammeter should be connected in a circuit:",
+      "options": [
+        "A. in parallel with the component being measured",
+        "B. in series with the component being measured",
+        "C. anywhere in the circuit",
+        "D. between the power supply terminals only"
+      ],
+      "correct_answer": "B",
+      "explanation": "An ammeter measures current and must be connected in series so all current flows through it. An ideal ammeter has zero resistance so it doesn't affect the circuit being measured.",
+      "concept_tags": ["ammeters", "circuit-measurement", "instruments"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-032",
+      "question_text": "A voltmeter should be connected in a circuit:",
+      "options": [
+        "A. in series with the component being measured",
+        "B. in parallel with the component being measured",
+        "C. only at the power supply",
+        "D. in series with the ammeter"
+      ],
+      "correct_answer": "B",
+      "explanation": "A voltmeter measures voltage difference and must be connected in parallel (across) the component to measure the potential difference between two points. An ideal voltmeter has infinite resistance to avoid drawing current.",
+      "concept_tags": ["voltmeters", "circuit-measurement", "instruments"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-033",
+      "question_text": "An ideal ammeter has:",
+      "options": [
+        "A. infinite resistance",
+        "B. very high resistance",
+        "C. zero resistance",
+        "D. resistance equal to the circuit"
+      ],
+      "correct_answer": "C",
+      "explanation": "An ideal ammeter has zero resistance so it doesn't add resistance to the circuit or create a voltage drop. Real ammeters have very low (but not zero) resistance.",
+      "concept_tags": ["ammeters", "ideal-instruments", "resistance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-034",
+      "question_text": "An ideal voltmeter has:",
+      "options": [
+        "A. zero resistance",
+        "B. infinite resistance",
+        "C. resistance equal to the component",
+        "D. very low resistance"
+      ],
+      "correct_answer": "B",
+      "explanation": "An ideal voltmeter has infinite resistance so it draws no current from the circuit and doesn't affect what it's measuring. Real voltmeters have very high (but not infinite) resistance.",
+      "concept_tags": ["voltmeters", "ideal-instruments", "resistance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-035",
+      "question_text": "The internal resistance of a real battery causes:",
+      "options": [
+        "A. the terminal voltage to equal the EMF",
+        "B. the terminal voltage to be less than the EMF when current flows",
+        "C. increased current flow",
+        "D. the battery to have infinite power"
+      ],
+      "correct_answer": "B",
+      "explanation": "Real batteries have internal resistance r. Terminal voltage V = EMF - Ir, which is less than EMF when current flows. Internal resistance causes energy loss within the battery and limits maximum current output.",
+      "concept_tags": ["internal-resistance", "emf", "battery"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-036",
+      "question_text": "A battery with EMF of 12 V and internal resistance of 2 ohms supplies current to a 4-ohm external resistor. The current in the circuit is:",
+      "options": [
+        "A. 3 A",
+        "B. 2 A",
+        "C. 6 A",
+        "D. 1.5 A"
+      ],
+      "correct_answer": "B",
+      "explanation": "Total resistance = r + R = 2 + 4 = 6 ohms. Using Ohm's law: I = EMF/R_total = 12/6 = 2 A. The internal resistance must be included in the total circuit resistance.",
+      "concept_tags": ["internal-resistance", "circuit-current", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-037",
+      "question_text": "The terminal voltage of the battery in the previous question is:",
+      "options": [
+        "A. 12 V",
+        "B. 8 V",
+        "C. 4 V",
+        "D. 10 V"
+      ],
+      "correct_answer": "B",
+      "explanation": "Terminal voltage V = EMF - Ir = 12 - (2)(2) = 12 - 4 = 8 V. Alternatively, V = IR_external = (2)(4) = 8 V. The 4 V difference is dropped across the internal resistance.",
+      "concept_tags": ["terminal-voltage", "internal-resistance", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-038",
+      "question_text": "Electric power delivered to an external circuit by a battery is maximized when:",
+      "options": [
+        "A. external resistance is zero",
+        "B. external resistance equals internal resistance",
+        "C. external resistance is infinite",
+        "D. current is maximum"
+      ],
+      "correct_answer": "B",
+      "explanation": "Maximum power transfer occurs when external resistance equals internal resistance (R = r). This is the maximum power transfer theorem. At this point, efficiency is 50%, but power delivered is maximized.",
+      "concept_tags": ["power-transfer", "internal-resistance", "circuit-optimization"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-06-039",
+      "question_text": "Two identical batteries with EMF = 6 V each are connected in series. The total EMF is:",
+      "options": [
+        "A. 3 V",
+        "B. 6 V",
+        "C. 12 V",
+        "D. 36 V"
+      ],
+      "correct_answer": "C",
+      "explanation": "Batteries in series: EMF_total = EMF_1 + EMF_2 = 6 + 6 = 12 V. Series connection adds the voltages. This is why devices requiring higher voltage use multiple batteries in series.",
+      "concept_tags": ["batteries-in-series", "emf", "voltage-addition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-040",
+      "question_text": "Two identical batteries with EMF = 6 V each are connected in parallel. The total EMF is:",
+      "options": [
+        "A. 3 V",
+        "B. 6 V",
+        "C. 12 V",
+        "D. 36 V"
+      ],
+      "correct_answer": "B",
+      "explanation": "Batteries in parallel: EMF_total = 6 V (same as one battery). Parallel connection doesn't increase voltage but increases current capacity and reduces effective internal resistance.",
+      "concept_tags": ["batteries-in-parallel", "emf", "current-capacity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-06-041",
+      "question_text": "In a circuit with a 10 V battery and two resistors of 5 ohms each in series, the voltage across each resistor is:",
+      "options": [
+        "A. 10 V",
+        "B. 5 V",
+        "C. 2.5 V",
+        "D. 20 V"
+      ],
+      "correct_answer": "B",
+      "explanation": "In series, equal resistors divide voltage equally. Total R = 10 ohms, I = 10/10 = 1 A. Voltage across each: V = IR = (1)(5) = 5 V. The voltages sum to the total (5 + 5 = 10 V).",
+      "concept_tags": ["voltage-divider", "series-circuits", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-042",
+      "question_text": "A voltage divider consists of two resistors: R1 = 3 kohms and R2 = 6 kohms in series with a 9 V source. The voltage across R2 is:",
+      "options": [
+        "A. 3 V",
+        "B. 6 V",
+        "C. 4.5 V",
+        "D. 9 V"
+      ],
+      "correct_answer": "B",
+      "explanation": "Voltage divider: V_R2 = V_total * R2/(R1+R2) = 9 * 6/(3+6) = 9 * 6/9 = 6 V. The larger resistor gets the larger share of voltage in a series circuit.",
+      "concept_tags": ["voltage-divider", "series-circuits", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-043",
+      "question_text": "When resistors are added in parallel to a circuit:",
+      "options": [
+        "A. total resistance increases",
+        "B. total current from the source decreases",
+        "C. total resistance decreases and total current increases",
+        "D. voltage across each resistor decreases"
+      ],
+      "correct_answer": "C",
+      "explanation": "Adding parallel resistors decreases total resistance (more paths for current). With constant voltage, decreased resistance means increased total current (I = V/R). Each branch still has full voltage across it.",
+      "concept_tags": ["parallel-resistors", "total-resistance", "current"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-044",
+      "question_text": "A 2-ohm resistor and a 4-ohm resistor are in parallel, and this combination is in series with a 3-ohm resistor. The total resistance is:",
+      "options": [
+        "A. 9 ohms",
+        "B. 4.33 ohms",
+        "C. 1.33 ohms",
+        "D. 6 ohms"
+      ],
+      "correct_answer": "B",
+      "explanation": "First, find parallel equivalent: R_parallel = (2*4)/(2+4) = 8/6 = 4/3 ohms. Then add series resistor: R_total = 4/3 + 3 = 4/3 + 9/3 = 13/3 = 4.33 ohms.",
+      "concept_tags": ["combination-circuits", "series-parallel", "calculations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-06-045",
+      "question_text": "Energy stored in a capacitor is given by:",
+      "options": [
+        "A. E = QV",
+        "B. E = (1/2)QV or (1/2)CV^2",
+        "C. E = CV",
+        "D. E = Q^2/V"
+      ],
+      "correct_answer": "B",
+      "explanation": "Capacitor energy: E = (1/2)QV = (1/2)CV^2 = Q^2/(2C). The factor of 1/2 appears because voltage increases as charge accumulates. All three forms are equivalent using Q = CV.",
+      "concept_tags": ["capacitor-energy", "energy-storage", "formulas"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-046",
+      "question_text": "A capacitor stores 0.5 J of energy at 100 V. Its capacitance is:",
+      "options": [
+        "A. 50 microF",
+        "B. 100 microF",
+        "C. 5000 microF",
+        "D. 10 microF"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using E = (1/2)CV^2: 0.5 = (1/2)C(100)^2 = (1/2)C(10000). Solving: C = 1/10000 = 0.0001 F = 100 microF.",
+      "concept_tags": ["capacitor-energy", "capacitance", "calculations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-06-047",
+      "question_text": "In a fully charged capacitor in a DC circuit, the current through the capacitor is:",
+      "options": [
+        "A. maximum",
+        "B. equal to V/R",
+        "C. zero",
+        "D. increasing"
+      ],
+      "correct_answer": "C",
+      "explanation": "Once a capacitor is fully charged, current stops flowing (I = 0). The capacitor acts as an open circuit for DC. The voltage across the capacitor equals the source voltage, and there's no potential difference to drive current through the circuit.",
+      "concept_tags": ["capacitors", "dc-circuits", "steady-state"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-048",
+      "question_text": "Immediately after closing a switch to charge an initially uncharged capacitor, the capacitor acts like:",
+      "options": [
+        "A. an open circuit",
+        "B. a short circuit (wire)",
+        "C. a resistor",
+        "D. a battery"
+      ],
+      "correct_answer": "B",
+      "explanation": "An uncharged capacitor initially has zero voltage across it, so it acts like a short circuit (wire). Current is maximum at t = 0. As the capacitor charges, its voltage increases and current decreases.",
+      "concept_tags": ["capacitors", "rc-circuits", "initial-conditions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-049",
+      "question_text": "A 12 V battery is connected to a circuit with total resistance of 4 ohms. The total power delivered by the battery is:",
+      "options": [
+        "A. 3 W",
+        "B. 48 W",
+        "C. 36 W",
+        "D. 16 W"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using P = V^2/R: P = (12)^2/4 = 144/4 = 36 W. Alternatively, I = V/R = 3 A, then P = IV = (3)(12) = 36 W.",
+      "concept_tags": ["power", "circuit-power", "calculations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-06-050",
+      "question_text": "In a circuit with two resistors in series (R1 and R2), which resistor dissipates more power?",
+      "options": [
+        "A. The larger resistor dissipates more power",
+        "B. The smaller resistor dissipates more power",
+        "C. They dissipate equal power",
+        "D. The one with higher voltage rating"
+      ],
+      "correct_answer": "A",
+      "explanation": "In series, current is the same through both. Using P = I^2*R, the larger resistor dissipates more power since P is proportional to R. This is opposite to the parallel case, where the smaller resistor dissipates more power (same V, P = V^2/R).",
+      "concept_tags": ["power-dissipation", "series-circuits", "comparison"],
+      "difficulty": "hard"
+    }
+  ]
+}

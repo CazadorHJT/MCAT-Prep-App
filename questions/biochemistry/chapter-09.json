@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 9,
+  "chapter_title": "Gene Expression and Regulation",
+  "questions": [
+    {
+      "id": "biochemistry-09-001",
+      "question_text": "In the lac operon, when lactose is absent and glucose is present, the operon is:",
+      "options": [
+        "A. Fully active due to CAP binding",
+        "B. Repressed because the repressor is bound to the operator",
+        "C. Constitutively expressed",
+        "D. Partially active due to low cAMP levels"
+      ],
+      "correct_answer": "B",
+      "explanation": "When lactose is absent, the lac repressor protein binds to the operator region, preventing RNA polymerase from transcribing the structural genes. The repressor is normally active and only becomes inactive when it binds to allolactose (a lactose metabolite). Additionally, when glucose is present, cAMP levels are low, so CAP cannot bind to enhance transcription.",
+      "concept_tags": ["lac-operon", "gene-regulation", "operons", "repressor"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-002",
+      "question_text": "The lac operon is an example of which type of gene regulation?",
+      "options": [
+        "A. Positive regulation only",
+        "B. Negative regulation only",
+        "C. Both positive and negative regulation",
+        "D. Post-transcriptional regulation"
+      ],
+      "correct_answer": "C",
+      "explanation": "The lac operon exhibits both positive and negative regulation. Negative regulation occurs through the lac repressor, which blocks transcription when lactose is absent. Positive regulation occurs through CAP (catabolite activator protein), which enhances transcription when glucose is low and cAMP levels are high. Both mechanisms work together to fine-tune gene expression.",
+      "concept_tags": ["lac-operon", "gene-regulation", "positive-regulation", "negative-regulation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-003",
+      "question_text": "In the trp operon, tryptophan acts as a:",
+      "options": [
+        "A. Corepressor that activates the repressor",
+        "B. Inducer that inactivates the repressor",
+        "C. Activator that binds to the promoter",
+        "D. Attenuator that stalls the ribosome"
+      ],
+      "correct_answer": "A",
+      "explanation": "In the trp operon, tryptophan serves as a corepressor. The trp repressor protein is inactive by itself and cannot bind to the operator. When tryptophan levels are high, tryptophan binds to the repressor protein, activating it and allowing it to bind to the operator, thereby blocking transcription. This is an example of negative feedback regulation.",
+      "concept_tags": ["trp-operon", "corepressor", "gene-regulation", "negative-feedback"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-004",
+      "question_text": "Which molecule directly binds to the lac repressor to inactivate it?",
+      "options": [
+        "A. Lactose",
+        "B. Allolactose",
+        "C. Glucose",
+        "D. cAMP"
+      ],
+      "correct_answer": "B",
+      "explanation": "Allolactose, an isomer of lactose, is the actual inducer that binds to the lac repressor and causes a conformational change that prevents the repressor from binding to the operator. Lactose is first converted to allolactose by beta-galactosidase. Glucose affects CAP-mediated regulation, not the repressor directly. cAMP binds to CAP, not the repressor.",
+      "concept_tags": ["lac-operon", "allolactose", "inducer", "repressor"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-005",
+      "question_text": "CAP (catabolite activator protein) binds to DNA and enhances lac operon transcription when:",
+      "options": [
+        "A. Glucose levels are high and cAMP levels are low",
+        "B. Glucose levels are low and cAMP levels are high",
+        "C. Both glucose and lactose are present",
+        "D. The repressor is bound to the operator"
+      ],
+      "correct_answer": "B",
+      "explanation": "CAP requires cAMP to bind to DNA. When glucose is low, adenylate cyclase is active and produces high levels of cAMP. The cAMP-CAP complex binds to the CAP binding site upstream of the lac promoter, bending the DNA and enhancing RNA polymerase binding. When glucose is high, cAMP levels drop and CAP cannot bind, resulting in weak transcription even if lactose is present.",
+      "concept_tags": ["lac-operon", "cap", "camp", "catabolite-repression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-006",
+      "question_text": "Attenuation in the trp operon involves:",
+      "options": [
+        "A. Binding of a repressor to the operator",
+        "B. Premature termination of transcription based on ribosome position",
+        "C. Degradation of mRNA by RNases",
+        "D. Inhibition of translation initiation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Attenuation is a regulatory mechanism unique to some bacterial operons. In the trp operon, the leader sequence contains regions that can form alternative stem-loop structures. When tryptophan is abundant, ribosomes translate quickly, causing formation of a terminator hairpin that stops transcription. When tryptophan is scarce, ribosomes stall, allowing an antiterminator structure to form, permitting full transcription.",
+      "concept_tags": ["trp-operon", "attenuation", "transcription-termination", "gene-regulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-007",
+      "question_text": "A mutation that inactivates the lac repressor gene would result in:",
+      "options": [
+        "A. No expression of the lac operon genes",
+        "B. Constitutive expression of the lac operon genes",
+        "C. Expression only when glucose is present",
+        "D. Expression only when lactose is absent"
+      ],
+      "correct_answer": "B",
+      "explanation": "If the lac repressor is inactivated, it cannot bind to the operator to block transcription. This results in constitutive (continuous) expression of the lac operon genes regardless of whether lactose is present. However, maximum expression still requires CAP-cAMP binding when glucose is low. The operon would be expressed at basal levels even without lactose.",
+      "concept_tags": ["lac-operon", "mutation", "constitutive-expression", "repressor"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-008",
+      "question_text": "The structural genes of the lac operon encode which enzymes?",
+      "options": [
+        "A. RNA polymerase, sigma factor, and helicase",
+        "B. Beta-galactosidase, permease, and transacetylase",
+        "C. Tryptophan synthase, anthranilate synthase, and permease",
+        "D. DNA polymerase, primase, and ligase"
+      ],
+      "correct_answer": "B",
+      "explanation": "The lac operon contains three structural genes: lacZ encodes beta-galactosidase (cleaves lactose into glucose and galactose), lacY encodes permease (transports lactose into the cell), and lacA encodes transacetylase (transfers acetyl groups to lactose). These enzymes are needed for lactose metabolism.",
+      "concept_tags": ["lac-operon", "structural-genes", "beta-galactosidase", "permease"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-009",
+      "question_text": "In eukaryotes, general transcription factors are required for:",
+      "options": [
+        "A. Enhancer-mediated gene activation",
+        "B. Assembly of the preinitiation complex at the promoter",
+        "C. Alternative splicing of pre-mRNA",
+        "D. Chromatin remodeling"
+      ],
+      "correct_answer": "B",
+      "explanation": "General transcription factors (GTFs) such as TFIID, TFIIB, TFIIF, TFIIE, and TFIIH are required for all RNA polymerase II-mediated transcription. They help position RNA polymerase II at the promoter and form the preinitiation complex. TFIID binds to the TATA box, and the other factors assemble sequentially. Enhancer activity involves specific transcription factors, not GTFs.",
+      "concept_tags": ["transcription-factors", "preinitiation-complex", "eukaryotic-transcription", "gtfs"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-010",
+      "question_text": "The TATA box in eukaryotic promoters is recognized by:",
+      "options": [
+        "A. RNA polymerase II directly",
+        "B. TFIID (specifically the TBP subunit)",
+        "C. CAP protein",
+        "D. Mediator complex"
+      ],
+      "correct_answer": "B",
+      "explanation": "The TATA box, located approximately 25-30 base pairs upstream of the transcription start site, is recognized by TFIID. Specifically, the TBP (TATA-binding protein) subunit of TFIID binds to the TATA box, causing DNA bending and initiating assembly of the preinitiation complex. RNA polymerase II cannot bind DNA directly without the help of GTFs.",
+      "concept_tags": ["transcription-factors", "tata-box", "tfiid", "tbp"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-011",
+      "question_text": "Enhancers differ from promoters in that enhancers:",
+      "options": [
+        "A. Are always located immediately upstream of genes",
+        "B. Can function at variable distances and orientations from the gene",
+        "C. Are recognized by general transcription factors",
+        "D. Are required for basal transcription"
+      ],
+      "correct_answer": "B",
+      "explanation": "Enhancers are cis-regulatory elements that can be located thousands of base pairs upstream or downstream of the gene they regulate, or even within introns. They can function in either orientation. Enhancers bind specific transcription factors (activators) and interact with the promoter through DNA looping. Promoters are located at fixed positions near the transcription start site and are required for basal transcription.",
+      "concept_tags": ["enhancers", "gene-regulation", "cis-regulatory-elements", "transcription"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-012",
+      "question_text": "Silencers function to:",
+      "options": [
+        "A. Increase the rate of transcription",
+        "B. Decrease or prevent transcription of specific genes",
+        "C. Enhance mRNA stability",
+        "D. Promote alternative splicing"
+      ],
+      "correct_answer": "B",
+      "explanation": "Silencers are cis-regulatory DNA elements that decrease or prevent transcription when bound by repressor proteins. Like enhancers, silencers can function at various distances from the promoter. Repressor proteins bound to silencers can recruit corepressor complexes or interfere with the transcription machinery to reduce gene expression.",
+      "concept_tags": ["silencers", "gene-regulation", "repressors", "transcription"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-013",
+      "question_text": "The mediator complex functions to:",
+      "options": [
+        "A. Unwind DNA at the replication fork",
+        "B. Bridge activators bound to enhancers with the transcription machinery",
+        "C. Cap the 5' end of mRNA",
+        "D. Degrade mRNA after translation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The mediator complex is a large multiprotein complex that acts as a bridge between transcription factors bound to enhancers and the RNA polymerase II preinitiation complex at the promoter. It allows signals from enhancer-bound activators to be transmitted to the basal transcription machinery, thereby regulating transcription initiation.",
+      "concept_tags": ["mediator-complex", "transcription-factors", "enhancers", "gene-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-014",
+      "question_text": "DNA looping allows enhancers to regulate distant genes by:",
+      "options": [
+        "A. Increasing the mutation rate in the intervening sequence",
+        "B. Bringing enhancer-bound proteins into contact with the promoter",
+        "C. Preventing repressor binding to the operator",
+        "D. Increasing DNA methylation"
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA looping is a mechanism that allows enhancers located far from their target genes to function. The DNA bends, bringing activator proteins bound to enhancers into direct contact with the transcription machinery at the promoter. This interaction is often stabilized by cohesin and other architectural proteins. This explains how enhancers can work over distances of thousands of base pairs.",
+      "concept_tags": ["enhancers", "dna-looping", "gene-regulation", "chromatin-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-015",
+      "question_text": "Chromatin remodeling complexes alter gene expression by:",
+      "options": [
+        "A. Directly transcribing genes",
+        "B. Changing the position or composition of nucleosomes",
+        "C. Methylating cytosine residues in DNA",
+        "D. Splicing pre-mRNA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Chromatin remodeling complexes use ATP hydrolysis to alter the position, composition, or conformation of nucleosomes. They can slide nucleosomes along DNA, evict nucleosomes, or exchange histone variants. This changes the accessibility of DNA to transcription factors and the transcription machinery. Examples include the SWI/SNF and ISWI families of remodeling complexes.",
+      "concept_tags": ["chromatin-remodeling", "nucleosomes", "gene-regulation", "epigenetics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-016",
+      "question_text": "Euchromatin differs from heterochromatin in that euchromatin is:",
+      "options": [
+        "A. More condensed and transcriptionally inactive",
+        "B. Less condensed and transcriptionally active",
+        "C. Found only at centromeres and telomeres",
+        "D. Heavily methylated at CpG islands"
+      ],
+      "correct_answer": "B",
+      "explanation": "Euchromatin is the less condensed, transcriptionally active form of chromatin. It is accessible to transcription factors and RNA polymerase. Heterochromatin is more condensed, transcriptionally inactive, and often found at centromeres and telomeres. The distinction between euchromatin and heterochromatin reflects the epigenetic state of the chromatin and affects gene expression.",
+      "concept_tags": ["chromatin-structure", "euchromatin", "heterochromatin", "gene-regulation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-017",
+      "question_text": "Histone acetylation is associated with:",
+      "options": [
+        "A. Gene silencing and chromatin condensation",
+        "B. Gene activation and chromatin relaxation",
+        "C. DNA replication initiation",
+        "D. mRNA degradation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Histone acetylation involves the addition of acetyl groups to lysine residues on histone tails by histone acetyltransferases (HATs). Acetylation neutralizes the positive charge on lysines, reducing the interaction between histones and negatively charged DNA. This leads to a more open chromatin structure (euchromatin) that is accessible for transcription. Deacetylation by HDACs has the opposite effect.",
+      "concept_tags": ["histone-acetylation", "epigenetics", "gene-activation", "chromatin-remodeling"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-018",
+      "question_text": "Histone deacetylases (HDACs) are often associated with:",
+      "options": [
+        "A. Transcriptional activation",
+        "B. Transcriptional repression",
+        "C. DNA demethylation",
+        "D. mRNA splicing"
+      ],
+      "correct_answer": "B",
+      "explanation": "Histone deacetylases (HDACs) remove acetyl groups from histone tails, restoring the positive charge on lysine residues. This increases the affinity between histones and DNA, leading to chromatin condensation and reduced accessibility for transcription factors. HDACs are often recruited by repressor complexes to silence gene expression. HDAC inhibitors are used as cancer therapies.",
+      "concept_tags": ["histone-deacetylases", "epigenetics", "gene-repression", "chromatin-remodeling"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-019",
+      "question_text": "DNA methylation at CpG islands typically results in:",
+      "options": [
+        "A. Increased gene expression",
+        "B. Decreased gene expression or gene silencing",
+        "C. Enhanced mRNA stability",
+        "D. Increased translation efficiency"
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA methylation occurs at the 5-position of cytosine residues, primarily in CpG dinucleotides. Methylation of CpG islands in promoter regions is associated with gene silencing. Methylated DNA can recruit methyl-binding proteins that bring in repressive chromatin remodeling complexes. DNA methylation is important in genomic imprinting, X-chromosome inactivation, and silencing of transposable elements.",
+      "concept_tags": ["dna-methylation", "cpg-islands", "epigenetics", "gene-silencing"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-020",
+      "question_text": "The enzyme responsible for adding methyl groups to DNA is:",
+      "options": [
+        "A. DNA polymerase",
+        "B. DNA methyltransferase (DNMT)",
+        "C. Histone acetyltransferase",
+        "D. RNA polymerase"
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA methyltransferases (DNMTs) catalyze the transfer of a methyl group from S-adenosylmethionine (SAM) to the 5-position of cytosine in DNA. DNMT1 is the maintenance methyltransferase that copies methylation patterns during DNA replication. DNMT3a and DNMT3b establish new methylation patterns (de novo methylation). These enzymes are critical for epigenetic regulation.",
+      "concept_tags": ["dna-methylation", "dnmt", "epigenetics", "enzymes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-021",
+      "question_text": "Genomic imprinting involves:",
+      "options": [
+        "A. Random inactivation of one X chromosome",
+        "B. Parent-of-origin specific gene expression due to epigenetic marks",
+        "C. Silencing of all paternal genes",
+        "D. Amplification of specific gene sequences"
+      ],
+      "correct_answer": "B",
+      "explanation": "Genomic imprinting is an epigenetic phenomenon where genes are expressed in a parent-of-origin specific manner. Imprinted genes have different methylation patterns depending on whether they were inherited from the mother or father. Only one allele (either maternal or paternal) is expressed while the other is silenced. Defects in imprinting can lead to disorders like Prader-Willi and Angelman syndromes.",
+      "concept_tags": ["genomic-imprinting", "epigenetics", "dna-methylation", "gene-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-022",
+      "question_text": "X-chromosome inactivation in female mammals involves:",
+      "options": [
+        "A. Deletion of one X chromosome",
+        "B. Epigenetic silencing of most genes on one X chromosome",
+        "C. Methylation of all autosomal genes",
+        "D. Activation of both X chromosomes in all cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "X-chromosome inactivation (XCI) is the process by which one of the two X chromosomes in female mammals is transcriptionally silenced to achieve dosage compensation. The inactive X becomes highly condensed heterochromatin (Barr body). This process involves the XIST long non-coding RNA and extensive DNA methylation and histone modifications. XCI is random and established early in development.",
+      "concept_tags": ["x-inactivation", "epigenetics", "dosage-compensation", "xist"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-023",
+      "question_text": "Methylation of histone H3 at lysine 4 (H3K4me3) is generally associated with:",
+      "options": [
+        "A. Transcriptional repression",
+        "B. Transcriptional activation",
+        "C. DNA replication",
+        "D. Chromosome condensation"
+      ],
+      "correct_answer": "B",
+      "explanation": "H3K4me3 (trimethylation of lysine 4 on histone H3) is a histone mark associated with active promoters and transcriptional activation. It is often found at the transcription start sites of actively transcribed genes. In contrast, H3K9me3 and H3K27me3 are associated with transcriptional repression. These histone modifications constitute part of the 'histone code' that regulates gene expression.",
+      "concept_tags": ["histone-methylation", "epigenetics", "histone-code", "gene-activation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-024",
+      "question_text": "H3K27me3 is a histone modification associated with:",
+      "options": [
+        "A. Active transcription",
+        "B. Gene silencing by Polycomb group proteins",
+        "C. DNA repair",
+        "D. Replication origin licensing"
+      ],
+      "correct_answer": "B",
+      "explanation": "H3K27me3 (trimethylation of lysine 27 on histone H3) is a repressive histone mark deposited by the Polycomb Repressive Complex 2 (PRC2). This modification is associated with developmentally silenced genes and is important for maintaining cell identity. Polycomb group proteins play crucial roles in stem cell maintenance and development.",
+      "concept_tags": ["histone-methylation", "polycomb", "epigenetics", "gene-silencing"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-025",
+      "question_text": "MicroRNAs (miRNAs) regulate gene expression by:",
+      "options": [
+        "A. Enhancing transcription at promoters",
+        "B. Binding to mRNA and causing degradation or translational repression",
+        "C. Methylating DNA at CpG islands",
+        "D. Acetylating histones"
+      ],
+      "correct_answer": "B",
+      "explanation": "MicroRNAs are small (~22 nucleotide) non-coding RNAs that regulate gene expression post-transcriptionally. They bind to complementary sequences in the 3' UTR of target mRNAs, typically leading to mRNA degradation or translational repression. miRNAs are guided to their targets by the RNA-induced silencing complex (RISC), which contains Argonaute proteins.",
+      "concept_tags": ["mirna", "post-transcriptional-regulation", "gene-silencing", "risc"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-026",
+      "question_text": "The RISC complex contains which key protein that cleaves target mRNA?",
+      "options": [
+        "A. Dicer",
+        "B. Argonaute",
+        "C. Drosha",
+        "D. TRBP"
+      ],
+      "correct_answer": "B",
+      "explanation": "Argonaute proteins are the catalytic components of the RNA-induced silencing complex (RISC). When there is perfect complementarity between the small RNA and target mRNA, Argonaute can cleave the mRNA. Dicer processes pre-miRNA into mature miRNA. Drosha processes pri-miRNA in the nucleus. TRBP is a cofactor that helps load small RNAs into RISC.",
+      "concept_tags": ["risc", "argonaute", "mirna", "rna-interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-027",
+      "question_text": "siRNAs differ from miRNAs in that siRNAs:",
+      "options": [
+        "A. Are encoded by the genome",
+        "B. Typically have perfect complementarity to their target",
+        "C. Function only in the nucleus",
+        "D. Activate gene expression"
+      ],
+      "correct_answer": "B",
+      "explanation": "siRNAs (small interfering RNAs) typically have perfect complementarity to their target mRNA, leading to mRNA cleavage by Argonaute. miRNAs usually have imperfect complementarity and cause translational repression or deadenylation. siRNAs can be exogenous (from viruses or experimentally introduced) or endogenous. Both siRNAs and miRNAs work in the cytoplasm through RISC.",
+      "concept_tags": ["sirna", "mirna", "rna-interference", "gene-silencing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-028",
+      "question_text": "Dicer is an enzyme that:",
+      "options": [
+        "A. Transcribes miRNA genes",
+        "B. Processes precursor miRNAs and dsRNAs into mature small RNAs",
+        "C. Degrades mRNA in the 5' to 3' direction",
+        "D. Adds a poly(A) tail to mRNA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Dicer is an RNase III enzyme that cleaves double-stranded RNA and precursor miRNAs into small RNA duplexes of approximately 21-23 nucleotides. For miRNAs, Dicer processes pre-miRNA (hairpin structure) exported from the nucleus. For siRNAs, Dicer processes long double-stranded RNAs. The resulting small RNAs are then loaded into RISC.",
+      "concept_tags": ["dicer", "mirna", "sirna", "rna-processing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-029",
+      "question_text": "Alternative splicing allows a single gene to:",
+      "options": [
+        "A. Be transcribed by different RNA polymerases",
+        "B. Produce multiple different mRNA and protein variants",
+        "C. Be replicated multiple times",
+        "D. Have different promoters"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alternative splicing is a post-transcriptional mechanism that allows a single gene to produce multiple mRNA variants by including or excluding different exons. This dramatically increases protein diversity without increasing gene number. Different splice variants may have different functions, localizations, or expression patterns. Over 90% of human genes undergo alternative splicing.",
+      "concept_tags": ["alternative-splicing", "post-transcriptional-regulation", "mrna-processing", "protein-diversity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-030",
+      "question_text": "The spliceosome is composed primarily of:",
+      "options": [
+        "A. snRNAs and proteins",
+        "B. miRNAs and ribosomes",
+        "C. tRNAs and aminoacyl-tRNA synthetases",
+        "D. rRNAs and translation factors"
+      ],
+      "correct_answer": "A",
+      "explanation": "The spliceosome is a large ribonucleoprotein complex composed of five small nuclear RNAs (snRNAs: U1, U2, U4, U5, and U6) and numerous proteins. The snRNAs recognize splice sites through base pairing with pre-mRNA sequences. The spliceosome catalyzes the two transesterification reactions that excise introns and join exons. The catalytic core has ribozyme activity.",
+      "concept_tags": ["spliceosome", "snrna", "splicing", "mrna-processing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-031",
+      "question_text": "Which region of mRNA typically contains binding sites for regulatory proteins and miRNAs?",
+      "options": [
+        "A. 5' cap structure",
+        "B. Coding sequence",
+        "C. 3' untranslated region (UTR)",
+        "D. Start codon"
+      ],
+      "correct_answer": "C",
+      "explanation": "The 3' UTR (untranslated region) of mRNA contains binding sites for regulatory proteins and miRNAs that control mRNA stability, localization, and translation efficiency. AU-rich elements (AREs) in the 3' UTR can promote mRNA degradation. miRNAs typically bind to the 3' UTR to repress translation or trigger mRNA decay. The 5' UTR also contains regulatory elements affecting translation initiation.",
+      "concept_tags": ["3-utr", "post-transcriptional-regulation", "mirna", "mrna-stability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-032",
+      "question_text": "mRNA stability is influenced by:",
+      "options": [
+        "A. The length of the poly(A) tail",
+        "B. The sequence of the promoter",
+        "C. The number of introns in the gene",
+        "D. The location of the centromere"
+      ],
+      "correct_answer": "A",
+      "explanation": "The poly(A) tail protects mRNA from degradation by 3' to 5' exonucleases. A longer poly(A) tail generally correlates with greater mRNA stability and half-life. Deadenylation (shortening of the poly(A) tail) is often the first step in mRNA decay. The 5' cap also protects against 5' to 3' degradation. Elements in the 3' UTR can recruit proteins that affect deadenylation rates.",
+      "concept_tags": ["mrna-stability", "poly-a-tail", "post-transcriptional-regulation", "mrna-decay"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-033",
+      "question_text": "Nonsense-mediated decay (NMD) is a quality control mechanism that:",
+      "options": [
+        "A. Degrades mRNAs with premature stop codons",
+        "B. Repairs damaged DNA",
+        "C. Removes incorrectly folded proteins",
+        "D. Corrects errors during transcription"
+      ],
+      "correct_answer": "A",
+      "explanation": "Nonsense-mediated decay (NMD) is an mRNA surveillance pathway that degrades mRNAs containing premature termination codons (PTCs). This prevents translation of truncated proteins that could be harmful. NMD recognizes PTCs by their position relative to exon-exon junctions. About one-third of inherited genetic disorders involve mutations that create premature stop codons, making NMD clinically relevant.",
+      "concept_tags": ["nonsense-mediated-decay", "mrna-surveillance", "quality-control", "post-transcriptional-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-034",
+      "question_text": "Iron regulatory proteins (IRPs) regulate iron homeostasis by binding to:",
+      "options": [
+        "A. DNA promoter sequences",
+        "B. Iron response elements (IREs) in mRNA",
+        "C. tRNA molecules",
+        "D. Ribosomal proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "Iron regulatory proteins (IRP1 and IRP2) bind to iron response elements (IREs), which are stem-loop structures in the untranslated regions of mRNAs involved in iron metabolism. When iron is low, IRPs bind to IREs. Binding to the 5' UTR (e.g., ferritin mRNA) blocks translation, while binding to the 3' UTR (e.g., transferrin receptor mRNA) stabilizes the mRNA. This coordinate regulation maintains iron homeostasis.",
+      "concept_tags": ["iron-regulation", "ires", "post-transcriptional-regulation", "mrna-stability"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-035",
+      "question_text": "Signal transduction pathways can regulate gene expression by:",
+      "options": [
+        "A. Directly synthesizing mRNA",
+        "B. Activating transcription factors that enter the nucleus",
+        "C. Replacing histones with new variants",
+        "D. Changing the DNA sequence"
+      ],
+      "correct_answer": "B",
+      "explanation": "Signal transduction pathways transmit extracellular signals to the nucleus to regulate gene expression. Many pathways activate transcription factors through phosphorylation or other modifications. For example, receptor tyrosine kinases activate the MAPK pathway, which phosphorylates transcription factors. Steroid hormones activate nuclear receptors that act directly as transcription factors.",
+      "concept_tags": ["signal-transduction", "transcription-factors", "gene-regulation", "cell-signaling"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-036",
+      "question_text": "The MAPK signaling cascade ultimately leads to:",
+      "options": [
+        "A. Activation of transcription factors that regulate gene expression",
+        "B. Direct DNA repair",
+        "C. Protein degradation in the proteasome",
+        "D. mRNA export from the nucleus"
+      ],
+      "correct_answer": "A",
+      "explanation": "The MAPK (mitogen-activated protein kinase) signaling cascade is activated by growth factors and other signals. The pathway involves sequential phosphorylation: Ras activates Raf (MAPKKK), which phosphorylates MEK (MAPKK), which phosphorylates ERK (MAPK). Activated ERK enters the nucleus and phosphorylates transcription factors like Elk-1 and Myc, leading to expression of genes involved in cell proliferation.",
+      "concept_tags": ["mapk", "signal-transduction", "transcription-factors", "cell-proliferation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-037",
+      "question_text": "Steroid hormones regulate gene expression by:",
+      "options": [
+        "A. Binding to cell surface receptors that activate kinase cascades",
+        "B. Binding to intracellular receptors that act as transcription factors",
+        "C. Directly binding to and modifying mRNA",
+        "D. Activating ion channels"
+      ],
+      "correct_answer": "B",
+      "explanation": "Steroid hormones (e.g., cortisol, estrogen, testosterone) are lipophilic and can cross the cell membrane. They bind to intracellular (cytoplasmic or nuclear) receptors. The hormone-receptor complex acts as a transcription factor, binding to hormone response elements (HREs) in DNA to activate or repress target genes. This mechanism allows steroids to have long-lasting effects on gene expression.",
+      "concept_tags": ["steroid-hormones", "nuclear-receptors", "transcription-factors", "hormone-signaling"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-038",
+      "question_text": "The NF-κB transcription factor is normally held inactive in the cytoplasm by:",
+      "options": [
+        "A. Phosphorylation",
+        "B. Binding to IκB inhibitory proteins",
+        "C. Methylation of its DNA binding domain",
+        "D. Sequestration in the endoplasmic reticulum"
+      ],
+      "correct_answer": "B",
+      "explanation": "NF-κB is a transcription factor involved in immune and inflammatory responses. It is normally sequestered in the cytoplasm by IκB (inhibitor of κB) proteins. Upon stimulation (e.g., by cytokines or pathogens), IκB kinase (IKK) phosphorylates IκB, leading to its ubiquitination and degradation. This releases NF-κB, allowing it to enter the nucleus and activate target genes.",
+      "concept_tags": ["nf-kb", "signal-transduction", "transcription-factors", "immune-response"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-039",
+      "question_text": "CREB (cAMP response element binding protein) is activated by:",
+      "options": [
+        "A. Dephosphorylation",
+        "B. Phosphorylation by protein kinase A",
+        "C. Binding to calcium ions",
+        "D. Cleavage by a protease"
+      ],
+      "correct_answer": "B",
+      "explanation": "CREB is a transcription factor activated by phosphorylation at Ser-133 by protein kinase A (PKA). When cAMP levels rise, PKA is activated and phosphorylates CREB. Phosphorylated CREB recruits the coactivator CBP/p300 and activates transcription of genes containing cAMP response elements (CREs). CREB is important in memory formation, metabolism, and cell survival.",
+      "concept_tags": ["creb", "camp", "pka", "transcription-factors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-040",
+      "question_text": "Zinc finger domains in transcription factors function to:",
+      "options": [
+        "A. Catalyze phosphorylation reactions",
+        "B. Bind to specific DNA sequences",
+        "C. Transport proteins across the nuclear membrane",
+        "D. Degrade target mRNAs"
+      ],
+      "correct_answer": "B",
+      "explanation": "Zinc finger domains are structural motifs in many transcription factors that mediate sequence-specific DNA binding. The zinc ion is coordinated by cysteine and/or histidine residues, stabilizing the finger-like structure that fits into the major groove of DNA. Different zinc finger proteins recognize different DNA sequences. Examples include the glucocorticoid receptor and Sp1 transcription factor.",
+      "concept_tags": ["zinc-finger", "transcription-factors", "dna-binding", "protein-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-09-041",
+      "question_text": "Leucine zipper domains in transcription factors are involved in:",
+      "options": [
+        "A. DNA binding",
+        "B. Protein dimerization",
+        "C. Phosphorylation",
+        "D. Nuclear export"
+      ],
+      "correct_answer": "B",
+      "explanation": "Leucine zipper domains are coiled-coil structures with leucine residues at every seventh position. These domains mediate dimerization of transcription factors through hydrophobic interactions between the leucine residues. Many bZIP (basic leucine zipper) transcription factors, such as Jun, Fos, and CREB, require dimerization for DNA binding. The basic region adjacent to the zipper contacts DNA.",
+      "concept_tags": ["leucine-zipper", "transcription-factors", "protein-dimerization", "bzip"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-042",
+      "question_text": "Homeodomain proteins are transcription factors that contain:",
+      "options": [
+        "A. A 60-amino acid DNA-binding domain",
+        "B. Multiple zinc-coordinating motifs",
+        "C. A kinase catalytic domain",
+        "D. An RNA-binding domain"
+      ],
+      "correct_answer": "A",
+      "explanation": "Homeodomain proteins contain a highly conserved 60-amino acid DNA-binding domain called the homeodomain. This domain consists of three alpha helices, with helix 3 (the recognition helix) making specific contacts in the major groove of DNA. Homeodomain proteins (encoded by homeobox genes) are crucial for development and determining body plan. Examples include Hox genes.",
+      "concept_tags": ["homeodomain", "transcription-factors", "development", "hox-genes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-043",
+      "question_text": "The RNA polymerase II C-terminal domain (CTD) is modified during transcription by:",
+      "options": [
+        "A. Glycosylation",
+        "B. Phosphorylation at serine residues",
+        "C. Acetylation at lysine residues",
+        "D. Sumoylation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The CTD of RNA polymerase II consists of repeats of the heptapeptide sequence YSPTSPS. Phosphorylation of serine residues (primarily Ser5 and Ser2) regulates different stages of transcription. Ser5 phosphorylation by TFIIH is associated with initiation and 5' capping. Ser2 phosphorylation is associated with elongation and 3' processing. This 'CTD code' coordinates transcription with RNA processing.",
+      "concept_tags": ["rna-polymerase-ii", "ctd", "phosphorylation", "transcription"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-044",
+      "question_text": "Bivalent chromatin domains in embryonic stem cells contain:",
+      "options": [
+        "A. Only activating histone marks",
+        "B. Both activating (H3K4me3) and repressive (H3K27me3) marks",
+        "C. Only repressive histone marks",
+        "D. No histone modifications"
+      ],
+      "correct_answer": "B",
+      "explanation": "Bivalent domains are chromatin regions that simultaneously carry both activating (H3K4me3) and repressive (H3K27me3) histone modifications. These domains are enriched at developmental gene promoters in embryonic stem cells, keeping genes in a poised state ready for rapid activation or stable silencing upon differentiation. This allows pluripotent cells to quickly respond to developmental signals.",
+      "concept_tags": ["bivalent-chromatin", "stem-cells", "histone-modifications", "epigenetics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-045",
+      "question_text": "Long non-coding RNAs (lncRNAs) can regulate gene expression by:",
+      "options": [
+        "A. Being translated into regulatory proteins",
+        "B. Serving as scaffolds for chromatin-modifying complexes",
+        "C. Directly cleaving target mRNAs",
+        "D. Acting as amino acid carriers during translation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Long non-coding RNAs (lncRNAs) are transcripts longer than 200 nucleotides that do not encode proteins. They can regulate gene expression through multiple mechanisms, including serving as scaffolds to recruit chromatin-modifying complexes to specific genomic loci. For example, XIST recruits Polycomb proteins to silence the X chromosome. Other lncRNAs act as decoys, guides, or enhancer RNAs.",
+      "concept_tags": ["lncrna", "non-coding-rna", "epigenetics", "gene-regulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-046",
+      "question_text": "In bacteria, the stringent response is triggered by:",
+      "options": [
+        "A. High nutrient availability",
+        "B. Amino acid starvation leading to accumulation of (p)ppGpp",
+        "C. High temperature",
+        "D. DNA damage"
+      ],
+      "correct_answer": "B",
+      "explanation": "The stringent response is a bacterial stress response triggered by amino acid starvation. When uncharged tRNAs accumulate in the ribosome, the enzyme RelA synthesizes (p)ppGpp (guanosine tetraphosphate/pentaphosphate). This alarmone reprograms cellular metabolism by inhibiting rRNA and ribosome synthesis while activating amino acid biosynthesis genes. This allows bacteria to survive nutrient limitation.",
+      "concept_tags": ["stringent-response", "ppgpp", "bacterial-regulation", "stress-response"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-047",
+      "question_text": "Riboswitches are regulatory elements that:",
+      "options": [
+        "A. Bind transcription factors to regulate gene expression",
+        "B. Change mRNA structure upon binding small molecules to regulate expression",
+        "C. Catalyze mRNA splicing reactions",
+        "D. Export mRNA from the nucleus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Riboswitches are cis-acting regulatory elements found in the 5' UTR of some bacterial mRNAs. They consist of an aptamer domain that binds specific small molecules (metabolites) and an expression platform. Ligand binding causes conformational changes in the mRNA that can affect transcription termination or translation initiation, providing feedback regulation of metabolic pathways.",
+      "concept_tags": ["riboswitches", "gene-regulation", "bacterial-regulation", "rna-structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-09-048",
+      "question_text": "CRISPR-Cas9 systems in bacteria originally evolved to:",
+      "options": [
+        "A. Regulate metabolic gene expression",
+        "B. Provide adaptive immunity against viruses and plasmids",
+        "C. Repair DNA damage",
+        "D. Facilitate horizontal gene transfer"
+      ],
+      "correct_answer": "B",
+      "explanation": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) and Cas (CRISPR-associated) proteins form an adaptive immune system in bacteria and archaea. Spacer sequences derived from invading viruses or plasmids are integrated into the CRISPR array. These sequences are transcribed and processed into guide RNAs that direct Cas nucleases to cleave matching foreign DNA. This system has been adapted for genome editing.",
+      "concept_tags": ["crispr", "bacterial-immunity", "gene-editing", "adaptive-immunity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-049",
+      "question_text": "A researcher discovers a mutation in which the lac operator no longer binds the repressor. What would be the effect on lac operon expression?",
+      "options": [
+        "A. No expression under any conditions",
+        "B. Constitutive expression regardless of lactose presence",
+        "C. Expression only when lactose is present",
+        "D. Expression only when glucose is absent"
+      ],
+      "correct_answer": "B",
+      "explanation": "If the operator cannot bind the repressor, the repressor cannot block RNA polymerase from transcribing the operon. This results in constitutive expression of the lac genes regardless of whether lactose is present. This is called an operator constitutive (Oc) mutation. However, maximum expression still depends on CAP-cAMP binding when glucose is low. These mutations are cis-acting, affecting only the operon on the same DNA molecule.",
+      "concept_tags": ["lac-operon", "operator-mutations", "constitutive-expression", "gene-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-09-050",
+      "question_text": "Epigenetic modifications are heritable changes in gene expression that:",
+      "options": [
+        "A. Involve changes in the DNA nucleotide sequence",
+        "B. Do not involve changes in the DNA nucleotide sequence",
+        "C. Only affect non-coding regions of the genome",
+        "D. Cannot be reversed"
+      ],
+      "correct_answer": "B",
+      "explanation": "Epigenetic modifications are heritable changes in gene expression that occur without alterations to the DNA sequence. They include DNA methylation, histone modifications, and chromatin remodeling. These modifications can be passed to daughter cells during cell division and sometimes across generations. Unlike genetic mutations, epigenetic changes are potentially reversible, making them targets for therapeutic intervention.",
+      "concept_tags": ["epigenetics", "dna-methylation", "histone-modifications", "gene-regulation"],
+      "difficulty": "easy"
+    }
+  ]
+}

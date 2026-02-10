@@ -1,0 +1,707 @@
+{
+  "book": "physics-math",
+  "chapter": 4,
+  "chapter_title": "Fluids",
+  "questions": [
+    {
+      "id": "physics-math-04-001",
+      "question_text": "Density is defined as:",
+      "options": [
+        "A. mass times volume",
+        "B. mass divided by volume",
+        "C. volume divided by mass",
+        "D. weight divided by area"
+      ],
+      "correct_answer": "B",
+      "explanation": "Density (rho) = mass/volume (rho = m/V). The SI unit is kg/m^3. Water has a density of 1000 kg/m^3 or 1 g/cm^3. Density is an intrinsic property that doesn't depend on the amount of substance.",
+      "concept_tags": ["density", "mass", "volume"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-002",
+      "question_text": "Specific gravity is the ratio of a substance's density to:",
+      "options": [
+        "A. the density of air",
+        "B. the density of water",
+        "C. the density of mercury",
+        "D. the substance's own weight"
+      ],
+      "correct_answer": "B",
+      "explanation": "Specific gravity = density of substance / density of water. It is a dimensionless quantity. A specific gravity greater than 1 means the object sinks in water; less than 1 means it floats.",
+      "concept_tags": ["specific-gravity", "density", "water"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-003",
+      "question_text": "An object with a specific gravity of 0.8 will:",
+      "options": [
+        "A. sink to the bottom in water",
+        "B. float with 80% of its volume submerged",
+        "C. float with 20% of its volume submerged",
+        "D. remain suspended at any depth"
+      ],
+      "correct_answer": "B",
+      "explanation": "For a floating object, the fraction submerged equals the ratio of object density to fluid density (specific gravity). With SG = 0.8, the object floats with 80% submerged and 20% above water.",
+      "concept_tags": ["specific-gravity", "buoyancy", "floating"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-004",
+      "question_text": "The SI unit of pressure is the:",
+      "options": [
+        "A. newton",
+        "B. pascal",
+        "C. joule",
+        "D. kilogram"
+      ],
+      "correct_answer": "B",
+      "explanation": "The pascal (Pa) is the SI unit of pressure. 1 Pa = 1 N/m^2. Atmospheric pressure is approximately 101,325 Pa or 1 atm. Other units include mmHg and torr (1 atm = 760 mmHg).",
+      "concept_tags": ["pressure", "units", "pascal"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-005",
+      "question_text": "Pressure is defined as:",
+      "options": [
+        "A. force times area",
+        "B. force divided by area",
+        "C. area divided by force",
+        "D. force times distance"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pressure P = F/A (force per unit area). Pressure is a scalar quantity, not a vector. The same force applied over a smaller area produces greater pressure, which is why sharp objects penetrate more easily.",
+      "concept_tags": ["pressure", "force", "area"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-006",
+      "question_text": "The pressure at a depth h in a fluid of density rho is given by:",
+      "options": [
+        "A. P = rho * g * h",
+        "B. P = rho * h / g",
+        "C. P = g * h / rho",
+        "D. P = rho * g / h"
+      ],
+      "correct_answer": "A",
+      "explanation": "Gauge pressure at depth h is P = rho*g*h. This is the pressure due to the fluid column above. Total (absolute) pressure = atmospheric pressure + rho*g*h. Pressure increases linearly with depth.",
+      "concept_tags": ["hydrostatic-pressure", "depth", "density"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-007",
+      "question_text": "What is the gauge pressure at a depth of 10 m in water? (rho = 1000 kg/m^3, g = 10 m/s^2)",
+      "options": [
+        "A. 1,000 Pa",
+        "B. 10,000 Pa",
+        "C. 100,000 Pa",
+        "D. 1,000,000 Pa"
+      ],
+      "correct_answer": "C",
+      "explanation": "P = rho*g*h = (1000 kg/m^3)(10 m/s^2)(10 m) = 100,000 Pa = 100 kPa. This equals approximately 1 atm, which is a useful approximation: every 10 m of water depth adds about 1 atm of pressure.",
+      "concept_tags": ["hydrostatic-pressure", "calculation", "depth"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-008",
+      "question_text": "Gauge pressure differs from absolute pressure in that gauge pressure:",
+      "options": [
+        "A. includes atmospheric pressure",
+        "B. does not include atmospheric pressure",
+        "C. is always negative",
+        "D. is measured in different units"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gauge pressure measures pressure relative to atmospheric pressure (P_gauge = P_absolute - P_atm). Absolute pressure includes atmospheric pressure. A tire pressure gauge reads gauge pressure. Absolute pressure is never negative.",
+      "concept_tags": ["gauge-pressure", "absolute-pressure", "atmospheric-pressure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-009",
+      "question_text": "Pascal's principle states that pressure applied to an enclosed fluid:",
+      "options": [
+        "A. is absorbed by the container",
+        "B. is transmitted equally to all parts of the fluid",
+        "C. decreases with distance from the source",
+        "D. only acts downward"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pascal's principle: pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid and the walls of the container. This is the basis for hydraulic systems like car brakes and hydraulic lifts.",
+      "concept_tags": ["pascals-principle", "hydraulics", "pressure-transmission"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-010",
+      "question_text": "In a hydraulic lift, if the input piston has area 2 cm^2 and the output piston has area 200 cm^2, a force of 10 N on the input piston produces what force on the output piston?",
+      "options": [
+        "A. 0.1 N",
+        "B. 10 N",
+        "C. 100 N",
+        "D. 1000 N"
+      ],
+      "correct_answer": "D",
+      "explanation": "By Pascal's principle, P1 = P2, so F1/A1 = F2/A2. F2 = F1(A2/A1) = 10 N * (200/2) = 1000 N. Hydraulic systems provide mechanical advantage by using different piston areas. The output force is multiplied by the area ratio.",
+      "concept_tags": ["pascals-principle", "hydraulic-lift", "mechanical-advantage"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-011",
+      "question_text": "Archimedes' principle states that the buoyant force on a submerged object equals:",
+      "options": [
+        "A. the weight of the object",
+        "B. the weight of the fluid displaced",
+        "C. the density of the fluid",
+        "D. the volume of the object"
+      ],
+      "correct_answer": "B",
+      "explanation": "Archimedes' principle: The buoyant force equals the weight of the fluid displaced (F_b = rho_fluid * V_displaced * g). This applies whether the object floats, sinks, or is fully submerged.",
+      "concept_tags": ["archimedes-principle", "buoyancy", "displaced-fluid"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-012",
+      "question_text": "An object floats when:",
+      "options": [
+        "A. its density is greater than the fluid density",
+        "B. its density is less than or equal to the fluid density",
+        "C. its weight is greater than the buoyant force",
+        "D. the fluid has high viscosity"
+      ],
+      "correct_answer": "B",
+      "explanation": "An object floats when its average density is less than or equal to the fluid density. At equilibrium, the buoyant force equals the object's weight. If object density > fluid density, it sinks.",
+      "concept_tags": ["buoyancy", "floating", "density-comparison"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-013",
+      "question_text": "A 5 kg object with volume 0.01 m^3 is submerged in water. What is the buoyant force? (rho_water = 1000 kg/m^3, g = 10 m/s^2)",
+      "options": [
+        "A. 50 N",
+        "B. 100 N",
+        "C. 500 N",
+        "D. 1000 N"
+      ],
+      "correct_answer": "B",
+      "explanation": "Buoyant force F_b = rho_fluid * V * g = (1000 kg/m^3)(0.01 m^3)(10 m/s^2) = 100 N. Since the object weighs 50 N (5 kg * 10 m/s^2) and the buoyant force is 100 N, the object will float (net upward force).",
+      "concept_tags": ["buoyancy", "archimedes-principle", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-014",
+      "question_text": "The apparent weight of a submerged object equals:",
+      "options": [
+        "A. its true weight",
+        "B. true weight minus buoyant force",
+        "C. true weight plus buoyant force",
+        "D. buoyant force only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Apparent weight = true weight - buoyant force (W_apparent = mg - F_b). Objects feel lighter in water because of buoyancy. If buoyant force exceeds weight, apparent weight is negative (object accelerates upward).",
+      "concept_tags": ["apparent-weight", "buoyancy", "true-weight"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-015",
+      "question_text": "A block of wood floats in water with 60% of its volume submerged. What is the density of the wood?",
+      "options": [
+        "A. 400 kg/m^3",
+        "B. 600 kg/m^3",
+        "C. 1000 kg/m^3",
+        "D. 1667 kg/m^3"
+      ],
+      "correct_answer": "B",
+      "explanation": "For a floating object: rho_object/rho_fluid = V_submerged/V_total. So rho_wood = 0.60 * 1000 kg/m^3 = 600 kg/m^3. The fraction submerged equals the specific gravity of the object.",
+      "concept_tags": ["floating", "density", "buoyancy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-016",
+      "question_text": "The continuity equation for fluid flow states that:",
+      "options": [
+        "A. pressure is constant throughout",
+        "B. A1*v1 = A2*v2 (volume flow rate is constant)",
+        "C. velocity is constant throughout",
+        "D. density changes with flow rate"
+      ],
+      "correct_answer": "B",
+      "explanation": "The continuity equation A1*v1 = A2*v2 expresses conservation of mass for incompressible fluids. Where the pipe narrows (A decreases), velocity increases. Volume flow rate Q = Av is constant throughout the pipe.",
+      "concept_tags": ["continuity-equation", "fluid-dynamics", "conservation-of-mass"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-017",
+      "question_text": "If a pipe narrows to half its original cross-sectional area, the fluid velocity:",
+      "options": [
+        "A. decreases by half",
+        "B. doubles",
+        "C. stays the same",
+        "D. quadruples"
+      ],
+      "correct_answer": "B",
+      "explanation": "By continuity: A1*v1 = A2*v2. If A2 = A1/2, then v2 = 2*v1. Velocity is inversely proportional to cross-sectional area. This explains why water from a hose speeds up when you partially cover the opening.",
+      "concept_tags": ["continuity-equation", "velocity", "pipe-flow"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-018",
+      "question_text": "Blood flows through an artery at 0.5 m/s. If the artery branches into smaller vessels with total cross-sectional area 10 times larger, the blood velocity in the branches is:",
+      "options": [
+        "A. 0.05 m/s",
+        "B. 0.5 m/s",
+        "C. 5 m/s",
+        "D. 50 m/s"
+      ],
+      "correct_answer": "A",
+      "explanation": "By continuity: A1*v1 = A2*v2. v2 = v1(A1/A2) = 0.5 m/s * (1/10) = 0.05 m/s. Blood slows down in capillaries because total cross-sectional area increases dramatically, allowing time for gas exchange.",
+      "concept_tags": ["continuity-equation", "blood-flow", "physiology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-019",
+      "question_text": "Bernoulli's equation relates pressure, velocity, and:",
+      "options": [
+        "A. temperature",
+        "B. viscosity",
+        "C. height (elevation)",
+        "D. density changes"
+      ],
+      "correct_answer": "C",
+      "explanation": "Bernoulli's equation: P + (1/2)rho*v^2 + rho*g*h = constant. It relates pressure, kinetic energy per unit volume (velocity term), and potential energy per unit volume (height term) for ideal fluid flow.",
+      "concept_tags": ["bernoullis-equation", "energy-conservation", "fluid-dynamics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-020",
+      "question_text": "According to Bernoulli's principle, when fluid velocity increases:",
+      "options": [
+        "A. pressure increases",
+        "B. pressure decreases",
+        "C. pressure stays the same",
+        "D. density increases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Bernoulli's principle: at constant height, faster-moving fluid has lower pressure. P + (1/2)rho*v^2 = constant. This explains airplane lift, curve balls, and why shower curtains blow inward.",
+      "concept_tags": ["bernoullis-principle", "pressure-velocity", "fluid-dynamics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-021",
+      "question_text": "Airplane wings generate lift because:",
+      "options": [
+        "A. air moves faster over the top, creating lower pressure above the wing",
+        "B. air moves slower over the top, creating higher pressure above the wing",
+        "C. gravity is reduced above the wing",
+        "D. air density is higher below the wing"
+      ],
+      "correct_answer": "A",
+      "explanation": "Airplane wings are shaped so air travels faster over the curved top surface than the flat bottom. By Bernoulli's principle, faster flow means lower pressure. The pressure difference creates an upward lift force.",
+      "concept_tags": ["bernoullis-principle", "lift", "aerodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-022",
+      "question_text": "A fluid exits a tank through a small hole at depth h below the surface. The exit velocity is (Torricelli's theorem):",
+      "options": [
+        "A. v = gh",
+        "B. v = sqrt(2gh)",
+        "C. v = 2gh",
+        "D. v = sqrt(gh/2)"
+      ],
+      "correct_answer": "B",
+      "explanation": "Torricelli's theorem: v = sqrt(2gh). This is derived from Bernoulli's equation and is identical to the velocity of an object falling from height h. The velocity depends only on depth, not on fluid density.",
+      "concept_tags": ["torricellis-theorem", "bernoullis-equation", "efflux-velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-023",
+      "question_text": "Water exits a hole 5 m below the surface of a tank. What is the exit velocity? (g = 10 m/s^2)",
+      "options": [
+        "A. 5 m/s",
+        "B. 10 m/s",
+        "C. 50 m/s",
+        "D. 100 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Torricelli's theorem: v = sqrt(2gh) = sqrt(2 * 10 * 5) = sqrt(100) = 10 m/s. This is the same speed an object would have after falling 5 m from rest.",
+      "concept_tags": ["torricellis-theorem", "calculation", "efflux-velocity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-024",
+      "question_text": "A Venturi tube demonstrates that as fluid passes through a constriction:",
+      "options": [
+        "A. velocity decreases and pressure increases",
+        "B. velocity increases and pressure decreases",
+        "C. both velocity and pressure increase",
+        "D. both velocity and pressure decrease"
+      ],
+      "correct_answer": "B",
+      "explanation": "In a Venturi tube, the constriction causes velocity to increase (continuity equation) and pressure to decrease (Bernoulli's principle). This is used in carburetors, atomizers, and flow measurement devices.",
+      "concept_tags": ["venturi-effect", "bernoullis-principle", "continuity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-025",
+      "question_text": "Viscosity is a measure of a fluid's:",
+      "options": [
+        "A. density",
+        "B. resistance to flow",
+        "C. surface tension",
+        "D. compressibility"
+      ],
+      "correct_answer": "B",
+      "explanation": "Viscosity is internal friction in a fluid that resists flow. High viscosity fluids (honey, oil) flow slowly; low viscosity fluids (water, air) flow easily. Viscosity decreases with increasing temperature for liquids.",
+      "concept_tags": ["viscosity", "fluid-resistance", "flow"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-026",
+      "question_text": "The SI unit of dynamic viscosity is:",
+      "options": [
+        "A. pascal",
+        "B. pascal-second (Pa*s)",
+        "C. newton per meter",
+        "D. kilogram per meter"
+      ],
+      "correct_answer": "B",
+      "explanation": "Dynamic (absolute) viscosity has SI units of Pa*s (pascal-second) or equivalently kg/(m*s). The CGS unit is the poise (P). Blood has a viscosity of about 3-4 mPa*s at body temperature.",
+      "concept_tags": ["viscosity", "units", "dynamic-viscosity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-027",
+      "question_text": "Poiseuille's Law describes flow rate through a tube and shows that flow rate is proportional to:",
+      "options": [
+        "A. the first power of radius",
+        "B. the second power of radius",
+        "C. the third power of radius",
+        "D. the fourth power of radius"
+      ],
+      "correct_answer": "D",
+      "explanation": "Poiseuille's Law: Q = (pi * delta_P * r^4)/(8 * eta * L). Flow rate is proportional to r^4. Doubling the radius increases flow by 16 times. This explains why small changes in vessel diameter dramatically affect blood flow.",
+      "concept_tags": ["poiseuilles-law", "viscous-flow", "radius-dependence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-028",
+      "question_text": "According to Poiseuille's Law, if the radius of a blood vessel is halved, the flow rate (at constant pressure difference) becomes:",
+      "options": [
+        "A. 1/2 of original",
+        "B. 1/4 of original",
+        "C. 1/8 of original",
+        "D. 1/16 of original"
+      ],
+      "correct_answer": "D",
+      "explanation": "Flow rate Q is proportional to r^4. If r becomes r/2, Q becomes (r/2)^4 = r^4/16. Flow decreases to 1/16 of original. This is why atherosclerosis (vessel narrowing) severely restricts blood flow.",
+      "concept_tags": ["poiseuilles-law", "blood-flow", "radius-effect"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-029",
+      "question_text": "Poiseuille's Law also shows that flow rate is inversely proportional to:",
+      "options": [
+        "A. pressure difference",
+        "B. tube length and viscosity",
+        "C. radius",
+        "D. time"
+      ],
+      "correct_answer": "B",
+      "explanation": "From Q = (pi * delta_P * r^4)/(8 * eta * L), flow rate is inversely proportional to both tube length (L) and viscosity (eta). Longer tubes and more viscous fluids result in slower flow.",
+      "concept_tags": ["poiseuilles-law", "viscosity", "tube-length"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-030",
+      "question_text": "Laminar flow is characterized by:",
+      "options": [
+        "A. turbulent, chaotic motion",
+        "B. smooth, parallel layers of flow",
+        "C. high Reynolds number",
+        "D. audible sound"
+      ],
+      "correct_answer": "B",
+      "explanation": "Laminar flow consists of smooth, parallel layers sliding past each other with no mixing. It occurs at low velocities and Reynolds numbers (Re < 2000). Poiseuille's Law applies only to laminar flow.",
+      "concept_tags": ["laminar-flow", "fluid-dynamics", "flow-patterns"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-031",
+      "question_text": "Turbulent flow occurs when the Reynolds number exceeds approximately:",
+      "options": [
+        "A. 100",
+        "B. 500",
+        "C. 2000",
+        "D. 10000"
+      ],
+      "correct_answer": "C",
+      "explanation": "Turbulent flow typically occurs when Reynolds number Re > 2000-3000. Re = (rho*v*D)/eta. High velocity, large diameter, low viscosity, and high density promote turbulence. Turbulent flow creates murmurs in blood vessels.",
+      "concept_tags": ["turbulent-flow", "reynolds-number", "flow-transition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-032",
+      "question_text": "Surface tension is caused by:",
+      "options": [
+        "A. gravity acting on the fluid surface",
+        "B. cohesive forces between molecules at the surface",
+        "C. pressure difference across the surface",
+        "D. viscosity of the fluid"
+      ],
+      "correct_answer": "B",
+      "explanation": "Surface tension results from cohesive forces between liquid molecules. Surface molecules are pulled inward (no neighbors above), creating tension that minimizes surface area. This allows insects to walk on water.",
+      "concept_tags": ["surface-tension", "cohesion", "molecular-forces"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-033",
+      "question_text": "The SI unit of surface tension is:",
+      "options": [
+        "A. N/m^2",
+        "B. N/m",
+        "C. N*m",
+        "D. kg/m^2"
+      ],
+      "correct_answer": "B",
+      "explanation": "Surface tension has units of force per unit length (N/m) or equivalently energy per unit area (J/m^2). Water has surface tension of about 0.073 N/m at room temperature. Surfactants reduce surface tension.",
+      "concept_tags": ["surface-tension", "units", "force-per-length"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-034",
+      "question_text": "Surfactants reduce surface tension by:",
+      "options": [
+        "A. increasing cohesive forces",
+        "B. disrupting cohesive forces at the surface",
+        "C. increasing fluid density",
+        "D. decreasing temperature"
+      ],
+      "correct_answer": "B",
+      "explanation": "Surfactants (surface-active agents) are molecules that disrupt surface cohesion, reducing surface tension. Soap and detergents are surfactants. Pulmonary surfactant in lungs reduces surface tension to prevent alveolar collapse.",
+      "concept_tags": ["surfactants", "surface-tension", "pulmonary-surfactant"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-035",
+      "question_text": "Capillary action occurs because of the interplay between:",
+      "options": [
+        "A. gravity and viscosity",
+        "B. cohesion and adhesion",
+        "C. pressure and temperature",
+        "D. density and volume"
+      ],
+      "correct_answer": "B",
+      "explanation": "Capillary action results from adhesion (liquid-surface attraction) and cohesion (liquid-liquid attraction). When adhesion > cohesion (water in glass), liquid rises. When cohesion > adhesion (mercury in glass), liquid depresses.",
+      "concept_tags": ["capillary-action", "adhesion", "cohesion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-036",
+      "question_text": "In a capillary tube, water rises because:",
+      "options": [
+        "A. adhesion to glass exceeds cohesion within water",
+        "B. cohesion within water exceeds adhesion to glass",
+        "C. water is less dense than glass",
+        "D. atmospheric pressure pushes water up"
+      ],
+      "correct_answer": "A",
+      "explanation": "Water rises in glass capillaries because water molecules are more strongly attracted to glass (adhesion) than to each other (cohesion). This creates a concave meniscus and capillary rise. Mercury does the opposite.",
+      "concept_tags": ["capillary-action", "adhesion", "meniscus"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-037",
+      "question_text": "A manometer measures:",
+      "options": [
+        "A. fluid velocity",
+        "B. fluid density",
+        "C. pressure difference",
+        "D. viscosity"
+      ],
+      "correct_answer": "C",
+      "explanation": "A manometer measures pressure difference using a column of liquid (often mercury or water). The height difference between columns relates to pressure difference by delta_P = rho*g*h. Open-end manometers measure gauge pressure.",
+      "concept_tags": ["manometer", "pressure-measurement", "instruments"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-038",
+      "question_text": "A steel ball sinks in water but floats in mercury because:",
+      "options": [
+        "A. mercury has higher surface tension",
+        "B. mercury has higher density than steel",
+        "C. steel is magnetic",
+        "D. mercury has higher viscosity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Steel sinks in water (rho_steel ~ 7800 kg/m^3 > rho_water = 1000 kg/m^3) but floats in mercury (rho_mercury ~ 13,600 kg/m^3 > rho_steel). An object floats when fluid density exceeds object density.",
+      "concept_tags": ["buoyancy", "density-comparison", "floating-sinking"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-039",
+      "question_text": "An ideal fluid is assumed to be:",
+      "options": [
+        "A. compressible and viscous",
+        "B. incompressible and non-viscous",
+        "C. compressible and non-viscous",
+        "D. incompressible and viscous"
+      ],
+      "correct_answer": "B",
+      "explanation": "An ideal fluid is incompressible (constant density) and non-viscous (no internal friction). Bernoulli's equation and the simple continuity equation apply to ideal fluids. Real fluids have some viscosity and compressibility.",
+      "concept_tags": ["ideal-fluid", "assumptions", "bernoullis-equation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-04-040",
+      "question_text": "The blood pressure reading 120/80 mmHg indicates:",
+      "options": [
+        "A. absolute pressure at two different locations",
+        "B. systolic and diastolic gauge pressures",
+        "C. pressure at arteries and veins",
+        "D. pressure at rest and during exercise"
+      ],
+      "correct_answer": "B",
+      "explanation": "Blood pressure readings give systolic (heart contracting) over diastolic (heart relaxed) gauge pressures. These are gauge pressures relative to atmospheric. 120/80 mmHg is considered normal adult blood pressure.",
+      "concept_tags": ["blood-pressure", "gauge-pressure", "physiology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-041",
+      "question_text": "If a cube of ice floats in water with 90% of its volume submerged, what is the density of ice?",
+      "options": [
+        "A. 100 kg/m^3",
+        "B. 500 kg/m^3",
+        "C. 900 kg/m^3",
+        "D. 1000 kg/m^3"
+      ],
+      "correct_answer": "C",
+      "explanation": "For floating objects: rho_object/rho_fluid = fraction submerged. rho_ice = 0.90 * 1000 kg/m^3 = 900 kg/m^3. This is why ice floats with about 10% above water, which has important ecological consequences.",
+      "concept_tags": ["buoyancy", "density", "ice"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-042",
+      "question_text": "An object is fully submerged and sinking. The buoyant force on it is:",
+      "options": [
+        "A. zero",
+        "B. greater than its weight",
+        "C. less than its weight",
+        "D. equal to its weight"
+      ],
+      "correct_answer": "C",
+      "explanation": "A sinking object experiences a buoyant force less than its weight (net downward force). The buoyant force still equals the weight of displaced fluid, but object weight exceeds this because object density > fluid density.",
+      "concept_tags": ["buoyancy", "sinking", "force-balance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-043",
+      "question_text": "A hydraulic press has input and output pistons with diameters of 2 cm and 20 cm respectively. What is the mechanical advantage?",
+      "options": [
+        "A. 10",
+        "B. 100",
+        "C. 1000",
+        "D. 10000"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mechanical advantage = A_out/A_in = (pi*r2^2)/(pi*r1^2) = (r2/r1)^2 = (10/1)^2 = 100. Since area depends on radius squared, and diameters are 20 cm and 2 cm (ratio 10:1), area ratio is 100:1.",
+      "concept_tags": ["hydraulic-press", "mechanical-advantage", "pascals-principle"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-04-044",
+      "question_text": "The pressure at the bottom of a swimming pool is the same across the entire bottom surface because:",
+      "options": [
+        "A. water is incompressible",
+        "B. pressure at a given depth depends only on depth, not horizontal position",
+        "C. the pool has uniform temperature",
+        "D. water has low viscosity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hydrostatic pressure P = rho*g*h depends only on depth h, not horizontal position. At the same depth, pressure is the same regardless of the shape of the container (Pascal's vases). This is true for static fluids.",
+      "concept_tags": ["hydrostatic-pressure", "pascals-principle", "depth"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-04-045",
+      "question_text": "Atherosclerosis (plaque buildup in arteries) can lead to audible sounds because:",
+      "options": [
+        "A. blood becomes more viscous",
+        "B. the narrowing increases velocity and causes turbulent flow",
+        "C. blood pressure decreases",
+        "D. blood density increases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Arterial narrowing increases blood velocity (continuity equation). High velocity increases Reynolds number, potentially causing turbulent flow. Turbulence creates audible sounds (bruits) that can be detected with a stethoscope.",
+      "concept_tags": ["turbulent-flow", "continuity-equation", "cardiovascular"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-04-046",
+      "question_text": "LaPlace's Law for a sphere states that wall tension equals:",
+      "options": [
+        "A. T = P*r/2",
+        "B. T = P*r",
+        "C. T = 2*P*r",
+        "D. T = P/(2r)"
+      ],
+      "correct_answer": "A",
+      "explanation": "LaPlace's Law for a sphere: T = P*r/2, where T is wall tension, P is internal pressure, and r is radius. Larger radius requires greater wall tension to withstand the same pressure. This explains why aneurysms are dangerous.",
+      "concept_tags": ["laplaces-law", "wall-tension", "pressure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-04-047",
+      "question_text": "Pulmonary surfactant is critical in the lungs because it:",
+      "options": [
+        "A. increases oxygen diffusion",
+        "B. reduces surface tension to prevent alveolar collapse",
+        "C. increases blood viscosity",
+        "D. increases alveolar pressure"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pulmonary surfactant reduces surface tension in alveoli, preventing collapse during exhalation. Without surfactant, small alveoli would empty into larger ones (LaPlace's Law). Premature infants may lack sufficient surfactant (respiratory distress syndrome).",
+      "concept_tags": ["pulmonary-surfactant", "surface-tension", "respiratory-physiology"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-04-048",
+      "question_text": "According to Bernoulli's equation, if a pipe is both horizontal and has constant diameter, then:",
+      "options": [
+        "A. pressure varies along the pipe",
+        "B. velocity varies along the pipe",
+        "C. pressure is constant along the pipe (ideal fluid)",
+        "D. flow rate varies along the pipe"
+      ],
+      "correct_answer": "C",
+      "explanation": "For horizontal flow (h constant) with constant velocity (constant A), Bernoulli's equation gives P + (1/2)rho*v^2 = constant. With v constant, P must also be constant. In real fluids, pressure drops due to viscous losses.",
+      "concept_tags": ["bernoullis-equation", "pressure", "ideal-fluid"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-04-049",
+      "question_text": "A pipe carrying water horizontally narrows from cross-sectional area 10 cm^2 to 5 cm^2. If the pressure in the wider section is 200 kPa and velocity is 2 m/s, what is the approximate pressure in the narrower section? (rho = 1000 kg/m^3)",
+      "options": [
+        "A. 194 kPa",
+        "B. 200 kPa",
+        "C. 206 kPa",
+        "D. 212 kPa"
+      ],
+      "correct_answer": "A",
+      "explanation": "By continuity, v2 = v1*(A1/A2) = 2*(10/5) = 4 m/s. By Bernoulli (horizontal): P1 + (1/2)rho*v1^2 = P2 + (1/2)rho*v2^2. P2 = 200,000 + (1/2)(1000)(4-16) = 200,000 - 6,000 = 194,000 Pa = 194 kPa.",
+      "concept_tags": ["bernoullis-equation", "continuity-equation", "calculation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-04-050",
+      "question_text": "The work done by hydrostatic pressure on a submerged object is:",
+      "options": [
+        "A. always positive",
+        "B. always negative",
+        "C. zero (pressure acts equally on all sides)",
+        "D. dependent on the object's velocity"
+      ],
+      "correct_answer": "C",
+      "explanation": "For a stationary submerged object, hydrostatic pressure acts perpendicular to all surfaces. The net work is zero because pressure on opposite sides cancels (forces are equal and opposite). Only when the object moves does pressure difference do work.",
+      "concept_tags": ["hydrostatic-pressure", "work", "force-balance"],
+      "difficulty": "hard"
+    }
+  ]
+}

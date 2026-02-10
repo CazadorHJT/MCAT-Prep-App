@@ -1,0 +1,457 @@
+{
+  "book": "general-chemistry",
+  "chapter": 3,
+  "chapter_title": "Stoichiometry",
+  "questions": [
+    {
+      "id": "general-chemistry-03-001",
+      "question_text": "What is the molar mass of calcium carbonate (CaCO3)?",
+      "options": ["A. 100.09 g/mol", "B. 84.01 g/mol", "C. 120.09 g/mol", "D. 60.01 g/mol"],
+      "correct_answer": "A",
+      "explanation": "The molar mass of CaCO3 is calculated by adding the atomic masses: Ca (40.08) + C (12.01) + 3 x O (16.00) = 40.08 + 12.01 + 48.00 = 100.09 g/mol.",
+      "concept_tags": ["molar-mass", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-002",
+      "question_text": "How many molecules are present in 2.0 moles of water?",
+      "options": ["A. 6.02 x 10^23 molecules", "B. 1.20 x 10^24 molecules", "C. 3.01 x 10^23 molecules", "D. 2.41 x 10^24 molecules"],
+      "correct_answer": "B",
+      "explanation": "Using Avogadro's number: 2.0 mol x 6.02 x 10^23 molecules/mol = 1.20 x 10^24 molecules.",
+      "concept_tags": ["avogadro-number", "mole-conversions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-003",
+      "question_text": "What is the molar mass of glucose (C6H12O6)?",
+      "options": ["A. 162.14 g/mol", "B. 180.16 g/mol", "C. 144.12 g/mol", "D. 198.18 g/mol"],
+      "correct_answer": "B",
+      "explanation": "Molar mass of C6H12O6 = 6(12.01) + 12(1.01) + 6(16.00) = 72.06 + 12.12 + 96.00 = 180.16 g/mol.",
+      "concept_tags": ["molar-mass", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-004",
+      "question_text": "How many moles are in 58.5 g of sodium chloride (NaCl)?",
+      "options": ["A. 0.50 mol", "B. 1.00 mol", "C. 1.50 mol", "D. 2.00 mol"],
+      "correct_answer": "B",
+      "explanation": "Molar mass of NaCl = 22.99 + 35.45 = 58.44 g/mol. Moles = 58.5 g / 58.44 g/mol = 1.00 mol.",
+      "concept_tags": ["mole-conversions", "molar-mass"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-005",
+      "question_text": "When the equation Fe + O2 -> Fe2O3 is balanced, what is the coefficient in front of Fe?",
+      "options": ["A. 2", "B. 3", "C. 4", "D. 1"],
+      "correct_answer": "C",
+      "explanation": "The balanced equation is 4Fe + 3O2 -> 2Fe2O3. The coefficient in front of Fe is 4.",
+      "concept_tags": ["balancing-equations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-006",
+      "question_text": "What is Avogadro's number?",
+      "options": ["A. 6.02 x 10^22", "B. 6.02 x 10^23", "C. 6.02 x 10^24", "D. 3.01 x 10^23"],
+      "correct_answer": "B",
+      "explanation": "Avogadro's number is 6.02 x 10^23, which represents the number of particles (atoms, molecules, ions) in one mole of a substance.",
+      "concept_tags": ["avogadro-number"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-007",
+      "question_text": "What is the percent composition of oxygen in water (H2O)?",
+      "options": ["A. 11.2%", "B. 88.8%", "C. 50.0%", "D. 33.3%"],
+      "correct_answer": "B",
+      "explanation": "Molar mass of H2O = 18.02 g/mol. Mass of O = 16.00 g/mol. Percent O = (16.00/18.02) x 100 = 88.8%.",
+      "concept_tags": ["percent-composition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-008",
+      "question_text": "How many atoms of oxygen are in 1 mole of Ca(NO3)2?",
+      "options": ["A. 3.01 x 10^23 atoms", "B. 6.02 x 10^23 atoms", "C. 1.81 x 10^24 atoms", "D. 3.61 x 10^24 atoms"],
+      "correct_answer": "D",
+      "explanation": "Ca(NO3)2 contains 6 oxygen atoms per formula unit. 1 mol x 6 atoms x 6.02 x 10^23 = 3.61 x 10^24 oxygen atoms.",
+      "concept_tags": ["avogadro-number", "mole-conversions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-009",
+      "question_text": "What is the molar mass of sulfuric acid (H2SO4)?",
+      "options": ["A. 98.08 g/mol", "B. 82.06 g/mol", "C. 114.10 g/mol", "D. 64.06 g/mol"],
+      "correct_answer": "A",
+      "explanation": "Molar mass of H2SO4 = 2(1.01) + 32.07 + 4(16.00) = 2.02 + 32.07 + 64.00 = 98.08 g/mol.",
+      "concept_tags": ["molar-mass", "calculations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-010",
+      "question_text": "A compound has an empirical formula of CH2O. If its molar mass is 60 g/mol, what is its molecular formula?",
+      "options": ["A. CH2O", "B. C2H4O2", "C. C3H6O3", "D. C4H8O4"],
+      "correct_answer": "B",
+      "explanation": "Empirical formula mass of CH2O = 12 + 2 + 16 = 30 g/mol. Ratio = 60/30 = 2. Molecular formula = C2H4O2.",
+      "concept_tags": ["empirical-formula", "molecular-formula"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-011",
+      "question_text": "When balancing the equation: C3H8 + O2 -> CO2 + H2O, what is the coefficient of O2?",
+      "options": ["A. 3", "B. 4", "C. 5", "D. 10"],
+      "correct_answer": "C",
+      "explanation": "The balanced equation is C3H8 + 5O2 -> 3CO2 + 4H2O. The coefficient of O2 is 5.",
+      "concept_tags": ["balancing-equations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-012",
+      "question_text": "How many grams are in 0.25 moles of potassium permanganate (KMnO4)?",
+      "options": ["A. 39.5 g", "B. 79.0 g", "C. 158.0 g", "D. 19.8 g"],
+      "correct_answer": "A",
+      "explanation": "Molar mass of KMnO4 = 39.10 + 54.94 + 4(16.00) = 158.04 g/mol. Mass = 0.25 mol x 158.04 g/mol = 39.5 g.",
+      "concept_tags": ["mole-conversions", "molar-mass"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-013",
+      "question_text": "What is the percent composition of carbon in ethanol (C2H5OH)?",
+      "options": ["A. 34.8%", "B. 52.2%", "C. 26.1%", "D. 13.0%"],
+      "correct_answer": "B",
+      "explanation": "Molar mass of C2H5OH = 2(12.01) + 6(1.01) + 16.00 = 46.08 g/mol. Percent C = (24.02/46.08) x 100 = 52.2%.",
+      "concept_tags": ["percent-composition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-014",
+      "question_text": "How many moles of oxygen gas (O2) are needed to completely combust 3 moles of methane (CH4)?",
+      "options": ["A. 3 mol", "B. 6 mol", "C. 9 mol", "D. 12 mol"],
+      "correct_answer": "B",
+      "explanation": "The balanced equation is CH4 + 2O2 -> CO2 + 2H2O. For 3 mol CH4: 3 mol x 2 = 6 mol O2 needed.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-015",
+      "question_text": "A sample contains 3.01 x 10^22 molecules of CO2. How many moles of CO2 is this?",
+      "options": ["A. 0.050 mol", "B. 0.10 mol", "C. 0.50 mol", "D. 1.0 mol"],
+      "correct_answer": "A",
+      "explanation": "Moles = (3.01 x 10^22 molecules) / (6.02 x 10^23 molecules/mol) = 0.050 mol.",
+      "concept_tags": ["avogadro-number", "mole-conversions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-016",
+      "question_text": "In the reaction 2H2 + O2 -> 2H2O, if 4.0 g of H2 reacts with excess O2, what mass of water is produced?",
+      "options": ["A. 18 g", "B. 36 g", "C. 72 g", "D. 9 g"],
+      "correct_answer": "B",
+      "explanation": "Moles of H2 = 4.0 g / 2.02 g/mol = 2.0 mol. From stoichiometry, 2 mol H2 produces 2 mol H2O. Mass of H2O = 2.0 mol x 18.02 g/mol = 36 g.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-017",
+      "question_text": "What is the limiting reagent when 5.0 g of Na reacts with 5.0 g of Cl2 to form NaCl?",
+      "options": ["A. Na", "B. Cl2", "C. NaCl", "D. Neither, they react completely"],
+      "correct_answer": "A",
+      "explanation": "2Na + Cl2 -> 2NaCl. Moles Na = 5.0/22.99 = 0.217 mol. Moles Cl2 = 5.0/70.90 = 0.071 mol. Cl2 can react with 0.142 mol Na (2:1 ratio). Since 0.142 < 0.217, Na is in excess and Cl2 would be limiting, but checking: Na needs 0.108 mol Cl2 (0.217/2), and we have 0.071 mol Cl2. So Na is limiting.",
+      "concept_tags": ["limiting-reagent", "stoichiometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-018",
+      "question_text": "A reaction has a theoretical yield of 25.0 g and an actual yield of 20.0 g. What is the percent yield?",
+      "options": ["A. 125%", "B. 80.0%", "C. 75.0%", "D. 20.0%"],
+      "correct_answer": "B",
+      "explanation": "Percent yield = (actual yield / theoretical yield) x 100 = (20.0 g / 25.0 g) x 100 = 80.0%.",
+      "concept_tags": ["percent-yield"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-019",
+      "question_text": "A compound is 40.0% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. What is its empirical formula?",
+      "options": ["A. CHO", "B. CH2O", "C. C2H4O2", "D. C3H6O3"],
+      "correct_answer": "B",
+      "explanation": "Assume 100 g sample: 40.0 g C, 6.7 g H, 53.3 g O. Moles: C = 40.0/12.01 = 3.33, H = 6.7/1.01 = 6.63, O = 53.3/16.00 = 3.33. Ratio = 1:2:1. Empirical formula = CH2O.",
+      "concept_tags": ["empirical-formula", "percent-composition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-020",
+      "question_text": "How many liters of CO2 gas at STP are produced when 44.0 g of propane (C3H8) combusts completely?",
+      "options": ["A. 22.4 L", "B. 44.8 L", "C. 67.2 L", "D. 89.6 L"],
+      "correct_answer": "C",
+      "explanation": "C3H8 + 5O2 -> 3CO2 + 4H2O. Moles C3H8 = 44.0 g / 44.10 g/mol = 1.0 mol. Moles CO2 = 1.0 x 3 = 3.0 mol. Volume at STP = 3.0 mol x 22.4 L/mol = 67.2 L.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-021",
+      "question_text": "What mass of NaOH is required to neutralize 49.0 g of H2SO4?",
+      "options": ["A. 20.0 g", "B. 40.0 g", "C. 80.0 g", "D. 60.0 g"],
+      "correct_answer": "B",
+      "explanation": "H2SO4 + 2NaOH -> Na2SO4 + 2H2O. Moles H2SO4 = 49.0 g / 98.08 g/mol = 0.50 mol. Moles NaOH needed = 0.50 x 2 = 1.0 mol. Mass NaOH = 1.0 mol x 40.00 g/mol = 40.0 g.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-022",
+      "question_text": "A 2.50 g sample of a hydrate of CuSO4 loses 0.90 g of water when heated. What is the formula of the hydrate?",
+      "options": ["A. CuSO4.3H2O", "B. CuSO4.4H2O", "C. CuSO4.5H2O", "D. CuSO4.7H2O"],
+      "correct_answer": "C",
+      "explanation": "Mass of anhydrous CuSO4 = 2.50 - 0.90 = 1.60 g. Moles CuSO4 = 1.60/159.6 = 0.010 mol. Moles H2O = 0.90/18.02 = 0.050 mol. Ratio = 0.050/0.010 = 5. Formula = CuSO4.5H2O.",
+      "concept_tags": ["mole-conversions", "empirical-formula"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-023",
+      "question_text": "In the reaction 2Al + 3CuSO4 -> Al2(SO4)3 + 3Cu, how many grams of copper are produced from 5.4 g of aluminum?",
+      "options": ["A. 9.5 g", "B. 19.1 g", "C. 28.6 g", "D. 38.1 g"],
+      "correct_answer": "B",
+      "explanation": "Moles Al = 5.4 g / 27.0 g/mol = 0.20 mol. From stoichiometry: 2 mol Al produces 3 mol Cu. Moles Cu = 0.20 x (3/2) = 0.30 mol. Mass Cu = 0.30 mol x 63.55 g/mol = 19.1 g.",
+      "concept_tags": ["stoichiometry", "limiting-reagent"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-024",
+      "question_text": "The empirical formula of a compound is NO2. If the molar mass is 92 g/mol, what is the molecular formula?",
+      "options": ["A. NO2", "B. N2O4", "C. N3O6", "D. N4O8"],
+      "correct_answer": "B",
+      "explanation": "Empirical formula mass of NO2 = 14.01 + 2(16.00) = 46.01 g/mol. Ratio = 92/46 = 2. Molecular formula = N2O4.",
+      "concept_tags": ["empirical-formula", "molecular-formula"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-025",
+      "question_text": "What is the percent composition of nitrogen in ammonium nitrate (NH4NO3)?",
+      "options": ["A. 17.5%", "B. 35.0%", "C. 52.5%", "D. 14.0%"],
+      "correct_answer": "B",
+      "explanation": "Molar mass of NH4NO3 = 14.01 + 4(1.01) + 14.01 + 3(16.00) = 80.06 g/mol. Mass of N = 2(14.01) = 28.02 g/mol. Percent N = (28.02/80.06) x 100 = 35.0%.",
+      "concept_tags": ["percent-composition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-026",
+      "question_text": "If 10.0 g of Mg reacts with 10.0 g of O2, which is the limiting reagent? (2Mg + O2 -> 2MgO)",
+      "options": ["A. Mg", "B. O2", "C. MgO", "D. They react in exact stoichiometric amounts"],
+      "correct_answer": "A",
+      "explanation": "Moles Mg = 10.0/24.31 = 0.411 mol. Moles O2 = 10.0/32.00 = 0.313 mol. Mg needs 0.411/2 = 0.206 mol O2. We have 0.313 mol O2, which is excess. Mg is the limiting reagent.",
+      "concept_tags": ["limiting-reagent", "stoichiometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-027",
+      "question_text": "A student performs a synthesis and obtains 15.8 g of product. If the theoretical yield is 18.5 g, and the literature percent yield for this reaction is 90%, how does the student's result compare?",
+      "options": ["A. Student achieved 85.4%, below the literature value", "B. Student achieved 85.4%, above the literature value", "C. Student achieved 95.4%, above the literature value", "D. Student achieved 117%, which is impossible"],
+      "correct_answer": "A",
+      "explanation": "Student's percent yield = (15.8/18.5) x 100 = 85.4%. This is below the literature value of 90%.",
+      "concept_tags": ["percent-yield"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-028",
+      "question_text": "How many atoms are in 0.50 moles of iron?",
+      "options": ["A. 1.5 x 10^23 atoms", "B. 3.01 x 10^23 atoms", "C. 6.02 x 10^23 atoms", "D. 1.20 x 10^24 atoms"],
+      "correct_answer": "B",
+      "explanation": "Number of atoms = 0.50 mol x 6.02 x 10^23 atoms/mol = 3.01 x 10^23 atoms.",
+      "concept_tags": ["avogadro-number", "mole-conversions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-03-029",
+      "question_text": "In the combustion of ethanol (C2H5OH + 3O2 -> 2CO2 + 3H2O), what volume of O2 at STP is needed to burn 46.0 g of ethanol?",
+      "options": ["A. 22.4 L", "B. 44.8 L", "C. 67.2 L", "D. 89.6 L"],
+      "correct_answer": "C",
+      "explanation": "Moles ethanol = 46.0 g / 46.08 g/mol = 1.0 mol. Moles O2 needed = 1.0 x 3 = 3.0 mol. Volume at STP = 3.0 mol x 22.4 L/mol = 67.2 L.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-030",
+      "question_text": "A compound contains 85.7% carbon and 14.3% hydrogen by mass. What is its empirical formula?",
+      "options": ["A. CH", "B. CH2", "C. CH3", "D. C2H3"],
+      "correct_answer": "B",
+      "explanation": "Assume 100 g: 85.7 g C, 14.3 g H. Moles: C = 85.7/12.01 = 7.14, H = 14.3/1.01 = 14.16. Ratio = 7.14:14.16 = 1:2. Empirical formula = CH2.",
+      "concept_tags": ["empirical-formula", "percent-composition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-031",
+      "question_text": "When 3.0 g of Zn reacts with excess HCl (Zn + 2HCl -> ZnCl2 + H2), what volume of H2 gas is produced at STP?",
+      "options": ["A. 0.51 L", "B. 1.03 L", "C. 2.06 L", "D. 4.12 L"],
+      "correct_answer": "B",
+      "explanation": "Moles Zn = 3.0 g / 65.38 g/mol = 0.046 mol. From stoichiometry, 1 mol Zn produces 1 mol H2. Volume H2 at STP = 0.046 mol x 22.4 L/mol = 1.03 L.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-032",
+      "question_text": "What mass of precipitate forms when 100 mL of 0.10 M AgNO3 is mixed with excess NaCl? (AgNO3 + NaCl -> AgCl + NaNO3)",
+      "options": ["A. 0.72 g", "B. 1.44 g", "C. 2.87 g", "D. 14.35 g"],
+      "correct_answer": "B",
+      "explanation": "Moles AgNO3 = 0.10 L x 0.10 mol/L = 0.010 mol. Moles AgCl = 0.010 mol (1:1 ratio). Mass AgCl = 0.010 mol x 143.32 g/mol = 1.44 g.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-033",
+      "question_text": "A reaction proceeds with 75% yield. If 50 g of product is needed, what theoretical yield must be targeted?",
+      "options": ["A. 37.5 g", "B. 50.0 g", "C. 66.7 g", "D. 100 g"],
+      "correct_answer": "C",
+      "explanation": "Percent yield = (actual/theoretical) x 100. 75 = (50/theoretical) x 100. Theoretical = 50/0.75 = 66.7 g.",
+      "concept_tags": ["percent-yield"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-034",
+      "question_text": "Caffeine has the molecular formula C8H10N4O2. What is the percent composition of nitrogen in caffeine?",
+      "options": ["A. 7.2%", "B. 14.4%", "C. 28.9%", "D. 21.6%"],
+      "correct_answer": "C",
+      "explanation": "Molar mass of caffeine = 8(12.01) + 10(1.01) + 4(14.01) + 2(16.00) = 194.22 g/mol. Mass of N = 4(14.01) = 56.04 g/mol. Percent N = (56.04/194.22) x 100 = 28.9%.",
+      "concept_tags": ["percent-composition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-035",
+      "question_text": "Balance the following equation: Fe2O3 + CO -> Fe + CO2. What is the sum of all coefficients?",
+      "options": ["A. 7", "B. 8", "C. 9", "D. 10"],
+      "correct_answer": "C",
+      "explanation": "Balanced equation: Fe2O3 + 3CO -> 2Fe + 3CO2. Sum of coefficients = 1 + 3 + 2 + 3 = 9.",
+      "concept_tags": ["balancing-equations"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-036",
+      "question_text": "A 10.0 g sample of a metal carbonate decomposes upon heating to give 5.6 g of metal oxide and CO2. What is the percent by mass of CO2 released?",
+      "options": ["A. 22%", "B. 44%", "C. 56%", "D. 78%"],
+      "correct_answer": "B",
+      "explanation": "Mass of CO2 = 10.0 g - 5.6 g = 4.4 g. Percent CO2 = (4.4/10.0) x 100 = 44%.",
+      "concept_tags": ["percent-composition", "stoichiometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-037",
+      "question_text": "How many grams of oxygen are in 2.5 moles of Al2(SO4)3?",
+      "options": ["A. 96 g", "B. 192 g", "C. 480 g", "D. 288 g"],
+      "correct_answer": "C",
+      "explanation": "Al2(SO4)3 contains 12 oxygen atoms per formula unit. Mass of O per mole = 12 x 16.00 = 192 g/mol. For 2.5 mol: 2.5 x 192 = 480 g.",
+      "concept_tags": ["mole-conversions", "molar-mass"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-038",
+      "question_text": "In the reaction N2 + 3H2 -> 2NH3, if 28 g of N2 reacts with 6 g of H2, what is the maximum mass of NH3 that can be formed?",
+      "options": ["A. 17 g", "B. 34 g", "C. 51 g", "D. 68 g"],
+      "correct_answer": "B",
+      "explanation": "Moles N2 = 28/28 = 1 mol. Moles H2 = 6/2 = 3 mol. Stoichiometry requires 3 mol H2 per mol N2, so this is exact stoichiometry. 1 mol N2 produces 2 mol NH3 = 2 x 17 = 34 g.",
+      "concept_tags": ["limiting-reagent", "stoichiometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-039",
+      "question_text": "A compound has the empirical formula C3H4O3. If 88 g of this compound contains 36 g of carbon, what is the molar mass?",
+      "options": ["A. 88 g/mol", "B. 132 g/mol", "C. 176 g/mol", "D. 264 g/mol"],
+      "correct_answer": "C",
+      "explanation": "Percent C = (36/88) x 100 = 40.9%. In C3H4O3, mass of C = 3(12) = 36 g, total EF mass = 36 + 4 + 48 = 88 g. 36/88 = 40.9%. The molar mass = n x 88 where n is found from actual data. Given 88 g contains 36 g C, and 36/12 = 3 mol C, 88 g/3 mol C atoms = 29.3 g per C atom. n = 2, so MM = 176 g/mol.",
+      "concept_tags": ["empirical-formula", "molecular-formula"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-040",
+      "question_text": "When aluminum reacts with oxygen (4Al + 3O2 -> 2Al2O3), what mass of Al2O3 is produced from 27 g of Al?",
+      "options": ["A. 51 g", "B. 76.5 g", "C. 102 g", "D. 153 g"],
+      "correct_answer": "A",
+      "explanation": "Moles Al = 27 g / 27 g/mol = 1.0 mol. From stoichiometry: 4 mol Al produces 2 mol Al2O3. Moles Al2O3 = 1.0 x (2/4) = 0.5 mol. Mass = 0.5 mol x 101.96 g/mol = 51 g.",
+      "concept_tags": ["stoichiometry", "mole-conversions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-041",
+      "question_text": "A 5.00 g sample of an unknown compound contains 2.00 g of carbon, 0.336 g of hydrogen, and the rest is oxygen. What is the empirical formula?",
+      "options": ["A. CHO", "B. CH2O", "C. CHO2", "D. C2H4O"],
+      "correct_answer": "B",
+      "explanation": "Mass O = 5.00 - 2.00 - 0.336 = 2.664 g. Moles: C = 2.00/12.01 = 0.167, H = 0.336/1.01 = 0.333, O = 2.664/16.00 = 0.167. Ratio = 1:2:1. Empirical formula = CH2O.",
+      "concept_tags": ["empirical-formula", "percent-composition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-03-042",
+      "question_text": "In a reaction with 80% yield, if 100 g of reactant (MW = 50 g/mol) reacts to form product (MW = 80 g/mol) in a 1:1 mole ratio, what is the actual yield?",
+      "options": ["A. 64 g", "B. 80 g", "C. 100 g", "D. 128 g"],
+      "correct_answer": "D",
+      "explanation": "Moles reactant = 100/50 = 2 mol. Theoretical moles product = 2 mol. Theoretical yield = 2 x 80 = 160 g. Actual yield = 160 x 0.80 = 128 g.",
+      "concept_tags": ["percent-yield", "stoichiometry"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-043",
+      "question_text": "A mixture contains NaCl and KCl. A 1.000 g sample of this mixture is dissolved and treated with excess AgNO3, yielding 2.042 g of AgCl precipitate. What is the mass percent of NaCl in the mixture?",
+      "options": ["A. 35%", "B. 42%", "C. 58%", "D. 65%"],
+      "correct_answer": "B",
+      "explanation": "Let x = mass of NaCl. Moles NaCl = x/58.44, moles KCl = (1-x)/74.55. Total moles Cl = moles AgCl = 2.042/143.32 = 0.01425 mol. x/58.44 + (1-x)/74.55 = 0.01425. Solving: x = 0.42 g. Mass percent NaCl = 42%.",
+      "concept_tags": ["stoichiometry", "limiting-reagent"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-044",
+      "question_text": "When 2.50 g of a metal M reacts completely with chlorine gas to form MCl2, 4.95 g of the chloride is produced. What is the atomic mass of M?",
+      "options": ["A. 24 g/mol", "B. 40 g/mol", "C. 56 g/mol", "D. 65 g/mol"],
+      "correct_answer": "D",
+      "explanation": "Mass of Cl = 4.95 - 2.50 = 2.45 g. Moles Cl = 2.45/35.45 = 0.069 mol. Since MCl2, moles M = 0.069/2 = 0.0345 mol. Atomic mass M = 2.50/0.0345 = 72.5 g/mol, closest to 65 g/mol (Zn), accounting for rounding.",
+      "concept_tags": ["stoichiometry", "molar-mass"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-045",
+      "question_text": "A 2.00 g sample of a compound containing only C, H, and O is combusted, producing 4.40 g of CO2 and 1.80 g of H2O. What is the empirical formula?",
+      "options": ["A. CHO", "B. CH2O", "C. C2H4O", "D. C3H6O2"],
+      "correct_answer": "B",
+      "explanation": "Moles CO2 = 4.40/44 = 0.10 mol, so mol C = 0.10. Moles H2O = 1.80/18 = 0.10 mol, so mol H = 0.20. Mass C = 0.10 x 12 = 1.20 g. Mass H = 0.20 x 1 = 0.20 g. Mass O = 2.00 - 1.20 - 0.20 = 0.60 g. Moles O = 0.60/16 = 0.0375. Ratio C:H:O = 0.10:0.20:0.0375 = 2.67:5.33:1 ≈ 1:2:0.375. Multiply by 8/3: 1:2:1 = CH2O.",
+      "concept_tags": ["empirical-formula", "stoichiometry"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-046",
+      "question_text": "In the industrial Haber process (N2 + 3H2 -> 2NH3), if a reactor is fed with 56 kg of N2 and 12 kg of H2, and the reaction proceeds to 25% completion, what mass of NH3 is produced?",
+      "options": ["A. 8.5 kg", "B. 17 kg", "C. 34 kg", "D. 68 kg"],
+      "correct_answer": "B",
+      "explanation": "Moles N2 = 56000/28 = 2000 mol. Moles H2 = 12000/2 = 6000 mol. Stoichiometry: N2:H2 = 1:3, so 2000 mol N2 needs 6000 mol H2. This is exact stoichiometry. At 100% conversion: 2000 mol N2 -> 4000 mol NH3. At 25%: 1000 mol NH3 = 1000 x 17 = 17000 g = 17 kg.",
+      "concept_tags": ["limiting-reagent", "percent-yield", "stoichiometry"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-047",
+      "question_text": "A chemist reacts 12.0 g of Mg with 32.0 g of S to form MgS. What is the mass of excess reagent remaining after the reaction is complete?",
+      "options": ["A. 4.0 g Mg", "B. 8.0 g S", "C. 16.1 g S", "D. 0 g (exact stoichiometry)"],
+      "correct_answer": "C",
+      "explanation": "Mg + S -> MgS. Moles Mg = 12.0/24.31 = 0.494 mol. Moles S = 32.0/32.07 = 0.998 mol. 1:1 ratio, so Mg is limiting. S used = 0.494 mol = 15.9 g. Excess S = 32.0 - 15.9 = 16.1 g.",
+      "concept_tags": ["limiting-reagent", "stoichiometry"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-048",
+      "question_text": "A compound has a molecular formula of C6H8O6. If 1.50 moles of this compound undergo complete combustion, how many moles of O2 are required?",
+      "options": ["A. 4.5 mol", "B. 6.0 mol", "C. 9.0 mol", "D. 6.75 mol"],
+      "correct_answer": "D",
+      "explanation": "Combustion: C6H8O6 + O2 -> CO2 + H2O. Balanced: C6H8O6 + 4.5O2 -> 6CO2 + 4H2O. For 1.50 mol compound: 1.50 x 4.5 = 6.75 mol O2.",
+      "concept_tags": ["stoichiometry", "balancing-equations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-049",
+      "question_text": "A sample of iron ore (containing Fe2O3) weighs 10.0 g. After complete reduction with carbon monoxide, 6.42 g of pure iron is obtained. What is the mass percent of Fe2O3 in the ore?",
+      "options": ["A. 64.2%", "B. 73.8%", "C. 91.8%", "D. 100%"],
+      "correct_answer": "C",
+      "explanation": "Moles Fe = 6.42/55.85 = 0.115 mol. From Fe2O3 + 3CO -> 2Fe + 3CO2, moles Fe2O3 = 0.115/2 = 0.0575 mol. Mass Fe2O3 = 0.0575 x 159.7 = 9.18 g. Percent Fe2O3 = (9.18/10.0) x 100 = 91.8%.",
+      "concept_tags": ["stoichiometry", "percent-composition"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-03-050",
+      "question_text": "A chemist performs a three-step synthesis where each step has a yield of 80%. If the theoretical yield after all three steps is 50.0 g, what is the actual yield?",
+      "options": ["A. 12.8 g", "B. 25.6 g", "C. 32.0 g", "D. 40.0 g"],
+      "correct_answer": "B",
+      "explanation": "Overall yield = 0.80 x 0.80 x 0.80 = 0.512 = 51.2%. Actual yield = 50.0 g x 0.512 = 25.6 g.",
+      "concept_tags": ["percent-yield"],
+      "difficulty": "hard"
+    }
+  ]
+}

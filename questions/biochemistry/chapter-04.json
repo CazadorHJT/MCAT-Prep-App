@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 4,
+  "chapter_title": "Lipids",
+  "questions": [
+    {
+      "id": "biochemistry-04-001",
+      "question_text": "Which of the following best describes a saturated fatty acid?",
+      "options": [
+        "A. Contains one carbon-carbon double bond",
+        "B. Contains no carbon-carbon double bonds",
+        "C. Contains multiple carbon-carbon double bonds",
+        "D. Contains a carboxyl group at each end"
+      ],
+      "correct_answer": "B",
+      "explanation": "A saturated fatty acid contains no carbon-carbon double bonds in its hydrocarbon chain. The term 'saturated' refers to the fact that each carbon is bonded to the maximum number of hydrogen atoms possible. Unsaturated fatty acids contain one (monounsaturated) or more (polyunsaturated) double bonds. All fatty acids have only one carboxyl group at one end.",
+      "concept_tags": ["fatty-acids", "saturated-fatty-acids", "lipid-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-002",
+      "question_text": "What effect do double bonds in unsaturated fatty acids have on their physical properties?",
+      "options": [
+        "A. They increase the melting point by allowing tighter packing",
+        "B. They decrease the melting point by introducing kinks in the chain",
+        "C. They have no effect on melting point",
+        "D. They increase solubility in water"
+      ],
+      "correct_answer": "B",
+      "explanation": "Double bonds in unsaturated fatty acids create kinks or bends in the hydrocarbon chain, preventing the molecules from packing tightly together. This reduced packing leads to weaker van der Waals forces between molecules, resulting in a lower melting point. This is why unsaturated fats (like olive oil) are liquid at room temperature while saturated fats (like butter) are solid.",
+      "concept_tags": ["fatty-acids", "unsaturated-fatty-acids", "melting-point"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-003",
+      "question_text": "Triacylglycerols are composed of:",
+      "options": [
+        "A. Three fatty acids and one glycerol molecule",
+        "B. Three glycerol molecules and one fatty acid",
+        "C. Two fatty acids and one phosphate group",
+        "D. One fatty acid and one cholesterol molecule"
+      ],
+      "correct_answer": "A",
+      "explanation": "Triacylglycerols (also called triglycerides) consist of one glycerol molecule esterified to three fatty acid chains. Each of the three hydroxyl groups on glycerol forms an ester bond with the carboxyl group of a fatty acid. This structure makes triacylglycerols highly hydrophobic and efficient for energy storage.",
+      "concept_tags": ["triacylglycerols", "triglycerides", "lipid-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-004",
+      "question_text": "Which type of bond links fatty acids to glycerol in a triacylglycerol?",
+      "options": [
+        "A. Peptide bond",
+        "B. Glycosidic bond",
+        "C. Ester bond",
+        "D. Phosphodiester bond"
+      ],
+      "correct_answer": "C",
+      "explanation": "Fatty acids are linked to glycerol through ester bonds, formed by a condensation reaction between the carboxyl group of the fatty acid and a hydroxyl group of glycerol, releasing water. Peptide bonds link amino acids in proteins. Glycosidic bonds link sugars in carbohydrates. Phosphodiester bonds link nucleotides in nucleic acids.",
+      "concept_tags": ["triacylglycerols", "ester-bonds", "lipid-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-005",
+      "question_text": "The primary biological function of triacylglycerols is:",
+      "options": [
+        "A. Structural component of cell membranes",
+        "B. Long-term energy storage",
+        "C. Cell signaling",
+        "D. DNA synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Triacylglycerols serve as the primary form of long-term energy storage in animals, stored in adipose tissue. They provide more energy per gram than carbohydrates or proteins (about 9 kcal/g vs 4 kcal/g) because they are more reduced and anhydrous. Phospholipids and cholesterol serve structural roles in membranes, while other lipids like eicosanoids function in cell signaling.",
+      "concept_tags": ["triacylglycerols", "energy-storage", "metabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-006",
+      "question_text": "Phospholipids differ from triacylglycerols in that phospholipids:",
+      "options": [
+        "A. Have four fatty acid chains",
+        "B. Have two fatty acid chains and a phosphate-containing head group",
+        "C. Contain no glycerol",
+        "D. Are completely hydrophobic"
+      ],
+      "correct_answer": "B",
+      "explanation": "Phospholipids have two fatty acid chains esterified to glycerol (positions 1 and 2), while position 3 is occupied by a phosphate group often linked to an additional polar molecule (such as choline, serine, or ethanolamine). This structure makes phospholipids amphipathic, with a hydrophobic tail region and a hydrophilic head group, unlike the completely hydrophobic triacylglycerols.",
+      "concept_tags": ["phospholipids", "membrane-structure", "amphipathic"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-007",
+      "question_text": "Which property of phospholipids is most important for their role in cell membrane structure?",
+      "options": [
+        "A. They are completely hydrophobic",
+        "B. They are completely hydrophilic",
+        "C. They are amphipathic",
+        "D. They have a net negative charge"
+      ],
+      "correct_answer": "C",
+      "explanation": "Phospholipids are amphipathic, meaning they have both hydrophobic (fatty acid tails) and hydrophilic (phosphate head group) regions. This property allows them to spontaneously form bilayers in aqueous environments, with the hydrophobic tails facing inward and hydrophilic heads facing outward toward the water. This arrangement is the foundation of all biological membranes.",
+      "concept_tags": ["phospholipids", "membrane-structure", "amphipathic"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-008",
+      "question_text": "Cholesterol is classified as a:",
+      "options": [
+        "A. Fatty acid",
+        "B. Phospholipid",
+        "C. Steroid",
+        "D. Sphingolipid"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cholesterol is a steroid, characterized by its four fused ring structure (three six-membered rings and one five-membered ring). This rigid ring structure distinguishes steroids from fatty acids and phospholipids. Cholesterol is the precursor for all steroid hormones and is an important component of animal cell membranes.",
+      "concept_tags": ["cholesterol", "steroids", "lipid-classification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-009",
+      "question_text": "In the fluid mosaic model of membrane structure, proteins:",
+      "options": [
+        "A. Are fixed in position within the membrane",
+        "B. Can move laterally within the lipid bilayer",
+        "C. Are found only on the outer surface",
+        "D. Are completely absent from the membrane"
+      ],
+      "correct_answer": "B",
+      "explanation": "According to the fluid mosaic model proposed by Singer and Nicolson, membrane proteins can move laterally within the lipid bilayer, giving the membrane its fluid nature. Proteins can be peripheral (attached to surface) or integral (spanning the membrane). The 'mosaic' refers to the diverse array of proteins embedded in the phospholipid bilayer.",
+      "concept_tags": ["membrane-structure", "fluid-mosaic-model", "membrane-proteins"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-010",
+      "question_text": "Which lipoprotein has the highest protein content relative to lipid content?",
+      "options": [
+        "A. Chylomicrons",
+        "B. VLDL",
+        "C. LDL",
+        "D. HDL"
+      ],
+      "correct_answer": "D",
+      "explanation": "HDL (high-density lipoprotein) has the highest protein-to-lipid ratio, which accounts for its high density. The protein content of lipoproteins increases in the order: chylomicrons < VLDL < LDL < HDL. HDL contains approximately 50% protein, while chylomicrons contain only about 2% protein.",
+      "concept_tags": ["lipoproteins", "hdl", "lipoprotein-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-011",
+      "question_text": "The 'bad cholesterol' that is associated with increased cardiovascular disease risk is carried by:",
+      "options": [
+        "A. HDL",
+        "B. LDL",
+        "C. Chylomicrons",
+        "D. Albumin"
+      ],
+      "correct_answer": "B",
+      "explanation": "LDL (low-density lipoprotein) is often called 'bad cholesterol' because elevated LDL levels are associated with increased risk of atherosclerosis and cardiovascular disease. LDL delivers cholesterol to peripheral tissues and can deposit cholesterol in arterial walls. HDL is called 'good cholesterol' because it removes cholesterol from tissues and returns it to the liver.",
+      "concept_tags": ["lipoproteins", "ldl", "cardiovascular-disease"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-012",
+      "question_text": "The enzyme responsible for the initial hydrolysis of dietary triacylglycerols in the small intestine is:",
+      "options": [
+        "A. Pepsin",
+        "B. Pancreatic lipase",
+        "C. Amylase",
+        "D. Trypsin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pancreatic lipase is the primary enzyme responsible for hydrolyzing dietary triacylglycerols in the small intestine. It cleaves fatty acids from the 1 and 3 positions of triacylglycerols, producing 2-monoacylglycerol and free fatty acids. Pepsin and trypsin digest proteins, while amylase digests carbohydrates.",
+      "concept_tags": ["lipid-digestion", "pancreatic-lipase", "enzymes"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-013",
+      "question_text": "Bile salts aid in lipid digestion by:",
+      "options": [
+        "A. Directly hydrolyzing triacylglycerols",
+        "B. Emulsifying large fat globules into smaller droplets",
+        "C. Transporting lipids into the bloodstream",
+        "D. Synthesizing new fatty acids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Bile salts are amphipathic molecules that emulsify large fat globules into smaller droplets, greatly increasing the surface area available for pancreatic lipase to act upon. Bile salts do not have enzymatic activity themselves but are essential for efficient lipid digestion. They are synthesized in the liver from cholesterol and stored in the gallbladder.",
+      "concept_tags": ["bile-salts", "lipid-digestion", "emulsification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-04-014",
+      "question_text": "Which of the following is the correct order of lipoproteins from largest to smallest?",
+      "options": [
+        "A. HDL > LDL > VLDL > Chylomicrons",
+        "B. Chylomicrons > VLDL > LDL > HDL",
+        "C. LDL > HDL > VLDL > Chylomicrons",
+        "D. VLDL > Chylomicrons > HDL > LDL"
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct order from largest to smallest is: Chylomicrons > VLDL > LDL > HDL. Chylomicrons are the largest and least dense (most lipid-rich), while HDL are the smallest and most dense (most protein-rich). This inverse relationship between size and density reflects the varying lipid-to-protein ratios.",
+      "concept_tags": ["lipoproteins", "lipoprotein-structure", "particle-size"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-015",
+      "question_text": "A cis double bond in a fatty acid chain causes:",
+      "options": [
+        "A. A straight chain configuration",
+        "B. A bend or kink in the chain",
+        "C. Formation of a cyclic structure",
+        "D. Increased saturation"
+      ],
+      "correct_answer": "B",
+      "explanation": "A cis double bond creates a bend or kink of approximately 30 degrees in the fatty acid chain because the hydrogen atoms are on the same side of the double bond. This is in contrast to trans double bonds, which allow a more extended, straight chain conformation. Most naturally occurring unsaturated fatty acids have cis double bonds.",
+      "concept_tags": ["fatty-acids", "unsaturated-fatty-acids", "cis-trans-isomers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-016",
+      "question_text": "Oleic acid (18:1) is an omega-9 fatty acid. This designation indicates that the double bond is located:",
+      "options": [
+        "A. 9 carbons from the carboxyl end",
+        "B. 9 carbons from the methyl end",
+        "C. At the 9th carbon from either end",
+        "D. Between the 9th and 10th carbons from the carboxyl end"
+      ],
+      "correct_answer": "B",
+      "explanation": "The omega (or n-) nomenclature counts carbons from the methyl (omega) end of the fatty acid. An omega-9 fatty acid has its first double bond 9 carbons from the methyl end. This is different from the delta (Δ) nomenclature, which counts from the carboxyl end. Oleic acid (18:1Δ9 or 18:1ω-9) has its double bond between carbons 9 and 10 from the carboxyl end.",
+      "concept_tags": ["fatty-acids", "omega-fatty-acids", "nomenclature"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-017",
+      "question_text": "Essential fatty acids must be obtained from the diet because humans lack:",
+      "options": [
+        "A. The ability to synthesize any fatty acids",
+        "B. Enzymes to introduce double bonds beyond carbon 9 from the carboxyl end",
+        "C. Enzymes to elongate fatty acid chains",
+        "D. The ability to digest fatty acids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Humans can synthesize saturated fatty acids and can introduce double bonds at positions Δ4, Δ5, Δ6, and Δ9, but lack desaturases that can introduce double bonds beyond carbon 9 from the carboxyl end. Therefore, linoleic acid (18:2, ω-6) and α-linolenic acid (18:3, ω-3) are essential and must be obtained from the diet.",
+      "concept_tags": ["essential-fatty-acids", "fatty-acid-synthesis", "desaturases"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-018",
+      "question_text": "Which of the following fatty acids is polyunsaturated?",
+      "options": [
+        "A. Stearic acid (18:0)",
+        "B. Oleic acid (18:1)",
+        "C. Linoleic acid (18:2)",
+        "D. Palmitic acid (16:0)"
+      ],
+      "correct_answer": "C",
+      "explanation": "Linoleic acid (18:2) is polyunsaturated because it contains two double bonds, as indicated by the '2' in its shorthand notation. Stearic acid (18:0) and palmitic acid (16:0) are saturated (no double bonds). Oleic acid (18:1) is monounsaturated (one double bond). Polyunsaturated means two or more double bonds.",
+      "concept_tags": ["fatty-acids", "polyunsaturated-fatty-acids", "lipid-classification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-019",
+      "question_text": "Phosphatidylcholine differs from phosphatidylserine in the:",
+      "options": [
+        "A. Number of fatty acid chains",
+        "B. Presence or absence of glycerol",
+        "C. Identity of the head group attached to phosphate",
+        "D. Position of the phosphate group"
+      ],
+      "correct_answer": "C",
+      "explanation": "Phosphatidylcholine and phosphatidylserine are both glycerophospholipids with two fatty acid chains and a phosphate group at position 3 of glycerol. They differ in the alcohol attached to the phosphate group: choline in phosphatidylcholine and serine in phosphatidylserine. These different head groups confer different properties and functions.",
+      "concept_tags": ["phospholipids", "phosphatidylcholine", "phosphatidylserine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-020",
+      "question_text": "Membrane fluidity is increased by:",
+      "options": [
+        "A. Higher cholesterol content at low temperatures",
+        "B. More saturated fatty acids in phospholipids",
+        "C. More unsaturated fatty acids in phospholipids",
+        "D. Lower temperatures"
+      ],
+      "correct_answer": "C",
+      "explanation": "Membrane fluidity is increased by unsaturated fatty acids because their kinked chains prevent tight packing of phospholipids. Saturated fatty acids pack tightly, decreasing fluidity. Cholesterol has a complex effect: it decreases fluidity at high temperatures but increases it at low temperatures by preventing crystallization. Lower temperatures decrease fluidity.",
+      "concept_tags": ["membrane-fluidity", "phospholipids", "unsaturated-fatty-acids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-021",
+      "question_text": "The role of cholesterol in cell membranes includes:",
+      "options": [
+        "A. Only decreasing membrane fluidity",
+        "B. Only increasing membrane fluidity",
+        "C. Maintaining membrane fluidity across temperature ranges",
+        "D. Providing energy for membrane transport"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cholesterol acts as a 'fluidity buffer' in cell membranes. At high temperatures, it decreases fluidity by restricting phospholipid movement. At low temperatures, it increases fluidity by preventing tight packing and crystallization of the membrane. This dual role helps maintain optimal membrane fluidity across physiological temperature ranges.",
+      "concept_tags": ["cholesterol", "membrane-fluidity", "membrane-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-022",
+      "question_text": "Cholesterol serves as a precursor for the synthesis of all of the following EXCEPT:",
+      "options": [
+        "A. Bile salts",
+        "B. Vitamin D",
+        "C. Steroid hormones",
+        "D. Prostaglandins"
+      ],
+      "correct_answer": "D",
+      "explanation": "Prostaglandins are not derived from cholesterol; they are synthesized from arachidonic acid (a 20-carbon polyunsaturated fatty acid) via the cyclooxygenase pathway. Cholesterol is the precursor for bile salts, vitamin D (synthesized in skin upon UV exposure), and all steroid hormones including cortisol, aldosterone, testosterone, estrogen, and progesterone.",
+      "concept_tags": ["cholesterol", "steroid-synthesis", "prostaglandins"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-023",
+      "question_text": "Sphingolipids differ from glycerophospholipids in that their backbone is:",
+      "options": [
+        "A. Glycerol",
+        "B. Sphingosine",
+        "C. Cholesterol",
+        "D. Phosphate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sphingolipids are built on a sphingosine backbone (an 18-carbon amino alcohol), not glycerol. The amino group of sphingosine is linked to a fatty acid via an amide bond to form ceramide, the precursor of all sphingolipids. Glycerophospholipids use glycerol as their backbone. This structural difference affects their properties and functions.",
+      "concept_tags": ["sphingolipids", "sphingosine", "lipid-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-024",
+      "question_text": "Sphingomyelin is particularly abundant in:",
+      "options": [
+        "A. Adipose tissue",
+        "B. Myelin sheaths of nerve cells",
+        "C. Liver cells",
+        "D. Red blood cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Sphingomyelin is a major component of myelin sheaths, the insulating layer around nerve axons that enables rapid saltatory conduction of nerve impulses. The name 'sphingomyelin' reflects this association. Sphingomyelin is a sphingolipid with a phosphocholine head group, making it structurally similar to phosphatidylcholine.",
+      "concept_tags": ["sphingolipids", "sphingomyelin", "myelin"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-025",
+      "question_text": "Prostaglandins are synthesized from which fatty acid?",
+      "options": [
+        "A. Palmitic acid",
+        "B. Oleic acid",
+        "C. Arachidonic acid",
+        "D. Stearic acid"
+      ],
+      "correct_answer": "C",
+      "explanation": "Prostaglandins and other eicosanoids are synthesized from arachidonic acid (20:4), a 20-carbon polyunsaturated fatty acid with four double bonds. Arachidonic acid is released from membrane phospholipids by phospholipase A2 and then converted to prostaglandins by cyclooxygenase (COX) enzymes. The other fatty acids listed are not precursors for eicosanoid synthesis.",
+      "concept_tags": ["prostaglandins", "arachidonic-acid", "eicosanoids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-026",
+      "question_text": "Aspirin inhibits prostaglandin synthesis by:",
+      "options": [
+        "A. Blocking phospholipase A2",
+        "B. Irreversibly inhibiting cyclooxygenase (COX)",
+        "C. Blocking lipoxygenase",
+        "D. Inhibiting arachidonic acid synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Aspirin irreversibly inhibits cyclooxygenase (COX) enzymes by acetylating a serine residue in the active site. This prevents the conversion of arachidonic acid to prostaglandins and thromboxanes. This irreversible inhibition is why aspirin's effects last for the lifetime of the affected cells (particularly important for platelets, which cannot synthesize new proteins).",
+      "concept_tags": ["prostaglandins", "aspirin", "cyclooxygenase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-027",
+      "question_text": "Chylomicrons are synthesized in the:",
+      "options": [
+        "A. Liver",
+        "B. Adipose tissue",
+        "C. Intestinal epithelial cells",
+        "D. Skeletal muscle"
+      ],
+      "correct_answer": "C",
+      "explanation": "Chylomicrons are assembled in intestinal epithelial cells (enterocytes) from dietary lipids absorbed after a meal. They transport dietary triacylglycerols and cholesterol from the intestine to peripheral tissues via the lymphatic system and bloodstream. VLDL, in contrast, is synthesized in the liver to transport endogenously made lipids.",
+      "concept_tags": ["chylomicrons", "lipid-digestion", "lipoproteins"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-028",
+      "question_text": "The enzyme lipoprotein lipase functions to:",
+      "options": [
+        "A. Synthesize triacylglycerols in the liver",
+        "B. Hydrolyze triacylglycerols in circulating lipoproteins",
+        "C. Transport cholesterol into cells",
+        "D. Convert LDL to HDL"
+      ],
+      "correct_answer": "B",
+      "explanation": "Lipoprotein lipase (LPL) is found on the endothelial surface of capillaries in adipose tissue, muscle, and other tissues. It hydrolyzes triacylglycerols in circulating lipoproteins (chylomicrons and VLDL), releasing fatty acids that can be taken up by adjacent tissues for energy or storage. This process converts VLDL to IDL and eventually LDL.",
+      "concept_tags": ["lipoprotein-lipase", "lipoproteins", "triacylglycerol-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-029",
+      "question_text": "VLDL is converted to LDL through the action of:",
+      "options": [
+        "A. Pancreatic lipase",
+        "B. Hormone-sensitive lipase",
+        "C. Lipoprotein lipase",
+        "D. Lecithin-cholesterol acyltransferase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Lipoprotein lipase in peripheral tissues hydrolyzes triacylglycerols in VLDL, progressively removing lipid content and converting VLDL to intermediate-density lipoprotein (IDL) and then to LDL. During this process, the particle becomes smaller and relatively enriched in cholesterol. Pancreatic lipase digests dietary fats, while hormone-sensitive lipase mobilizes stored fat in adipocytes.",
+      "concept_tags": ["vldl", "ldl", "lipoprotein-lipase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-030",
+      "question_text": "HDL functions in reverse cholesterol transport by:",
+      "options": [
+        "A. Delivering cholesterol to peripheral tissues",
+        "B. Collecting cholesterol from peripheral tissues and returning it to the liver",
+        "C. Converting cholesterol to bile salts in the blood",
+        "D. Storing excess cholesterol in adipose tissue"
+      ],
+      "correct_answer": "B",
+      "explanation": "HDL performs reverse cholesterol transport by collecting excess cholesterol from peripheral tissues and transporting it back to the liver for excretion in bile or recycling. This process is mediated by LCAT (lecithin-cholesterol acyltransferase), which esterifies cholesterol in HDL particles. This protective function is why HDL is called 'good cholesterol.'",
+      "concept_tags": ["hdl", "reverse-cholesterol-transport", "lipoproteins"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-031",
+      "question_text": "Which apolipoprotein is required for the binding of LDL to its receptor?",
+      "options": [
+        "A. ApoA-I",
+        "B. ApoB-100",
+        "C. ApoC-II",
+        "D. ApoE"
+      ],
+      "correct_answer": "B",
+      "explanation": "ApoB-100 is the primary apolipoprotein on LDL particles and is required for recognition and binding by the LDL receptor on cell surfaces. ApoA-I is the major apolipoprotein of HDL. ApoC-II is an activator of lipoprotein lipase. ApoE serves as a ligand for remnant receptors and is involved in clearing chylomicron and VLDL remnants.",
+      "concept_tags": ["apolipoproteins", "ldl-receptor", "lipoproteins"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-032",
+      "question_text": "Micelles formed during lipid digestion contain:",
+      "options": [
+        "A. Only triacylglycerols",
+        "B. Bile salts, fatty acids, monoacylglycerols, and cholesterol",
+        "C. Only phospholipids",
+        "D. Chylomicrons"
+      ],
+      "correct_answer": "B",
+      "explanation": "Micelles are mixed aggregates containing bile salts, fatty acids, 2-monoacylglycerols, cholesterol, and fat-soluble vitamins. The amphipathic bile salts form the outer shell, with their hydrophobic portions facing inward toward the lipid contents. Micelles transport lipid digestion products to the intestinal epithelium for absorption. Chylomicrons are formed inside enterocytes after absorption.",
+      "concept_tags": ["micelles", "lipid-digestion", "bile-salts"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-033",
+      "question_text": "Colipase is required for lipid digestion because it:",
+      "options": [
+        "A. Directly hydrolyzes triacylglycerols",
+        "B. Anchors pancreatic lipase to the lipid-water interface",
+        "C. Emulsifies fat globules",
+        "D. Transports lipids into enterocytes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Colipase is a small protein secreted by the pancreas that anchors pancreatic lipase to the lipid-water interface in the presence of bile salts. Without colipase, bile salts would displace lipase from the interface, preventing efficient hydrolysis. Colipase itself has no enzymatic activity but is essential for lipase function in the intestinal environment.",
+      "concept_tags": ["colipase", "pancreatic-lipase", "lipid-digestion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-034",
+      "question_text": "After absorption into intestinal epithelial cells, long-chain fatty acids are:",
+      "options": [
+        "A. Directly released into the portal vein",
+        "B. Re-esterified into triacylglycerols and packaged into chylomicrons",
+        "C. Converted to ketone bodies",
+        "D. Stored permanently in the intestinal cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "Long-chain fatty acids absorbed by enterocytes are re-esterified to triacylglycerols in the smooth endoplasmic reticulum. These triacylglycerols are then packaged with cholesterol, phospholipids, and apolipoproteins into chylomicrons, which are secreted into the lymphatic system. Short- and medium-chain fatty acids can enter the portal circulation directly.",
+      "concept_tags": ["lipid-absorption", "chylomicrons", "triacylglycerol-synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-035",
+      "question_text": "Cerebrosides are sphingolipids that contain:",
+      "options": [
+        "A. A phosphocholine head group",
+        "B. A single sugar residue",
+        "C. Sialic acid residues",
+        "D. A sulfate group"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cerebrosides are glycosphingolipids containing a single sugar residue (usually glucose or galactose) attached to ceramide. They are abundant in brain tissue (hence the name). Sphingomyelin contains phosphocholine. Gangliosides contain sialic acid (N-acetylneuraminic acid). Sulfatides are cerebrosides with an added sulfate group.",
+      "concept_tags": ["sphingolipids", "cerebrosides", "glycosphingolipids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-036",
+      "question_text": "Gangliosides differ from cerebrosides in that they contain:",
+      "options": [
+        "A. Phosphate groups",
+        "B. Multiple sugar residues including sialic acid",
+        "C. A glycerol backbone",
+        "D. Saturated fatty acids only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gangliosides are complex glycosphingolipids containing oligosaccharide chains with one or more sialic acid (N-acetylneuraminic acid) residues. The nomenclature GM1, GM2, etc., reflects the number and position of sialic acids. Gangliosides are important components of neuronal membranes and serve as receptors for certain toxins and hormones.",
+      "concept_tags": ["gangliosides", "sphingolipids", "sialic-acid"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-037",
+      "question_text": "Trans fatty acids increase cardiovascular disease risk because they:",
+      "options": [
+        "A. Are rapidly metabolized to toxic products",
+        "B. Raise LDL cholesterol and lower HDL cholesterol",
+        "C. Cannot be absorbed by the intestine",
+        "D. Directly damage the heart muscle"
+      ],
+      "correct_answer": "B",
+      "explanation": "Trans fatty acids, primarily from partially hydrogenated vegetable oils, increase cardiovascular disease risk by raising LDL ('bad') cholesterol levels while lowering HDL ('good') cholesterol levels. This unfavorable lipid profile promotes atherosclerosis. Trans fats also increase inflammation and have other detrimental metabolic effects.",
+      "concept_tags": ["trans-fatty-acids", "cardiovascular-disease", "ldl-hdl"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-038",
+      "question_text": "The enzyme phospholipase A2 cleaves phospholipids at which position?",
+      "options": [
+        "A. The sn-1 position, releasing the fatty acid",
+        "B. The sn-2 position, releasing the fatty acid",
+        "C. The phosphate-glycerol bond",
+        "D. The head group from phosphate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Phospholipase A2 specifically cleaves the ester bond at the sn-2 position of glycerophospholipids, releasing the fatty acid at that position (often arachidonic acid) and producing lysophospholipid. This is significant because it releases arachidonic acid for eicosanoid synthesis. Phospholipase A1 cleaves at sn-1, while phospholipases C and D cleave at the phosphate linkages.",
+      "concept_tags": ["phospholipase-a2", "phospholipids", "arachidonic-acid"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-039",
+      "question_text": "Which eicosanoid promotes platelet aggregation and vasoconstriction?",
+      "options": [
+        "A. Prostacyclin (PGI2)",
+        "B. Thromboxane A2 (TXA2)",
+        "C. Prostaglandin E2 (PGE2)",
+        "D. Leukotriene B4 (LTB4)"
+      ],
+      "correct_answer": "B",
+      "explanation": "Thromboxane A2 (TXA2), produced by platelets, promotes platelet aggregation and vasoconstriction, which are important for blood clotting. Prostacyclin (PGI2), produced by endothelial cells, has the opposite effects: it inhibits platelet aggregation and promotes vasodilation. This balance between TXA2 and PGI2 is important for vascular homeostasis.",
+      "concept_tags": ["thromboxane", "eicosanoids", "platelet-aggregation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-040",
+      "question_text": "The rate-limiting enzyme in cholesterol synthesis is:",
+      "options": [
+        "A. Thiolase",
+        "B. HMG-CoA synthase",
+        "C. HMG-CoA reductase",
+        "D. Squalene synthase"
+      ],
+      "correct_answer": "C",
+      "explanation": "HMG-CoA reductase catalyzes the conversion of HMG-CoA to mevalonate, which is the rate-limiting step in cholesterol biosynthesis. This enzyme is the target of statin drugs, which are widely used to lower blood cholesterol levels. HMG-CoA reductase is tightly regulated by cholesterol levels through transcriptional, translational, and post-translational mechanisms.",
+      "concept_tags": ["cholesterol-synthesis", "hmg-coa-reductase", "statins"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-04-041",
+      "question_text": "A patient with familial hypercholesterolemia has elevated LDL levels due to a defect in:",
+      "options": [
+        "A. Lipoprotein lipase",
+        "B. LDL receptors",
+        "C. HMG-CoA reductase",
+        "D. Apolipoprotein A-I"
+      ],
+      "correct_answer": "B",
+      "explanation": "Familial hypercholesterolemia is caused by mutations in the LDL receptor gene, resulting in reduced uptake of LDL from the blood. Without functional receptors, LDL accumulates in the bloodstream, leading to premature atherosclerosis and cardiovascular disease. Patients may have LDL levels 2-3 times normal (heterozygotes) or 6-8 times normal (homozygotes).",
+      "concept_tags": ["familial-hypercholesterolemia", "ldl-receptor", "genetic-disorders"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-042",
+      "question_text": "In a membrane with 50% cholesterol content compared to one with 20% cholesterol, you would expect at 37°C:",
+      "options": [
+        "A. Higher membrane fluidity",
+        "B. Lower membrane fluidity",
+        "C. No change in membrane fluidity",
+        "D. Complete membrane rigidity"
+      ],
+      "correct_answer": "B",
+      "explanation": "At physiological temperature (37°C), higher cholesterol content decreases membrane fluidity. The rigid steroid ring of cholesterol intercalates between phospholipid fatty acid chains, restricting their movement and ordering the membrane. However, at low temperatures, cholesterol prevents crystallization and increases fluidity. The effect is temperature-dependent.",
+      "concept_tags": ["cholesterol", "membrane-fluidity", "membrane-structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-043",
+      "question_text": "A researcher studying membrane asymmetry finds that phosphatidylserine is predominantly located in the inner leaflet. Exposure of phosphatidylserine on the outer leaflet would signal:",
+      "options": [
+        "A. Cell division",
+        "B. Cell growth",
+        "C. Apoptosis",
+        "D. Increased metabolic activity"
+      ],
+      "correct_answer": "C",
+      "explanation": "Phosphatidylserine is normally confined to the inner leaflet of the plasma membrane by ATP-dependent flippases. During apoptosis, this asymmetry is lost and phosphatidylserine becomes exposed on the outer surface, serving as an 'eat me' signal for phagocytes. This is a key recognition mechanism for the clearance of apoptotic cells.",
+      "concept_tags": ["phosphatidylserine", "membrane-asymmetry", "apoptosis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-044",
+      "question_text": "A newborn presents with hepatomegaly, neurological deterioration, and accumulation of very long-chain fatty acids. The most likely diagnosis involves a defect in:",
+      "options": [
+        "A. Mitochondrial β-oxidation",
+        "B. Peroxisomal function",
+        "C. Glycogen metabolism",
+        "D. Lysosomal acid lipase"
+      ],
+      "correct_answer": "B",
+      "explanation": "This presentation is consistent with a peroxisomal disorder such as Zellweger syndrome or X-linked adrenoleukodystrophy. Peroxisomes are required for the β-oxidation of very long-chain fatty acids (>22 carbons), which cannot be processed by mitochondria. Accumulation of these fatty acids causes the described symptoms. Mitochondria oxidize shorter chain fatty acids.",
+      "concept_tags": ["peroxisomes", "beta-oxidation", "very-long-chain-fatty-acids"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-045",
+      "question_text": "Tay-Sachs disease results from a deficiency of hexosaminidase A, leading to accumulation of:",
+      "options": [
+        "A. Sphingomyelin",
+        "B. GM2 ganglioside",
+        "C. Glucocerebroside",
+        "D. Ceramide"
+      ],
+      "correct_answer": "B",
+      "explanation": "Tay-Sachs disease is a lysosomal storage disorder caused by deficiency of hexosaminidase A, which normally cleaves N-acetylgalactosamine from GM2 ganglioside. Without this enzyme, GM2 ganglioside accumulates in neurons, causing progressive neurodegeneration. Sphingomyelin accumulates in Niemann-Pick disease, and glucocerebroside accumulates in Gaucher disease.",
+      "concept_tags": ["tay-sachs-disease", "gangliosides", "lysosomal-storage-disorders"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-046",
+      "question_text": "During prolonged fasting, the liver synthesizes ketone bodies from acetyl-CoA derived from fatty acid oxidation. Which of the following is NOT a ketone body?",
+      "options": [
+        "A. Acetoacetate",
+        "B. β-hydroxybutyrate",
+        "C. Acetone",
+        "D. Acetyl-CoA"
+      ],
+      "correct_answer": "D",
+      "explanation": "Acetyl-CoA is the precursor for ketone body synthesis but is not itself a ketone body. The three ketone bodies are acetoacetate, β-hydroxybutyrate (technically not a ketone chemically, but classified as a ketone body), and acetone (a minor product formed by non-enzymatic decarboxylation of acetoacetate). Ketone bodies provide fuel for the brain and muscle during fasting.",
+      "concept_tags": ["ketone-bodies", "fasting-metabolism", "fatty-acid-oxidation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-047",
+      "question_text": "Leukotrienes differ from prostaglandins in that leukotrienes:",
+      "options": [
+        "A. Are derived from cholesterol",
+        "B. Are synthesized via the lipoxygenase pathway",
+        "C. Are synthesized via the cyclooxygenase pathway",
+        "D. Contain a cyclopentane ring"
+      ],
+      "correct_answer": "B",
+      "explanation": "Both prostaglandins and leukotrienes are eicosanoids derived from arachidonic acid, but they use different enzymatic pathways. Leukotrienes are synthesized via the lipoxygenase pathway and are linear molecules important in inflammation and allergic responses. Prostaglandins are synthesized via the cyclooxygenase (COX) pathway and contain a cyclopentane ring.",
+      "concept_tags": ["leukotrienes", "lipoxygenase", "eicosanoids"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-048",
+      "question_text": "ApoC-II deficiency would most directly result in:",
+      "options": [
+        "A. Inability to synthesize VLDL",
+        "B. Inability to clear chylomicrons and VLDL from the blood",
+        "C. Increased LDL receptor activity",
+        "D. Decreased cholesterol synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "ApoC-II is an essential activator of lipoprotein lipase (LPL). Without functional ApoC-II, LPL cannot efficiently hydrolyze triacylglycerols in chylomicrons and VLDL, leading to massive accumulation of these lipoproteins in the blood (type I hyperlipoproteinemia). Patients present with severe hypertriglyceridemia, eruptive xanthomas, and risk of pancreatitis.",
+      "concept_tags": ["apolipoproteins", "lipoprotein-lipase", "hypertriglyceridemia"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-049",
+      "question_text": "A patient taking a statin drug for hypercholesterolemia would have which compensatory response?",
+      "options": [
+        "A. Decreased LDL receptor expression",
+        "B. Increased LDL receptor expression",
+        "C. Decreased bile acid synthesis",
+        "D. Increased VLDL secretion"
+      ],
+      "correct_answer": "B",
+      "explanation": "Statins inhibit HMG-CoA reductase, reducing intracellular cholesterol synthesis. In response to lower intracellular cholesterol, SREBP (sterol regulatory element-binding protein) activates transcription of LDL receptor genes, increasing LDL receptor expression. This upregulation increases LDL uptake from the blood, further lowering plasma LDL cholesterol levels.",
+      "concept_tags": ["statins", "ldl-receptor", "cholesterol-regulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-04-050",
+      "question_text": "During the fed state, insulin promotes triacylglycerol storage in adipose tissue by all of the following mechanisms EXCEPT:",
+      "options": [
+        "A. Stimulating lipoprotein lipase activity in adipose tissue",
+        "B. Promoting glucose uptake for glycerol-3-phosphate synthesis",
+        "C. Inhibiting hormone-sensitive lipase",
+        "D. Activating hormone-sensitive lipase"
+      ],
+      "correct_answer": "D",
+      "explanation": "Insulin promotes fat storage, not fat mobilization. It stimulates lipoprotein lipase in adipose tissue to release fatty acids from circulating lipoproteins for uptake. It promotes glucose uptake, providing glycerol-3-phosphate for triacylglycerol synthesis. It inhibits hormone-sensitive lipase, preventing lipolysis. Activating hormone-sensitive lipase would promote fat breakdown, which is the opposite of insulin's effects.",
+      "concept_tags": ["insulin", "triacylglycerol-metabolism", "hormone-sensitive-lipase"],
+      "difficulty": "hard"
+    }
+  ]
+}

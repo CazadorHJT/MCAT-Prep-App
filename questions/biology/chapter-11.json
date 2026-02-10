@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 11,
+  "chapter_title": "The Musculoskeletal System",
+  "questions": [
+    {
+      "id": "biology-11-001",
+      "question_text": "Which type of muscle is characterized by intercalated discs that contain gap junctions for electrical coupling?",
+      "options": [
+        "A. Skeletal muscle",
+        "B. Smooth muscle",
+        "C. Cardiac muscle",
+        "D. All striated muscle types"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cardiac muscle is uniquely characterized by intercalated discs, which are specialized cell junctions containing gap junctions that allow electrical signals to pass rapidly between adjacent cardiac muscle cells. This creates a functional syncytium that allows the heart to contract in a coordinated manner. Skeletal muscle lacks intercalated discs and relies on neuromuscular junctions for stimulation. Smooth muscle may have gap junctions but does not have intercalated discs.",
+      "concept_tags": ["cardiac-muscle", "intercalated-discs", "muscle-types", "gap-junctions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-002",
+      "question_text": "During muscle contraction according to the sliding filament theory, which of the following occurs?",
+      "options": [
+        "A. Actin filaments shorten",
+        "B. Myosin filaments shorten",
+        "C. Sarcomeres shorten while filament lengths remain constant",
+        "D. Both actin and myosin filaments shorten"
+      ],
+      "correct_answer": "C",
+      "explanation": "The sliding filament theory states that during muscle contraction, the thin (actin) and thick (myosin) filaments slide past each other, causing the sarcomere to shorten. Importantly, the individual filaments themselves do not change length. The shortening of the sarcomere results from increased overlap between the actin and myosin filaments as they slide past one another, powered by the cross-bridge cycle.",
+      "concept_tags": ["sliding-filament-theory", "sarcomere", "muscle-contraction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-003",
+      "question_text": "The Z-line (Z-disc) of a sarcomere serves which primary function?",
+      "options": [
+        "A. Anchoring thick myosin filaments",
+        "B. Anchoring thin actin filaments",
+        "C. Storing calcium ions",
+        "D. Binding tropomyosin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Z-line (or Z-disc) serves as the anchoring point for the thin actin filaments at each end of the sarcomere. The sarcomere is defined as the region between two Z-lines. Thick myosin filaments are not directly attached to the Z-line; they are held in place by titin proteins that span from the Z-line to the M-line. Calcium is stored in the sarcoplasmic reticulum, not the Z-line.",
+      "concept_tags": ["sarcomere-structure", "z-line", "actin"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-004",
+      "question_text": "Which band of the sarcomere contains only thin filaments and shortens during contraction?",
+      "options": [
+        "A. A band",
+        "B. H zone",
+        "C. I band",
+        "D. M line"
+      ],
+      "correct_answer": "C",
+      "explanation": "The I band contains only thin (actin) filaments and shortens during contraction as the thin filaments slide further into the A band. The A band contains thick filaments and remains constant in length during contraction. The H zone contains only thick filaments and also shortens during contraction. The M line is a structural element at the center of the sarcomere that anchors thick filaments.",
+      "concept_tags": ["sarcomere-structure", "i-band", "muscle-contraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-005",
+      "question_text": "When calcium ions bind to troponin C during muscle contraction, what is the immediate result?",
+      "options": [
+        "A. ATP is hydrolyzed by myosin",
+        "B. Tropomyosin shifts to expose myosin-binding sites on actin",
+        "C. The sarcomere immediately contracts",
+        "D. Acetylcholine is released"
+      ],
+      "correct_answer": "B",
+      "explanation": "When calcium binds to troponin C, it causes a conformational change in the troponin-tropomyosin complex that shifts tropomyosin away from the myosin-binding sites on actin filaments. This exposure allows myosin heads to bind to actin and initiate the cross-bridge cycle. ATP hydrolysis occurs before this step, acetylcholine release occurs earlier at the neuromuscular junction, and sarcomere contraction is the end result of the entire process.",
+      "concept_tags": ["calcium-signaling", "troponin", "tropomyosin", "muscle-contraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-006",
+      "question_text": "At the neuromuscular junction, which neurotransmitter is released from the motor neuron to initiate muscle contraction?",
+      "options": [
+        "A. Norepinephrine",
+        "B. Dopamine",
+        "C. Acetylcholine",
+        "D. Glutamate"
+      ],
+      "correct_answer": "C",
+      "explanation": "Acetylcholine (ACh) is the neurotransmitter released at the neuromuscular junction by motor neurons to stimulate skeletal muscle contraction. When an action potential reaches the axon terminal, ACh is released into the synaptic cleft, binds to nicotinic receptors on the motor end plate, and triggers depolarization of the muscle cell membrane. Norepinephrine is used in the sympathetic nervous system, while dopamine and glutamate are primarily CNS neurotransmitters.",
+      "concept_tags": ["neuromuscular-junction", "acetylcholine", "motor-neuron"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-007",
+      "question_text": "Type I (slow-twitch) muscle fibers are best adapted for which type of activity?",
+      "options": [
+        "A. Sprinting 100 meters",
+        "B. Powerlifting",
+        "C. Marathon running",
+        "D. Jumping"
+      ],
+      "correct_answer": "C",
+      "explanation": "Type I (slow-twitch) muscle fibers are highly resistant to fatigue and are adapted for endurance activities like marathon running. They have high myoglobin content, numerous mitochondria, and rely primarily on aerobic metabolism. Type II (fast-twitch) fibers are better suited for explosive, powerful movements like sprinting, powerlifting, and jumping because they can generate more force quickly but fatigue more rapidly.",
+      "concept_tags": ["muscle-fiber-types", "slow-twitch", "aerobic-metabolism", "endurance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-008",
+      "question_text": "Osteoclasts are large multinucleated cells derived from which cell lineage?",
+      "options": [
+        "A. Mesenchymal stem cells",
+        "B. Monocyte-macrophage lineage",
+        "C. Chondrocytes",
+        "D. Fibroblasts"
+      ],
+      "correct_answer": "B",
+      "explanation": "Osteoclasts are derived from the monocyte-macrophage lineage of hematopoietic stem cells. They are large, multinucleated cells that resorb bone by secreting acid and proteolytic enzymes. Osteoblasts, not osteoclasts, are derived from mesenchymal stem cells. Chondrocytes are cartilage cells, and fibroblasts produce connective tissue matrix.",
+      "concept_tags": ["osteoclasts", "bone-cells", "bone-resorption"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-009",
+      "question_text": "Which bone cell type is responsible for depositing new bone matrix?",
+      "options": [
+        "A. Osteoclasts",
+        "B. Osteocytes",
+        "C. Osteoblasts",
+        "D. Chondrocytes"
+      ],
+      "correct_answer": "C",
+      "explanation": "Osteoblasts are the bone-forming cells responsible for synthesizing and depositing new bone matrix (osteoid), which later becomes mineralized. Osteoclasts resorb bone, breaking it down. Osteocytes are mature bone cells derived from osteoblasts that have become embedded in the bone matrix; they maintain bone tissue but do not actively deposit new matrix. Chondrocytes are cartilage cells.",
+      "concept_tags": ["osteoblasts", "bone-cells", "bone-formation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-010",
+      "question_text": "The hormone primarily responsible for raising blood calcium levels by stimulating osteoclast activity is:",
+      "options": [
+        "A. Calcitonin",
+        "B. Parathyroid hormone (PTH)",
+        "C. Cortisol",
+        "D. Thyroid hormone"
+      ],
+      "correct_answer": "B",
+      "explanation": "Parathyroid hormone (PTH) is released in response to low blood calcium levels and acts to increase calcium by stimulating osteoclast activity (bone resorption), increasing calcium reabsorption in the kidneys, and promoting vitamin D activation. Calcitonin has the opposite effect, lowering blood calcium by inhibiting osteoclasts. Cortisol and thyroid hormone have other metabolic functions but are not primary regulators of calcium homeostasis.",
+      "concept_tags": ["calcium-homeostasis", "parathyroid-hormone", "osteoclasts"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-011",
+      "question_text": "Smooth muscle differs from skeletal muscle in that smooth muscle:",
+      "options": [
+        "A. contains sarcomeres with visible striations",
+        "B. is under voluntary control",
+        "C. contracts more slowly and can maintain contraction for longer periods",
+        "D. has a higher density of mitochondria"
+      ],
+      "correct_answer": "C",
+      "explanation": "Smooth muscle contracts more slowly than skeletal muscle but can maintain contractions for extended periods without fatigue, making it ideal for functions like maintaining blood vessel tone and moving food through the digestive tract. Smooth muscle lacks the organized sarcomere structure that creates striations in skeletal and cardiac muscle. Smooth muscle is involuntary, controlled by the autonomic nervous system, hormones, and local factors.",
+      "concept_tags": ["smooth-muscle", "muscle-types", "involuntary-control"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-012",
+      "question_text": "During the cross-bridge cycle, ATP binding to myosin causes:",
+      "options": [
+        "A. myosin to bind more tightly to actin",
+        "B. the power stroke to occur",
+        "C. myosin to detach from actin",
+        "D. calcium to be released from the sarcoplasmic reticulum"
+      ],
+      "correct_answer": "C",
+      "explanation": "When ATP binds to the myosin head, it causes a conformational change that reduces myosin's affinity for actin, allowing the myosin head to detach from the actin filament. This is a critical step in the cross-bridge cycle. ATP hydrolysis then re-cocks the myosin head for another cycle. The power stroke occurs when phosphate is released after myosin binds to actin. Calcium release is initiated by the action potential, not ATP binding.",
+      "concept_tags": ["cross-bridge-cycle", "myosin", "atp", "muscle-contraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-013",
+      "question_text": "The sarcoplasmic reticulum in muscle cells is specialized for:",
+      "options": [
+        "A. protein synthesis",
+        "B. ATP production",
+        "C. calcium storage and release",
+        "D. lipid synthesis"
+      ],
+      "correct_answer": "C",
+      "explanation": "The sarcoplasmic reticulum (SR) is a specialized form of smooth endoplasmic reticulum in muscle cells that stores calcium ions and releases them in response to an action potential. When an action potential travels along the T-tubules, it triggers calcium release from the SR, initiating muscle contraction. The SR also contains Ca2+-ATPase pumps that actively pump calcium back into the SR during relaxation.",
+      "concept_tags": ["sarcoplasmic-reticulum", "calcium-storage", "muscle-contraction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-014",
+      "question_text": "The A band of a sarcomere:",
+      "options": [
+        "A. shortens during muscle contraction",
+        "B. contains only thin filaments",
+        "C. remains constant in length during contraction",
+        "D. is located at the Z-line"
+      ],
+      "correct_answer": "C",
+      "explanation": "The A band contains the entire length of the thick (myosin) filaments and remains constant in length during contraction because the thick filaments do not change length. The A band appears dark under polarized light microscopy. During contraction, thin filaments slide further into the A band, but the A band itself does not shorten. The I band and H zone shorten during contraction.",
+      "concept_tags": ["sarcomere-structure", "a-band", "sliding-filament-theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-015",
+      "question_text": "Which protein connects thick filaments to the Z-line and acts as a molecular spring?",
+      "options": [
+        "A. Tropomyosin",
+        "B. Nebulin",
+        "C. Titin",
+        "D. Dystrophin"
+      ],
+      "correct_answer": "C",
+      "explanation": "Titin is a giant elastic protein that spans from the Z-line to the M-line, connecting the thick filaments to the sarcomere structure. It acts as a molecular spring, providing passive elasticity to the muscle and preventing overstretching. Nebulin runs along the thin filaments and helps determine their length. Tropomyosin regulates actin-myosin binding. Dystrophin connects the cytoskeleton to the extracellular matrix.",
+      "concept_tags": ["titin", "sarcomere-structure", "muscle-proteins"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-11-016",
+      "question_text": "Type IIb (fast-twitch glycolytic) muscle fibers are characterized by:",
+      "options": [
+        "A. high myoglobin content and many mitochondria",
+        "B. low glycogen stores and high oxidative capacity",
+        "C. high glycogen stores and reliance on anaerobic metabolism",
+        "D. slow contraction speed and fatigue resistance"
+      ],
+      "correct_answer": "C",
+      "explanation": "Type IIb (fast-twitch glycolytic) fibers have high glycogen stores and rely primarily on anaerobic glycolysis for ATP production. They contract rapidly and generate high force but fatigue quickly due to lactic acid accumulation. They have low myoglobin content (appearing white), fewer mitochondria, and low oxidative capacity. Type I fibers have the characteristics described in options A and D.",
+      "concept_tags": ["muscle-fiber-types", "fast-twitch", "anaerobic-metabolism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-017",
+      "question_text": "Acetylcholinesterase at the neuromuscular junction functions to:",
+      "options": [
+        "A. synthesize acetylcholine",
+        "B. release acetylcholine into the synaptic cleft",
+        "C. degrade acetylcholine to terminate the signal",
+        "D. transport acetylcholine into the muscle cell"
+      ],
+      "correct_answer": "C",
+      "explanation": "Acetylcholinesterase is an enzyme located in the synaptic cleft that rapidly hydrolyzes acetylcholine into acetate and choline, terminating the signal at the neuromuscular junction. This prevents continuous stimulation of the muscle fiber. The choline is then taken back up by the presynaptic neuron to synthesize new acetylcholine. Choline acetyltransferase synthesizes ACh, not acetylcholinesterase.",
+      "concept_tags": ["neuromuscular-junction", "acetylcholinesterase", "signal-termination"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-018",
+      "question_text": "Osteocytes communicate with each other and with surface bone cells through:",
+      "options": [
+        "A. direct cell fusion",
+        "B. gap junctions in canaliculi",
+        "C. hormonal signaling only",
+        "D. release of bone matrix proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "Osteocytes are embedded within lacunae in the bone matrix but maintain communication through long cytoplasmic processes that extend through tiny channels called canaliculi. These processes form gap junctions with other osteocytes and with cells on the bone surface, creating a network that can sense mechanical stress and coordinate bone remodeling. This network is essential for maintaining bone health.",
+      "concept_tags": ["osteocytes", "canaliculi", "bone-structure", "cell-communication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-019",
+      "question_text": "Compact bone differs from spongy (trabecular) bone in that compact bone:",
+      "options": [
+        "A. contains bone marrow in large spaces",
+        "B. is organized into osteons (Haversian systems)",
+        "C. is found only in flat bones",
+        "D. has a higher rate of turnover"
+      ],
+      "correct_answer": "B",
+      "explanation": "Compact (cortical) bone is dense and organized into structural units called osteons or Haversian systems, consisting of concentric lamellae surrounding a central canal containing blood vessels and nerves. Spongy bone has a trabecular (honeycomb-like) structure with large spaces containing bone marrow and has a higher surface area to volume ratio, allowing for faster turnover. Compact bone is found in the shafts of long bones and outer surfaces of all bones.",
+      "concept_tags": ["compact-bone", "spongy-bone", "osteons", "bone-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-020",
+      "question_text": "Calcitonin acts to lower blood calcium levels by:",
+      "options": [
+        "A. stimulating osteoclast activity",
+        "B. inhibiting osteoclast activity and promoting calcium deposition in bone",
+        "C. increasing calcium absorption in the intestine",
+        "D. decreasing calcium reabsorption in the kidney"
+      ],
+      "correct_answer": "B",
+      "explanation": "Calcitonin is released from the parafollicular (C) cells of the thyroid gland in response to high blood calcium levels. It acts to lower calcium by inhibiting osteoclast activity (reducing bone resorption) and promoting calcium deposition in bone by osteoblasts. This is the opposite effect of parathyroid hormone. Calcitonin's physiological importance in adults is relatively minor compared to PTH.",
+      "concept_tags": ["calcitonin", "calcium-homeostasis", "bone-remodeling"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-021",
+      "question_text": "Which component of the troponin complex directly binds to calcium ions?",
+      "options": [
+        "A. Troponin T",
+        "B. Troponin I",
+        "C. Troponin C",
+        "D. Tropomyosin"
+      ],
+      "correct_answer": "C",
+      "explanation": "Troponin C is the calcium-binding subunit of the troponin complex. When calcium levels rise in the cytoplasm, calcium binds to troponin C, causing a conformational change that is transmitted through troponin T (which binds tropomyosin) and troponin I (which inhibits actin-myosin interaction). This results in the movement of tropomyosin to expose myosin-binding sites on actin.",
+      "concept_tags": ["troponin", "calcium-binding", "muscle-contraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-022",
+      "question_text": "The motor end plate is the specialized region of:",
+      "options": [
+        "A. the motor neuron axon terminal",
+        "B. the muscle cell membrane at the neuromuscular junction",
+        "C. the sarcoplasmic reticulum",
+        "D. the T-tubule system"
+      ],
+      "correct_answer": "B",
+      "explanation": "The motor end plate is the specialized region of the muscle cell membrane (sarcolemma) at the neuromuscular junction that contains a high density of acetylcholine receptors (nicotinic receptors). This region is folded to increase surface area and receptor density, ensuring efficient transmission of the signal from the motor neuron to the muscle fiber.",
+      "concept_tags": ["motor-end-plate", "neuromuscular-junction", "acetylcholine-receptors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-023",
+      "question_text": "Rigor mortis occurs after death because:",
+      "options": [
+        "A. calcium is actively pumped into muscle cells",
+        "B. ATP is depleted, preventing myosin from detaching from actin",
+        "C. tropomyosin permanently blocks myosin-binding sites",
+        "D. muscle cells undergo immediate necrosis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Rigor mortis occurs because ATP is required for myosin heads to detach from actin filaments. After death, ATP production ceases, and existing ATP is depleted. Without ATP, myosin heads remain bound to actin in a rigid state, causing muscle stiffness. Additionally, calcium leaks out of the sarcoplasmic reticulum into the cytoplasm, promoting further cross-bridge formation. Rigor mortis eventually resolves as muscle proteins degrade.",
+      "concept_tags": ["rigor-mortis", "atp", "cross-bridge-cycle", "muscle-contraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-024",
+      "question_text": "Synovial joints are characterized by:",
+      "options": [
+        "A. direct bone-to-bone connections",
+        "B. a joint cavity filled with synovial fluid",
+        "C. immovable articulations",
+        "D. cartilage connections only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Synovial joints (diarthroses) are freely movable joints characterized by a joint cavity filled with synovial fluid, which lubricates the joint and provides nutrients to articular cartilage. The joint is enclosed by a fibrous capsule lined with synovial membrane. Examples include the knee, hip, and shoulder joints. Sutures and gomphoses are immovable joints, while synchondroses are cartilaginous joints.",
+      "concept_tags": ["synovial-joints", "joint-types", "synovial-fluid"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-025",
+      "question_text": "Articular cartilage is primarily composed of which type of cartilage?",
+      "options": [
+        "A. Elastic cartilage",
+        "B. Fibrocartilage",
+        "C. Hyaline cartilage",
+        "D. Calcified cartilage"
+      ],
+      "correct_answer": "C",
+      "explanation": "Articular cartilage covering the ends of bones in synovial joints is composed of hyaline cartilage. Hyaline cartilage provides a smooth, low-friction surface for joint movement and can withstand compressive forces. It lacks blood vessels and nerves, receiving nutrients from synovial fluid. Fibrocartilage is found in intervertebral discs and menisci. Elastic cartilage is found in the ear and epiglottis.",
+      "concept_tags": ["articular-cartilage", "hyaline-cartilage", "joints"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-026",
+      "question_text": "The power stroke of muscle contraction occurs when:",
+      "options": [
+        "A. ATP binds to myosin",
+        "B. ATP is hydrolyzed to ADP and Pi",
+        "C. phosphate is released from myosin after it binds to actin",
+        "D. calcium binds to troponin"
+      ],
+      "correct_answer": "C",
+      "explanation": "The power stroke occurs when inorganic phosphate (Pi) is released from the myosin head after it has bound to actin. This release causes a conformational change in the myosin head that pulls the actin filament toward the center of the sarcomere. ATP binding causes myosin to detach from actin. ATP hydrolysis re-cocks the myosin head. Calcium binding to troponin exposes the binding sites but doesn't directly cause the power stroke.",
+      "concept_tags": ["power-stroke", "cross-bridge-cycle", "muscle-contraction"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-11-027",
+      "question_text": "T-tubules in muscle cells function primarily to:",
+      "options": [
+        "A. store calcium ions",
+        "B. produce ATP through oxidative phosphorylation",
+        "C. conduct action potentials deep into the muscle fiber",
+        "D. synthesize muscle proteins"
+      ],
+      "correct_answer": "C",
+      "explanation": "T-tubules (transverse tubules) are invaginations of the sarcolemma that conduct action potentials deep into the interior of the muscle fiber. This ensures that the signal for contraction reaches all myofibrils simultaneously, allowing for coordinated contraction throughout the entire fiber. T-tubules are closely associated with the sarcoplasmic reticulum, which stores and releases calcium.",
+      "concept_tags": ["t-tubules", "action-potential", "muscle-contraction", "excitation-contraction-coupling"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-028",
+      "question_text": "The H zone of a sarcomere:",
+      "options": [
+        "A. contains overlapping thick and thin filaments",
+        "B. contains only thick filaments",
+        "C. contains only thin filaments",
+        "D. is the location of the Z-line"
+      ],
+      "correct_answer": "B",
+      "explanation": "The H zone is the central region of the A band that contains only thick (myosin) filaments with no overlap of thin filaments. During muscle contraction, as thin filaments slide inward, the H zone becomes narrower and may disappear completely at maximal contraction. The I band contains only thin filaments. The zone of overlap contains both thick and thin filaments.",
+      "concept_tags": ["sarcomere-structure", "h-zone", "thick-filaments"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-029",
+      "question_text": "Endochondral ossification involves:",
+      "options": [
+        "A. direct conversion of mesenchyme to bone",
+        "B. bone formation from a hyaline cartilage template",
+        "C. bone formation only in flat bones",
+        "D. ossification without blood vessel involvement"
+      ],
+      "correct_answer": "B",
+      "explanation": "Endochondral ossification is the process by which most bones form, involving the replacement of a hyaline cartilage template with bone tissue. This process is responsible for the formation of long bones and involves the growth plate (epiphyseal plate) for longitudinal growth. Intramembranous ossification involves direct conversion of mesenchyme to bone and forms flat bones of the skull.",
+      "concept_tags": ["endochondral-ossification", "bone-formation", "cartilage-template"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-030",
+      "question_text": "Which structure is responsible for longitudinal bone growth in children and adolescents?",
+      "options": [
+        "A. Periosteum",
+        "B. Endosteum",
+        "C. Epiphyseal plate",
+        "D. Diaphysis"
+      ],
+      "correct_answer": "C",
+      "explanation": "The epiphyseal plate (growth plate) is a region of hyaline cartilage between the epiphysis and diaphysis of long bones where longitudinal growth occurs through endochondral ossification. Chondrocytes proliferate and mature, and the cartilage is progressively replaced by bone. When growth is complete, the plate ossifies to form the epiphyseal line. The periosteum contributes to appositional (width) growth.",
+      "concept_tags": ["epiphyseal-plate", "bone-growth", "longitudinal-growth"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-031",
+      "question_text": "In smooth muscle, contraction is primarily regulated by:",
+      "options": [
+        "A. troponin-tropomyosin complex",
+        "B. calcium-calmodulin activation of myosin light chain kinase",
+        "C. direct ATP binding to actin",
+        "D. voltage-gated sodium channels"
+      ],
+      "correct_answer": "B",
+      "explanation": "Smooth muscle lacks the troponin-tropomyosin regulatory system found in skeletal and cardiac muscle. Instead, smooth muscle contraction is regulated by calcium binding to calmodulin, which then activates myosin light chain kinase (MLCK). MLCK phosphorylates the myosin light chain, enabling myosin to interact with actin. This mechanism allows for graded, sustained contractions characteristic of smooth muscle.",
+      "concept_tags": ["smooth-muscle", "calmodulin", "myosin-light-chain-kinase", "muscle-regulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-11-032",
+      "question_text": "The neuromuscular junction uses which type of neurotransmitter receptor?",
+      "options": [
+        "A. Muscarinic acetylcholine receptor",
+        "B. Nicotinic acetylcholine receptor",
+        "C. GABA receptor",
+        "D. Adrenergic receptor"
+      ],
+      "correct_answer": "B",
+      "explanation": "The motor end plate of skeletal muscle contains nicotinic acetylcholine receptors, which are ligand-gated ion channels. When acetylcholine binds, these receptors open to allow sodium influx and potassium efflux, depolarizing the muscle membrane. Muscarinic receptors are G-protein coupled receptors found in smooth muscle, cardiac muscle, and glands. Nicotinic receptors enable rapid, reliable transmission at the neuromuscular junction.",
+      "concept_tags": ["nicotinic-receptors", "neuromuscular-junction", "acetylcholine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-033",
+      "question_text": "A motor unit consists of:",
+      "options": [
+        "A. a single muscle fiber and all neurons innervating it",
+        "B. a single motor neuron and all muscle fibers it innervates",
+        "C. the neuromuscular junction and sarcoplasmic reticulum",
+        "D. all motor neurons controlling a single muscle"
+      ],
+      "correct_answer": "B",
+      "explanation": "A motor unit consists of a single motor neuron and all the muscle fibers it innervates. When the motor neuron fires, all muscle fibers in that unit contract. The size of motor units varies: small motor units (few fibers) allow fine control (eye muscles), while large motor units (many fibers) generate powerful movements (leg muscles). Recruitment of additional motor units increases force production.",
+      "concept_tags": ["motor-unit", "motor-neuron", "muscle-innervation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-034",
+      "question_text": "During excitation-contraction coupling, the dihydropyridine receptor (DHPR) in T-tubules:",
+      "options": [
+        "A. releases calcium from the sarcoplasmic reticulum",
+        "B. acts as a voltage sensor that triggers ryanodine receptor opening",
+        "C. hydrolyzes ATP for the power stroke",
+        "D. binds acetylcholine at the motor end plate"
+      ],
+      "correct_answer": "B",
+      "explanation": "The dihydropyridine receptor (DHPR) is a voltage-sensitive calcium channel located in the T-tubule membrane. In skeletal muscle, DHPR acts primarily as a voltage sensor that undergoes conformational change when the membrane depolarizes. This conformational change is mechanically coupled to ryanodine receptors (RyR) on the sarcoplasmic reticulum, causing them to open and release calcium into the cytoplasm.",
+      "concept_tags": ["excitation-contraction-coupling", "dihydropyridine-receptor", "ryanodine-receptor"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-11-035",
+      "question_text": "The organic component of bone matrix is primarily composed of:",
+      "options": [
+        "A. calcium phosphate crystals",
+        "B. type I collagen",
+        "C. keratin",
+        "D. elastin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The organic component of bone matrix (osteoid) is approximately 90% type I collagen, which provides tensile strength and flexibility to bone. The remaining organic component includes proteoglycans, glycoproteins, and other proteins. The inorganic component consists primarily of hydroxyapatite (calcium phosphate crystals), which provides hardness and resistance to compression. Together, these components give bone its unique mechanical properties.",
+      "concept_tags": ["bone-matrix", "collagen", "bone-composition"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-036",
+      "question_text": "Vitamin D promotes calcium homeostasis primarily by:",
+      "options": [
+        "A. directly stimulating osteoclast activity",
+        "B. increasing intestinal calcium absorption",
+        "C. inhibiting parathyroid hormone release",
+        "D. decreasing renal calcium reabsorption"
+      ],
+      "correct_answer": "B",
+      "explanation": "The primary action of active vitamin D (calcitriol, 1,25-dihydroxyvitamin D) is to increase calcium absorption from the intestine by stimulating the synthesis of calcium-binding proteins in intestinal epithelial cells. Vitamin D also promotes calcium reabsorption in the kidneys and, along with PTH, can stimulate osteoclast activity to release calcium from bone. Vitamin D deficiency leads to rickets (children) or osteomalacia (adults).",
+      "concept_tags": ["vitamin-d", "calcium-homeostasis", "intestinal-absorption"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-037",
+      "question_text": "The M line of a sarcomere:",
+      "options": [
+        "A. anchors thin filaments",
+        "B. anchors thick filaments at the center of the sarcomere",
+        "C. separates adjacent sarcomeres",
+        "D. contains the regulatory proteins troponin and tropomyosin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The M line (M band) is located at the center of the sarcomere, in the middle of the H zone, and anchors the thick (myosin) filaments. Proteins at the M line, including myomesin and M-protein, connect adjacent thick filaments and help maintain the structural organization of the sarcomere. The Z-line anchors thin filaments and separates adjacent sarcomeres. Troponin and tropomyosin are associated with thin filaments.",
+      "concept_tags": ["sarcomere-structure", "m-line", "thick-filaments"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-038",
+      "question_text": "Cardiac muscle exhibits automaticity because:",
+      "options": [
+        "A. it receives constant stimulation from motor neurons",
+        "B. pacemaker cells have unstable resting membrane potentials",
+        "C. it lacks gap junctions between cells",
+        "D. calcium is constantly released from the sarcoplasmic reticulum"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cardiac muscle automaticity refers to the ability to generate spontaneous action potentials without neural input. This is due to pacemaker cells (primarily in the SA node) that have unstable resting membrane potentials caused by funny currents (If) and T-type calcium channels. This allows gradual depolarization to threshold without external stimulation. Gap junctions in intercalated discs allow rapid spread of these impulses throughout the heart.",
+      "concept_tags": ["cardiac-muscle", "automaticity", "pacemaker-cells"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-11-039",
+      "question_text": "Bone remodeling involves the coordinated activity of osteoblasts and osteoclasts and is important for:",
+      "options": [
+        "A. maintaining blood pH only",
+        "B. calcium homeostasis, repair of microdamage, and adaptation to mechanical stress",
+        "C. red blood cell production only",
+        "D. vitamin D synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Bone remodeling is a continuous process involving bone resorption by osteoclasts and bone formation by osteoblasts. This process serves multiple functions: maintaining calcium and phosphate homeostasis, repairing microscopic damage from daily activities, and adapting bone structure to mechanical loading (Wolff's law). Red blood cell production (hematopoiesis) occurs in bone marrow but is not the primary purpose of remodeling.",
+      "concept_tags": ["bone-remodeling", "osteoblasts", "osteoclasts", "mechanical-stress"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-040",
+      "question_text": "Tetanus (sustained muscle contraction) occurs when:",
+      "options": [
+        "A. calcium is completely removed from the cytoplasm",
+        "B. action potentials arrive faster than calcium can be sequestered",
+        "C. ATP is completely depleted",
+        "D. acetylcholinesterase activity increases"
+      ],
+      "correct_answer": "B",
+      "explanation": "Tetanus (physiological, not the disease) occurs when motor neuron stimulation is so frequent that action potentials arrive before the muscle can fully relax. Calcium accumulates in the cytoplasm faster than the sarcoplasmic reticulum can sequester it, leading to sustained high calcium levels and continuous cross-bridge cycling. This results in a smooth, sustained contraction rather than individual twitches. Complete ATP depletion would cause rigor, not tetanus.",
+      "concept_tags": ["tetanus", "muscle-contraction", "calcium", "summation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-041",
+      "question_text": "The periosteum is important for bone because it:",
+      "options": [
+        "A. produces red blood cells",
+        "B. contains osteoprogenitor cells and provides blood supply",
+        "C. stores calcium for release into blood",
+        "D. produces synovial fluid"
+      ],
+      "correct_answer": "B",
+      "explanation": "The periosteum is a fibrous connective tissue membrane covering the outer surface of bones (except at articular surfaces). Its inner layer contains osteoprogenitor cells that can differentiate into osteoblasts for appositional bone growth and fracture repair. The periosteum also contains blood vessels that supply the outer portion of compact bone and nerves that make the periosteum sensitive to injury.",
+      "concept_tags": ["periosteum", "bone-structure", "osteoprogenitor-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-042",
+      "question_text": "Myoglobin in muscle tissue functions to:",
+      "options": [
+        "A. transport oxygen in the blood",
+        "B. store oxygen within muscle cells for use during contraction",
+        "C. bind calcium during muscle relaxation",
+        "D. transmit nerve impulses to muscle fibers"
+      ],
+      "correct_answer": "B",
+      "explanation": "Myoglobin is an oxygen-binding protein found in muscle tissue that stores oxygen and facilitates oxygen diffusion within muscle cells. It has a higher affinity for oxygen than hemoglobin, allowing it to accept oxygen from hemoglobin and hold it until needed for aerobic metabolism during muscle contraction. Myoglobin gives slow-twitch (Type I) muscle fibers their red color due to its high concentration in these fibers.",
+      "concept_tags": ["myoglobin", "oxygen-storage", "muscle-metabolism"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-043",
+      "question_text": "In the sliding filament model, which of the following shortens during muscle contraction?",
+      "options": [
+        "A. Thick filaments only",
+        "B. Thin filaments only",
+        "C. Both I band and H zone",
+        "D. A band only"
+      ],
+      "correct_answer": "C",
+      "explanation": "During muscle contraction, both the I band (which contains only thin filaments) and the H zone (which contains only thick filaments without overlap) shorten as the thin filaments slide toward the center of the sarcomere. The A band, which spans the entire length of the thick filaments, remains constant because the thick filaments themselves do not change length. The Z-lines move closer together as the sarcomere shortens.",
+      "concept_tags": ["sliding-filament-theory", "sarcomere-structure", "muscle-contraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-044",
+      "question_text": "Fibrocartilage differs from hyaline cartilage in that fibrocartilage:",
+      "options": [
+        "A. contains more ground substance and less collagen",
+        "B. contains dense bundles of type I collagen for greater tensile strength",
+        "C. is found covering articular surfaces",
+        "D. has greater elasticity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fibrocartilage contains dense bundles of type I collagen fibers, giving it greater tensile strength compared to hyaline cartilage. This makes it ideal for areas subjected to heavy stress, such as intervertebral discs, pubic symphysis, and menisci of the knee. Hyaline cartilage has more ground substance and type II collagen and covers articular surfaces. Elastic cartilage (ear, epiglottis) has greater elasticity due to elastic fibers.",
+      "concept_tags": ["fibrocartilage", "cartilage-types", "collagen"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-045",
+      "question_text": "A patient with myasthenia gravis has antibodies against acetylcholine receptors. This condition would most directly cause:",
+      "options": [
+        "A. excessive muscle contraction",
+        "B. muscle weakness due to impaired neuromuscular transmission",
+        "C. increased calcium release from sarcoplasmic reticulum",
+        "D. accelerated acetylcholine synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Myasthenia gravis is an autoimmune disease where antibodies attack nicotinic acetylcholine receptors at the neuromuscular junction. This reduces the number of functional receptors, leading to impaired neuromuscular transmission and muscle weakness, particularly with repeated use. Symptoms include ptosis (drooping eyelids), diplopia, and generalized weakness. The condition is treated with acetylcholinesterase inhibitors to prolong ACh action.",
+      "concept_tags": ["myasthenia-gravis", "neuromuscular-junction", "autoimmune-disease"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-11-046",
+      "question_text": "The sarcolemma of a muscle fiber is:",
+      "options": [
+        "A. the contractile unit of the muscle",
+        "B. the plasma membrane of the muscle cell",
+        "C. the membrane of the sarcoplasmic reticulum",
+        "D. the connective tissue surrounding muscle fascicles"
+      ],
+      "correct_answer": "B",
+      "explanation": "The sarcolemma is the plasma membrane of a muscle fiber (cell). It is excitable and can propagate action potentials along its length and into the T-tubules. The sarcolemma contains ion channels, acetylcholine receptors at the motor end plate, and is continuous with the T-tubule system. The sarcomere is the contractile unit, the sarcoplasmic reticulum has its own membrane, and the perimysium surrounds fascicles.",
+      "concept_tags": ["sarcolemma", "muscle-structure", "plasma-membrane"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-11-047",
+      "question_text": "Intramembranous ossification occurs in:",
+      "options": [
+        "A. long bones of the limbs",
+        "B. flat bones of the skull",
+        "C. vertebrae",
+        "D. bones of the hands and feet"
+      ],
+      "correct_answer": "B",
+      "explanation": "Intramembranous ossification is a process where bone forms directly from mesenchymal tissue without a cartilage intermediate. This process forms the flat bones of the skull, clavicles, and mandible. Mesenchymal cells differentiate directly into osteoblasts that produce bone matrix. Long bones, vertebrae, and most other bones form through endochondral ossification, which involves a cartilage template.",
+      "concept_tags": ["intramembranous-ossification", "bone-formation", "flat-bones"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-048",
+      "question_text": "During muscle relaxation, calcium is removed from the cytoplasm primarily by:",
+      "options": [
+        "A. diffusion out of the cell",
+        "B. binding to troponin and remaining bound",
+        "C. active transport into the sarcoplasmic reticulum by SERCA pumps",
+        "D. conversion to another ion"
+      ],
+      "correct_answer": "C",
+      "explanation": "Muscle relaxation requires the removal of calcium from the cytoplasm so that troponin returns to its original conformation and tropomyosin blocks myosin-binding sites. The primary mechanism is active transport of calcium back into the sarcoplasmic reticulum by SERCA (Sarco/Endoplasmic Reticulum Ca2+-ATPase) pumps. This ATP-dependent process reduces cytoplasmic calcium concentration, allowing the muscle to relax.",
+      "concept_tags": ["muscle-relaxation", "serca", "calcium-transport", "sarcoplasmic-reticulum"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-11-049",
+      "question_text": "The length-tension relationship in skeletal muscle indicates that maximum force is generated when:",
+      "options": [
+        "A. the sarcomere is maximally stretched with no filament overlap",
+        "B. the sarcomere is at optimal length with maximum actin-myosin overlap",
+        "C. the sarcomere is maximally contracted with complete thin filament overlap",
+        "D. ATP concentration is at its highest"
+      ],
+      "correct_answer": "B",
+      "explanation": "The length-tension relationship shows that maximum force is generated when the sarcomere is at its optimal resting length, allowing for maximum overlap between thick and thin filaments and thus maximum cross-bridge formation. If the muscle is stretched too far, there is less overlap and fewer cross-bridges can form. If the muscle is too contracted, thin filaments from opposite ends overlap and interfere with cross-bridge cycling.",
+      "concept_tags": ["length-tension-relationship", "sarcomere", "muscle-force"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-11-050",
+      "question_text": "Wolff's law states that bone:",
+      "options": [
+        "A. always grows at a constant rate regardless of activity",
+        "B. remodels in response to mechanical stress, becoming stronger where stress is applied",
+        "C. can only be formed through endochondral ossification",
+        "D. contains equal amounts of organic and inorganic material"
+      ],
+      "correct_answer": "B",
+      "explanation": "Wolff's law states that bone adapts to the mechanical loads placed upon it. When bones experience increased mechanical stress (such as from exercise or weight-bearing), osteoblasts are stimulated to deposit more bone in those areas, making the bone stronger. Conversely, bones that experience reduced loading (such as during bed rest or space flight) lose mass because resorption exceeds formation. This principle is important in understanding bone health and fracture healing.",
+      "concept_tags": ["wolffs-law", "bone-remodeling", "mechanical-stress"],
+      "difficulty": "medium"
+    }
+  ]
+}

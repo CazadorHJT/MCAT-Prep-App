@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 5,
+  "chapter_title": "Author's Purpose and Rhetorical Analysis",
+  "questions": [
+    {
+      "id": "cars-05-001",
+      "question_text": "The author's purpose refers to:",
+      "options": ["A. Why they wrote the passage—what they want to accomplish", "B. The topic of the passage", "C. Their personal biography", "D. When they wrote it"],
+      "correct_answer": "A",
+      "explanation": "Purpose is the author's goal or intention—to inform, persuade, critique, explore, compare, or achieve some other communicative aim.",
+      "concept_tags": ["author's purpose", "intention", "goal"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-002",
+      "question_text": "Common author purposes include all EXCEPT:",
+      "options": ["A. To inform or explain", "B. To persuade or argue", "C. To confuse readers intentionally", "D. To analyze or evaluate"],
+      "correct_answer": "C",
+      "explanation": "Authors write to inform, persuade, analyze, explore, critique, or entertain—not to deliberately confuse readers.",
+      "concept_tags": ["author's purpose", "types of purpose", "writing goals"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-003",
+      "question_text": "An informative or expository purpose focuses on:",
+      "options": ["A. Convincing readers to act", "B. Explaining concepts or presenting information objectively", "C. Expressing emotions", "D. Telling stories"],
+      "correct_answer": "B",
+      "explanation": "Informative writing aims to educate readers by explaining concepts, processes, or information in a relatively objective manner.",
+      "concept_tags": ["informative purpose", "expository", "explanation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-004",
+      "question_text": "A persuasive or argumentative purpose aims to:",
+      "options": ["A. Entertain with stories", "B. Convince readers to accept a claim or take action", "C. Simply describe events", "D. Define vocabulary"],
+      "correct_answer": "B",
+      "explanation": "Persuasive writing aims to convince readers that a position is correct or that they should take specific action.",
+      "concept_tags": ["persuasive purpose", "argument", "convincing"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-005",
+      "question_text": "An analytical purpose involves:",
+      "options": ["A. Just summarizing content", "B. Breaking down and examining components or relationships", "C. Telling personal stories", "D. Listing facts without interpretation"],
+      "correct_answer": "B",
+      "explanation": "Analysis involves examining how parts relate, why something occurs, or what something means—going beyond mere description.",
+      "concept_tags": ["analytical purpose", "examination", "interpretation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-006",
+      "question_text": "A critical purpose involves:",
+      "options": ["A. Praising everything equally", "B. Evaluating strengths and weaknesses of ideas or works", "C. Only describing facts", "D. Avoiding judgment"],
+      "correct_answer": "B",
+      "explanation": "Critical writing evaluates and judges—identifying strengths, weaknesses, merits, and problems in ideas, arguments, or works.",
+      "concept_tags": ["critical purpose", "evaluation", "judgment"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-007",
+      "question_text": "Rhetoric is the art of:",
+      "options": ["A. Pure logic only", "B. Effective persuasion through language", "C. Scientific writing only", "D. Avoiding emotion"],
+      "correct_answer": "B",
+      "explanation": "Rhetoric is the art of using language effectively to communicate and persuade, including strategies beyond pure logic.",
+      "concept_tags": ["rhetoric", "persuasion", "effective communication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-008",
+      "question_text": "Ethos as a rhetorical appeal establishes:",
+      "options": ["A. Logical argument", "B. Emotional connection", "C. Credibility and trustworthiness", "D. Entertainment value"],
+      "correct_answer": "C",
+      "explanation": "Ethos establishes the author's credibility, expertise, and character—giving readers reason to trust their arguments.",
+      "concept_tags": ["ethos", "credibility", "rhetorical appeals"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-009",
+      "question_text": "Pathos as a rhetorical appeal engages:",
+      "options": ["A. Logic and reason", "B. Emotions and feelings", "C. Statistics and data", "D. Expert authority"],
+      "correct_answer": "B",
+      "explanation": "Pathos appeals to emotions—using language, imagery, and examples that evoke feelings to connect with and move the audience.",
+      "concept_tags": ["pathos", "emotion", "rhetorical appeals"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-010",
+      "question_text": "Logos as a rhetorical appeal relies on:",
+      "options": ["A. Emotional manipulation", "B. Logical reasoning and evidence", "C. Personal stories only", "D. Author's reputation"],
+      "correct_answer": "B",
+      "explanation": "Logos appeals to reason through logical arguments, evidence, facts, and structured reasoning.",
+      "concept_tags": ["logos", "logic", "rhetorical appeals"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-011",
+      "question_text": "Effective rhetoric often combines:",
+      "options": ["A. Only logos", "B. All three appeals (ethos, pathos, logos) appropriately", "C. Only pathos", "D. Only ethos"],
+      "correct_answer": "B",
+      "explanation": "Strong persuasion typically uses all three appeals—credibility, emotional connection, and logical argument—balanced for the audience and purpose.",
+      "concept_tags": ["rhetorical balance", "combined appeals", "persuasion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-012",
+      "question_text": "Diction refers to:",
+      "options": ["A. Speaking clearly", "B. Word choice and vocabulary", "C. Sentence length", "D. Paragraph structure"],
+      "correct_answer": "B",
+      "explanation": "Diction is the author's choice of words—formal/informal, simple/complex, positive/negative—which shapes meaning and tone.",
+      "concept_tags": ["diction", "word choice", "style"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-013",
+      "question_text": "Analyzing diction helps reveal:",
+      "options": ["A. Only grammar errors", "B. The author's attitude, emphasis, and intended effect", "C. The publication date", "D. Word count"],
+      "correct_answer": "B",
+      "explanation": "Word choices convey attitude (positive/negative/neutral), create emphasis, and produce specific effects on readers.",
+      "concept_tags": ["diction analysis", "attitude", "effect"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-014",
+      "question_text": "Formal diction is characterized by:",
+      "options": ["A. Slang and contractions", "B. Precise vocabulary and complete sentences", "C. Casual conversation style", "D. Sentence fragments"],
+      "correct_answer": "B",
+      "explanation": "Formal diction uses precise, sophisticated vocabulary, avoids contractions and slang, and maintains professional tone.",
+      "concept_tags": ["formal diction", "register", "style"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-015",
+      "question_text": "Informal diction creates the effect of:",
+      "options": ["A. Academic distance", "B. Conversational accessibility", "C. Authoritative expertise", "D. Legal precision"],
+      "correct_answer": "B",
+      "explanation": "Informal diction (contractions, colloquialisms) creates a conversational, accessible feel, building rapport with readers.",
+      "concept_tags": ["informal diction", "accessibility", "rapport"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-016",
+      "question_text": "Syntax refers to:",
+      "options": ["A. Word meanings", "B. Sentence structure and arrangement", "C. Paragraph length", "D. Document formatting"],
+      "correct_answer": "B",
+      "explanation": "Syntax is how sentences are constructed—length, complexity, word order, and grammatical structure.",
+      "concept_tags": ["syntax", "sentence structure", "style"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-017",
+      "question_text": "Short, simple sentences often create a sense of:",
+      "options": ["A. Complexity and nuance", "B. Directness, urgency, or emphasis", "C. Academic rigor", "D. Uncertainty"],
+      "correct_answer": "B",
+      "explanation": "Short sentences are direct and punchy—they can emphasize points, create urgency, or convey simple certainty.",
+      "concept_tags": ["sentence length", "effect", "emphasis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-018",
+      "question_text": "Long, complex sentences often convey:",
+      "options": ["A. Simple ideas", "B. Nuanced, interconnected ideas", "C. Confusion only", "D. Lack of thought"],
+      "correct_answer": "B",
+      "explanation": "Complex sentences can express relationships between ideas, qualifications, and nuanced thinking—though they require careful reading.",
+      "concept_tags": ["sentence complexity", "nuance", "relationships"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-019",
+      "question_text": "Figurative language includes:",
+      "options": ["A. Only literal descriptions", "B. Metaphors, similes, and other non-literal expressions", "C. Statistics only", "D. Direct quotations"],
+      "correct_answer": "B",
+      "explanation": "Figurative language uses words beyond literal meaning—metaphors, similes, personification, hyperbole—for effect and insight.",
+      "concept_tags": ["figurative language", "metaphor", "imagery"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-020",
+      "question_text": "A metaphor compares things by:",
+      "options": ["A. Using 'like' or 'as'", "B. Directly equating them without comparison words", "C. Exaggerating", "D. Personifying"],
+      "correct_answer": "B",
+      "explanation": "Metaphors directly state that one thing is another (not using 'like' or 'as'), creating implied comparison.",
+      "concept_tags": ["metaphor", "comparison", "figurative language"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-021",
+      "question_text": "A simile compares things using:",
+      "options": ["A. Direct equation", "B. 'Like' or 'as'", "C. Exaggeration", "D. Understatement"],
+      "correct_answer": "B",
+      "explanation": "Similes explicitly compare using 'like' or 'as'—'X is like Y' rather than 'X is Y.'",
+      "concept_tags": ["simile", "comparison", "figurative language"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-022",
+      "question_text": "Hyperbole is:",
+      "options": ["A. Understatement", "B. Deliberate exaggeration for effect", "C. Literal description", "D. Balanced statement"],
+      "correct_answer": "B",
+      "explanation": "Hyperbole is intentional exaggeration not meant to be taken literally—used for emphasis or humorous effect.",
+      "concept_tags": ["hyperbole", "exaggeration", "figurative language"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-023",
+      "question_text": "Irony occurs when:",
+      "options": ["A. Meaning matches words exactly", "B. There's a gap between expected and actual meaning", "C. Statements are very literal", "D. No humor is present"],
+      "correct_answer": "B",
+      "explanation": "Irony involves discrepancy—between words and meaning, expectations and reality, or appearance and truth.",
+      "concept_tags": ["irony", "discrepancy", "meaning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-024",
+      "question_text": "Sarcasm is a form of irony that:",
+      "options": ["A. Is always subtle", "B. Uses apparent praise or mock statement to criticize", "C. Is never negative", "D. Is purely informative"],
+      "correct_answer": "B",
+      "explanation": "Sarcasm uses ironic statements (often appearing to say the opposite of what's meant) to mock, criticize, or express contempt.",
+      "concept_tags": ["sarcasm", "irony", "criticism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-025",
+      "question_text": "Rhetorical questions are questions that:",
+      "options": ["A. Require explicit answers", "B. Are used for effect rather than seeking information", "C. Are always genuine inquiries", "D. Have no purpose"],
+      "correct_answer": "B",
+      "explanation": "Rhetorical questions are asked for effect—to emphasize a point, engage readers, or suggest an obvious answer—not to seek information.",
+      "concept_tags": ["rhetorical questions", "emphasis", "engagement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-026",
+      "question_text": "Repetition in writing serves to:",
+      "options": ["A. Show the author ran out of ideas", "B. Emphasize key points and create rhythm", "C. Pad the word count", "D. Confuse readers"],
+      "correct_answer": "B",
+      "explanation": "Strategic repetition emphasizes important ideas, creates memorable rhythm, and reinforces key themes.",
+      "concept_tags": ["repetition", "emphasis", "rhetorical device"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-027",
+      "question_text": "Parallelism involves:",
+      "options": ["A. Random sentence structures", "B. Similar grammatical structure for related ideas", "C. Different formats for each point", "D. Avoiding patterns"],
+      "correct_answer": "B",
+      "explanation": "Parallelism uses consistent grammatical structure for items in a series or related ideas, creating clarity and emphasis.",
+      "concept_tags": ["parallelism", "structure", "rhetorical device"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-028",
+      "question_text": "Antithesis is a rhetorical device that:",
+      "options": ["A. Avoids contrast", "B. Juxtaposes opposing ideas in parallel structure", "C. Repeats the same idea", "D. Uses only agreement"],
+      "correct_answer": "B",
+      "explanation": "Antithesis places contrasting ideas in parallel structures to emphasize their opposition ('not X but Y').",
+      "concept_tags": ["antithesis", "contrast", "rhetorical device"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-029",
+      "question_text": "An allusion references:",
+      "options": ["A. Made-up sources", "B. Well-known works, events, or figures", "C. The author's personal life only", "D. Future events"],
+      "correct_answer": "B",
+      "explanation": "Allusions reference well-known sources (literature, history, religion, mythology) to enrich meaning by invoking associations.",
+      "concept_tags": ["allusion", "reference", "cultural knowledge"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-030",
+      "question_text": "Understanding allusions requires:",
+      "options": ["A. No prior knowledge", "B. Recognizing references to understand their significance", "C. Only literal reading", "D. Ignoring cultural context"],
+      "correct_answer": "B",
+      "explanation": "Allusions draw on shared cultural knowledge. Recognizing the reference helps grasp the author's intended meaning.",
+      "concept_tags": ["allusion comprehension", "cultural knowledge", "meaning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-031",
+      "question_text": "Tone reflects the author's:",
+      "options": ["A. Physical voice", "B. Attitude toward the subject and audience", "C. Age", "D. Location"],
+      "correct_answer": "B",
+      "explanation": "Tone is the author's attitude expressed through word choice, style, and treatment of subject matter.",
+      "concept_tags": ["tone", "attitude", "author's voice"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-032",
+      "question_text": "Tone can be described using words like:",
+      "options": ["A. Blue, red, green", "B. Critical, enthusiastic, neutral, skeptical, reverent", "C. Loud, soft, medium", "D. Fast, slow, medium"],
+      "correct_answer": "B",
+      "explanation": "Tone descriptors convey attitude: serious/humorous, formal/informal, critical/supportive, confident/tentative, etc.",
+      "concept_tags": ["tone vocabulary", "attitude descriptors", "characterization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-033",
+      "question_text": "A shift in tone within a passage may indicate:",
+      "options": ["A. An error", "B. A change in focus, perspective, or the introduction of a counter-view", "C. Random variation", "D. Nothing significant"],
+      "correct_answer": "B",
+      "explanation": "Tone shifts often signal important structural changes—moving from describing to critiquing, or from agreement to objection.",
+      "concept_tags": ["tone shift", "structure", "analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-034",
+      "question_text": "The intended audience affects:",
+      "options": ["A. Only the length", "B. Vocabulary, tone, assumed knowledge, and argument approach", "C. Nothing important", "D. Only the topic"],
+      "correct_answer": "B",
+      "explanation": "Authors adjust their approach based on who they're writing for—what to explain, what to assume, and how to persuade.",
+      "concept_tags": ["audience", "adaptation", "rhetoric"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-035",
+      "question_text": "Academic audience suggests the author will likely:",
+      "options": ["A. Use simple vocabulary and avoid complexity", "B. Assume specialized knowledge and use formal style", "C. Tell personal stories primarily", "D. Avoid evidence and argument"],
+      "correct_answer": "B",
+      "explanation": "Academic audiences expect precision, formal register, specialized terminology, evidence, and engagement with scholarly debate.",
+      "concept_tags": ["academic audience", "style expectations", "formality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-036",
+      "question_text": "General audience suggests the author will likely:",
+      "options": ["A. Assume extensive prior knowledge", "B. Explain concepts and use accessible language", "C. Use unexplained jargon", "D. Write only for experts"],
+      "correct_answer": "B",
+      "explanation": "Writing for general audiences requires explaining specialized terms, avoiding jargon, and maintaining accessibility.",
+      "concept_tags": ["general audience", "accessibility", "explanation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-037",
+      "question_text": "Analyzing how the author develops their argument helps answer questions about:",
+      "options": ["A. Only vocabulary", "B. Structure, purpose, and rhetorical strategy", "C. Only the conclusion", "D. Publication date"],
+      "correct_answer": "B",
+      "explanation": "Understanding argument development illuminates structure, purpose, and strategies—key to many CARS questions.",
+      "concept_tags": ["argument development", "analysis", "structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-038",
+      "question_text": "When asked 'how does the author organize the passage,' focus on:",
+      "options": ["A. Word count per paragraph", "B. The logical structure and progression of ideas", "C. Punctuation only", "D. Font choices"],
+      "correct_answer": "B",
+      "explanation": "Organization questions ask about structure—how ideas are arranged, how paragraphs connect, and how the argument builds.",
+      "concept_tags": ["organization", "structure", "question type"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-039",
+      "question_text": "Common organizational patterns include:",
+      "options": ["A. Random arrangement only", "B. Compare/contrast, cause/effect, problem/solution, chronological", "C. No patterns exist", "D. Only alphabetical order"],
+      "correct_answer": "B",
+      "explanation": "Passages often follow recognizable patterns: comparing views, tracing causes and effects, presenting problems and solutions, or chronological development.",
+      "concept_tags": ["organizational patterns", "structure types", "analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-040",
+      "question_text": "A compare/contrast structure:",
+      "options": ["A. Avoids discussing relationships", "B. Examines similarities and differences between subjects", "C. Only describes one thing", "D. Tells a story"],
+      "correct_answer": "B",
+      "explanation": "Compare/contrast organization systematically examines how two or more subjects are alike and different.",
+      "concept_tags": ["compare contrast", "organizational pattern", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-041",
+      "question_text": "A problem/solution structure:",
+      "options": ["A. Ignores problems", "B. Presents an issue and proposes ways to address it", "C. Only describes solutions", "D. Avoids proposing anything"],
+      "correct_answer": "B",
+      "explanation": "Problem/solution organization identifies a problem, may analyze its causes, and proposes solutions or interventions.",
+      "concept_tags": ["problem solution", "organizational pattern", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-042",
+      "question_text": "A cause/effect structure:",
+      "options": ["A. Avoids explaining reasons", "B. Explains why something happens or what results from it", "C. Only lists events", "D. Focuses on problems only"],
+      "correct_answer": "B",
+      "explanation": "Cause/effect organization traces reasons and consequences—why things happen and what results from conditions or actions.",
+      "concept_tags": ["cause effect", "organizational pattern", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-043",
+      "question_text": "Identifying paragraph functions helps understand:",
+      "options": ["A. Only word meanings", "B. How each section contributes to the overall purpose", "C. Nothing significant", "D. Only the conclusion"],
+      "correct_answer": "B",
+      "explanation": "Each paragraph has a role (introduce, exemplify, counter, conclude). Understanding functions reveals overall structure.",
+      "concept_tags": ["paragraph function", "structure", "analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-044",
+      "question_text": "A passage that begins with a controversial claim is likely using:",
+      "options": ["A. A boring approach", "B. A hook to engage readers immediately", "C. Random organization", "D. Academic formality"],
+      "correct_answer": "B",
+      "explanation": "Opening with something provocative or controversial is a rhetorical strategy to hook readers and create interest.",
+      "concept_tags": ["opening strategy", "hook", "engagement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-045",
+      "question_text": "An author's choice to address counterarguments shows:",
+      "options": ["A. Weakness in their position", "B. Thorough consideration and attempt to strengthen their argument", "C. Confusion", "D. Agreement with opponents"],
+      "correct_answer": "B",
+      "explanation": "Addressing counterarguments demonstrates awareness of opposition and can strengthen an argument by showing how objections can be answered.",
+      "concept_tags": ["counterarguments", "rhetorical strategy", "strength"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-046",
+      "question_text": "When the author uses qualifying language ('perhaps,' 'might,' 'tends to'), they are:",
+      "options": ["A. Being vague and unsure", "B. Being precise and acknowledging complexity", "C. Making mistakes", "D. Weakening their argument"],
+      "correct_answer": "B",
+      "explanation": "Qualifications show intellectual precision—acknowledging that claims have limits or exceptions, which can strengthen credibility.",
+      "concept_tags": ["qualification", "precision", "nuance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-047",
+      "question_text": "The phrase 'the author employs' in a question signals analysis of:",
+      "options": ["A. Employment status", "B. Techniques, strategies, or devices the author uses", "C. Nothing specific", "D. The author's job"],
+      "correct_answer": "B",
+      "explanation": "'Employs' signals a rhetorical analysis question about what techniques or strategies the author uses and their effects.",
+      "concept_tags": ["question stems", "rhetorical analysis", "techniques"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-05-048",
+      "question_text": "Questions asking 'why does the author include' test understanding of:",
+      "options": ["A. Random details", "B. The purpose or function of specific content", "C. Only the first paragraph", "D. Sentence length"],
+      "correct_answer": "B",
+      "explanation": "These function questions ask about the purpose of including particular information—what role it plays in the argument.",
+      "concept_tags": ["function questions", "purpose", "analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-049",
+      "question_text": "Recognizing an author's persuasive intent helps you:",
+      "options": ["A. Ignore their argument", "B. Critically evaluate their strategies and potential biases", "C. Accept everything uncritically", "D. Skip the passage"],
+      "correct_answer": "B",
+      "explanation": "Recognizing persuasive intent allows critical evaluation of the author's strategies, assumptions, and potential biases.",
+      "concept_tags": ["critical reading", "persuasion", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-05-050",
+      "question_text": "Effective rhetorical analysis combines understanding of:",
+      "options": ["A. Only content", "B. Content, purpose, audience, and stylistic choices", "C. Only style", "D. Only the conclusion"],
+      "correct_answer": "B",
+      "explanation": "Complete rhetorical analysis considers what is said (content), why (purpose), for whom (audience), and how (style/strategy).",
+      "concept_tags": ["rhetorical analysis", "comprehensive approach", "integration"],
+      "difficulty": "medium"
+    }
+  ]
+}

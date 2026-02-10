@@ -1,0 +1,457 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 2,
+  "chapter_title": "Learning and Memory",
+  "questions": [
+    {
+      "id": "behavioral-sciences-02-001",
+      "question_text": "In Pavlov's classical conditioning experiments with dogs, what served as the unconditioned stimulus (US)?",
+      "options": ["A. The bell", "B. The food", "C. Salivation to the bell", "D. Salivation to food"],
+      "correct_answer": "B",
+      "explanation": "The unconditioned stimulus (US) is a stimulus that naturally and automatically triggers a response without prior learning. In Pavlov's experiments, food naturally caused the dogs to salivate, making it the unconditioned stimulus. The bell was the conditioned stimulus (CS), and salivation to the bell was the conditioned response (CR).",
+      "concept_tags": ["classical conditioning", "Pavlov", "unconditioned stimulus"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-002",
+      "question_text": "A child who was bitten by a dog now feels anxious whenever she sees any dog. This is an example of:",
+      "options": ["A. Stimulus discrimination", "B. Stimulus generalization", "C. Spontaneous recovery", "D. Higher-order conditioning"],
+      "correct_answer": "B",
+      "explanation": "Stimulus generalization occurs when a conditioned response is elicited by stimuli similar to the original conditioned stimulus. The child's anxiety response has generalized from the specific dog that bit her to all dogs. Stimulus discrimination would involve responding differently to similar stimuli.",
+      "concept_tags": ["classical conditioning", "stimulus generalization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-003",
+      "question_text": "After extinction of a conditioned response, the response reappears following a rest period. This phenomenon is called:",
+      "options": ["A. Reconditioning", "B. Stimulus generalization", "C. Spontaneous recovery", "D. Second-order conditioning"],
+      "correct_answer": "C",
+      "explanation": "Spontaneous recovery refers to the reappearance of an extinguished conditioned response after a period of rest. This suggests that extinction does not completely erase the learned association but rather suppresses it. The recovered response is typically weaker than the original conditioned response.",
+      "concept_tags": ["classical conditioning", "spontaneous recovery", "extinction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-004",
+      "question_text": "A rat learns to press a lever to receive food pellets. This is an example of:",
+      "options": ["A. Classical conditioning", "B. Operant conditioning", "C. Observational learning", "D. Habituation"],
+      "correct_answer": "B",
+      "explanation": "Operant conditioning involves learning through consequences. The rat's behavior (lever pressing) is strengthened because it is followed by a reinforcer (food). This differs from classical conditioning, where learning occurs through association between stimuli, not through consequences of behavior.",
+      "concept_tags": ["operant conditioning", "Skinner", "reinforcement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-005",
+      "question_text": "Which of the following is an example of negative reinforcement?",
+      "options": ["A. A child receives candy for cleaning their room", "B. A student loses phone privileges for poor grades", "C. Taking aspirin relieves a headache, increasing the likelihood of taking aspirin in the future", "D. An employee receives a bonus for meeting sales goals"],
+      "correct_answer": "C",
+      "explanation": "Negative reinforcement involves the removal of an aversive stimulus to increase a behavior. Taking aspirin removes the unpleasant headache, which increases the likelihood of taking aspirin again in the future. Options A and D are positive reinforcement (adding pleasant stimulus), and B is negative punishment (removing pleasant stimulus).",
+      "concept_tags": ["operant conditioning", "negative reinforcement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-006",
+      "question_text": "A slot machine that pays out unpredictably after varying numbers of plays uses which reinforcement schedule?",
+      "options": ["A. Fixed ratio", "B. Variable ratio", "C. Fixed interval", "D. Variable interval"],
+      "correct_answer": "B",
+      "explanation": "Variable ratio schedules provide reinforcement after an unpredictable number of responses. Slot machines exemplify this schedule, paying out after varying numbers of plays. This schedule produces high, steady rates of responding and is highly resistant to extinction, which is why gambling can be so addictive.",
+      "concept_tags": ["operant conditioning", "reinforcement schedules", "variable ratio"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-007",
+      "question_text": "Which reinforcement schedule would produce a 'scalloped' pattern of responding, with pauses after reinforcement followed by increased responding as the time for reinforcement approaches?",
+      "options": ["A. Fixed ratio", "B. Variable ratio", "C. Fixed interval", "D. Variable interval"],
+      "correct_answer": "C",
+      "explanation": "Fixed interval schedules produce a characteristic scalloped pattern of responding. After receiving reinforcement, the organism typically pauses, then gradually increases responding as the time for the next reinforcement approaches. An example is studying that increases as an exam date approaches.",
+      "concept_tags": ["operant conditioning", "reinforcement schedules", "fixed interval"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-008",
+      "question_text": "In Bandura's Bobo doll experiment, children who observed an adult behaving aggressively toward the doll:",
+      "options": ["A. Were less likely to imitate aggression due to fear", "B. Were more likely to imitate the aggressive behavior", "C. Showed no difference in aggression compared to controls", "D. Only imitated aggression if directly reinforced"],
+      "correct_answer": "B",
+      "explanation": "Bandura's Bobo doll experiment demonstrated observational learning (social learning). Children who observed adults acting aggressively toward the Bobo doll were significantly more likely to imitate that aggressive behavior, even without direct reinforcement. This showed that learning can occur through observation alone.",
+      "concept_tags": ["observational learning", "Bandura", "social learning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-009",
+      "question_text": "According to Bandura, which of the following is NOT a necessary component for observational learning to occur?",
+      "options": ["A. Attention", "B. Retention", "C. Direct reinforcement", "D. Motivation"],
+      "correct_answer": "C",
+      "explanation": "Bandura identified four components necessary for observational learning: attention (noticing the behavior), retention (remembering the behavior), reproduction (ability to perform the behavior), and motivation (desire to perform the behavior). Direct reinforcement is not required; learning can occur through observation alone, though reinforcement may affect whether the behavior is performed.",
+      "concept_tags": ["observational learning", "Bandura", "social learning theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-010",
+      "question_text": "The process of converting sensory information into a form that can be stored in memory is called:",
+      "options": ["A. Storage", "B. Retrieval", "C. Encoding", "D. Consolidation"],
+      "correct_answer": "C",
+      "explanation": "Encoding is the first stage of memory processing, involving the conversion of sensory input into a form that can be processed and stored by the memory system. Storage refers to maintaining information over time, and retrieval is accessing stored information. Consolidation is the process of stabilizing memories after initial encoding.",
+      "concept_tags": ["memory", "encoding"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-011",
+      "question_text": "Sensory memory for visual information is called:",
+      "options": ["A. Echoic memory", "B. Iconic memory", "C. Working memory", "D. Episodic memory"],
+      "correct_answer": "B",
+      "explanation": "Iconic memory is the sensory memory for visual information, lasting about 0.5 seconds. Echoic memory is sensory memory for auditory information, lasting 3-4 seconds. Working memory is a form of short-term memory that actively processes information. Episodic memory is a type of long-term memory for personal experiences.",
+      "concept_tags": ["sensory memory", "iconic memory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-012",
+      "question_text": "Without rehearsal, information in short-term memory typically lasts approximately:",
+      "options": ["A. 1-2 seconds", "B. 15-30 seconds", "C. 2-3 minutes", "D. 1 hour"],
+      "correct_answer": "B",
+      "explanation": "Short-term memory (STM) has a limited duration of approximately 15-30 seconds without rehearsal. Information in STM will decay unless it is actively rehearsed or encoded into long-term memory. Sensory memory lasts much shorter (milliseconds to seconds), while long-term memory can last indefinitely.",
+      "concept_tags": ["short-term memory", "memory duration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-013",
+      "question_text": "George Miller's research on short-term memory capacity suggested that the average person can hold approximately how many items in short-term memory?",
+      "options": ["A. 3 plus or minus 1", "B. 5 plus or minus 2", "C. 7 plus or minus 2", "D. 12 plus or minus 3"],
+      "correct_answer": "C",
+      "explanation": "George Miller's famous 1956 paper 'The Magical Number Seven, Plus or Minus Two' established that short-term memory capacity is approximately 7 items (ranging from 5 to 9). This capacity can be expanded through chunking, which involves grouping individual items into larger meaningful units.",
+      "concept_tags": ["short-term memory", "memory capacity", "Miller"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-014",
+      "question_text": "Remembering your 18th birthday party is an example of which type of memory?",
+      "options": ["A. Semantic memory", "B. Episodic memory", "C. Procedural memory", "D. Implicit memory"],
+      "correct_answer": "B",
+      "explanation": "Episodic memory is the type of explicit (declarative) long-term memory that stores personal experiences and specific events, including the time and place they occurred. Semantic memory stores general knowledge and facts. Procedural memory stores motor skills and habits, and implicit memory refers to unconscious memories.",
+      "concept_tags": ["long-term memory", "episodic memory", "explicit memory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-015",
+      "question_text": "Knowing that Paris is the capital of France is an example of:",
+      "options": ["A. Episodic memory", "B. Semantic memory", "C. Procedural memory", "D. Sensory memory"],
+      "correct_answer": "B",
+      "explanation": "Semantic memory is a type of explicit (declarative) long-term memory that stores general knowledge, facts, and concepts independent of personal experience. Knowing that Paris is France's capital is factual knowledge stored in semantic memory. Episodic memory would involve remembering a personal trip to Paris.",
+      "concept_tags": ["long-term memory", "semantic memory", "explicit memory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-016",
+      "question_text": "A patient with damage to the hippocampus is most likely to have difficulty with:",
+      "options": ["A. Remembering how to ride a bicycle", "B. Forming new explicit memories", "C. Recalling emotional responses", "D. Performing previously learned motor skills"],
+      "correct_answer": "B",
+      "explanation": "The hippocampus is critical for the formation of new explicit (declarative) memories, including episodic and semantic memories. Damage to the hippocampus typically results in anterograde amnesia, the inability to form new explicit memories. Procedural memories (like riding a bike) are processed by other brain structures like the cerebellum and basal ganglia.",
+      "concept_tags": ["hippocampus", "explicit memory", "anterograde amnesia"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-017",
+      "question_text": "Which type of memory allows a person to ride a bicycle without consciously thinking about how to do it?",
+      "options": ["A. Episodic memory", "B. Semantic memory", "C. Procedural memory", "D. Working memory"],
+      "correct_answer": "C",
+      "explanation": "Procedural memory is a type of implicit (non-declarative) long-term memory that stores motor skills and habits. It allows for automatic performance of learned tasks like riding a bicycle, typing, or playing an instrument without conscious awareness of the steps involved.",
+      "concept_tags": ["long-term memory", "procedural memory", "implicit memory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-018",
+      "question_text": "The tendency to remember information better when tested in the same environment where it was learned is called:",
+      "options": ["A. State-dependent learning", "B. Context-dependent learning", "C. Encoding specificity", "D. The spacing effect"],
+      "correct_answer": "B",
+      "explanation": "Context-dependent learning refers to the phenomenon where recall is enhanced when the external environment during retrieval matches the environment during encoding. State-dependent learning specifically refers to internal states (mood, drug state). Encoding specificity is a broader principle encompassing both context and state-dependent effects.",
+      "concept_tags": ["memory retrieval", "context-dependent learning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-019",
+      "question_text": "A student who studied while drinking coffee performs better on an exam when drinking coffee than when not. This illustrates:",
+      "options": ["A. Context-dependent learning", "B. State-dependent learning", "C. The testing effect", "D. Proactive interference"],
+      "correct_answer": "B",
+      "explanation": "State-dependent learning occurs when memory retrieval is enhanced when the internal physiological or psychological state matches the state during encoding. The caffeine creates an internal state that, when matched during testing, facilitates recall. Context-dependent learning refers to external environmental cues rather than internal states.",
+      "concept_tags": ["memory retrieval", "state-dependent learning"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-020",
+      "question_text": "When previously learned information interferes with the recall of newly learned information, this is called:",
+      "options": ["A. Retroactive interference", "B. Proactive interference", "C. Retrograde amnesia", "D. Source monitoring error"],
+      "correct_answer": "B",
+      "explanation": "Proactive interference occurs when older memories interfere with the retrieval of newer memories (old disrupts new). For example, remembering your old phone number may interfere with recalling your new one. Retroactive interference is the opposite, where new learning interferes with old memories.",
+      "concept_tags": ["forgetting", "proactive interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-021",
+      "question_text": "Learning new material interferes with the recall of previously learned material. This is known as:",
+      "options": ["A. Proactive interference", "B. Retroactive interference", "C. Anterograde amnesia", "D. Decay theory"],
+      "correct_answer": "B",
+      "explanation": "Retroactive interference occurs when newly learned information interferes with the recall of previously learned information (new disrupts old). For example, learning a new phone number may make it harder to remember your old phone number. This differs from proactive interference, where old memories interfere with new learning.",
+      "concept_tags": ["forgetting", "retroactive interference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-022",
+      "question_text": "According to decay theory, forgetting occurs because:",
+      "options": ["A. New memories interfere with old memories", "B. Memory traces fade over time with disuse", "C. Memories are actively suppressed", "D. Retrieval cues are inadequate"],
+      "correct_answer": "B",
+      "explanation": "Decay theory proposes that memories fade or deteriorate over time due to the natural decay of memory traces in the brain. Without rehearsal or use, the physical or chemical changes in the brain that represent memories gradually weaken. This contrasts with interference theories that attribute forgetting to competition between memories.",
+      "concept_tags": ["forgetting", "decay theory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-023",
+      "question_text": "The inability to retrieve information from long-term memory due to inadequate retrieval cues is called:",
+      "options": ["A. Encoding failure", "B. Storage decay", "C. Retrieval failure", "D. Motivated forgetting"],
+      "correct_answer": "C",
+      "explanation": "Retrieval failure occurs when information is stored in long-term memory but cannot be accessed due to inadequate or inappropriate retrieval cues. The tip-of-the-tongue phenomenon is a common example. The memory exists but cannot be retrieved without proper cues. Encoding failure means the information was never properly encoded in the first place.",
+      "concept_tags": ["forgetting", "retrieval failure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-024",
+      "question_text": "A person can recognize a song from a list but cannot recall it without prompts. This demonstrates that:",
+      "options": ["A. Recognition is generally easier than recall", "B. Recall is generally easier than recognition", "C. The memory was never encoded", "D. The memory has completely decayed"],
+      "correct_answer": "A",
+      "explanation": "Recognition tasks are generally easier than recall tasks because recognition provides retrieval cues (the items themselves), while recall requires generating information with minimal cues. This difference is why multiple-choice tests are often easier than fill-in-the-blank tests. The memory is present but requires cues for retrieval.",
+      "concept_tags": ["memory retrieval", "recognition", "recall"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-025",
+      "question_text": "A researcher pairs a tone (CS) with a mild electric shock (US). After conditioning, the tone alone elicits fear. The researcher then repeatedly presents the tone without the shock until fear diminishes. When fear returns after a rest period, this demonstrates:",
+      "options": ["A. Acquisition", "B. Generalization", "C. Spontaneous recovery", "D. Second-order conditioning"],
+      "correct_answer": "C",
+      "explanation": "This describes spontaneous recovery, the reappearance of an extinguished conditioned response after a rest period. The fear response to the tone was extinguished through repeated presentations without the shock, but after rest, the fear partially returns. This indicates that extinction suppresses rather than erases the original learning.",
+      "concept_tags": ["classical conditioning", "extinction", "spontaneous recovery"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-026",
+      "question_text": "In operant conditioning, the process of reinforcing successive approximations of a desired behavior is called:",
+      "options": ["A. Chaining", "B. Shaping", "C. Discrimination training", "D. Extinction"],
+      "correct_answer": "B",
+      "explanation": "Shaping involves reinforcing successive approximations, or behaviors that increasingly resemble the target behavior. This technique is used to teach complex behaviors by breaking them into smaller steps and reinforcing progress toward the goal. It was developed by B.F. Skinner and is widely used in animal training and therapy.",
+      "concept_tags": ["operant conditioning", "shaping"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-027",
+      "question_text": "A child throws a tantrum in a store, and the parent gives in and buys the child candy. The parent's behavior of buying candy is reinforced by:",
+      "options": ["A. Positive reinforcement from the child's happiness", "B. Negative reinforcement from the cessation of the tantrum", "C. Positive punishment", "D. Negative punishment"],
+      "correct_answer": "B",
+      "explanation": "The parent's behavior is negatively reinforced because buying the candy removes the aversive stimulus (the tantrum). This increases the likelihood that the parent will buy candy in the future to stop tantrums. Meanwhile, the child's tantrum behavior is positively reinforced by receiving candy, creating a problematic cycle.",
+      "concept_tags": ["operant conditioning", "negative reinforcement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-028",
+      "question_text": "Which schedule of reinforcement produces the highest and most consistent rate of responding?",
+      "options": ["A. Fixed ratio", "B. Variable ratio", "C. Fixed interval", "D. Variable interval"],
+      "correct_answer": "B",
+      "explanation": "Variable ratio schedules produce the highest and most consistent rates of responding. Because reinforcement is unpredictable (based on an average number of responses), the organism maintains a high, steady rate of responding without the post-reinforcement pause seen in fixed schedules. This is why gambling is so compelling.",
+      "concept_tags": ["operant conditioning", "reinforcement schedules", "variable ratio"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-029",
+      "question_text": "A factory worker is paid for every 10 widgets produced. This is an example of which reinforcement schedule?",
+      "options": ["A. Fixed ratio", "B. Variable ratio", "C. Fixed interval", "D. Variable interval"],
+      "correct_answer": "A",
+      "explanation": "Fixed ratio schedules provide reinforcement after a fixed number of responses. Being paid for every 10 widgets is a fixed ratio of 10:1 (FR-10). This schedule typically produces high rates of responding with a brief pause after each reinforcement, known as a post-reinforcement pause.",
+      "concept_tags": ["operant conditioning", "reinforcement schedules", "fixed ratio"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-030",
+      "question_text": "A fisherman who catches fish at unpredictable times is on which reinforcement schedule?",
+      "options": ["A. Fixed ratio", "B. Variable ratio", "C. Fixed interval", "D. Variable interval"],
+      "correct_answer": "D",
+      "explanation": "Variable interval schedules provide reinforcement after varying amounts of time have passed. Fishing exemplifies this because fish are caught at unpredictable time intervals. This schedule produces slow, steady rates of responding without the scalloped pattern seen in fixed interval schedules.",
+      "concept_tags": ["operant conditioning", "reinforcement schedules", "variable interval"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-031",
+      "question_text": "In observational learning, which of the following would most increase the likelihood of imitation?",
+      "options": ["A. The model is punished for the behavior", "B. The observer has low self-efficacy", "C. The model is rewarded for the behavior", "D. The behavior is highly complex"],
+      "correct_answer": "C",
+      "explanation": "Vicarious reinforcement, observing a model being rewarded for a behavior, increases the likelihood that the observer will imitate the behavior. This is because the observer anticipates receiving similar rewards. Conversely, seeing a model punished (vicarious punishment) decreases imitation. This is a key principle in Bandura's social learning theory.",
+      "concept_tags": ["observational learning", "vicarious reinforcement", "Bandura"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-032",
+      "question_text": "The primacy effect in memory refers to the tendency to:",
+      "options": ["A. Remember the most recent items in a list", "B. Remember the first items in a list", "C. Remember items in the middle of a list", "D. Remember items that are emotionally significant"],
+      "correct_answer": "B",
+      "explanation": "The primacy effect is the tendency to better remember items at the beginning of a list because they have been rehearsed more and transferred to long-term memory. This contrasts with the recency effect, which is better recall of the most recent items due to their presence in short-term memory. Together, they form the serial position effect.",
+      "concept_tags": ["memory", "primacy effect", "serial position"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-033",
+      "question_text": "The recency effect is best explained by information remaining in:",
+      "options": ["A. Sensory memory", "B. Short-term memory", "C. Long-term memory", "D. Procedural memory"],
+      "correct_answer": "B",
+      "explanation": "The recency effect, improved recall for items at the end of a list, occurs because these items are still in short-term memory at the time of recall. Unlike early items (primacy effect), recent items haven't had time for extensive rehearsal but are still accessible in short-term memory. A delay before recall eliminates the recency effect.",
+      "concept_tags": ["memory", "recency effect", "short-term memory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-034",
+      "question_text": "Chunking improves memory by:",
+      "options": ["A. Increasing the duration of short-term memory", "B. Expanding the capacity of short-term memory through grouping", "C. Transferring information directly to long-term memory", "D. Reducing interference effects"],
+      "correct_answer": "B",
+      "explanation": "Chunking is a strategy that effectively expands short-term memory capacity by grouping individual items into larger meaningful units. While short-term memory can hold about 7 items, each item can be a chunk containing multiple pieces of information. For example, remembering 149217761941 as three dates (1492, 1776, 1941) is easier than 12 individual digits.",
+      "concept_tags": ["short-term memory", "chunking", "memory strategies"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-035",
+      "question_text": "The levels of processing theory suggests that deeper processing leads to:",
+      "options": ["A. Faster encoding but poorer retention", "B. Better retention due to more meaningful encoding", "C. Increased short-term memory capacity", "D. Reduced interference effects"],
+      "correct_answer": "B",
+      "explanation": "The levels of processing theory, proposed by Craik and Lockhart, suggests that deeper, more meaningful processing of information leads to better memory retention. Shallow processing (focusing on physical features) produces weaker memories than deep processing (focusing on meaning and associations). This explains why elaborative rehearsal is more effective than maintenance rehearsal.",
+      "concept_tags": ["encoding", "levels of processing", "elaborative rehearsal"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-036",
+      "question_text": "Patient H.M., who had bilateral removal of his hippocampi, demonstrated that the hippocampus is essential for:",
+      "options": ["A. Emotional memory formation", "B. Formation of new procedural memories", "C. Formation of new declarative memories", "D. Retrieval of childhood memories"],
+      "correct_answer": "C",
+      "explanation": "Patient H.M. provided crucial evidence that the hippocampus is essential for forming new declarative (explicit) memories. After surgery, he could not form new episodic or semantic memories (anterograde amnesia) but could still learn new procedural skills and retained memories from before surgery. This dissociation revealed multiple memory systems in the brain.",
+      "concept_tags": ["hippocampus", "declarative memory", "amnesia"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-037",
+      "question_text": "The self-reference effect suggests that information is better remembered when:",
+      "options": ["A. It is repeated multiple times", "B. It is related to oneself", "C. It is presented visually", "D. It is learned just before sleep"],
+      "correct_answer": "B",
+      "explanation": "The self-reference effect demonstrates that information is better encoded and remembered when it is related to oneself. This supports levels of processing theory, as relating information to personal experiences involves deep, meaningful processing. Asking 'How does this apply to me?' while studying enhances memory retention.",
+      "concept_tags": ["encoding", "self-reference effect", "memory strategies"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-038",
+      "question_text": "A person with anterograde amnesia would have difficulty:",
+      "options": ["A. Remembering events before their brain injury", "B. Forming new long-term memories after their brain injury", "C. Performing previously learned motor skills", "D. Recognizing familiar faces"],
+      "correct_answer": "B",
+      "explanation": "Anterograde amnesia is the inability to form new long-term memories after the onset of amnesia. Patients can recall events from before their injury (intact retrograde memory) and often retain procedural memory abilities, but they cannot create new declarative memories. This typically results from hippocampal damage.",
+      "concept_tags": ["amnesia", "anterograde amnesia", "memory disorders"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-039",
+      "question_text": "Which of the following is an example of implicit memory?",
+      "options": ["A. Remembering your first day of college", "B. Knowing the definition of 'implicit'", "C. Improved performance on a task due to prior exposure, without conscious recall", "D. Recalling a list of words presented earlier"],
+      "correct_answer": "C",
+      "explanation": "Implicit memory refers to memory that influences behavior without conscious awareness. Priming, where prior exposure improves performance without conscious recall, is a classic example of implicit memory. Options A and D involve explicit episodic memory, and B involves explicit semantic memory.",
+      "concept_tags": ["implicit memory", "priming"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-040",
+      "question_text": "The misinformation effect demonstrates that:",
+      "options": ["A. Memories are highly accurate recordings of events", "B. Post-event information can alter memories", "C. Eyewitness testimony is always reliable", "D. Memory is immune to suggestion"],
+      "correct_answer": "B",
+      "explanation": "The misinformation effect, studied extensively by Elizabeth Loftus, shows that memories can be altered by information received after an event. Misleading questions or false information can be incorporated into memory, causing people to 'remember' events differently than they occurred. This has major implications for eyewitness testimony reliability.",
+      "concept_tags": ["memory distortion", "misinformation effect", "Loftus"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-041",
+      "question_text": "A researcher presents a list of words (bed, rest, tired, dream, wake) and later asks participants if 'sleep' was on the list. Many incorrectly say yes. This demonstrates:",
+      "options": ["A. Proactive interference", "B. Retroactive interference", "C. False memory formation", "D. Encoding failure"],
+      "correct_answer": "C",
+      "explanation": "This is the DRM (Deese-Roediger-McDermott) paradigm demonstrating false memory formation. Participants falsely remember semantically related words (like 'sleep') that were never presented. This shows that memory is constructive, not a perfect recording, and can incorporate inferences and associations that feel like genuine memories.",
+      "concept_tags": ["false memory", "memory distortion"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-02-042",
+      "question_text": "According to the Atkinson-Shiffrin model, what is the correct sequence of memory stages?",
+      "options": ["A. Short-term memory, sensory memory, long-term memory", "B. Sensory memory, long-term memory, short-term memory", "C. Sensory memory, short-term memory, long-term memory", "D. Long-term memory, short-term memory, sensory memory"],
+      "correct_answer": "C",
+      "explanation": "The Atkinson-Shiffrin model (multi-store model) proposes that information flows through three distinct stages: sensory memory (brief storage of sensory input), short-term memory (limited capacity and duration), and long-term memory (relatively permanent storage). Information must be attended to and rehearsed to move through these stages.",
+      "concept_tags": ["memory models", "Atkinson-Shiffrin model"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-02-043",
+      "question_text": "Working memory differs from the traditional concept of short-term memory in that working memory:",
+      "options": ["A. Has unlimited capacity", "B. Actively processes and manipulates information", "C. Only stores verbal information", "D. Has a longer duration"],
+      "correct_answer": "B",
+      "explanation": "Baddeley's working memory model reconceptualized short-term memory as an active system that not only stores but also manipulates information. It includes multiple components: the phonological loop (verbal), visuospatial sketchpad (visual), episodic buffer (integration), and central executive (attention control). This differs from the passive storage view of traditional short-term memory.",
+      "concept_tags": ["working memory", "Baddeley", "memory models"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-02-044",
+      "question_text": "According to Baddeley's model, which component of working memory is responsible for verbal rehearsal?",
+      "options": ["A. Central executive", "B. Visuospatial sketchpad", "C. Phonological loop", "D. Episodic buffer"],
+      "correct_answer": "C",
+      "explanation": "The phonological loop is the component of Baddeley's working memory model that handles verbal and acoustic information through rehearsal. It consists of the phonological store (holds speech-based information) and the articulatory rehearsal process (inner voice that rehearses information). The visuospatial sketchpad handles visual and spatial information.",
+      "concept_tags": ["working memory", "phonological loop", "Baddeley"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-02-045",
+      "question_text": "In classical conditioning, what is the relationship between the timing of the CS and US that produces the strongest conditioning?",
+      "options": ["A. Simultaneous presentation", "B. CS presented briefly before US (forward conditioning)", "C. US presented before CS (backward conditioning)", "D. Random presentation of CS and US"],
+      "correct_answer": "B",
+      "explanation": "Forward conditioning, where the CS is presented shortly before the US (typically 0.5 seconds), produces the strongest conditioning. This timing allows the CS to predict the US, which is essential for learning the association. Simultaneous and backward conditioning produce weaker conditioning because they don't establish the CS as a reliable predictor of the US.",
+      "concept_tags": ["classical conditioning", "CS-US timing"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-02-046",
+      "question_text": "A patient can learn to trace a figure while looking in a mirror (mirror tracing task) despite having no conscious memory of previous practice sessions. This dissociation suggests:",
+      "options": ["A. The patient has intact procedural memory but impaired declarative memory", "B. The patient has intact declarative memory but impaired procedural memory", "C. Both memory systems are impaired", "D. Memory is a unitary system"],
+      "correct_answer": "A",
+      "explanation": "This dissociation demonstrates that procedural memory (motor learning) and declarative memory (conscious recall) are separate systems. Patients with hippocampal damage (like H.M.) show normal procedural learning despite severe declarative memory impairment. This provides evidence for multiple memory systems localized in different brain regions.",
+      "concept_tags": ["procedural memory", "declarative memory", "memory systems"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-02-047",
+      "question_text": "The concept of biological preparedness in classical conditioning suggests that:",
+      "options": ["A. All associations are learned with equal ease", "B. Some associations are learned more readily due to evolutionary significance", "C. Classical conditioning only works with biological stimuli", "D. Preparation before conditioning sessions improves learning"],
+      "correct_answer": "B",
+      "explanation": "Biological preparedness, proposed by Seligman, suggests that organisms are evolutionarily predisposed to learn certain associations more readily than others. For example, taste aversions are learned quickly (even with long CS-US delays) because associating food with illness has survival value. This contradicts the behaviorist view that all associations are learned equally.",
+      "concept_tags": ["classical conditioning", "biological preparedness", "Seligman"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-02-048",
+      "question_text": "The phenomenon where a single pairing of a novel food with nausea leads to strong, long-lasting aversion to that food is called:",
+      "options": ["A. Stimulus generalization", "B. One-trial learning", "C. Taste aversion (Garcia effect)", "D. Overshadowing"],
+      "correct_answer": "C",
+      "explanation": "Taste aversion, or the Garcia effect, demonstrates that strong conditioned responses to food can be acquired in a single trial with long delays between the CS (taste) and US (nausea). John Garcia's research challenged traditional conditioning assumptions and supported biological preparedness, showing that organisms are 'prepared' to associate tastes with illness.",
+      "concept_tags": ["classical conditioning", "taste aversion", "Garcia effect"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-02-049",
+      "question_text": "The spacing effect suggests that studying is most effective when:",
+      "options": ["A. All studying is done in one long session", "B. Study sessions are distributed over time", "C. Studying occurs immediately before the test", "D. Material is studied silently rather than aloud"],
+      "correct_answer": "B",
+      "explanation": "The spacing effect (distributed practice) demonstrates that learning is more effective when study sessions are spread out over time rather than concentrated in one session (massed practice). Spaced practice leads to better long-term retention because it requires repeated retrieval and strengthens memory traces through multiple encoding opportunities.",
+      "concept_tags": ["memory strategies", "spacing effect", "distributed practice"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-02-050",
+      "question_text": "Retrograde amnesia primarily affects:",
+      "options": ["A. The ability to form new memories after brain injury", "B. Memories formed before brain injury", "C. Procedural memories only", "D. Short-term memory only"],
+      "correct_answer": "B",
+      "explanation": "Retrograde amnesia involves the loss of memories formed before the onset of amnesia, typically caused by brain injury or trauma. The memory loss often follows a temporal gradient, with older memories being more preserved than recent ones (Ribot's law). This contrasts with anterograde amnesia, which affects the formation of new memories after injury.",
+      "concept_tags": ["amnesia", "retrograde amnesia", "memory disorders"],
+      "difficulty": "medium"
+    }
+  ]
+}

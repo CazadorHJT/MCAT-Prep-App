@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": "biology",
+      "name": "KAPLAN MCAT BIOLOGY REVIEW 2024-2025",
+      "epub_pattern": "KAPLAN MCAT BIOLOGY REVIEW"
+    },
+    {
+      "id": "physics-math",
+      "name": "KAPLAN MCAT PHYSICS AND MATH REVIEW 2024-2025",
+      "epub_pattern": "KAPLAN MCAT PHYSICS AND MATH REVIEW"
+    },
+    {
+      "id": "biochemistry",
+      "name": "MCAT Biochemistry Review 2022-2023",
+      "epub_pattern": "MCAT Biochemistry Review"
+    },
+    {
+      "id": "behavioral-sciences",
+      "name": "MCAT Behavioral Sciences Review 2023-2024",
+      "epub_pattern": "MCAT Behavioral Sciences Review"
+    },
+    {
+      "id": "general-chemistry",
+      "name": "MCAT General Chemistry Review 2024-2025",
+      "epub_pattern": "MCAT general chemistry review"
+    },
+    {
+      "id": "organic-chemistry",
+      "name": "MCAT Organic Chemistry Review 2024-2025",
+      "epub_pattern": "MCAT Organic Chemistry Review"
+    },
+    {
+      "id": "cars",
+      "name": "MCAT Critical Analysis and Reasoning Skills Review",
+      "epub_pattern": "MCAT Critical Analysis and Reasoning Skills Review"
+    }
+  ]
+}

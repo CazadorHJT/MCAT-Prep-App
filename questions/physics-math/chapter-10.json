@@ -1,0 +1,847 @@
+{
+  "book": "physics-math",
+  "chapter": 10,
+  "chapter_title": "Math Skills",
+  "questions": [
+    {
+      "id": "physics-math-10-001",
+      "question_text": "What is the value of log(1000)?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 10"
+      ],
+      "correct_answer": "C",
+      "explanation": "log(1000) = log(10^3) = 3. For common logarithms (base 10), log(10^n) = n. This is essential for pH calculations and exponential growth/decay problems on the MCAT.",
+      "concept_tags": ["logarithms", "math-skills", "base-10"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-002",
+      "question_text": "If log(x) = -2, what is x?",
+      "options": [
+        "A. -2",
+        "B. 0.01",
+        "C. 100",
+        "D. -100"
+      ],
+      "correct_answer": "B",
+      "explanation": "If log(x) = -2, then x = 10^(-2) = 0.01. Negative logarithms indicate numbers less than 1. This relationship is crucial for understanding pH, where pH = -log[H+].",
+      "concept_tags": ["logarithms", "exponentials", "math-skills"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-003",
+      "question_text": "What is sin(30 degrees)?",
+      "options": [
+        "A. 0",
+        "B. 0.5",
+        "C. 0.707",
+        "D. 0.866"
+      ],
+      "correct_answer": "B",
+      "explanation": "sin(30) = 0.5 or 1/2. This is one of the special angles you must memorize: sin(0) = 0, sin(30) = 0.5, sin(45) = 0.707, sin(60) = 0.866, sin(90) = 1.",
+      "concept_tags": ["trigonometry", "sine", "special-angles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-004",
+      "question_text": "Express 0.000045 in scientific notation:",
+      "options": [
+        "A. 4.5 x 10^-5",
+        "B. 4.5 x 10^-4",
+        "C. 45 x 10^-6",
+        "D. 0.45 x 10^-4"
+      ],
+      "correct_answer": "A",
+      "explanation": "0.000045 = 4.5 x 10^-5. Move the decimal 5 places to the right to get 4.5, so the exponent is -5. Proper scientific notation has one digit before the decimal.",
+      "concept_tags": ["scientific-notation", "math-skills", "decimal-conversion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-005",
+      "question_text": "Convert 5 kilometers to meters:",
+      "options": [
+        "A. 0.005 m",
+        "B. 50 m",
+        "C. 500 m",
+        "D. 5000 m"
+      ],
+      "correct_answer": "D",
+      "explanation": "1 km = 1000 m, so 5 km = 5 x 1000 = 5000 m. The prefix 'kilo' means 1000. Unit conversions are essential for solving physics problems correctly.",
+      "concept_tags": ["unit-conversions", "metric-prefixes", "math-skills"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-006",
+      "question_text": "If y is directly proportional to x, and y = 12 when x = 3, what is y when x = 5?",
+      "options": [
+        "A. 15",
+        "B. 20",
+        "C. 36",
+        "D. 60"
+      ],
+      "correct_answer": "B",
+      "explanation": "Direct proportionality means y = kx. From y = 12 and x = 3: k = 12/3 = 4. When x = 5: y = 4(5) = 20. Or use ratios: y2/y1 = x2/x1, so y2 = 12(5/3) = 20.",
+      "concept_tags": ["proportional-reasoning", "direct-proportion", "math-skills"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-007",
+      "question_text": "What is the approximate value of the square root of 50?",
+      "options": [
+        "A. 5",
+        "B. 7",
+        "C. 10",
+        "D. 25"
+      ],
+      "correct_answer": "B",
+      "explanation": "Square root of 49 = 7 and square root of 64 = 8, so square root of 50 is approximately 7.1. For MCAT estimation, knowing perfect squares (1, 4, 9, 16, 25, 36, 49, 64, 81, 100) is essential.",
+      "concept_tags": ["estimation", "square-roots", "approximation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-008",
+      "question_text": "Solve for x: 2x + 5 = 17",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 11",
+        "D. 22"
+      ],
+      "correct_answer": "B",
+      "explanation": "2x + 5 = 17. Subtract 5 from both sides: 2x = 12. Divide by 2: x = 6. Always perform the same operation on both sides of an equation.",
+      "concept_tags": ["algebra", "equation-solving", "linear-equations"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-009",
+      "question_text": "What is cos(60 degrees)?",
+      "options": [
+        "A. 0",
+        "B. 0.5",
+        "C. 0.707",
+        "D. 0.866"
+      ],
+      "correct_answer": "B",
+      "explanation": "cos(60) = 0.5 or 1/2. Note that cos(60) = sin(30) because sine and cosine are complementary: sin(x) = cos(90 - x). Memorize: cos(0) = 1, cos(30) = 0.866, cos(45) = 0.707, cos(60) = 0.5, cos(90) = 0.",
+      "concept_tags": ["trigonometry", "cosine", "special-angles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-010",
+      "question_text": "What is (3 x 10^4) x (2 x 10^3)?",
+      "options": [
+        "A. 6 x 10^7",
+        "B. 6 x 10^12",
+        "C. 5 x 10^7",
+        "D. 6 x 10^1"
+      ],
+      "correct_answer": "A",
+      "explanation": "When multiplying in scientific notation, multiply the coefficients (3 x 2 = 6) and add the exponents (4 + 3 = 7). Result: 6 x 10^7.",
+      "concept_tags": ["scientific-notation", "multiplication", "exponents"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-011",
+      "question_text": "The units of velocity can be expressed in terms of base SI units as:",
+      "options": [
+        "A. kg/s",
+        "B. m/s",
+        "C. kg*m/s",
+        "D. m/s^2"
+      ],
+      "correct_answer": "B",
+      "explanation": "Velocity = displacement/time, so its units are meters per second (m/s). Dimensional analysis confirms this: [length]/[time] = m/s. This is different from acceleration (m/s^2) or momentum (kg*m/s).",
+      "concept_tags": ["dimensional-analysis", "units", "velocity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-012",
+      "question_text": "What is ln(e^5)?",
+      "options": [
+        "A. e^5",
+        "B. 5e",
+        "C. 5",
+        "D. e"
+      ],
+      "correct_answer": "C",
+      "explanation": "ln(e^5) = 5 because the natural log (ln) is the inverse of e^x. In general, ln(e^n) = n. This property is essential for solving equations involving exponential growth and decay.",
+      "concept_tags": ["logarithms", "natural-log", "exponentials"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-013",
+      "question_text": "Convert 250 milliseconds to seconds:",
+      "options": [
+        "A. 0.025 s",
+        "B. 0.25 s",
+        "C. 2.5 s",
+        "D. 250,000 s"
+      ],
+      "correct_answer": "B",
+      "explanation": "1 millisecond = 10^-3 seconds = 0.001 s. So 250 ms = 250 x 0.001 = 0.25 s. The prefix 'milli' means 10^-3 or one-thousandth.",
+      "concept_tags": ["unit-conversions", "metric-prefixes", "time"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-014",
+      "question_text": "If y is inversely proportional to x, and y = 10 when x = 2, what is y when x = 5?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 25",
+        "D. 50"
+      ],
+      "correct_answer": "B",
+      "explanation": "Inverse proportionality means y = k/x. From y = 10 and x = 2: k = 10 x 2 = 20. When x = 5: y = 20/5 = 4. As x increases, y decreases in inverse proportion.",
+      "concept_tags": ["proportional-reasoning", "inverse-proportion", "math-skills"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-015",
+      "question_text": "What is the value of tan(45 degrees)?",
+      "options": [
+        "A. 0",
+        "B. 0.5",
+        "C. 1",
+        "D. undefined"
+      ],
+      "correct_answer": "C",
+      "explanation": "tan(45) = sin(45)/cos(45) = 0.707/0.707 = 1. For a 45-degree angle, the opposite and adjacent sides are equal, making the tangent ratio 1. Memorize: tan(0) = 0, tan(45) = 1, tan(90) = undefined.",
+      "concept_tags": ["trigonometry", "tangent", "special-angles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-016",
+      "question_text": "Solve for x: x^2 - 9 = 0",
+      "options": [
+        "A. x = 3 only",
+        "B. x = -3 only",
+        "C. x = 3 or x = -3",
+        "D. x = 9"
+      ],
+      "correct_answer": "C",
+      "explanation": "x^2 - 9 = 0 can be factored as (x + 3)(x - 3) = 0. This gives x = 3 or x = -3. Both positive and negative square roots satisfy this equation. In physics, choose the physically meaningful solution.",
+      "concept_tags": ["algebra", "quadratic-equations", "factoring"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-017",
+      "question_text": "What is (8 x 10^6) / (4 x 10^2)?",
+      "options": [
+        "A. 2 x 10^3",
+        "B. 2 x 10^4",
+        "C. 2 x 10^8",
+        "D. 32 x 10^4"
+      ],
+      "correct_answer": "B",
+      "explanation": "When dividing in scientific notation, divide the coefficients (8/4 = 2) and subtract the exponents (6 - 2 = 4). Result: 2 x 10^4.",
+      "concept_tags": ["scientific-notation", "division", "exponents"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-018",
+      "question_text": "The dimension of force in terms of mass (M), length (L), and time (T) is:",
+      "options": [
+        "A. MLT^-1",
+        "B. MLT^-2",
+        "C. ML^2T^-2",
+        "D. MT^-2"
+      ],
+      "correct_answer": "B",
+      "explanation": "Force = mass x acceleration = M x (L/T^2) = MLT^-2. This can be verified: 1 Newton = 1 kg*m/s^2. Dimensional analysis helps verify equations and derive relationships.",
+      "concept_tags": ["dimensional-analysis", "force", "units"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-019",
+      "question_text": "log(A) + log(B) equals:",
+      "options": [
+        "A. log(A + B)",
+        "B. log(AB)",
+        "C. log(A/B)",
+        "D. log(A)log(B)"
+      ],
+      "correct_answer": "B",
+      "explanation": "log(A) + log(B) = log(AB). This is the product rule for logarithms. Similarly, log(A) - log(B) = log(A/B). These rules are essential for manipulating logarithmic expressions on the MCAT.",
+      "concept_tags": ["logarithms", "log-rules", "math-skills"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-020",
+      "question_text": "A radioactive substance has a half-life of 4 hours. If you start with 100 g, how much remains after 12 hours?",
+      "options": [
+        "A. 12.5 g",
+        "B. 25 g",
+        "C. 33.3 g",
+        "D. 50 g"
+      ],
+      "correct_answer": "A",
+      "explanation": "12 hours = 3 half-lives (12/4 = 3). After each half-life, half remains: 100 -> 50 -> 25 -> 12.5 g. Or use the formula: N = N0(1/2)^n where n = number of half-lives.",
+      "concept_tags": ["exponentials", "half-life", "radioactive-decay"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-021",
+      "question_text": "Estimate the value of (98 x 52) without a calculator:",
+      "options": [
+        "A. approximately 5000",
+        "B. approximately 4000",
+        "C. approximately 6000",
+        "D. approximately 3000"
+      ],
+      "correct_answer": "A",
+      "explanation": "Round to easier numbers: 98 ~ 100 and 52 ~ 50. So 100 x 50 = 5000. The actual answer is 5096, so 5000 is an excellent estimate. Estimation is crucial for eliminating wrong MCAT answers.",
+      "concept_tags": ["estimation", "approximation", "mental-math"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-022",
+      "question_text": "Convert 1.5 x 10^-6 meters to micrometers:",
+      "options": [
+        "A. 0.0015 micrometers",
+        "B. 0.15 micrometers",
+        "C. 1.5 micrometers",
+        "D. 15 micrometers"
+      ],
+      "correct_answer": "C",
+      "explanation": "1 micrometer = 10^-6 m. So 1.5 x 10^-6 m = 1.5 x 10^-6 m x (1 micrometer / 10^-6 m) = 1.5 micrometers. The micro prefix represents 10^-6.",
+      "concept_tags": ["unit-conversions", "metric-prefixes", "scientific-notation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-023",
+      "question_text": "In a right triangle with angle theta, if the opposite side is 3 and the hypotenuse is 5, what is sin(theta)?",
+      "options": [
+        "A. 3/5",
+        "B. 4/5",
+        "C. 3/4",
+        "D. 5/3"
+      ],
+      "correct_answer": "A",
+      "explanation": "sin(theta) = opposite/hypotenuse = 3/5 = 0.6. This is a 3-4-5 right triangle. The adjacent side would be 4 (from Pythagorean theorem). SOH-CAH-TOA helps remember: Sine = Opposite/Hypotenuse.",
+      "concept_tags": ["trigonometry", "sine", "right-triangles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-024",
+      "question_text": "Solve for x: 3(x - 2) = 2(x + 4)",
+      "options": [
+        "A. 2",
+        "B. 10",
+        "C. 14",
+        "D. -2"
+      ],
+      "correct_answer": "C",
+      "explanation": "3(x - 2) = 2(x + 4). Distribute: 3x - 6 = 2x + 8. Subtract 2x from both sides: x - 6 = 8. Add 6: x = 14. Always check by substituting back.",
+      "concept_tags": ["algebra", "equation-solving", "distributive-property"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-025",
+      "question_text": "What is 10^3.5 approximately equal to?",
+      "options": [
+        "A. 350",
+        "B. 1500",
+        "C. 3162",
+        "D. 5000"
+      ],
+      "correct_answer": "C",
+      "explanation": "10^3.5 = 10^3 x 10^0.5 = 1000 x square root(10) = 1000 x 3.16 = 3160. Since 10^0.5 = square root of 10, and square root of 10 is approximately 3.16, the answer is approximately 3162.",
+      "concept_tags": ["exponentials", "estimation", "powers-of-ten"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-026",
+      "question_text": "If pressure is measured in Pascals (Pa) where 1 Pa = 1 N/m^2, what are the dimensions of pressure in terms of M, L, and T?",
+      "options": [
+        "A. ML^-1T^-2",
+        "B. MLT^-2",
+        "C. ML^2T^-2",
+        "D. MT^-2"
+      ],
+      "correct_answer": "A",
+      "explanation": "Pressure = Force/Area = (MLT^-2)/(L^2) = ML^-1T^-2. This can be verified: Pa = N/m^2 = (kg*m/s^2)/m^2 = kg/(m*s^2). Dimensional analysis confirms physical relationships.",
+      "concept_tags": ["dimensional-analysis", "pressure", "units"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-027",
+      "question_text": "What is log(0.001)?",
+      "options": [
+        "A. -3",
+        "B. -1",
+        "C. 3",
+        "D. 0.001"
+      ],
+      "correct_answer": "A",
+      "explanation": "log(0.001) = log(10^-3) = -3. Numbers less than 1 have negative logarithms. This is crucial for pH calculations: a [H+] of 0.001 M = 10^-3 M gives pH = 3.",
+      "concept_tags": ["logarithms", "negative-exponents", "math-skills"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-028",
+      "question_text": "For small angles (less than 10 degrees), which approximation is valid?",
+      "options": [
+        "A. sin(theta) ~ theta (in radians)",
+        "B. sin(theta) ~ 1",
+        "C. tan(theta) ~ 0",
+        "D. cos(theta) ~ 0"
+      ],
+      "correct_answer": "A",
+      "explanation": "For small angles in radians, sin(theta) ~ tan(theta) ~ theta, and cos(theta) ~ 1. This small angle approximation simplifies many physics problems involving pendulums, optics, and waves.",
+      "concept_tags": ["trigonometry", "small-angle-approximation", "estimation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-029",
+      "question_text": "The area under a velocity-time graph represents:",
+      "options": [
+        "A. acceleration",
+        "B. displacement",
+        "C. force",
+        "D. speed"
+      ],
+      "correct_answer": "B",
+      "explanation": "Area under v-t graph = integral of v*dt = displacement. This is because velocity x time = distance/displacement. The slope of a v-t graph gives acceleration. Graph interpretation is important for MCAT physics.",
+      "concept_tags": ["algebra", "graphs", "kinematics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-030",
+      "question_text": "Solve the quadratic equation x^2 - 5x + 6 = 0:",
+      "options": [
+        "A. x = 1 or x = 6",
+        "B. x = 2 or x = 3",
+        "C. x = -2 or x = -3",
+        "D. x = 5 or x = 6"
+      ],
+      "correct_answer": "B",
+      "explanation": "Factor: x^2 - 5x + 6 = (x - 2)(x - 3) = 0. So x = 2 or x = 3. Check: 2 + 3 = 5 (middle coefficient) and 2 x 3 = 6 (constant term).",
+      "concept_tags": ["algebra", "quadratic-equations", "factoring"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-031",
+      "question_text": "Convert 72 km/hr to m/s:",
+      "options": [
+        "A. 10 m/s",
+        "B. 20 m/s",
+        "C. 72 m/s",
+        "D. 259 m/s"
+      ],
+      "correct_answer": "B",
+      "explanation": "72 km/hr x (1000 m/km) x (1 hr/3600 s) = 72000/3600 = 20 m/s. Quick conversion: divide km/hr by 3.6 to get m/s. This is a common MCAT unit conversion.",
+      "concept_tags": ["unit-conversions", "velocity", "dimensional-analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-032",
+      "question_text": "If y varies as the square of x, and y = 20 when x = 2, what is y when x = 3?",
+      "options": [
+        "A. 30",
+        "B. 45",
+        "C. 60",
+        "D. 180"
+      ],
+      "correct_answer": "B",
+      "explanation": "y = kx^2. From y = 20 when x = 2: 20 = k(4), so k = 5. When x = 3: y = 5(9) = 45. Or use ratios: y2/y1 = (x2/x1)^2 = (3/2)^2 = 9/4, so y2 = 20(9/4) = 45.",
+      "concept_tags": ["proportional-reasoning", "quadratic-relationships", "math-skills"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-033",
+      "question_text": "What is e^0?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. e",
+        "D. undefined"
+      ],
+      "correct_answer": "B",
+      "explanation": "e^0 = 1. Any number raised to the power of 0 equals 1 (except 0^0 which is undefined in some contexts). This applies to all bases: 10^0 = 1, 2^0 = 1, etc.",
+      "concept_tags": ["exponentials", "exponent-rules", "math-skills"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-034",
+      "question_text": "A car travels 150 km in 2.5 hours. What is its average speed in m/s?",
+      "options": [
+        "A. 16.7 m/s",
+        "B. 60 m/s",
+        "C. 375 m/s",
+        "D. 6000 m/s"
+      ],
+      "correct_answer": "A",
+      "explanation": "Average speed = distance/time = 150 km / 2.5 hr = 60 km/hr. Convert to m/s: 60 / 3.6 = 16.7 m/s. Alternatively: 150,000 m / (2.5 x 3600 s) = 150,000/9000 = 16.7 m/s.",
+      "concept_tags": ["unit-conversions", "speed", "dimensional-analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-035",
+      "question_text": "The expression 2log(x) is equivalent to:",
+      "options": [
+        "A. log(2x)",
+        "B. log(x^2)",
+        "C. log(x) + log(2)",
+        "D. (log(x))^2"
+      ],
+      "correct_answer": "B",
+      "explanation": "2log(x) = log(x^2). This is the power rule for logarithms: n*log(x) = log(x^n). The coefficient becomes the exponent. This rule simplifies many logarithmic calculations.",
+      "concept_tags": ["logarithms", "log-rules", "algebra"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-036",
+      "question_text": "In a 3-4-5 right triangle, what is cos of the angle opposite the side of length 3?",
+      "options": [
+        "A. 3/5",
+        "B. 4/5",
+        "C. 3/4",
+        "D. 5/4"
+      ],
+      "correct_answer": "B",
+      "explanation": "For angle theta opposite the side of 3: adjacent = 4, hypotenuse = 5. cos(theta) = adjacent/hypotenuse = 4/5. The 3-4-5 triangle is the most common right triangle on the MCAT.",
+      "concept_tags": ["trigonometry", "cosine", "right-triangles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-037",
+      "question_text": "What is (2^3)(2^4)?",
+      "options": [
+        "A. 2^7",
+        "B. 2^12",
+        "C. 4^7",
+        "D. 4^12"
+      ],
+      "correct_answer": "A",
+      "explanation": "When multiplying powers with the same base, add the exponents: (2^3)(2^4) = 2^(3+4) = 2^7 = 128. This is a fundamental exponent rule.",
+      "concept_tags": ["exponentials", "exponent-rules", "algebra"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-038",
+      "question_text": "The slope of a position-time graph represents:",
+      "options": [
+        "A. acceleration",
+        "B. velocity",
+        "C. force",
+        "D. displacement"
+      ],
+      "correct_answer": "B",
+      "explanation": "Slope of x-t graph = dx/dt = velocity. A steeper slope means higher velocity. A horizontal line means zero velocity (at rest). A curved line indicates changing velocity (acceleration).",
+      "concept_tags": ["algebra", "graphs", "kinematics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-039",
+      "question_text": "Estimate the value of square root of 200:",
+      "options": [
+        "A. 10",
+        "B. 14",
+        "C. 20",
+        "D. 100"
+      ],
+      "correct_answer": "B",
+      "explanation": "sqrt(200) = sqrt(100 x 2) = 10 x sqrt(2) = 10 x 1.414 ~ 14.1. Alternatively, note that 14^2 = 196 and 15^2 = 225, so sqrt(200) is between 14 and 15, closer to 14.",
+      "concept_tags": ["estimation", "square-roots", "approximation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-040",
+      "question_text": "If F = kq1q2/r^2, what happens to F when r is tripled?",
+      "options": [
+        "A. F is tripled",
+        "B. F is reduced to 1/3",
+        "C. F is reduced to 1/9",
+        "D. F is multiplied by 9"
+      ],
+      "correct_answer": "C",
+      "explanation": "F is inversely proportional to r^2. If r becomes 3r, then F becomes F/(3^2) = F/9. This inverse square relationship appears in gravitational force, electrostatic force, and light intensity.",
+      "concept_tags": ["proportional-reasoning", "inverse-square-law", "math-skills"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-041",
+      "question_text": "Solve for t: v = v0 + at",
+      "options": [
+        "A. t = (v - v0)/a",
+        "B. t = (v + v0)/a",
+        "C. t = a(v - v0)",
+        "D. t = v - v0 - a"
+      ],
+      "correct_answer": "A",
+      "explanation": "Starting with v = v0 + at, subtract v0 from both sides: v - v0 = at. Then divide by a: t = (v - v0)/a. This algebraic manipulation is essential for physics problem solving.",
+      "concept_tags": ["algebra", "equation-solving", "kinematics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-042",
+      "question_text": "What is log(1)?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 10",
+        "D. undefined"
+      ],
+      "correct_answer": "A",
+      "explanation": "log(1) = 0 because 10^0 = 1. For any base, log_b(1) = 0 because b^0 = 1. This is why a solution with [H+] = 1 M has pH = 0.",
+      "concept_tags": ["logarithms", "math-skills", "properties"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-043",
+      "question_text": "Convert 37 degrees Celsius to Kelvin:",
+      "options": [
+        "A. -236 K",
+        "B. 236 K",
+        "C. 310 K",
+        "D. 373 K"
+      ],
+      "correct_answer": "C",
+      "explanation": "K = C + 273. So 37 C = 37 + 273 = 310 K. This is normal human body temperature. The Kelvin scale is essential for gas laws and thermodynamics.",
+      "concept_tags": ["unit-conversions", "temperature", "kelvin"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-10-044",
+      "question_text": "Using the quadratic formula, the solutions to ax^2 + bx + c = 0 are:",
+      "options": [
+        "A. x = (-b plus or minus sqrt(b^2 - 4ac)) / 2a",
+        "B. x = (b plus or minus sqrt(b^2 - 4ac)) / 2a",
+        "C. x = (-b plus or minus sqrt(b^2 + 4ac)) / 2a",
+        "D. x = (-b plus or minus sqrt(4ac - b^2)) / 2a"
+      ],
+      "correct_answer": "A",
+      "explanation": "The quadratic formula is x = (-b +/- sqrt(b^2 - 4ac)) / 2a. The discriminant (b^2 - 4ac) determines the nature of roots: positive gives two real solutions, zero gives one, negative gives complex solutions.",
+      "concept_tags": ["algebra", "quadratic-formula", "equation-solving"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-045",
+      "question_text": "If sin(theta) = 0.6 in a right triangle, what is cos(theta)?",
+      "options": [
+        "A. 0.4",
+        "B. 0.6",
+        "C. 0.8",
+        "D. 1.0"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using the Pythagorean identity: sin^2(theta) + cos^2(theta) = 1. So cos^2(theta) = 1 - 0.36 = 0.64. Therefore cos(theta) = 0.8. This is the 3-4-5 triangle (0.6 = 3/5, 0.8 = 4/5).",
+      "concept_tags": ["trigonometry", "pythagorean-identity", "sine-cosine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-046",
+      "question_text": "What is 10^-2 + 10^-3?",
+      "options": [
+        "A. 10^-5",
+        "B. 2 x 10^-5",
+        "C. 0.011",
+        "D. 0.0011"
+      ],
+      "correct_answer": "C",
+      "explanation": "10^-2 = 0.01 and 10^-3 = 0.001. Adding: 0.01 + 0.001 = 0.011. You cannot simply add exponents when adding numbers in scientific notation; you must convert to the same power of 10 first.",
+      "concept_tags": ["scientific-notation", "addition", "exponents"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-047",
+      "question_text": "A quantity doubles every 5 years. By what factor does it increase in 15 years?",
+      "options": [
+        "A. 3",
+        "B. 6",
+        "C. 8",
+        "D. 32"
+      ],
+      "correct_answer": "C",
+      "explanation": "15 years = 3 doubling periods. Factor = 2^3 = 8. After each doubling: 1 -> 2 -> 4 -> 8. Exponential growth/decay problems are common on the MCAT in biology and physics.",
+      "concept_tags": ["exponentials", "doubling-time", "growth"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-10-048",
+      "question_text": "The dimension of energy in terms of M, L, and T is:",
+      "options": [
+        "A. MLT^-1",
+        "B. MLT^-2",
+        "C. ML^2T^-2",
+        "D. ML^2T^-1"
+      ],
+      "correct_answer": "C",
+      "explanation": "Energy = Force x Distance = (MLT^-2)(L) = ML^2T^-2. This can be verified: 1 Joule = 1 N*m = 1 kg*m^2/s^2. Both kinetic energy (1/2mv^2) and potential energy (mgh) have these dimensions.",
+      "concept_tags": ["dimensional-analysis", "energy", "units"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-049",
+      "question_text": "Simplify: (x^3 * y^2) / (x * y^4)",
+      "options": [
+        "A. x^2 / y^2",
+        "B. x^2 * y^2",
+        "C. x^4 / y^6",
+        "D. x^3 / y^2"
+      ],
+      "correct_answer": "A",
+      "explanation": "When dividing, subtract exponents: x^(3-1) * y^(2-4) = x^2 * y^-2 = x^2/y^2. Negative exponents move terms to the denominator.",
+      "concept_tags": ["algebra", "exponent-rules", "simplification"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-050",
+      "question_text": "If pH = -log[H+] and a solution has pH = 4.5, what is the approximate [H+]?",
+      "options": [
+        "A. 4.5 x 10^-1 M",
+        "B. 3 x 10^-5 M",
+        "C. 3 x 10^-4 M",
+        "D. 1 x 10^-4.5 M"
+      ],
+      "correct_answer": "B",
+      "explanation": "[H+] = 10^-pH = 10^-4.5 = 10^-5 x 10^0.5 = 10^-5 x 3.16 ~ 3 x 10^-5 M. For non-integer pH values, recognize that 10^0.5 ~ 3. So pH 4.5 gives [H+] between 10^-4 and 10^-5, closer to 10^-5.",
+      "concept_tags": ["logarithms", "pH", "exponentials"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-051",
+      "question_text": "A right triangle has legs of length a and b. If a = 5 and the hypotenuse c = 13, what is b?",
+      "options": [
+        "A. 8",
+        "B. 10",
+        "C. 12",
+        "D. 18"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using Pythagorean theorem: a^2 + b^2 = c^2. So 25 + b^2 = 169. b^2 = 144. b = 12. This is a 5-12-13 right triangle, another common Pythagorean triple to memorize.",
+      "concept_tags": ["trigonometry", "pythagorean-theorem", "right-triangles"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-052",
+      "question_text": "What is the value of ln(e^2 * e^3)?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. e^5",
+        "D. e^6"
+      ],
+      "correct_answer": "A",
+      "explanation": "ln(e^2 * e^3) = ln(e^5) = 5. Or use log rules: ln(e^2) + ln(e^3) = 2 + 3 = 5. The natural log and exponential are inverse functions: ln(e^x) = x.",
+      "concept_tags": ["logarithms", "natural-log", "exponent-rules"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-053",
+      "question_text": "Estimate (6.02 x 10^23) / (3 x 10^8):",
+      "options": [
+        "A. 2 x 10^15",
+        "B. 2 x 10^31",
+        "C. 2 x 10^14",
+        "D. 18 x 10^15"
+      ],
+      "correct_answer": "A",
+      "explanation": "Divide coefficients: 6.02/3 ~ 2. Subtract exponents: 23 - 8 = 15. Result: 2 x 10^15. This type of estimation with Avogadro's number is common on the MCAT.",
+      "concept_tags": ["estimation", "scientific-notation", "division"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-054",
+      "question_text": "If the volume of a sphere is V = (4/3)pi*r^3, by what factor does the volume change if the radius doubles?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 6",
+        "D. 8"
+      ],
+      "correct_answer": "D",
+      "explanation": "V is proportional to r^3. If r doubles, V changes by factor of 2^3 = 8. This cubic relationship is important for understanding how volume scales with linear dimensions.",
+      "concept_tags": ["proportional-reasoning", "volume", "cubic-relationships"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-055",
+      "question_text": "Solve for x: e^x = 100",
+      "options": [
+        "A. x = 2",
+        "B. x = 4.6",
+        "C. x = 10",
+        "D. x = 100"
+      ],
+      "correct_answer": "B",
+      "explanation": "Take natural log of both sides: x = ln(100) = ln(10^2) = 2*ln(10) = 2(2.3) = 4.6. Remember that ln(10) ~ 2.3. This is useful for growth/decay calculations.",
+      "concept_tags": ["exponentials", "natural-log", "equation-solving"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-056",
+      "question_text": "What is sin(150 degrees)?",
+      "options": [
+        "A. -0.5",
+        "B. 0.5",
+        "C. 0.866",
+        "D. -0.866"
+      ],
+      "correct_answer": "B",
+      "explanation": "150 degrees = 180 - 30 degrees. sin(150) = sin(180 - 30) = sin(30) = 0.5. In the second quadrant, sine is positive. Reference angle is 30 degrees.",
+      "concept_tags": ["trigonometry", "reference-angles", "quadrants"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-057",
+      "question_text": "If power P = I^2R, and both current I and resistance R are doubled, by what factor does P change?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 8",
+        "D. 16"
+      ],
+      "correct_answer": "C",
+      "explanation": "P = I^2R. If I -> 2I and R -> 2R, then P -> (2I)^2(2R) = 4I^2 * 2R = 8I^2R = 8P. The power increases by a factor of 8.",
+      "concept_tags": ["proportional-reasoning", "power", "algebra"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-058",
+      "question_text": "Convert 1 atmosphere (atm) to Pascals (Pa), given that 1 atm = 101,325 Pa. Express in scientific notation:",
+      "options": [
+        "A. 1.01 x 10^3 Pa",
+        "B. 1.01 x 10^5 Pa",
+        "C. 1.01 x 10^6 Pa",
+        "D. 1.01 x 10^2 Pa"
+      ],
+      "correct_answer": "B",
+      "explanation": "101,325 Pa = 1.01325 x 10^5 Pa ~ 1.01 x 10^5 Pa. This conversion is important for gas law problems. Remember: 1 atm ~ 10^5 Pa.",
+      "concept_tags": ["unit-conversions", "pressure", "scientific-notation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-059",
+      "question_text": "The equation ln(N/N0) = -kt can be rewritten as:",
+      "options": [
+        "A. N = N0 * e^(kt)",
+        "B. N = N0 * e^(-kt)",
+        "C. N = N0 / e^(-kt)",
+        "D. N = N0 - e^(kt)"
+      ],
+      "correct_answer": "B",
+      "explanation": "Starting with ln(N/N0) = -kt, exponentiate both sides: N/N0 = e^(-kt). Multiply by N0: N = N0*e^(-kt). This is the exponential decay equation, used in radioactive decay and drug kinetics.",
+      "concept_tags": ["exponentials", "logarithms", "decay-equations"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-10-060",
+      "question_text": "A formula states that T = 2*pi*sqrt(m/k). To double T, by what factor must m change (keeping k constant)?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. sqrt(2)",
+        "D. 1/2"
+      ],
+      "correct_answer": "B",
+      "explanation": "T is proportional to sqrt(m). If T doubles, then sqrt(m) must double, meaning m must increase by factor of 2^2 = 4. This relationship applies to mass-spring oscillators.",
+      "concept_tags": ["proportional-reasoning", "square-root-relationships", "algebra"],
+      "difficulty": "hard"
+    }
+  ]
+}

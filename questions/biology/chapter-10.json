@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 10,
+  "chapter_title": "Homeostasis (Excretory System and Skin)",
+  "questions": [
+    {
+      "id": "biology-10-001",
+      "question_text": "The functional unit of the kidney responsible for filtering blood and producing urine is the:",
+      "options": [
+        "A. Glomerulus",
+        "B. Nephron",
+        "C. Collecting duct",
+        "D. Renal pelvis"
+      ],
+      "correct_answer": "B",
+      "explanation": "The nephron is the functional unit of the kidney, consisting of the glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule, and collecting duct. While the glomerulus performs filtration, it is only one component of the nephron. The collecting duct receives filtrate from multiple nephrons, and the renal pelvis collects urine before it enters the ureter.",
+      "concept_tags": ["nephron", "kidney-anatomy", "renal-physiology"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-002",
+      "question_text": "Blood enters the glomerulus through the afferent arteriole and exits through the efferent arteriole. What is the primary significance of having two arterioles rather than an arteriole and a venule?",
+      "options": [
+        "A. It allows blood to bypass the glomerulus when needed",
+        "B. It maintains high hydrostatic pressure for filtration",
+        "C. It prevents backflow of filtered substances",
+        "D. It increases the oxygen delivery to nephron cells"
+      ],
+      "correct_answer": "B",
+      "explanation": "The presence of two arterioles (afferent and efferent) rather than an arteriole-venule arrangement maintains high hydrostatic pressure within the glomerular capillaries. This high pressure is essential for driving glomerular filtration. The efferent arteriole has a smaller diameter than the afferent arteriole, which further increases pressure within the glomerulus.",
+      "concept_tags": ["glomerulus", "filtration", "renal-blood-flow", "hydrostatic-pressure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-003",
+      "question_text": "Which of the following substances would NOT normally be found in the glomerular filtrate of a healthy individual?",
+      "options": [
+        "A. Glucose",
+        "B. Amino acids",
+        "C. Plasma proteins",
+        "D. Sodium ions"
+      ],
+      "correct_answer": "C",
+      "explanation": "Plasma proteins are too large to pass through the glomerular filtration membrane under normal conditions. The filtration membrane allows passage of water, ions, glucose, amino acids, urea, and other small molecules while retaining blood cells and most proteins. Presence of proteins in urine (proteinuria) indicates glomerular damage.",
+      "concept_tags": ["glomerular-filtration", "filtration-membrane", "proteinuria"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-004",
+      "question_text": "The proximal convoluted tubule reabsorbs approximately what percentage of the glomerular filtrate?",
+      "options": [
+        "A. 25%",
+        "B. 50%",
+        "C. 65-70%",
+        "D. 90%"
+      ],
+      "correct_answer": "C",
+      "explanation": "The proximal convoluted tubule (PCT) is the site of the majority of reabsorption, recovering approximately 65-70% of the filtered water, sodium, and other solutes. This includes nearly all filtered glucose and amino acids under normal conditions. The PCT has microvilli to increase surface area and numerous mitochondria to power active transport.",
+      "concept_tags": ["proximal-convoluted-tubule", "reabsorption", "nephron-function"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-005",
+      "question_text": "A patient presents with glucose in their urine despite having normal blood glucose levels. This condition most likely results from:",
+      "options": [
+        "A. Diabetes mellitus",
+        "B. A defect in glucose transporters in the PCT",
+        "C. Excess ADH secretion",
+        "D. Glomerulonephritis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Glucosuria (glucose in urine) with normal blood glucose suggests a defect in the reabsorption mechanism rather than excess glucose overwhelming the transport maximum. The PCT uses SGLT2 (sodium-glucose cotransporter 2) and GLUT2 carriers to reabsorb glucose. Diabetes mellitus would cause high blood glucose. ADH affects water reabsorption, not glucose. Glomerulonephritis would cause protein in urine.",
+      "concept_tags": ["glucose-reabsorption", "transport-maximum", "renal-threshold", "glucosuria"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-006",
+      "question_text": "The descending limb of the loop of Henle is permeable to which of the following?",
+      "options": [
+        "A. Water only",
+        "B. Sodium only",
+        "C. Both water and sodium",
+        "D. Neither water nor sodium"
+      ],
+      "correct_answer": "A",
+      "explanation": "The thin descending limb of the loop of Henle is permeable to water but impermeable to sodium and other solutes. As filtrate descends into the hypertonic medulla, water moves out by osmosis, concentrating the tubular fluid. This is a critical step in the countercurrent multiplication system that allows the kidney to produce concentrated urine.",
+      "concept_tags": ["loop-of-henle", "water-permeability", "countercurrent-multiplication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-007",
+      "question_text": "The thick ascending limb of the loop of Henle actively transports sodium out of the tubular fluid. This segment is often called the 'diluting segment' because:",
+      "options": [
+        "A. It is permeable to water, allowing dilution of the filtrate",
+        "B. It removes solutes but is impermeable to water, making the filtrate hypotonic",
+        "C. It secretes additional water into the tubule",
+        "D. ADH acts here to dilute the urine"
+      ],
+      "correct_answer": "B",
+      "explanation": "The thick ascending limb actively transports NaCl out of the tubular fluid but is impermeable to water. This creates a hypertonic medullary interstitium while making the tubular fluid progressively more dilute (hypotonic) as it ascends. This is why it's called the diluting segment. The water cannot follow the solutes, so the remaining fluid becomes diluted.",
+      "concept_tags": ["loop-of-henle", "diluting-segment", "sodium-reabsorption", "urine-concentration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-008",
+      "question_text": "Which diuretic drug class specifically inhibits the Na-K-2Cl cotransporter in the thick ascending limb?",
+      "options": [
+        "A. Thiazide diuretics",
+        "B. Loop diuretics",
+        "C. Potassium-sparing diuretics",
+        "D. Carbonic anhydrase inhibitors"
+      ],
+      "correct_answer": "B",
+      "explanation": "Loop diuretics (such as furosemide) specifically inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle. This prevents the establishment of the medullary concentration gradient, significantly reducing the kidney's ability to concentrate urine. Thiazides act on the DCT, potassium-sparing diuretics affect collecting duct channels, and carbonic anhydrase inhibitors act on the PCT.",
+      "concept_tags": ["loop-diuretics", "sodium-transport", "pharmacology", "diuretics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-009",
+      "question_text": "Antidiuretic hormone (ADH) is released from which structure?",
+      "options": [
+        "A. Anterior pituitary",
+        "B. Posterior pituitary",
+        "C. Hypothalamus",
+        "D. Adrenal cortex"
+      ],
+      "correct_answer": "B",
+      "explanation": "ADH (also called vasopressin) is synthesized in the hypothalamus but is released from the posterior pituitary gland. The posterior pituitary stores ADH in nerve terminals and releases it in response to signals from hypothalamic osmoreceptors detecting increased blood osmolarity or decreased blood volume. The anterior pituitary releases different hormones like FSH, LH, TSH, and ACTH.",
+      "concept_tags": ["adh", "posterior-pituitary", "hormone-release", "neuroendocrine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-010",
+      "question_text": "ADH increases water reabsorption in the collecting duct by:",
+      "options": [
+        "A. Increasing Na+ reabsorption, which draws water osmotically",
+        "B. Stimulating insertion of aquaporin-2 channels into the apical membrane",
+        "C. Decreasing the permeability of the medullary interstitium",
+        "D. Constricting the efferent arteriole"
+      ],
+      "correct_answer": "B",
+      "explanation": "ADH binds to V2 receptors on the basolateral membrane of collecting duct principal cells, triggering a cAMP cascade that causes aquaporin-2 water channels to be inserted into the apical (luminal) membrane. This increases water permeability, allowing water to move from the tubular fluid into the hypertonic medullary interstitium and back into the blood.",
+      "concept_tags": ["adh", "aquaporins", "water-reabsorption", "collecting-duct"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-011",
+      "question_text": "A patient produces large volumes of dilute urine despite having high serum osmolarity. Laboratory tests reveal normal ADH levels. The most likely diagnosis is:",
+      "options": [
+        "A. Central diabetes insipidus",
+        "B. Nephrogenic diabetes insipidus",
+        "C. Syndrome of inappropriate ADH secretion (SIADH)",
+        "D. Diabetes mellitus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Nephrogenic diabetes insipidus occurs when the kidneys fail to respond to ADH despite normal or elevated ADH levels. This results in inability to concentrate urine, causing polyuria and polydipsia with high serum osmolarity. Central diabetes insipidus involves inadequate ADH production. SIADH causes excess water retention and hyponatremia. Diabetes mellitus would show elevated blood glucose.",
+      "concept_tags": ["diabetes-insipidus", "adh-resistance", "polyuria", "urine-concentration"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-012",
+      "question_text": "Aldosterone is produced by which structure?",
+      "options": [
+        "A. Juxtaglomerular cells",
+        "B. Zona glomerulosa of the adrenal cortex",
+        "C. Zona fasciculata of the adrenal cortex",
+        "D. Adrenal medulla"
+      ],
+      "correct_answer": "B",
+      "explanation": "Aldosterone is a mineralocorticoid produced by the zona glomerulosa, the outermost layer of the adrenal cortex. The zona fasciculata produces glucocorticoids (cortisol), and the zona reticularis produces androgens. The adrenal medulla produces catecholamines (epinephrine and norepinephrine). Juxtaglomerular cells produce renin, not aldosterone.",
+      "concept_tags": ["aldosterone", "adrenal-cortex", "mineralocorticoids", "hormone-production"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-013",
+      "question_text": "The primary action of aldosterone on the kidney is to:",
+      "options": [
+        "A. Increase water reabsorption in the collecting duct",
+        "B. Increase sodium reabsorption and potassium secretion in the distal nephron",
+        "C. Stimulate renin release from juxtaglomerular cells",
+        "D. Increase glomerular filtration rate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Aldosterone acts on principal cells of the distal convoluted tubule and collecting duct to increase sodium reabsorption and potassium secretion. It does this by upregulating Na+/K+ ATPase pumps and epithelial sodium channels (ENaC). While this indirectly promotes water retention (water follows sodium), ADH is the primary hormone for direct water reabsorption.",
+      "concept_tags": ["aldosterone", "sodium-reabsorption", "potassium-secretion", "distal-nephron"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-014",
+      "question_text": "Which sequence correctly describes the renin-angiotensin-aldosterone system (RAAS)?",
+      "options": [
+        "A. Angiotensinogen -> Angiotensin I -> Angiotensin II -> Aldosterone release",
+        "B. Renin -> Angiotensin I -> ACE -> Aldosterone release",
+        "C. Angiotensin II -> Angiotensin I -> Renin -> Aldosterone release",
+        "D. Aldosterone -> Renin -> Angiotensin II -> Angiotensin I"
+      ],
+      "correct_answer": "A",
+      "explanation": "The RAAS cascade begins when renin (released from juxtaglomerular cells) cleaves angiotensinogen (from the liver) to form angiotensin I. Angiotensin-converting enzyme (ACE, primarily in lungs) then converts angiotensin I to angiotensin II. Angiotensin II stimulates aldosterone release from the adrenal cortex, among other effects like vasoconstriction.",
+      "concept_tags": ["raas", "renin", "angiotensin", "aldosterone", "blood-pressure-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-015",
+      "question_text": "Atrial natriuretic peptide (ANP) is released in response to:",
+      "options": [
+        "A. Decreased blood volume",
+        "B. Atrial stretch from increased blood volume",
+        "C. Low blood sodium levels",
+        "D. Activation of the sympathetic nervous system"
+      ],
+      "correct_answer": "B",
+      "explanation": "ANP is released from atrial myocytes in response to stretching caused by increased blood volume. Its effects oppose those of the RAAS: it promotes sodium excretion (natriuresis), increases GFR, inhibits renin release, and causes vasodilation. These actions help reduce blood volume and pressure when they are elevated.",
+      "concept_tags": ["anp", "natriuresis", "blood-volume-regulation", "cardiac-hormones"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-016",
+      "question_text": "The juxtaglomerular apparatus consists of which of the following structures?",
+      "options": [
+        "A. Macula densa and juxtaglomerular cells",
+        "B. Glomerulus and Bowman's capsule",
+        "C. Proximal and distal convoluted tubules",
+        "D. Loop of Henle and vasa recta"
+      ],
+      "correct_answer": "A",
+      "explanation": "The juxtaglomerular apparatus (JGA) consists of the macula densa (specialized cells in the wall of the distal convoluted tubule) and juxtaglomerular cells (modified smooth muscle cells in the afferent arteriole wall). The JGA monitors sodium chloride concentration in the tubular fluid and blood pressure, regulating renin release to control GFR and blood pressure.",
+      "concept_tags": ["juxtaglomerular-apparatus", "macula-densa", "renin-release", "kidney-anatomy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-017",
+      "question_text": "The vasa recta are specialized capillaries that run parallel to the loop of Henle. Their primary function is to:",
+      "options": [
+        "A. Filter blood to produce glomerular filtrate",
+        "B. Remove reabsorbed water and solutes without disrupting the medullary gradient",
+        "C. Secrete hydrogen ions for acid-base balance",
+        "D. Produce erythropoietin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The vasa recta are peritubular capillaries that function as countercurrent exchangers. They remove water and solutes reabsorbed by the loop of Henle and collecting duct while preserving the hyperosmotic medullary gradient. Their hairpin shape and slow blood flow allow equilibration with the surrounding interstitium without washing out the gradient needed for urine concentration.",
+      "concept_tags": ["vasa-recta", "countercurrent-exchange", "medullary-gradient", "renal-circulation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-018",
+      "question_text": "The countercurrent multiplier system in the kidney refers to:",
+      "options": [
+        "A. Blood flow through the vasa recta",
+        "B. The opposing flow directions in the descending and ascending limbs of the loop of Henle",
+        "C. Reabsorption in the proximal and distal convoluted tubules",
+        "D. The flow of urine through the ureters"
+      ],
+      "correct_answer": "B",
+      "explanation": "The countercurrent multiplier refers to the arrangement where fluid flows in opposite directions in the descending and ascending limbs of the loop of Henle. This system, combined with the different permeabilities of each segment, creates and maintains the hyperosmotic medullary interstitium necessary for concentrating urine. The vasa recta function as countercurrent exchangers (not multipliers) to preserve this gradient.",
+      "concept_tags": ["countercurrent-multiplier", "loop-of-henle", "urine-concentration", "medullary-gradient"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-019",
+      "question_text": "Which of the following correctly describes the osmolarity gradient in the renal medulla?",
+      "options": [
+        "A. 300 mOsm/L at the cortex, increasing to 1200 mOsm/L at the inner medulla",
+        "B. 1200 mOsm/L at the cortex, decreasing to 300 mOsm/L at the inner medulla",
+        "C. Uniform 600 mOsm/L throughout the medulla",
+        "D. 300 mOsm/L at the outer medulla, decreasing to 100 mOsm/L at the inner medulla"
+      ],
+      "correct_answer": "A",
+      "explanation": "The renal medulla has an osmolarity gradient ranging from approximately 300 mOsm/L (isotonic with plasma) at the corticomedullary junction to about 1200 mOsm/L at the papilla (inner medulla). This gradient is established by the countercurrent multiplier system and maintained by the countercurrent exchanger (vasa recta). It is essential for producing concentrated urine.",
+      "concept_tags": ["medullary-gradient", "osmolarity", "urine-concentration", "renal-physiology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-020",
+      "question_text": "Urea contributes to the medullary concentration gradient because:",
+      "options": [
+        "A. It is actively secreted into the loop of Henle",
+        "B. It recycles between the collecting duct and the thin ascending limb",
+        "C. It is completely reabsorbed in the proximal tubule",
+        "D. It inhibits ADH release"
+      ],
+      "correct_answer": "B",
+      "explanation": "Urea contributes significantly to the medullary hyperosmolarity through a recycling process. ADH increases urea permeability in the inner medullary collecting duct, allowing urea to enter the interstitium. Urea then enters the thin ascending limb and is carried to the cortex, only to return to the medulla via the collecting duct. This urea recycling accounts for about 50% of the inner medullary osmolarity.",
+      "concept_tags": ["urea-recycling", "medullary-gradient", "urine-concentration", "adh"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-021",
+      "question_text": "The kidneys regulate acid-base balance primarily by:",
+      "options": [
+        "A. Adjusting the respiratory rate",
+        "B. Reabsorbing bicarbonate and secreting hydrogen ions",
+        "C. Producing carbonic anhydrase in the lungs",
+        "D. Releasing aldosterone from the adrenal medulla"
+      ],
+      "correct_answer": "B",
+      "explanation": "The kidneys regulate acid-base balance by reabsorbing filtered bicarbonate (primarily in the PCT), secreting hydrogen ions into the tubular fluid, and generating new bicarbonate. These processes are slower than respiratory compensation but provide long-term regulation. The lungs adjust respiratory rate for rapid pH changes, while the kidneys handle chronic imbalances.",
+      "concept_tags": ["acid-base-balance", "bicarbonate-reabsorption", "hydrogen-secretion", "ph-regulation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-022",
+      "question_text": "In the proximal convoluted tubule, hydrogen ion secretion is primarily used for:",
+      "options": [
+        "A. Acidifying the urine to excrete acid",
+        "B. Reclaiming filtered bicarbonate",
+        "C. Generating new bicarbonate",
+        "D. Neutralizing ammonia"
+      ],
+      "correct_answer": "B",
+      "explanation": "In the PCT, hydrogen ion secretion serves primarily to reclaim filtered bicarbonate. H+ combines with filtered HCO3- in the lumen to form H2CO3, which dissociates into CO2 and H2O. CO2 diffuses into the cell, where carbonic anhydrase reforms H2CO3, which dissociates to provide HCO3- for transport to blood and H+ for continued secretion. This is reclamation, not net acid excretion.",
+      "concept_tags": ["bicarbonate-reabsorption", "proximal-tubule", "acid-base-balance", "hydrogen-secretion"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-023",
+      "question_text": "The principal cells of the collecting duct respond to aldosterone and:",
+      "options": [
+        "A. Secrete hydrogen ions",
+        "B. Reabsorb sodium and secrete potassium",
+        "C. Reabsorb potassium and secrete sodium",
+        "D. Secrete bicarbonate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Principal cells in the collecting duct contain ENaC (epithelial sodium channels) and ROMK (potassium channels). Aldosterone increases the expression and activity of these channels and the Na+/K+ ATPase, promoting sodium reabsorption and potassium secretion. Intercalated cells (not principal cells) handle acid-base balance through H+ and bicarbonate transport.",
+      "concept_tags": ["principal-cells", "aldosterone", "sodium-reabsorption", "potassium-secretion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-024",
+      "question_text": "Type A intercalated cells of the collecting duct secrete hydrogen ions and:",
+      "options": [
+        "A. Reabsorb bicarbonate (adding new bicarbonate to the blood)",
+        "B. Secrete bicarbonate into the tubular fluid",
+        "C. Reabsorb potassium",
+        "D. Secrete sodium"
+      ],
+      "correct_answer": "A",
+      "explanation": "Type A intercalated cells are activated during acidosis. They secrete H+ into the tubular fluid via H+-ATPase and H+/K+-ATPase, while simultaneously transporting bicarbonate into the blood via basolateral Cl-/HCO3- exchangers. This generates new bicarbonate to buffer the acidosis. Type B intercalated cells do the opposite during alkalosis.",
+      "concept_tags": ["intercalated-cells", "acid-base-balance", "hydrogen-secretion", "bicarbonate-generation"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-025",
+      "question_text": "Ammonia (NH3) produced by kidney cells serves what function in acid-base regulation?",
+      "options": [
+        "A. It buffers hydrogen ions in the tubular fluid, allowing increased acid excretion",
+        "B. It directly neutralizes bicarbonate in the blood",
+        "C. It inhibits carbonic anhydrase activity",
+        "D. It stimulates aldosterone release"
+      ],
+      "correct_answer": "A",
+      "explanation": "Ammonia (NH3) is produced from glutamine metabolism in tubular cells and diffuses into the tubular lumen. There it combines with secreted H+ to form ammonium (NH4+), which is trapped in the lumen and excreted. This ammonia buffer system allows the kidney to excrete large amounts of acid without lowering urine pH to damaging levels.",
+      "concept_tags": ["ammonia-buffer", "acid-excretion", "glutamine-metabolism", "acid-base-balance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-026",
+      "question_text": "A patient has a blood pH of 7.32, PaCO2 of 30 mmHg, and HCO3- of 15 mEq/L. What is the acid-base disorder and compensatory response?",
+      "options": [
+        "A. Metabolic acidosis with respiratory compensation",
+        "B. Respiratory acidosis with metabolic compensation",
+        "C. Metabolic alkalosis with respiratory compensation",
+        "D. Respiratory alkalosis with metabolic compensation"
+      ],
+      "correct_answer": "A",
+      "explanation": "The low pH (7.32) indicates acidosis. The low HCO3- (15 mEq/L, normal 22-26) indicates a metabolic component, making this metabolic acidosis. The low PaCO2 (30 mmHg, normal 35-45) represents respiratory compensation - hyperventilation to blow off CO2 and raise pH. In primary respiratory acidosis, PaCO2 would be elevated.",
+      "concept_tags": ["metabolic-acidosis", "respiratory-compensation", "acid-base-interpretation", "blood-gas-analysis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-027",
+      "question_text": "The glomerular filtration rate (GFR) is determined by the balance of which pressures?",
+      "options": [
+        "A. Hydrostatic pressure in the glomerulus versus oncotic pressure and Bowman's capsule pressure",
+        "B. Oncotic pressure in the glomerulus versus hydrostatic pressure in the efferent arteriole",
+        "C. Blood pressure in the renal artery versus pressure in the renal vein",
+        "D. Osmotic pressure in the tubule versus hydrostatic pressure in the peritubular capillaries"
+      ],
+      "correct_answer": "A",
+      "explanation": "GFR is determined by Starling forces: glomerular capillary hydrostatic pressure (favors filtration) versus the sum of Bowman's capsule hydrostatic pressure and glomerular capillary oncotic pressure (both oppose filtration). Net filtration pressure = Hydrostatic pressure - (Capsular pressure + Oncotic pressure). Normal GFR is about 125 mL/min.",
+      "concept_tags": ["gfr", "starling-forces", "filtration-pressure", "glomerular-physiology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-028",
+      "question_text": "Autoregulation of GFR is maintained through which two mechanisms?",
+      "options": [
+        "A. Myogenic response and tubuloglomerular feedback",
+        "B. ADH release and aldosterone secretion",
+        "C. Sympathetic activation and RAAS activation",
+        "D. ANP release and prostaglandin synthesis"
+      ],
+      "correct_answer": "A",
+      "explanation": "Renal autoregulation maintains constant GFR and renal blood flow despite changes in blood pressure (between ~80-180 mmHg). The myogenic response involves smooth muscle contraction/relaxation in response to stretch. Tubuloglomerular feedback involves the macula densa sensing NaCl delivery and signaling to adjust afferent arteriole resistance. These are intrinsic mechanisms, unlike hormonal regulation.",
+      "concept_tags": ["autoregulation", "myogenic-response", "tubuloglomerular-feedback", "gfr-regulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-029",
+      "question_text": "Creatinine clearance is used clinically to estimate GFR because creatinine:",
+      "options": [
+        "A. Is completely reabsorbed by the tubules",
+        "B. Is freely filtered and minimally secreted or reabsorbed",
+        "C. Is only secreted, not filtered",
+        "D. Concentration remains constant regardless of kidney function"
+      ],
+      "correct_answer": "B",
+      "explanation": "Creatinine is a metabolic waste product from muscle creatine metabolism. It is freely filtered at the glomerulus and undergoes minimal tubular secretion with no reabsorption. This makes creatinine clearance a practical estimate of GFR. The small amount of secretion causes slight overestimation of GFR. Inulin clearance is more accurate but impractical clinically.",
+      "concept_tags": ["creatinine-clearance", "gfr-estimation", "renal-function-tests", "filtration-markers"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-030",
+      "question_text": "Para-aminohippuric acid (PAH) clearance measures:",
+      "options": [
+        "A. Glomerular filtration rate",
+        "B. Effective renal plasma flow",
+        "C. Tubular reabsorption capacity",
+        "D. Urine concentrating ability"
+      ],
+      "correct_answer": "B",
+      "explanation": "PAH is freely filtered at the glomerulus and almost completely secreted by the proximal tubule, so nearly all PAH entering the kidney in plasma is excreted in urine. This means PAH clearance approximates renal plasma flow (technically 'effective renal plasma flow' since extraction is about 90%). GFR is measured using inulin or estimated with creatinine clearance.",
+      "concept_tags": ["pah-clearance", "renal-plasma-flow", "tubular-secretion", "renal-function-tests"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-031",
+      "question_text": "The skin serves all of the following functions EXCEPT:",
+      "options": [
+        "A. Protection against pathogens",
+        "B. Vitamin D synthesis",
+        "C. Erythropoietin production",
+        "D. Thermoregulation"
+      ],
+      "correct_answer": "C",
+      "explanation": "The skin provides protection (physical barrier, immune cells, antimicrobial peptides), participates in vitamin D synthesis (UV light converts 7-dehydrocholesterol to vitamin D3), and regulates body temperature (sweating, vasodilation/constriction). Erythropoietin is produced primarily by the kidneys (and to a lesser extent the liver), not the skin.",
+      "concept_tags": ["skin-functions", "integumentary-system", "erythropoietin", "vitamin-d"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-032",
+      "question_text": "The epidermis is composed primarily of which cell type?",
+      "options": [
+        "A. Fibroblasts",
+        "B. Keratinocytes",
+        "C. Adipocytes",
+        "D. Myocytes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Keratinocytes comprise approximately 90-95% of epidermal cells. They produce keratin, a tough structural protein that provides protection. As keratinocytes migrate from the basal layer to the surface, they undergo keratinization and eventually form the dead, protective stratum corneum. Fibroblasts are in the dermis, adipocytes in the hypodermis, and myocytes in muscle tissue.",
+      "concept_tags": ["keratinocytes", "epidermis", "skin-anatomy", "keratinization"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-033",
+      "question_text": "Which layer of the epidermis contains actively dividing cells that replenish the skin?",
+      "options": [
+        "A. Stratum corneum",
+        "B. Stratum granulosum",
+        "C. Stratum basale",
+        "D. Stratum lucidum"
+      ],
+      "correct_answer": "C",
+      "explanation": "The stratum basale (basal layer) is the deepest layer of the epidermis and contains stem cells that continuously divide to produce new keratinocytes. These cells migrate upward through the stratum spinosum, stratum granulosum, stratum lucidum (in thick skin), and finally the stratum corneum, undergoing keratinization along the way.",
+      "concept_tags": ["stratum-basale", "epidermis", "cell-division", "skin-regeneration"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-034",
+      "question_text": "Melanocytes are located in which layer of the skin and produce:",
+      "options": [
+        "A. Stratum corneum; keratin",
+        "B. Stratum basale; melanin",
+        "C. Dermis; collagen",
+        "D. Hypodermis; lipids"
+      ],
+      "correct_answer": "B",
+      "explanation": "Melanocytes are found in the stratum basale of the epidermis. They produce melanin, a pigment that absorbs UV radiation and protects DNA from damage. Melanocytes transfer melanin to surrounding keratinocytes via melanosomes. Differences in skin color relate to melanin type, amount, and distribution rather than melanocyte number.",
+      "concept_tags": ["melanocytes", "melanin", "stratum-basale", "uv-protection"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-035",
+      "question_text": "The dermis contains which of the following structures?",
+      "options": [
+        "A. Melanocytes and Langerhans cells",
+        "B. Stratum corneum and stratum basale",
+        "C. Blood vessels, nerves, and hair follicles",
+        "D. Only adipose tissue"
+      ],
+      "correct_answer": "C",
+      "explanation": "The dermis is the connective tissue layer beneath the epidermis containing blood vessels, lymphatics, nerves, sensory receptors, hair follicles, sebaceous glands, and sweat glands. It provides structural support through collagen and elastin fibers produced by fibroblasts. Melanocytes and Langerhans cells are in the epidermis; adipose tissue predominates in the hypodermis.",
+      "concept_tags": ["dermis", "skin-anatomy", "blood-vessels", "hair-follicles"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-036",
+      "question_text": "Langerhans cells in the epidermis function as:",
+      "options": [
+        "A. Sensory receptors for light touch",
+        "B. Antigen-presenting cells of the immune system",
+        "C. Producers of sebum for skin lubrication",
+        "D. Stem cells for epidermal regeneration"
+      ],
+      "correct_answer": "B",
+      "explanation": "Langerhans cells are dendritic cells (professional antigen-presenting cells) located in the stratum spinosum of the epidermis. They capture and process antigens from pathogens or foreign substances, then migrate to lymph nodes to present antigens to T cells, initiating adaptive immune responses. They are crucial for skin immunity.",
+      "concept_tags": ["langerhans-cells", "antigen-presentation", "skin-immunity", "epidermis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-037",
+      "question_text": "The hypodermis (subcutaneous layer) primarily functions in:",
+      "options": [
+        "A. Producing keratin for the stratum corneum",
+        "B. Housing sensory receptors for fine touch",
+        "C. Insulation, energy storage, and anchoring skin to underlying structures",
+        "D. Melanin production and UV protection"
+      ],
+      "correct_answer": "C",
+      "explanation": "The hypodermis (subcutaneous layer) is composed largely of adipose tissue. It provides thermal insulation, serves as an energy reserve, cushions underlying muscles and bones, and anchors the skin to deeper structures. It also contains larger blood vessels and nerves that supply the dermis. It is not technically part of the skin but is closely associated with it.",
+      "concept_tags": ["hypodermis", "adipose-tissue", "insulation", "subcutaneous-layer"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-038",
+      "question_text": "Eccrine sweat glands differ from apocrine sweat glands in that eccrine glands:",
+      "options": [
+        "A. Are found only in the axillae and groin",
+        "B. Produce secretions containing proteins and lipids that cause body odor",
+        "C. Are distributed throughout the body and produce watery sweat for thermoregulation",
+        "D. Become active only after puberty"
+      ],
+      "correct_answer": "C",
+      "explanation": "Eccrine sweat glands are distributed throughout the body (especially palms, soles, forehead) and produce watery, hypotonic sweat primarily for thermoregulation. Apocrine glands are limited to axillae, groin, and areolae, produce protein/lipid-rich secretions (substrate for bacteria causing body odor), and become active at puberty. Eccrine glands are functional from birth.",
+      "concept_tags": ["eccrine-glands", "apocrine-glands", "sweat-glands", "thermoregulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-039",
+      "question_text": "During heat exposure, the body promotes heat loss through which mechanisms?",
+      "options": [
+        "A. Cutaneous vasoconstriction and increased metabolic rate",
+        "B. Cutaneous vasodilation and sweating",
+        "C. Piloerection and shivering",
+        "D. Decreased sweat production and increased muscle tone"
+      ],
+      "correct_answer": "B",
+      "explanation": "When core body temperature rises, the hypothalamus triggers heat dissipation mechanisms: cutaneous vasodilation increases blood flow to the skin surface (radiation, conduction, convection), and eccrine sweat glands produce sweat (evaporative cooling). Vasoconstriction, piloerection (goosebumps), and shivering are heat conservation/generation mechanisms used in cold exposure.",
+      "concept_tags": ["thermoregulation", "heat-loss", "vasodilation", "sweating"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-040",
+      "question_text": "The hypothalamus acts as the body's thermostat. Pyrogens cause fever by:",
+      "options": [
+        "A. Directly heating the blood",
+        "B. Raising the hypothalamic set point for body temperature",
+        "C. Inhibiting sweat gland function",
+        "D. Causing peripheral vasoconstriction only"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pyrogens (fever-inducing substances, including bacterial endotoxins and cytokines like IL-1 and IL-6) act on the hypothalamus to raise its temperature set point. The body then perceives its normal temperature as 'too cold' and activates heat-generating mechanisms (shivering, vasoconstriction) until the new, elevated set point is reached. This is why patients feel cold during fever onset.",
+      "concept_tags": ["fever", "pyrogens", "hypothalamus", "thermoregulation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-041",
+      "question_text": "Shivering thermogenesis generates heat by:",
+      "options": [
+        "A. Burning brown adipose tissue",
+        "B. Involuntary muscle contractions that release heat from ATP hydrolysis",
+        "C. Increasing thyroid hormone secretion",
+        "D. Activating eccrine sweat glands"
+      ],
+      "correct_answer": "B",
+      "explanation": "Shivering involves rapid, involuntary skeletal muscle contractions triggered by the hypothalamus in response to cold. These contractions consume ATP for the actin-myosin cross-bridge cycle, and the inefficiency of this process releases significant heat. This is distinct from non-shivering thermogenesis (brown adipose tissue) and hormonal thermogenesis (thyroid hormones).",
+      "concept_tags": ["shivering", "thermogenesis", "muscle-contraction", "heat-production"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-042",
+      "question_text": "Non-shivering thermogenesis in infants primarily occurs in:",
+      "options": [
+        "A. White adipose tissue",
+        "B. Brown adipose tissue",
+        "C. Skeletal muscle",
+        "D. The liver"
+      ],
+      "correct_answer": "B",
+      "explanation": "Brown adipose tissue (BAT) contains abundant mitochondria with uncoupling protein 1 (UCP1/thermogenin). UCP1 allows protons to re-enter the mitochondrial matrix without generating ATP, releasing energy as heat instead. Infants have significant BAT deposits for maintaining body temperature. Adults have less BAT, relying more on shivering and behavioral thermoregulation.",
+      "concept_tags": ["brown-adipose-tissue", "non-shivering-thermogenesis", "uncoupling-protein", "infant-physiology"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-043",
+      "question_text": "The kidney's role in osmoregulation includes all of the following EXCEPT:",
+      "options": [
+        "A. Adjusting water excretion based on ADH levels",
+        "B. Regulating sodium balance through aldosterone",
+        "C. Producing renin in response to low blood pressure",
+        "D. Directly synthesizing aldosterone"
+      ],
+      "correct_answer": "D",
+      "explanation": "The kidney participates in osmoregulation by adjusting water excretion (ADH-regulated), regulating sodium excretion (aldosterone-responsive), and producing renin to activate the RAAS. However, aldosterone is synthesized by the adrenal cortex (zona glomerulosa), not the kidney. The kidney initiates the RAAS cascade with renin, but aldosterone production occurs elsewhere.",
+      "concept_tags": ["osmoregulation", "kidney-function", "aldosterone", "water-balance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-044",
+      "question_text": "When plasma osmolarity increases, osmoreceptors in the hypothalamus respond by:",
+      "options": [
+        "A. Inhibiting ADH release and stimulating thirst",
+        "B. Stimulating ADH release and thirst",
+        "C. Stimulating ANP release",
+        "D. Inhibiting aldosterone secretion"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hypothalamic osmoreceptors detect increased plasma osmolarity (dehydration, hypernatremia). They respond by stimulating ADH release from the posterior pituitary (promoting water retention) and activating thirst centers (promoting water intake). Both responses work to dilute the plasma and restore normal osmolarity. Decreased osmolarity has opposite effects.",
+      "concept_tags": ["osmoreceptors", "adh-regulation", "thirst", "plasma-osmolarity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-045",
+      "question_text": "A marathon runner loses significant sodium through sweat but drinks only plain water. This could lead to:",
+      "options": [
+        "A. Hypernatremia",
+        "B. Hyponatremia",
+        "C. Hyperkalemia",
+        "D. Metabolic alkalosis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Replacing sodium losses with plain water dilutes the remaining plasma sodium, potentially causing hyponatremia (low blood sodium). Severe hyponatremia can cause cerebral edema as water moves into cells by osmosis. This is why endurance athletes are advised to consume electrolyte-containing beverages during prolonged exercise. Sweat is hypotonic but still contains significant sodium.",
+      "concept_tags": ["hyponatremia", "exercise-physiology", "electrolyte-balance", "sweat"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-046",
+      "question_text": "Erythropoietin (EPO) is produced by the kidney in response to:",
+      "options": [
+        "A. Elevated blood pressure",
+        "B. Low blood oxygen levels (hypoxia)",
+        "C. High blood glucose levels",
+        "D. Increased potassium concentration"
+      ],
+      "correct_answer": "B",
+      "explanation": "Erythropoietin is produced primarily by peritubular interstitial cells of the kidney in response to hypoxia. It stimulates red blood cell production in the bone marrow, increasing oxygen-carrying capacity. Conditions causing tissue hypoxia (high altitude, anemia, lung disease) increase EPO production. This is why EPO is misused as a performance-enhancing drug in endurance sports.",
+      "concept_tags": ["erythropoietin", "hypoxia", "red-blood-cells", "kidney-endocrine-function"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-10-047",
+      "question_text": "The kidney converts 25-hydroxyvitamin D to its active form, 1,25-dihydroxyvitamin D (calcitriol), using which enzyme?",
+      "options": [
+        "A. Carbonic anhydrase",
+        "B. 1-alpha-hydroxylase",
+        "C. Angiotensin-converting enzyme",
+        "D. Renin"
+      ],
+      "correct_answer": "B",
+      "explanation": "The kidney is the primary site for activating vitamin D. Calcidiol (25-hydroxyvitamin D, produced in the liver) is converted to calcitriol (1,25-dihydroxyvitamin D, the active hormone) by 1-alpha-hydroxylase in the proximal tubule cells. This enzyme is stimulated by PTH and low phosphate levels. Calcitriol increases intestinal calcium absorption.",
+      "concept_tags": ["vitamin-d-activation", "calcitriol", "1-alpha-hydroxylase", "calcium-homeostasis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-048",
+      "question_text": "Tubular secretion is important for eliminating which of the following from the blood?",
+      "options": [
+        "A. Glucose",
+        "B. Amino acids",
+        "C. Hydrogen ions, potassium ions, and certain drugs",
+        "D. Plasma proteins"
+      ],
+      "correct_answer": "C",
+      "explanation": "Tubular secretion moves substances from peritubular capillaries into the tubular fluid for excretion. Important secreted substances include H+ (acid-base regulation), K+ (potassium homeostasis), organic acids and bases (including many drugs like penicillin), ammonia, and creatinine (minimal). Glucose and amino acids are reabsorbed, not secreted. Plasma proteins are not normally filtered or secreted.",
+      "concept_tags": ["tubular-secretion", "drug-excretion", "potassium-secretion", "nephron-function"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-10-049",
+      "question_text": "A patient taking ACE inhibitors may experience hyperkalemia because these drugs:",
+      "options": [
+        "A. Increase GFR and potassium filtration",
+        "B. Reduce aldosterone levels, decreasing potassium secretion",
+        "C. Directly block potassium channels in the collecting duct",
+        "D. Increase ADH secretion"
+      ],
+      "correct_answer": "B",
+      "explanation": "ACE inhibitors block angiotensin-converting enzyme, preventing formation of angiotensin II. This reduces aldosterone secretion from the adrenal cortex. Since aldosterone normally stimulates potassium secretion in the collecting duct, reduced aldosterone leads to potassium retention and potential hyperkalemia. This is a clinically important side effect of RAAS inhibitors.",
+      "concept_tags": ["ace-inhibitors", "hyperkalemia", "aldosterone", "potassium-homeostasis"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biology-10-050",
+      "question_text": "Which statement correctly describes the relationship between the filtration fraction and GFR?",
+      "options": [
+        "A. Filtration fraction = GFR / Renal blood flow",
+        "B. Filtration fraction = GFR / Renal plasma flow",
+        "C. Filtration fraction = Renal plasma flow / GFR",
+        "D. Filtration fraction = Urine flow rate / GFR"
+      ],
+      "correct_answer": "B",
+      "explanation": "Filtration fraction is the proportion of plasma flowing through the kidney that is filtered at the glomerulus. It equals GFR divided by renal plasma flow (RPF). Normally, filtration fraction is about 20% (GFR ~125 mL/min, RPF ~625 mL/min). This means 20% of plasma passing through the glomerulus becomes filtrate. The remaining 80% enters the peritubular capillaries.",
+      "concept_tags": ["filtration-fraction", "gfr", "renal-plasma-flow", "renal-physiology"],
+      "difficulty": "medium"
+    }
+  ]
+}

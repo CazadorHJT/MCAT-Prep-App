@@ -1,0 +1,707 @@
+{
+  "book": "biochemistry",
+  "chapter": 5,
+  "chapter_title": "Nucleic Acids",
+  "questions": [
+    {
+      "id": "biochemistry-05-001",
+      "question_text": "Which of the following correctly distinguishes a nucleoside from a nucleotide?",
+      "options": [
+        "A. A nucleoside contains a phosphate group, while a nucleotide does not",
+        "B. A nucleotide contains a phosphate group, while a nucleoside does not",
+        "C. A nucleoside contains a nitrogenous base only, while a nucleotide contains a sugar",
+        "D. A nucleotide contains ribose only, while a nucleoside can contain deoxyribose"
+      ],
+      "correct_answer": "B",
+      "explanation": "A nucleoside consists of a nitrogenous base attached to a pentose sugar (ribose or deoxyribose). A nucleotide is a nucleoside with one or more phosphate groups attached to the 5' carbon of the sugar. This phosphate group is essential for forming the phosphodiester bonds in nucleic acid polymers.",
+      "concept_tags": ["nucleotides", "nucleosides", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-002",
+      "question_text": "The nitrogenous bases adenine and guanine are classified as:",
+      "options": [
+        "A. pyrimidines with single-ring structures",
+        "B. purines with double-ring structures",
+        "C. pyrimidines with double-ring structures",
+        "D. purines with single-ring structures"
+      ],
+      "correct_answer": "B",
+      "explanation": "Adenine and guanine are purines, which have a characteristic double-ring (bicyclic) structure consisting of a six-membered ring fused to a five-membered ring. Pyrimidines (cytosine, thymine, and uracil) have single-ring structures. The mnemonic 'PURe As Gold' helps remember that purines are adenine and guanine.",
+      "concept_tags": ["purines", "pyrimidines", "nitrogenous-bases"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-003",
+      "question_text": "Which pyrimidine base is found in RNA but not in DNA?",
+      "options": [
+        "A. Thymine",
+        "B. Cytosine",
+        "C. Uracil",
+        "D. Adenine"
+      ],
+      "correct_answer": "C",
+      "explanation": "Uracil is a pyrimidine found in RNA but not in DNA. In DNA, thymine replaces uracil. Uracil lacks the methyl group present on thymine. Cytosine is found in both DNA and RNA, and adenine is a purine, not a pyrimidine.",
+      "concept_tags": ["uracil", "thymine", "rna", "dna", "pyrimidines"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-004",
+      "question_text": "The glycosidic bond in a nucleotide connects:",
+      "options": [
+        "A. the phosphate group to the 5' carbon of the sugar",
+        "B. the nitrogenous base to the 1' carbon of the sugar",
+        "C. two adjacent nucleotides in a polynucleotide chain",
+        "D. the 3' carbon to the 5' carbon within the same sugar"
+      ],
+      "correct_answer": "B",
+      "explanation": "The glycosidic bond (specifically an N-glycosidic bond) connects the nitrogenous base to the 1' carbon of the pentose sugar. For purines, this bond forms at the N9 position, while for pyrimidines, it forms at the N1 position. The phosphodiester bond connects adjacent nucleotides.",
+      "concept_tags": ["glycosidic-bond", "nucleotide-structure", "chemical-bonds"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-005",
+      "question_text": "Chargaff's rules state that in double-stranded DNA:",
+      "options": [
+        "A. the amount of adenine equals the amount of guanine",
+        "B. the amount of adenine equals the amount of thymine",
+        "C. purines and pyrimidines are present in a 2:1 ratio",
+        "D. the total number of bases is always even"
+      ],
+      "correct_answer": "B",
+      "explanation": "Chargaff's rules state that in double-stranded DNA, adenine pairs with thymine (A=T) and guanine pairs with cytosine (G=C), so their amounts are equal. This also means that the total amount of purines equals the total amount of pyrimidines. These rules provided crucial evidence for the Watson-Crick model of DNA structure.",
+      "concept_tags": ["chargaff-rules", "base-pairing", "dna-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-006",
+      "question_text": "In the Watson-Crick model of DNA, hydrogen bonds between complementary base pairs are characterized by:",
+      "options": [
+        "A. two hydrogen bonds between A-T and two between G-C",
+        "B. three hydrogen bonds between A-T and two between G-C",
+        "C. two hydrogen bonds between A-T and three between G-C",
+        "D. three hydrogen bonds between both A-T and G-C"
+      ],
+      "correct_answer": "C",
+      "explanation": "Adenine and thymine form two hydrogen bonds, while guanine and cytosine form three hydrogen bonds. This difference means that DNA regions with higher G-C content have higher melting temperatures (Tm) and are more stable, as more energy is required to break the additional hydrogen bonds.",
+      "concept_tags": ["hydrogen-bonds", "base-pairing", "dna-structure", "melting-temperature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-007",
+      "question_text": "The two strands of the DNA double helix are described as antiparallel because:",
+      "options": [
+        "A. they contain different sequences of bases",
+        "B. one strand runs 5' to 3' while the other runs 3' to 5'",
+        "C. they are separated by the major and minor grooves",
+        "D. the bases on each strand face opposite directions"
+      ],
+      "correct_answer": "B",
+      "explanation": "The two DNA strands are antiparallel, meaning they run in opposite directions. One strand runs 5' to 3' while the complementary strand runs 3' to 5'. This orientation is critical for DNA replication, as DNA polymerase can only synthesize DNA in the 5' to 3' direction.",
+      "concept_tags": ["antiparallel", "dna-structure", "strand-polarity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-008",
+      "question_text": "B-form DNA, the most common form under physiological conditions, is characterized by:",
+      "options": [
+        "A. a left-handed helix with 12 base pairs per turn",
+        "B. a right-handed helix with approximately 10.5 base pairs per turn",
+        "C. a right-handed helix with 11 base pairs per turn and a wider diameter",
+        "D. alternating purine-pyrimidine sequences"
+      ],
+      "correct_answer": "B",
+      "explanation": "B-form DNA is a right-handed double helix with approximately 10.5 base pairs per turn, a diameter of about 20 angstroms, and a rise of 3.4 angstroms per base pair. A-form DNA has 11 base pairs per turn and is wider. Z-DNA is a left-handed helix with 12 base pairs per turn.",
+      "concept_tags": ["b-form-dna", "dna-structure", "helix-parameters"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-009",
+      "question_text": "The major groove of DNA is important for protein-DNA interactions because:",
+      "options": [
+        "A. it contains the phosphate backbone which proteins recognize",
+        "B. it exposes more of the bases, allowing sequence-specific recognition",
+        "C. it is the only region accessible to transcription factors",
+        "D. it has a negative charge that attracts positively charged proteins"
+      ],
+      "correct_answer": "B",
+      "explanation": "The major groove is wider and exposes more of the functional groups of the base pairs, allowing proteins like transcription factors to recognize specific DNA sequences without unwinding the helix. The pattern of hydrogen bond donors and acceptors in the major groove provides a 'code' that proteins can read.",
+      "concept_tags": ["major-groove", "minor-groove", "protein-dna-interactions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-010",
+      "question_text": "Which structural feature distinguishes RNA from DNA?",
+      "options": [
+        "A. RNA contains deoxyribose while DNA contains ribose",
+        "B. RNA is always single-stranded while DNA is always double-stranded",
+        "C. RNA contains a 2'-hydroxyl group on the ribose sugar",
+        "D. RNA uses adenine while DNA uses a modified form of adenine"
+      ],
+      "correct_answer": "C",
+      "explanation": "RNA contains ribose sugar with a 2'-hydroxyl group, while DNA contains 2'-deoxyribose lacking this hydroxyl group. This 2'-OH makes RNA more susceptible to hydrolysis and less stable than DNA. While RNA is often single-stranded, it can form double-stranded regions and complex secondary structures.",
+      "concept_tags": ["rna-structure", "dna-structure", "ribose", "deoxyribose"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-011",
+      "question_text": "Messenger RNA (mRNA) is characterized by which of the following features in eukaryotes?",
+      "options": [
+        "A. A cloverleaf secondary structure",
+        "B. A 5' cap and 3' poly-A tail",
+        "C. Ribosomal protein binding sites",
+        "D. Anticodon loops for amino acid recognition"
+      ],
+      "correct_answer": "B",
+      "explanation": "Eukaryotic mRNA contains a 5' 7-methylguanosine cap and a 3' poly-A tail. These modifications protect the mRNA from degradation, facilitate nuclear export, and enhance translation efficiency. The cloverleaf structure and anticodon loops are characteristic of tRNA, while rRNA contains ribosomal protein binding sites.",
+      "concept_tags": ["mrna", "5-cap", "poly-a-tail", "rna-processing"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-012",
+      "question_text": "Transfer RNA (tRNA) contains all of the following structural features EXCEPT:",
+      "options": [
+        "A. an anticodon loop",
+        "B. an amino acid attachment site at the 3' end",
+        "C. a 5' methylguanosine cap",
+        "D. modified bases such as pseudouridine"
+      ],
+      "correct_answer": "C",
+      "explanation": "tRNA does not have a 5' methylguanosine cap; this modification is found on mRNA. tRNA has a characteristic cloverleaf secondary structure with an anticodon loop (for codon recognition), an acceptor stem at the 3' end (ending in CCA) for amino acid attachment, and contains various modified bases including pseudouridine, dihydrouridine, and inosine.",
+      "concept_tags": ["trna", "trna-structure", "anticodon", "modified-bases"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-013",
+      "question_text": "Ribosomal RNA (rRNA) is primarily important because it:",
+      "options": [
+        "A. carries genetic information from DNA to ribosomes",
+        "B. provides the catalytic activity for peptide bond formation",
+        "C. transfers amino acids to the growing polypeptide chain",
+        "D. serves as a template for protein synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "rRNA is a ribozyme that provides the catalytic activity (peptidyl transferase) for peptide bond formation during translation. The ribosome is therefore a ribozyme, with rRNA rather than protein providing the enzymatic function. mRNA carries genetic information, and tRNA transfers amino acids.",
+      "concept_tags": ["rrna", "ribozyme", "peptidyl-transferase", "ribosome"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-014",
+      "question_text": "During DNA replication, the enzyme that unwinds the double helix is:",
+      "options": [
+        "A. DNA polymerase",
+        "B. primase",
+        "C. helicase",
+        "D. topoisomerase"
+      ],
+      "correct_answer": "C",
+      "explanation": "Helicase uses ATP hydrolysis to unwind the DNA double helix by breaking hydrogen bonds between complementary base pairs at the replication fork. DNA polymerase synthesizes new DNA strands. Primase synthesizes RNA primers. Topoisomerase relieves torsional strain caused by unwinding.",
+      "concept_tags": ["helicase", "dna-replication", "replication-fork"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-015",
+      "question_text": "DNA polymerase requires a primer because it:",
+      "options": [
+        "A. can only add nucleotides to an existing 3'-OH group",
+        "B. cannot recognize the origin of replication without it",
+        "C. needs the primer to unwind the DNA helix",
+        "D. uses the primer as a source of energy"
+      ],
+      "correct_answer": "A",
+      "explanation": "DNA polymerase cannot initiate synthesis de novo; it can only add nucleotides to the 3'-OH group of an existing strand. Primase synthesizes short RNA primers that provide the free 3'-OH group needed by DNA polymerase to begin synthesis. This requirement is fundamental to the mechanism of all known DNA polymerases.",
+      "concept_tags": ["dna-polymerase", "primer", "dna-replication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-016",
+      "question_text": "The leading strand during DNA replication is synthesized:",
+      "options": [
+        "A. discontinuously in short fragments",
+        "B. continuously in the 5' to 3' direction",
+        "C. continuously in the 3' to 5' direction",
+        "D. by RNA polymerase"
+      ],
+      "correct_answer": "B",
+      "explanation": "The leading strand is synthesized continuously in the 5' to 3' direction because it runs in the same direction as replication fork movement. The lagging strand, which runs in the opposite direction, must be synthesized discontinuously as Okazaki fragments. All DNA polymerases synthesize DNA 5' to 3'.",
+      "concept_tags": ["leading-strand", "dna-replication", "continuous-synthesis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-017",
+      "question_text": "Okazaki fragments are:",
+      "options": [
+        "A. sections of the leading strand",
+        "B. short DNA segments synthesized on the lagging strand",
+        "C. RNA primers that initiate replication",
+        "D. damaged DNA segments awaiting repair"
+      ],
+      "correct_answer": "B",
+      "explanation": "Okazaki fragments are short DNA segments (100-200 nucleotides in eukaryotes, 1000-2000 in prokaryotes) synthesized discontinuously on the lagging strand. Because DNA polymerase can only synthesize 5' to 3', and the lagging strand template runs 5' to 3', synthesis must occur in fragments that are later joined by DNA ligase.",
+      "concept_tags": ["okazaki-fragments", "lagging-strand", "dna-replication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-018",
+      "question_text": "The enzyme responsible for joining Okazaki fragments is:",
+      "options": [
+        "A. DNA polymerase I",
+        "B. DNA polymerase III",
+        "C. DNA ligase",
+        "D. primase"
+      ],
+      "correct_answer": "C",
+      "explanation": "DNA ligase catalyzes the formation of phosphodiester bonds between the 3'-OH of one Okazaki fragment and the 5'-phosphate of the adjacent fragment, creating a continuous strand. In prokaryotes, DNA polymerase I first removes RNA primers and fills the gaps, then ligase seals the remaining nicks.",
+      "concept_tags": ["dna-ligase", "okazaki-fragments", "dna-replication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-019",
+      "question_text": "Single-stranded binding proteins (SSBs) function during DNA replication by:",
+      "options": [
+        "A. unwinding the DNA double helix",
+        "B. preventing the re-annealing of separated DNA strands",
+        "C. synthesizing RNA primers",
+        "D. proofreading newly synthesized DNA"
+      ],
+      "correct_answer": "B",
+      "explanation": "Single-stranded binding proteins bind cooperatively to single-stranded DNA after helicase unwinds it, preventing the strands from re-annealing and protecting them from nuclease degradation. They do not unwind DNA (helicase does this), synthesize primers (primase), or proofread (DNA polymerase).",
+      "concept_tags": ["ssb-proteins", "dna-replication", "replication-fork"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-020",
+      "question_text": "Topoisomerase relieves supercoiling during DNA replication by:",
+      "options": [
+        "A. breaking hydrogen bonds between base pairs",
+        "B. introducing transient breaks in the DNA backbone",
+        "C. adding methyl groups to the DNA",
+        "D. synthesizing new DNA to release tension"
+      ],
+      "correct_answer": "B",
+      "explanation": "Topoisomerases relieve the torsional strain (supercoiling) that builds up ahead of the replication fork by introducing transient breaks in the DNA backbone. Type I topoisomerases cut one strand, while type II topoisomerases (like DNA gyrase in prokaryotes) cut both strands. The breaks are then resealed.",
+      "concept_tags": ["topoisomerase", "supercoiling", "dna-replication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-021",
+      "question_text": "The proofreading activity of DNA polymerase is due to its:",
+      "options": [
+        "A. 5' to 3' exonuclease activity",
+        "B. 3' to 5' exonuclease activity",
+        "C. endonuclease activity",
+        "D. helicase activity"
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA polymerase has 3' to 5' exonuclease activity that allows it to proofread newly synthesized DNA. When an incorrect nucleotide is incorporated, the polymerase can reverse direction, excise the mismatched nucleotide from the 3' end, and then continue synthesis with the correct nucleotide. This reduces the error rate significantly.",
+      "concept_tags": ["proofreading", "exonuclease", "dna-polymerase", "dna-replication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-022",
+      "question_text": "DNA replication is described as semiconservative because:",
+      "options": [
+        "A. only half of the DNA is replicated at a time",
+        "B. each daughter molecule contains one original and one new strand",
+        "C. the process conserves energy by using existing nucleotides",
+        "D. replication occurs in only one direction"
+      ],
+      "correct_answer": "B",
+      "explanation": "Semiconservative replication means that each daughter DNA molecule contains one original (parental) strand and one newly synthesized strand. This was demonstrated by the Meselson-Stahl experiment using density-labeled DNA. This mechanism ensures accurate inheritance of genetic information.",
+      "concept_tags": ["semiconservative-replication", "meselson-stahl", "dna-replication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-023",
+      "question_text": "Telomerase is important because it:",
+      "options": [
+        "A. initiates DNA replication at origins",
+        "B. prevents shortening of chromosome ends during replication",
+        "C. repairs double-stranded DNA breaks",
+        "D. removes RNA primers from Okazaki fragments"
+      ],
+      "correct_answer": "B",
+      "explanation": "Telomerase is a reverse transcriptase that extends telomeres at chromosome ends, preventing the gradual shortening that would occur with each round of replication (the end replication problem). Telomerase carries its own RNA template and is active in germ cells and stem cells but generally inactive in somatic cells.",
+      "concept_tags": ["telomerase", "telomeres", "chromosome-ends", "replication"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-024",
+      "question_text": "In prokaryotes, DNA replication begins at:",
+      "options": [
+        "A. multiple origins of replication",
+        "B. a single origin of replication (oriC)",
+        "C. the telomeres",
+        "D. random locations along the chromosome"
+      ],
+      "correct_answer": "B",
+      "explanation": "Prokaryotic DNA replication begins at a single origin of replication called oriC. This site contains specific sequences recognized by the DnaA protein, which initiates the unwinding process. Eukaryotes, with their larger genomes, have multiple origins of replication to complete replication in a reasonable time.",
+      "concept_tags": ["origin-of-replication", "oriC", "prokaryotic-replication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-025",
+      "question_text": "Which enzyme synthesizes the RNA primer during DNA replication?",
+      "options": [
+        "A. RNA polymerase",
+        "B. Primase",
+        "C. DNA polymerase I",
+        "D. Reverse transcriptase"
+      ],
+      "correct_answer": "B",
+      "explanation": "Primase (DnaG in E. coli) is a specialized RNA polymerase that synthesizes short RNA primers (approximately 10 nucleotides) needed to initiate DNA synthesis. Unlike DNA polymerase, primase can initiate synthesis de novo. The primers are later removed and replaced with DNA.",
+      "concept_tags": ["primase", "rna-primer", "dna-replication"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-026",
+      "question_text": "Transcription differs from DNA replication in that transcription:",
+      "options": [
+        "A. requires a primer to initiate",
+        "B. produces a strand complementary to only one DNA strand",
+        "C. uses DNA polymerase",
+        "D. occurs in the 3' to 5' direction"
+      ],
+      "correct_answer": "B",
+      "explanation": "Transcription produces an RNA strand complementary to only one DNA strand (the template strand), whereas replication copies both strands. Transcription does not require a primer (RNA polymerase can initiate de novo), uses RNA polymerase (not DNA polymerase), and proceeds 5' to 3' like replication.",
+      "concept_tags": ["transcription", "template-strand", "rna-synthesis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-027",
+      "question_text": "The template strand of DNA is also called the:",
+      "options": [
+        "A. coding strand",
+        "B. sense strand",
+        "C. antisense strand",
+        "D. positive strand"
+      ],
+      "correct_answer": "C",
+      "explanation": "The template strand (antisense strand, minus strand) is the DNA strand that is read by RNA polymerase to produce mRNA. The other strand is called the coding strand (sense strand, plus strand) because its sequence matches the mRNA (with T instead of U). RNA polymerase reads template 3' to 5' and synthesizes mRNA 5' to 3'.",
+      "concept_tags": ["template-strand", "antisense-strand", "coding-strand", "transcription"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-028",
+      "question_text": "In prokaryotes, the promoter sequence recognized by RNA polymerase includes:",
+      "options": [
+        "A. TATA box at -25",
+        "B. -10 (Pribnow box) and -35 consensus sequences",
+        "C. CAAT box and GC box",
+        "D. Poly-A signal sequence"
+      ],
+      "correct_answer": "B",
+      "explanation": "Prokaryotic promoters contain the -10 box (Pribnow box, consensus TATAAT) and the -35 box (consensus TTGACA). These sequences are recognized by the sigma factor of RNA polymerase holoenzyme. The TATA box, CAAT box, and GC box are eukaryotic promoter elements. The poly-A signal is involved in mRNA processing.",
+      "concept_tags": ["promoter", "pribnow-box", "prokaryotic-transcription"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-029",
+      "question_text": "The sigma factor in prokaryotic transcription functions to:",
+      "options": [
+        "A. catalyze phosphodiester bond formation",
+        "B. recognize and bind to promoter sequences",
+        "C. terminate transcription at specific sequences",
+        "D. process the primary transcript"
+      ],
+      "correct_answer": "B",
+      "explanation": "The sigma factor is a subunit of RNA polymerase holoenzyme that recognizes and binds to promoter sequences, positioning the polymerase correctly for transcription initiation. After initiation, sigma factor dissociates, and the core enzyme continues elongation. Different sigma factors recognize different promoters, allowing regulation.",
+      "concept_tags": ["sigma-factor", "promoter-recognition", "transcription-initiation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-030",
+      "question_text": "Rho-dependent termination in prokaryotes involves:",
+      "options": [
+        "A. formation of a hairpin structure in the mRNA",
+        "B. a protein that moves along the mRNA and displaces RNA polymerase",
+        "C. cleavage of the mRNA by an endonuclease",
+        "D. addition of a poly-A tail"
+      ],
+      "correct_answer": "B",
+      "explanation": "In rho-dependent termination, the rho protein binds to the nascent mRNA at a rho utilization (rut) site and uses its helicase activity to move along the RNA. When it catches up to a paused RNA polymerase, it unwinds the RNA-DNA hybrid, releasing the transcript. Rho-independent termination uses hairpin structures.",
+      "concept_tags": ["rho-factor", "transcription-termination", "prokaryotic-transcription"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-05-031",
+      "question_text": "The TATA box in eukaryotic promoters is recognized by:",
+      "options": [
+        "A. RNA polymerase II directly",
+        "B. TATA-binding protein (TBP)",
+        "C. sigma factor",
+        "D. CAAT-binding factor"
+      ],
+      "correct_answer": "B",
+      "explanation": "The TATA box (consensus TATAAA, located about -25 to -30) is recognized by TATA-binding protein (TBP), which is part of the TFIID complex. TBP binding bends the DNA and helps recruit other general transcription factors and RNA polymerase II to form the preinitiation complex. Sigma factor is prokaryotic.",
+      "concept_tags": ["tata-box", "tbp", "eukaryotic-transcription", "promoter"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-032",
+      "question_text": "The 5' cap added to eukaryotic mRNA consists of:",
+      "options": [
+        "A. a poly-adenosine sequence",
+        "B. 7-methylguanosine linked by a 5'-5' triphosphate bridge",
+        "C. a modified uracil residue",
+        "D. a methionine-attached nucleotide"
+      ],
+      "correct_answer": "B",
+      "explanation": "The 5' cap is a 7-methylguanosine (m7G) connected to the first nucleotide of the mRNA by an unusual 5'-5' triphosphate linkage. This cap protects mRNA from degradation, aids in nuclear export, and is required for efficient translation initiation by helping ribosomes recognize the mRNA.",
+      "concept_tags": ["5-cap", "mrna-processing", "7-methylguanosine"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-033",
+      "question_text": "Polyadenylation of eukaryotic mRNA occurs:",
+      "options": [
+        "A. before transcription begins",
+        "B. after cleavage at the AAUAAA signal sequence",
+        "C. only in the cytoplasm",
+        "D. by template-dependent synthesis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Polyadenylation occurs after the pre-mRNA is cleaved downstream of the AAUAAA polyadenylation signal. Poly(A) polymerase then adds approximately 200 adenine nucleotides to the 3' end without a template. This poly-A tail protects mRNA from degradation and aids in nuclear export and translation.",
+      "concept_tags": ["polyadenylation", "poly-a-tail", "mrna-processing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-034",
+      "question_text": "Introns are removed from pre-mRNA by:",
+      "options": [
+        "A. ribosomes during translation",
+        "B. the spliceosome",
+        "C. RNA polymerase during transcription",
+        "D. DNA polymerase during replication"
+      ],
+      "correct_answer": "B",
+      "explanation": "Introns are removed from pre-mRNA by the spliceosome, a large complex of small nuclear RNAs (snRNAs) and proteins. The spliceosome recognizes splice sites at intron-exon boundaries and catalyzes two transesterification reactions to excise the intron and join the exons. This occurs in the nucleus before export.",
+      "concept_tags": ["splicing", "spliceosome", "introns", "exons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-035",
+      "question_text": "The consensus sequences recognized at the 5' splice site of introns typically begin with:",
+      "options": [
+        "A. AG",
+        "B. GU",
+        "C. AU",
+        "D. CG"
+      ],
+      "correct_answer": "B",
+      "explanation": "Introns almost always begin with GU (at the 5' splice site) and end with AG (at the 3' splice site). This GU-AG rule is highly conserved and is recognized by snRNPs in the spliceosome. The branch point adenosine within the intron is also crucial for the splicing mechanism.",
+      "concept_tags": ["splice-sites", "gu-ag-rule", "splicing"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-05-036",
+      "question_text": "Alternative splicing allows:",
+      "options": [
+        "A. one gene to produce multiple different proteins",
+        "B. introns to be retained in the final mRNA",
+        "C. prokaryotes to regulate gene expression",
+        "D. DNA to be replicated more efficiently"
+      ],
+      "correct_answer": "A",
+      "explanation": "Alternative splicing allows one gene to produce multiple different mRNA variants (and thus different proteins) by including or excluding different exons. This greatly increases proteome diversity in eukaryotes. An estimated 95% of human multi-exon genes undergo alternative splicing.",
+      "concept_tags": ["alternative-splicing", "protein-diversity", "gene-expression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-037",
+      "question_text": "The wobble hypothesis explains why:",
+      "options": [
+        "A. there are more codons than amino acids",
+        "B. some tRNAs can recognize multiple codons",
+        "C. the genetic code is different in mitochondria",
+        "D. start codons are always AUG"
+      ],
+      "correct_answer": "B",
+      "explanation": "The wobble hypothesis, proposed by Francis Crick, explains that the third position of a codon can form non-standard base pairs with the first position of the anticodon. This flexibility allows a single tRNA to recognize multiple codons coding for the same amino acid, reducing the number of tRNAs needed.",
+      "concept_tags": ["wobble-hypothesis", "codon-recognition", "trna", "genetic-code"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-038",
+      "question_text": "The genetic code is described as degenerate because:",
+      "options": [
+        "A. some codons do not code for any amino acid",
+        "B. most amino acids are encoded by more than one codon",
+        "C. the code has changed over evolutionary time",
+        "D. different organisms use different codes"
+      ],
+      "correct_answer": "B",
+      "explanation": "Degeneracy (redundancy) of the genetic code means that most amino acids are encoded by more than one codon. With 64 possible codons and only 20 amino acids (plus stop signals), multiple codons must specify the same amino acid. This degeneracy often occurs at the third (wobble) position and provides some protection against mutations.",
+      "concept_tags": ["genetic-code", "degeneracy", "codons", "redundancy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-039",
+      "question_text": "The start codon AUG codes for which amino acid?",
+      "options": [
+        "A. Alanine",
+        "B. Methionine",
+        "C. Tryptophan",
+        "D. Valine"
+      ],
+      "correct_answer": "B",
+      "explanation": "AUG is the start codon and codes for methionine (Met). In prokaryotes, the initiating methionine is formylated (fMet). AUG is the only codon for methionine, and it also serves as internal methionine codons within the coding sequence. The start codon establishes the reading frame for translation.",
+      "concept_tags": ["start-codon", "methionine", "translation-initiation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-040",
+      "question_text": "Which of the following is a stop codon?",
+      "options": [
+        "A. AUG",
+        "B. UAA",
+        "C. GGG",
+        "D. UUU"
+      ],
+      "correct_answer": "B",
+      "explanation": "UAA (ochre), UAG (amber), and UGA (opal) are the three stop codons. They do not code for amino acids but instead signal translation termination by binding release factors. AUG is the start codon (methionine). GGG codes for glycine, and UUU codes for phenylalanine.",
+      "concept_tags": ["stop-codons", "translation-termination", "genetic-code"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-041",
+      "question_text": "During translation initiation in prokaryotes, the small ribosomal subunit binds to the mRNA at the:",
+      "options": [
+        "A. 5' cap",
+        "B. Shine-Dalgarno sequence",
+        "C. poly-A tail",
+        "D. TATA box"
+      ],
+      "correct_answer": "B",
+      "explanation": "In prokaryotes, the 30S ribosomal subunit binds to the Shine-Dalgarno sequence (AGGAGG), a ribosome binding site located upstream of the start codon. This sequence base-pairs with the 16S rRNA of the small subunit. Eukaryotes lack this sequence and instead use the 5' cap for ribosome recruitment.",
+      "concept_tags": ["shine-dalgarno", "translation-initiation", "prokaryotic-translation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-042",
+      "question_text": "Aminoacyl-tRNA synthetases are important because they:",
+      "options": [
+        "A. synthesize new tRNA molecules",
+        "B. attach the correct amino acid to its corresponding tRNA",
+        "C. catalyze peptide bond formation",
+        "D. release the polypeptide from the ribosome"
+      ],
+      "correct_answer": "B",
+      "explanation": "Aminoacyl-tRNA synthetases charge tRNAs by attaching the correct amino acid to the 3' end of the appropriate tRNA. This reaction requires ATP and is crucial for maintaining the fidelity of the genetic code. Each synthetase recognizes specific tRNAs and their cognate amino acids, ensuring accurate translation.",
+      "concept_tags": ["aminoacyl-trna-synthetase", "trna-charging", "translation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-043",
+      "question_text": "The ribosomal A site is where:",
+      "options": [
+        "A. the growing polypeptide chain is held",
+        "B. the incoming aminoacyl-tRNA binds",
+        "C. the uncharged tRNA exits",
+        "D. the mRNA is initially bound"
+      ],
+      "correct_answer": "B",
+      "explanation": "The ribosome has three tRNA binding sites: A (aminoacyl), P (peptidyl), and E (exit). The A site is where incoming aminoacyl-tRNAs bind and are checked for correct codon-anticodon pairing. The P site holds the tRNA with the growing polypeptide, and the E site is where uncharged tRNAs exit.",
+      "concept_tags": ["ribosome-sites", "a-site", "translation-elongation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-044",
+      "question_text": "Peptide bond formation during translation is catalyzed by:",
+      "options": [
+        "A. aminoacyl-tRNA synthetase",
+        "B. elongation factor Tu",
+        "C. peptidyl transferase (23S rRNA)",
+        "D. release factors"
+      ],
+      "correct_answer": "C",
+      "explanation": "Peptide bond formation is catalyzed by peptidyl transferase activity, which resides in the 23S rRNA (or 28S in eukaryotes) of the large ribosomal subunit. This makes the ribosome a ribozyme. The reaction transfers the polypeptide from the P-site tRNA to the amino acid on the A-site tRNA.",
+      "concept_tags": ["peptidyl-transferase", "peptide-bond", "ribozyme", "translation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-045",
+      "question_text": "During translation elongation, translocation involves:",
+      "options": [
+        "A. binding of aminoacyl-tRNA to the A site",
+        "B. movement of the ribosome along the mRNA by one codon",
+        "C. formation of the peptide bond",
+        "D. release of the completed polypeptide"
+      ],
+      "correct_answer": "B",
+      "explanation": "Translocation is the movement of the ribosome along the mRNA by one codon (3 nucleotides) in the 5' to 3' direction. This moves the peptidyl-tRNA from the A site to the P site and the empty tRNA from the P site to the E site, freeing the A site for the next aminoacyl-tRNA. EF-G (or EF-2 in eukaryotes) catalyzes this GTP-dependent step.",
+      "concept_tags": ["translocation", "translation-elongation", "ribosome-movement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-046",
+      "question_text": "A mutation that changes a codon from GAG (glutamate) to GUG (valine) is a:",
+      "options": [
+        "A. silent mutation",
+        "B. missense mutation",
+        "C. nonsense mutation",
+        "D. frameshift mutation"
+      ],
+      "correct_answer": "B",
+      "explanation": "A missense mutation changes one codon to another that codes for a different amino acid. This GAG to GUG mutation (A to U in the second position) causes the sickle cell mutation in hemoglobin. Silent mutations do not change the amino acid, nonsense mutations create stop codons, and frameshift mutations involve insertions or deletions.",
+      "concept_tags": ["missense-mutation", "point-mutation", "sickle-cell"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-047",
+      "question_text": "A nonsense mutation results in:",
+      "options": [
+        "A. substitution of one amino acid for another",
+        "B. premature termination of translation",
+        "C. insertion of an extra amino acid",
+        "D. no change in the protein sequence"
+      ],
+      "correct_answer": "B",
+      "explanation": "A nonsense mutation changes a codon that specifies an amino acid into a stop codon (UAA, UAG, or UGA), resulting in premature termination of translation. This typically produces a truncated, nonfunctional protein. mRNAs with premature stop codons are often degraded by nonsense-mediated decay.",
+      "concept_tags": ["nonsense-mutation", "premature-termination", "stop-codon"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-048",
+      "question_text": "A frameshift mutation is caused by:",
+      "options": [
+        "A. substitution of one base for another",
+        "B. insertion or deletion of bases not in multiples of three",
+        "C. transposition of two adjacent codons",
+        "D. inversion of a DNA segment"
+      ],
+      "correct_answer": "B",
+      "explanation": "Frameshift mutations occur when insertions or deletions of nucleotides that are not multiples of three alter the reading frame. Since codons are read in triplets, adding or removing 1 or 2 nucleotides shifts all subsequent codons, typically resulting in a completely different and usually nonfunctional protein.",
+      "concept_tags": ["frameshift-mutation", "insertion", "deletion", "reading-frame"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-05-049",
+      "question_text": "Polyribosomes (polysomes) are:",
+      "options": [
+        "A. ribosomes that contain multiple copies of rRNA",
+        "B. multiple ribosomes translating the same mRNA simultaneously",
+        "C. clusters of ribosomes not attached to mRNA",
+        "D. ribosomes found only in the nucleolus"
+      ],
+      "correct_answer": "B",
+      "explanation": "Polyribosomes (polysomes) are multiple ribosomes simultaneously translating the same mRNA molecule. As one ribosome moves along the mRNA, another can initiate behind it. This allows efficient production of multiple copies of a protein from a single mRNA. Polysomes can be free in the cytoplasm or bound to the ER.",
+      "concept_tags": ["polyribosomes", "polysomes", "translation-efficiency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-05-050",
+      "question_text": "The signal recognition particle (SRP) functions to:",
+      "options": [
+        "A. initiate transcription of secretory protein genes",
+        "B. direct ribosomes synthesizing secretory proteins to the ER membrane",
+        "C. cleave the signal peptide from the mature protein",
+        "D. transport mRNA from the nucleus to the cytoplasm"
+      ],
+      "correct_answer": "B",
+      "explanation": "The SRP recognizes the signal peptide emerging from the ribosome during translation of secretory and membrane proteins. SRP binding pauses translation and directs the ribosome-mRNA-nascent chain complex to the ER membrane via the SRP receptor. Translation then resumes, with the protein entering the ER lumen. Signal peptidase (not SRP) cleaves the signal peptide.",
+      "concept_tags": ["srp", "signal-peptide", "protein-targeting", "secretory-pathway"],
+      "difficulty": "hard"
+    }
+  ]
+}

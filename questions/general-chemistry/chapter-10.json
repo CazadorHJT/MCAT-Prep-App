@@ -1,0 +1,707 @@
+{
+  "book": "general-chemistry",
+  "chapter": 10,
+  "chapter_title": "Electrochemistry",
+  "questions": [
+    {
+      "id": "general-chemistry-10-001",
+      "question_text": "In a redox reaction, the species that is oxidized:",
+      "options": [
+        "A. Gains electrons",
+        "B. Loses electrons",
+        "C. Gains protons",
+        "D. Loses protons"
+      ],
+      "correct_answer": "B",
+      "explanation": "Oxidation Is Loss, Reduction Is Gain (OIL RIG). When a species is oxidized, it loses electrons. Its oxidation state increases.",
+      "concept_tags": ["oxidation", "electron-transfer", "redox"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-002",
+      "question_text": "The oxidation state of sulfur in H₂SO₄ is:",
+      "options": [
+        "A. +4",
+        "B. +6",
+        "C. -2",
+        "D. +2"
+      ],
+      "correct_answer": "B",
+      "explanation": "In H₂SO₄: H is +1 (×2 = +2), O is -2 (×4 = -8). For neutral molecule: +2 + S + (-8) = 0, so S = +6.",
+      "concept_tags": ["oxidation-state", "sulfur", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-003",
+      "question_text": "In a galvanic cell, oxidation occurs at the:",
+      "options": [
+        "A. Cathode",
+        "B. Anode",
+        "C. Salt bridge",
+        "D. Both electrodes"
+      ],
+      "correct_answer": "B",
+      "explanation": "AN OX, RED CAT: Anode = Oxidation, Reduction = Cathode. In galvanic cells, the anode is negative and electrons flow from anode to cathode.",
+      "concept_tags": ["galvanic-cell", "anode", "oxidation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-004",
+      "question_text": "The purpose of the salt bridge in a galvanic cell is to:",
+      "options": [
+        "A. Allow electrons to flow between half-cells",
+        "B. Maintain electrical neutrality by allowing ion flow",
+        "C. Increase the cell potential",
+        "D. Store excess electrons"
+      ],
+      "correct_answer": "B",
+      "explanation": "The salt bridge allows ions to flow between half-cells, maintaining electrical neutrality. Electrons flow through the external wire, not the salt bridge.",
+      "concept_tags": ["salt-bridge", "ion-flow", "galvanic-cell"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-005",
+      "question_text": "The standard reduction potential for the hydrogen electrode (SHE) is defined as:",
+      "options": [
+        "A. +1.00 V",
+        "B. -1.00 V",
+        "C. 0.00 V",
+        "D. +0.76 V"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Standard Hydrogen Electrode (2H⁺ + 2e⁻ → H₂) is defined as exactly 0.00 V at standard conditions. All other reduction potentials are measured relative to this.",
+      "concept_tags": ["standard-hydrogen-electrode", "reference", "reduction-potential"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-006",
+      "question_text": "Given E°(Cu²⁺/Cu) = +0.34 V and E°(Zn²⁺/Zn) = -0.76 V, the standard cell potential for Zn + Cu²⁺ → Zn²⁺ + Cu is:",
+      "options": [
+        "A. +0.42 V",
+        "B. -0.42 V",
+        "C. +1.10 V",
+        "D. -1.10 V"
+      ],
+      "correct_answer": "C",
+      "explanation": "E°cell = E°cathode - E°anode = E°(Cu²⁺/Cu) - E°(Zn²⁺/Zn) = 0.34 - (-0.76) = +1.10 V. Zn is oxidized (anode), Cu²⁺ is reduced (cathode).",
+      "concept_tags": ["cell-potential", "standard-potentials", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-007",
+      "question_text": "A positive standard cell potential (E°cell > 0) indicates that the reaction is:",
+      "options": [
+        "A. Non-spontaneous",
+        "B. Spontaneous",
+        "C. At equilibrium",
+        "D. Endothermic"
+      ],
+      "correct_answer": "B",
+      "explanation": "A positive E°cell means negative ΔG° (ΔG° = -nFE°), indicating a spontaneous reaction. The cell can do work as a galvanic/voltaic cell.",
+      "concept_tags": ["spontaneity", "cell-potential", "gibbs-energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-008",
+      "question_text": "The relationship between standard cell potential and Gibbs free energy is:",
+      "options": [
+        "A. ΔG° = nFE°",
+        "B. ΔG° = -nFE°",
+        "C. ΔG° = E°/nF",
+        "D. ΔG° = -E°/nF"
+      ],
+      "correct_answer": "B",
+      "explanation": "ΔG° = -nFE° where n = moles of electrons transferred, F = Faraday's constant (96,485 C/mol). Positive E° gives negative ΔG° (spontaneous).",
+      "concept_tags": ["gibbs-energy", "cell-potential", "thermodynamics"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-009",
+      "question_text": "In an electrolytic cell, the anode is:",
+      "options": [
+        "A. Positive",
+        "B. Negative",
+        "C. Neutral",
+        "D. Not applicable"
+      ],
+      "correct_answer": "A",
+      "explanation": "In electrolytic cells, external power drives the non-spontaneous reaction. The anode is connected to the positive terminal and is positive. (Opposite of galvanic cells where anode is negative.)",
+      "concept_tags": ["electrolytic-cell", "anode", "electrode-sign"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-010",
+      "question_text": "The Faraday constant represents:",
+      "options": [
+        "A. The charge of one electron",
+        "B. The charge of one mole of electrons",
+        "C. Avogadro's number",
+        "D. The gas constant"
+      ],
+      "correct_answer": "B",
+      "explanation": "Faraday's constant (F = 96,485 C/mol) is the charge carried by one mole of electrons. F = NA × e where e = 1.602 × 10⁻¹⁹ C.",
+      "concept_tags": ["faraday-constant", "charge", "electrons"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-011",
+      "question_text": "How many coulombs are required to deposit 1 mole of copper from Cu²⁺ solution?",
+      "options": [
+        "A. 96,485 C",
+        "B. 193,000 C",
+        "C. 48,242 C",
+        "D. 289,455 C"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cu²⁺ + 2e⁻ → Cu requires 2 moles of electrons per mole of Cu. Charge = nF = 2 × 96,485 = 192,970 ≈ 193,000 C.",
+      "concept_tags": ["faradays-law", "electrolysis", "copper"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-012",
+      "question_text": "The Nernst equation is used to calculate:",
+      "options": [
+        "A. Standard cell potential",
+        "B. Cell potential under non-standard conditions",
+        "C. Reaction rate",
+        "D. Activation energy"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Nernst equation E = E° - (RT/nF)lnQ (or E = E° - (0.0592/n)logQ at 25°C) calculates cell potential when concentrations are not at standard conditions.",
+      "concept_tags": ["nernst-equation", "non-standard", "cell-potential"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-013",
+      "question_text": "At 25°C, the Nernst equation simplifies to E = E° - (0.0592/n)log Q. If n = 2 and Q = 100, the correction term equals:",
+      "options": [
+        "A. -0.0592 V",
+        "B. -0.118 V",
+        "C. +0.0592 V",
+        "D. -0.0296 V"
+      ],
+      "correct_answer": "A",
+      "explanation": "Correction = (0.0592/n)log Q = (0.0592/2)log(100) = 0.0296 × 2 = 0.0592 V. The cell potential decreases by 0.0592 V.",
+      "concept_tags": ["nernst-equation", "calculation", "log"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-014",
+      "question_text": "When a galvanic cell reaches equilibrium:",
+      "options": [
+        "A. E = E°",
+        "B. E = 0",
+        "C. E = 1",
+        "D. E = -E°"
+      ],
+      "correct_answer": "B",
+      "explanation": "At equilibrium, the cell can no longer do work, so E = 0. At this point, Q = K and the Nernst equation gives E = E° - (RT/nF)ln K = 0.",
+      "concept_tags": ["equilibrium", "cell-potential", "nernst-equation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-015",
+      "question_text": "The relationship between E° and K is:",
+      "options": [
+        "A. E° = (RT/nF)ln K",
+        "B. E° = -(RT/nF)ln K",
+        "C. E° = K/nF",
+        "D. There is no relationship"
+      ],
+      "correct_answer": "A",
+      "explanation": "At equilibrium, E = 0 and Q = K. From the Nernst equation: 0 = E° - (RT/nF)ln K, so E° = (RT/nF)ln K. At 25°C: E° = (0.0592/n)log K.",
+      "concept_tags": ["cell-potential", "equilibrium-constant", "relationship"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-016",
+      "question_text": "In a concentration cell:",
+      "options": [
+        "A. The electrodes are made of different metals",
+        "B. E° ≠ 0",
+        "C. The same electrode is in solutions of different concentrations",
+        "D. No current flows"
+      ],
+      "correct_answer": "C",
+      "explanation": "A concentration cell has identical electrodes in solutions of different concentrations. E° = 0, but E ≠ 0 due to the concentration difference. Current flows until concentrations equalize.",
+      "concept_tags": ["concentration-cell", "identical-electrodes", "gradient"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-017",
+      "question_text": "Which species is the strongest oxidizing agent based on E° values: Ag⁺ (+0.80 V), Cu²⁺ (+0.34 V), Zn²⁺ (-0.76 V)?",
+      "options": [
+        "A. Ag⁺",
+        "B. Cu²⁺",
+        "C. Zn²⁺",
+        "D. Cannot determine"
+      ],
+      "correct_answer": "A",
+      "explanation": "The species with the highest (most positive) reduction potential is the strongest oxidizing agent—it is most easily reduced. Ag⁺ has the highest E° and is the strongest oxidizer.",
+      "concept_tags": ["oxidizing-agent", "reduction-potential", "comparing-agents"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-018",
+      "question_text": "A reducing agent is a species that:",
+      "options": [
+        "A. Is reduced",
+        "B. Causes reduction in another species by being oxidized",
+        "C. Gains electrons",
+        "D. Has a high reduction potential"
+      ],
+      "correct_answer": "B",
+      "explanation": "A reducing agent donates electrons (is oxidized) and causes another species to be reduced. Good reducing agents have low (negative) reduction potentials.",
+      "concept_tags": ["reducing-agent", "electron-donor", "oxidation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-019",
+      "question_text": "During the electrolysis of molten NaCl:",
+      "options": [
+        "A. Na⁺ is oxidized at the anode",
+        "B. Cl⁻ is reduced at the cathode",
+        "C. Na metal forms at the cathode",
+        "D. Cl₂ gas forms at the cathode"
+      ],
+      "correct_answer": "C",
+      "explanation": "At cathode (reduction): Na⁺ + e⁻ → Na. At anode (oxidation): 2Cl⁻ → Cl₂ + 2e⁻. Sodium metal plates out at the cathode, chlorine gas at the anode.",
+      "concept_tags": ["electrolysis", "molten-salt", "NaCl"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-020",
+      "question_text": "When balancing a redox reaction in acidic solution, which species is added to balance oxygen atoms?",
+      "options": [
+        "A. OH⁻",
+        "B. H₂O",
+        "C. O₂",
+        "D. H⁺"
+      ],
+      "correct_answer": "B",
+      "explanation": "In acidic solution: add H₂O to balance O atoms, then add H⁺ to balance H atoms, then add electrons to balance charge. In basic solution, OH⁻ and H₂O are used.",
+      "concept_tags": ["balancing-redox", "acidic-solution", "half-reactions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-021",
+      "question_text": "The oxidation state of Mn in KMnO₄ is:",
+      "options": [
+        "A. +4",
+        "B. +5",
+        "C. +6",
+        "D. +7"
+      ],
+      "correct_answer": "D",
+      "explanation": "K is +1, each O is -2 (×4 = -8). For neutral compound: +1 + Mn + (-8) = 0, so Mn = +7. Permanganate ion has Mn in its highest common oxidation state.",
+      "concept_tags": ["oxidation-state", "permanganate", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-022",
+      "question_text": "If 2.0 A of current flows for 1 hour, how many moles of electrons are transferred?",
+      "options": [
+        "A. 0.075 mol",
+        "B. 0.037 mol",
+        "C. 7.2 mol",
+        "D. 0.021 mol"
+      ],
+      "correct_answer": "A",
+      "explanation": "Charge = I × t = 2.0 A × 3600 s = 7200 C. Moles of electrons = 7200 C ÷ 96,485 C/mol = 0.075 mol.",
+      "concept_tags": ["current", "charge", "moles-electrons"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-023",
+      "question_text": "In a lead-acid battery, the reaction at the anode during discharge is:",
+      "options": [
+        "A. Pb + SO₄²⁻ → PbSO₄ + 2e⁻",
+        "B. PbO₂ + 4H⁺ + SO₄²⁻ + 2e⁻ → PbSO₄ + 2H₂O",
+        "C. Pb → Pb²⁺ + 2e⁻",
+        "D. H₂SO₄ → H₂ + SO₄²⁻"
+      ],
+      "correct_answer": "A",
+      "explanation": "During discharge, Pb is oxidized at the anode: Pb + SO₄²⁻ → PbSO₄ + 2e⁻. At the cathode, PbO₂ is reduced to PbSO₄. The battery is rechargeable.",
+      "concept_tags": ["lead-acid-battery", "anode-reaction", "discharge"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-10-024",
+      "question_text": "Corrosion of iron occurs because:",
+      "options": [
+        "A. Iron has a very positive reduction potential",
+        "B. Iron is oxidized more easily than reduced",
+        "C. Iron cannot form oxide layers",
+        "D. Iron is a noble metal"
+      ],
+      "correct_answer": "B",
+      "explanation": "Iron has a relatively negative reduction potential (-0.44 V), meaning it is easily oxidized. In the presence of water and oxygen, iron loses electrons forming rust (Fe₂O₃).",
+      "concept_tags": ["corrosion", "iron-oxidation", "electrochemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-025",
+      "question_text": "Cathodic protection prevents corrosion by:",
+      "options": [
+        "A. Making the protected metal the anode",
+        "B. Making the protected metal the cathode",
+        "C. Covering the metal with paint",
+        "D. Removing all oxygen"
+      ],
+      "correct_answer": "B",
+      "explanation": "In cathodic protection, a more reactive metal (sacrificial anode like Zn or Mg) is attached. This metal oxidizes preferentially, making the protected metal the cathode where reduction (not oxidation) occurs.",
+      "concept_tags": ["cathodic-protection", "corrosion-prevention", "sacrificial-anode"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-026",
+      "question_text": "Galvanizing iron involves coating it with:",
+      "options": [
+        "A. Copper",
+        "B. Silver",
+        "C. Zinc",
+        "D. Gold"
+      ],
+      "correct_answer": "C",
+      "explanation": "Galvanization coats iron with zinc. Zinc is more reactive (lower reduction potential) and oxidizes preferentially, protecting the iron even if the coating is scratched.",
+      "concept_tags": ["galvanization", "zinc-coating", "corrosion-prevention"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-027",
+      "question_text": "In electroplating, the object to be plated is made the:",
+      "options": [
+        "A. Anode",
+        "B. Cathode",
+        "C. Salt bridge",
+        "D. Electrolyte"
+      ],
+      "correct_answer": "B",
+      "explanation": "The object to be plated is made the cathode where metal ions from solution are reduced and deposited. The anode is often made of the plating metal, which dissolves.",
+      "concept_tags": ["electroplating", "cathode", "metal-deposition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-028",
+      "question_text": "For the half-reaction MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O, the n value for the Nernst equation is:",
+      "options": [
+        "A. 1",
+        "B. 4",
+        "C. 5",
+        "D. 8"
+      ],
+      "correct_answer": "C",
+      "explanation": "The n value equals the number of electrons transferred in the balanced half-reaction. Here, 5 electrons are transferred (5e⁻), so n = 5.",
+      "concept_tags": ["nernst-equation", "electrons-transferred", "half-reaction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-029",
+      "question_text": "A fuel cell differs from a battery in that:",
+      "options": [
+        "A. It cannot generate electricity",
+        "B. Reactants are continuously supplied",
+        "C. It has no electrodes",
+        "D. It doesn't involve redox reactions"
+      ],
+      "correct_answer": "B",
+      "explanation": "In a fuel cell, fuel (like H₂) and oxidizer (O₂) are continuously supplied. Unlike batteries, the reactants are not stored internally. The cell operates as long as fuel is provided.",
+      "concept_tags": ["fuel-cell", "continuous-operation", "hydrogen"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-030",
+      "question_text": "The standard cell potential for the hydrogen fuel cell (2H₂ + O₂ → 2H₂O) is approximately:",
+      "options": [
+        "A. 0.00 V",
+        "B. +1.23 V",
+        "C. +2.46 V",
+        "D. -1.23 V"
+      ],
+      "correct_answer": "B",
+      "explanation": "E°cell = E°cathode - E°anode = E°(O₂/H₂O) - E°(H⁺/H₂) = +1.23 V - 0.00 V = +1.23 V. This is the theoretical maximum voltage for a hydrogen fuel cell.",
+      "concept_tags": ["fuel-cell", "cell-potential", "hydrogen-oxygen"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-031",
+      "question_text": "In the electrolysis of aqueous NaCl, what forms at the cathode?",
+      "options": [
+        "A. Na metal",
+        "B. Cl₂ gas",
+        "C. H₂ gas",
+        "D. O₂ gas"
+      ],
+      "correct_answer": "C",
+      "explanation": "In aqueous solution, water is reduced more easily than Na⁺ (Na has very negative E°). At cathode: 2H₂O + 2e⁻ → H₂ + 2OH⁻. Cl₂ forms at the anode.",
+      "concept_tags": ["electrolysis", "aqueous-solution", "competing-reactions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-032",
+      "question_text": "The oxidation state of oxygen in H₂O₂ is:",
+      "options": [
+        "A. -2",
+        "B. -1",
+        "C. 0",
+        "D. +1"
+      ],
+      "correct_answer": "B",
+      "explanation": "In H₂O₂, each H is +1. For neutral molecule: 2(+1) + 2(O) = 0, so O = -1. This is unusual—oxygen is typically -2, but in peroxides it's -1.",
+      "concept_tags": ["oxidation-state", "peroxide", "exception"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-033",
+      "question_text": "Which of the following is a disproportionation reaction?",
+      "options": [
+        "A. Zn + Cu²⁺ → Zn²⁺ + Cu",
+        "B. 2H₂O₂ → 2H₂O + O₂",
+        "C. 2Na + Cl₂ → 2NaCl",
+        "D. Fe₂O₃ + 3CO → 2Fe + 3CO₂"
+      ],
+      "correct_answer": "B",
+      "explanation": "In disproportionation, the same element is both oxidized and reduced. In H₂O₂ decomposition, O(-1) → O(-2) in H₂O (reduction) and O(-1) → O(0) in O₂ (oxidation).",
+      "concept_tags": ["disproportionation", "redox", "hydrogen-peroxide"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-10-034",
+      "question_text": "If it takes 30 minutes to deposit 0.5 mol of silver from AgNO₃ solution, what current was used?",
+      "options": [
+        "A. 27 A",
+        "B. 54 A",
+        "C. 54 A",
+        "D. 13 A"
+      ],
+      "correct_answer": "A",
+      "explanation": "Ag⁺ + e⁻ → Ag (n=1). Charge = 0.5 mol × 96,485 C/mol = 48,242 C. Time = 30 min = 1800 s. Current = Q/t = 48,242/1800 = 26.8 ≈ 27 A.",
+      "concept_tags": ["faradays-law", "current-calculation", "silver"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "general-chemistry-10-035",
+      "question_text": "When comparing metals for use as a sacrificial anode to protect iron, which is BEST?",
+      "options": [
+        "A. Copper (E° = +0.34 V)",
+        "B. Silver (E° = +0.80 V)",
+        "C. Magnesium (E° = -2.37 V)",
+        "D. Gold (E° = +1.50 V)"
+      ],
+      "correct_answer": "C",
+      "explanation": "A sacrificial anode must be more easily oxidized than iron (E° = -0.44 V). Magnesium has the most negative E°, meaning it will oxidize preferentially, protecting the iron.",
+      "concept_tags": ["sacrificial-anode", "reduction-potential", "iron-protection"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-036",
+      "question_text": "The oxidation state of chromium in Cr₂O₇²⁻ is:",
+      "options": [
+        "A. +3",
+        "B. +6",
+        "C. +7",
+        "D. +12"
+      ],
+      "correct_answer": "B",
+      "explanation": "In Cr₂O₇²⁻: 7 oxygens at -2 = -14, overall charge is -2. So 2Cr + (-14) = -2, 2Cr = +12, Cr = +6.",
+      "concept_tags": ["oxidation-state", "dichromate", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-037",
+      "question_text": "Standard conditions for electrochemistry are:",
+      "options": [
+        "A. 1 M concentration, 1 atm, 25°C",
+        "B. 0.1 M concentration, 1 atm, 0°C",
+        "C. 1 M concentration, 1 atm, 0°C",
+        "D. Any concentration at 25°C"
+      ],
+      "correct_answer": "A",
+      "explanation": "Standard conditions: 1 M concentration for solutions, 1 atm for gases, and 25°C (298 K). E° values are measured under these conditions.",
+      "concept_tags": ["standard-conditions", "concentration", "temperature"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-038",
+      "question_text": "In a galvanic cell, electrons flow from:",
+      "options": [
+        "A. Cathode to anode through the wire",
+        "B. Anode to cathode through the wire",
+        "C. Anode to cathode through the solution",
+        "D. Cathode to anode through the salt bridge"
+      ],
+      "correct_answer": "B",
+      "explanation": "Electrons flow from anode (where oxidation releases electrons) to cathode (where reduction consumes electrons) through the external wire. Ions flow through the solution/salt bridge.",
+      "concept_tags": ["electron-flow", "galvanic-cell", "anode-cathode"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-039",
+      "question_text": "The activity series of metals is based on:",
+      "options": [
+        "A. Atomic mass",
+        "B. Tendency to lose electrons",
+        "C. Melting point",
+        "D. Density"
+      ],
+      "correct_answer": "B",
+      "explanation": "The activity series ranks metals by their tendency to lose electrons (be oxidized). More active metals have more negative reduction potentials and are better reducing agents.",
+      "concept_tags": ["activity-series", "oxidation-tendency", "metals"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-040",
+      "question_text": "A metal higher in the activity series can:",
+      "options": [
+        "A. Only be reduced by metals below it",
+        "B. Displace metals lower in the series from solution",
+        "C. Never undergo oxidation",
+        "D. Only react with acids"
+      ],
+      "correct_answer": "B",
+      "explanation": "A more active metal will reduce the ions of less active metals, displacing them from solution. For example, Zn can displace Cu from CuSO₄ solution.",
+      "concept_tags": ["activity-series", "displacement", "reactivity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-041",
+      "question_text": "During electrolysis of water, the volume ratio of H₂ to O₂ produced is:",
+      "options": [
+        "A. 1:1",
+        "B. 1:2",
+        "C. 2:1",
+        "D. 4:1"
+      ],
+      "correct_answer": "C",
+      "explanation": "2H₂O → 2H₂ + O₂. For every 2 moles of H₂ produced, 1 mole of O₂ is produced. At the same T and P, the volume ratio equals the mole ratio: 2:1.",
+      "concept_tags": ["electrolysis-water", "volume-ratio", "stoichiometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-042",
+      "question_text": "If E°cell = +0.46 V and n = 2, what is ΔG° at 25°C?",
+      "options": [
+        "A. -44 kJ/mol",
+        "B. -89 kJ/mol",
+        "C. +89 kJ/mol",
+        "D. +44 kJ/mol"
+      ],
+      "correct_answer": "B",
+      "explanation": "ΔG° = -nFE° = -2 × 96,485 × 0.46 = -88,766 J/mol ≈ -89 kJ/mol. Positive E° gives negative ΔG° (spontaneous).",
+      "concept_tags": ["gibbs-energy", "calculation", "spontaneity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-043",
+      "question_text": "The Nernst equation predicts that increasing the concentration of reactants will:",
+      "options": [
+        "A. Decrease E",
+        "B. Increase E",
+        "C. Not affect E",
+        "D. Decrease E°"
+      ],
+      "correct_answer": "B",
+      "explanation": "E = E° - (RT/nF)ln Q. Increasing reactants decreases Q (reactants are in denominator), making ln Q more negative, which increases E. More driving force for reaction.",
+      "concept_tags": ["nernst-equation", "concentration-effect", "cell-potential"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-044",
+      "question_text": "In a Daniell cell (Zn/Zn²⁺ || Cu²⁺/Cu), which half-cell is the cathode?",
+      "options": [
+        "A. Zn/Zn²⁺",
+        "B. Cu²⁺/Cu",
+        "C. Both are cathodes",
+        "D. Neither"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cu²⁺ is reduced to Cu (E° = +0.34 V), so Cu²⁺/Cu is the cathode. Zn is oxidized to Zn²⁺ (E° = -0.76 V), so Zn/Zn²⁺ is the anode.",
+      "concept_tags": ["daniell-cell", "cathode", "reduction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-045",
+      "question_text": "A good oxidizing agent has:",
+      "options": [
+        "A. A very negative reduction potential",
+        "B. A very positive reduction potential",
+        "C. No reduction potential",
+        "D. A reduction potential of zero"
+      ],
+      "correct_answer": "B",
+      "explanation": "Good oxidizing agents are easily reduced (they oxidize others). A high positive reduction potential means strong tendency to gain electrons and undergo reduction.",
+      "concept_tags": ["oxidizing-agent", "reduction-potential", "electron-affinity"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-046",
+      "question_text": "Lithium-ion batteries are rechargeable because:",
+      "options": [
+        "A. Li is not consumed",
+        "B. The electrode reactions are reversible",
+        "C. They contain no electrolyte",
+        "D. Li has zero oxidation state"
+      ],
+      "correct_answer": "B",
+      "explanation": "Rechargeable batteries have reversible electrode reactions. Applying external voltage reverses the discharge reactions, regenerating the original electrode materials.",
+      "concept_tags": ["lithium-ion", "rechargeable", "reversible-reactions"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "general-chemistry-10-047",
+      "question_text": "The EMF of a cell is zero when:",
+      "options": [
+        "A. The cell is fully charged",
+        "B. The cell is at equilibrium (dead battery)",
+        "C. The temperature is 0°C",
+        "D. Standard conditions are used"
+      ],
+      "correct_answer": "B",
+      "explanation": "When E = 0, the cell is at equilibrium and cannot do work—this is a 'dead' battery. At this point, Q = K and ΔG = 0.",
+      "concept_tags": ["equilibrium", "dead-battery", "EMF-zero"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-048",
+      "question_text": "In the half-reaction Fe³⁺ + e⁻ → Fe²⁺, iron is:",
+      "options": [
+        "A. Oxidized",
+        "B. Reduced",
+        "C. Neither oxidized nor reduced",
+        "D. Both oxidized and reduced"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fe³⁺ gains an electron to become Fe²⁺. Gaining electrons is reduction. The oxidation state decreases from +3 to +2.",
+      "concept_tags": ["reduction", "iron", "oxidation-state"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-049",
+      "question_text": "For the reaction 2Ag⁺(aq) + Cu(s) → 2Ag(s) + Cu²⁺(aq), which species is oxidized?",
+      "options": [
+        "A. Ag⁺",
+        "B. Ag",
+        "C. Cu",
+        "D. Cu²⁺"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cu goes from 0 to +2 oxidation state (loses electrons), so Cu is oxidized. Ag⁺ goes from +1 to 0 (gains electrons), so Ag⁺ is reduced.",
+      "concept_tags": ["oxidation", "copper", "identifying-redox"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "general-chemistry-10-050",
+      "question_text": "If a current of 5.0 A deposits 10.8 g of silver (MW = 108 g/mol), how long was the current applied?",
+      "options": [
+        "A. 32 min",
+        "B. 16 min",
+        "C. 48 min",
+        "D. 64 min"
+      ],
+      "correct_answer": "A",
+      "explanation": "Moles Ag = 10.8/108 = 0.1 mol. Ag⁺ + e⁻ → Ag needs 0.1 mol e⁻. Charge = 0.1 × 96,485 = 9,649 C. Time = Q/I = 9649/5 = 1930 s ≈ 32 min.",
+      "concept_tags": ["faradays-law", "time-calculation", "silver-deposition"],
+      "difficulty": "hard"
+    }
+  ]
+}

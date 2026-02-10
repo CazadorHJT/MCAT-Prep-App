@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 4,
+  "chapter_title": "Reasoning and Argument Analysis",
+  "questions": [
+    {
+      "id": "cars-04-001",
+      "question_text": "An argument in critical reading consists of:",
+      "options": ["A. Disagreement between people", "B. Premises offered in support of a conclusion", "C. Emotional statements only", "D. Random assertions"],
+      "correct_answer": "B",
+      "explanation": "In logic, an argument is a set of premises (reasons/evidence) offered in support of a conclusion (claim the author wants accepted).",
+      "concept_tags": ["argument", "premises", "conclusion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-002",
+      "question_text": "The conclusion of an argument is:",
+      "options": ["A. Always the last sentence", "B. The claim the premises are meant to support", "C. The weakest point", "D. Unstated always"],
+      "correct_answer": "B",
+      "explanation": "The conclusion is what the author wants you to accept, supported by premises. It may appear anywhere in the text.",
+      "concept_tags": ["conclusion", "main claim", "argument structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-003",
+      "question_text": "Premises are:",
+      "options": ["A. The same as conclusions", "B. Reasons or evidence offered to support a conclusion", "C. Always statistical", "D. Unstated beliefs only"],
+      "correct_answer": "B",
+      "explanation": "Premises are the reasons, evidence, or grounds the author provides as support for their conclusion.",
+      "concept_tags": ["premises", "evidence", "support"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-004",
+      "question_text": "Words like 'therefore,' 'thus,' and 'consequently' typically introduce:",
+      "options": ["A. Premises", "B. Conclusions", "C. Examples only", "D. Counterarguments"],
+      "correct_answer": "B",
+      "explanation": "These conclusion indicators signal that what follows is the claim being argued for, based on preceding premises.",
+      "concept_tags": ["conclusion indicators", "transitions", "argument structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-005",
+      "question_text": "Words like 'because,' 'since,' and 'given that' typically introduce:",
+      "options": ["A. Conclusions", "B. Premises", "C. Questions", "D. Definitions"],
+      "correct_answer": "B",
+      "explanation": "These premise indicators signal that what follows is a reason or evidence supporting a conclusion.",
+      "concept_tags": ["premise indicators", "transitions", "argument structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-006",
+      "question_text": "Evaluating argument strength requires assessing:",
+      "options": ["A. The author's credentials only", "B. Whether premises adequately support the conclusion", "C. Passage length", "D. Publication date"],
+      "correct_answer": "B",
+      "explanation": "Argument strength depends on whether the premises, if true, provide good support for the conclusion.",
+      "concept_tags": ["argument evaluation", "strength", "support"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-007",
+      "question_text": "A deductive argument, if valid, means:",
+      "options": ["A. The conclusion is probably true", "B. If premises are true, conclusion must be true", "C. The premises are definitely true", "D. The conclusion could be false"],
+      "correct_answer": "B",
+      "explanation": "Valid deductive arguments guarantee the conclusion if premises are true—the conclusion follows necessarily.",
+      "concept_tags": ["deductive reasoning", "validity", "logical necessity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-008",
+      "question_text": "An inductive argument provides:",
+      "options": ["A. Absolute certainty", "B. Probable support for the conclusion", "C. No support at all", "D. Only mathematical proof"],
+      "correct_answer": "B",
+      "explanation": "Inductive arguments provide probable (not certain) support—strong premises make the conclusion likely but not guaranteed.",
+      "concept_tags": ["inductive reasoning", "probability", "evidence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-009",
+      "question_text": "A logical fallacy is:",
+      "options": ["A. A valid argument pattern", "B. An error in reasoning that weakens an argument", "C. Strong evidence", "D. A type of conclusion"],
+      "correct_answer": "B",
+      "explanation": "Fallacies are flawed reasoning patterns that undermine arguments despite sometimes appearing persuasive.",
+      "concept_tags": ["logical fallacy", "reasoning errors", "argument analysis"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-010",
+      "question_text": "An ad hominem fallacy attacks:",
+      "options": ["A. The argument's logic", "B. The person making the argument rather than the argument itself", "C. The evidence", "D. The conclusion"],
+      "correct_answer": "B",
+      "explanation": "Ad hominem attacks the person (their character, motives, background) instead of addressing the argument's merits.",
+      "concept_tags": ["ad hominem", "logical fallacy", "personal attack"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-011",
+      "question_text": "A straw man fallacy involves:",
+      "options": ["A. Strong steel-like arguments", "B. Misrepresenting an opposing view to make it easier to attack", "C. Building strong evidence", "D. Accurate representation"],
+      "correct_answer": "B",
+      "explanation": "Straw man misrepresents an opponent's position (making it weaker or more extreme) to more easily refute it.",
+      "concept_tags": ["straw man", "logical fallacy", "misrepresentation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-012",
+      "question_text": "False dichotomy (false dilemma) presents:",
+      "options": ["A. All possible options", "B. Only two options when more exist", "C. No options", "D. The correct answer"],
+      "correct_answer": "B",
+      "explanation": "False dichotomy artificially limits choices to two when other alternatives exist—'either X or Y' when Z is also possible.",
+      "concept_tags": ["false dichotomy", "logical fallacy", "limited options"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-013",
+      "question_text": "Circular reasoning (begging the question) occurs when:",
+      "options": ["A. Evidence is very strong", "B. The conclusion is assumed in the premises", "C. Questions are asked", "D. The argument is complex"],
+      "correct_answer": "B",
+      "explanation": "Circular reasoning assumes what it's trying to prove—the conclusion appears as a premise in disguise.",
+      "concept_tags": ["circular reasoning", "logical fallacy", "begging the question"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-014",
+      "question_text": "Appeal to authority becomes fallacious when:",
+      "options": ["A. Any expert is cited", "B. The authority is not genuinely expert on the relevant topic", "C. Evidence is provided", "D. Multiple sources agree"],
+      "correct_answer": "B",
+      "explanation": "Authority appeals are fallacious when the cited authority lacks relevant expertise or when authority substitutes for evidence.",
+      "concept_tags": ["appeal to authority", "logical fallacy", "expertise"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-015",
+      "question_text": "Hasty generalization draws conclusions from:",
+      "options": ["A. Extensive evidence", "B. Insufficient or unrepresentative evidence", "C. No evidence", "D. Perfect samples"],
+      "correct_answer": "B",
+      "explanation": "Hasty generalization jumps to broad conclusions from too little evidence or unrepresentative examples.",
+      "concept_tags": ["hasty generalization", "logical fallacy", "evidence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-016",
+      "question_text": "Post hoc ergo propter hoc fallacy assumes that:",
+      "options": ["A. Correlation means causation", "B. Because B followed A, A caused B", "C. All events are random", "D. Nothing is caused"],
+      "correct_answer": "B",
+      "explanation": "Post hoc fallacy assumes causation from temporal sequence—just because B came after A doesn't mean A caused B.",
+      "concept_tags": ["post hoc", "logical fallacy", "false causation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-017",
+      "question_text": "Slippery slope fallacy argues that:",
+      "options": ["A. Change is impossible", "B. One action will inevitably lead to extreme consequences without justification", "C. All steps are equally likely", "D. Caution is unnecessary"],
+      "correct_answer": "B",
+      "explanation": "Slippery slope claims that one step will lead to a chain of increasingly extreme events without adequately supporting the causal chain.",
+      "concept_tags": ["slippery slope", "logical fallacy", "causal chain"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-018",
+      "question_text": "Equivocation fallacy uses a word in:",
+      "options": ["A. The same consistent meaning", "B. Different meanings to create a misleading argument", "C. Its dictionary definition", "D. A clearly defined way"],
+      "correct_answer": "B",
+      "explanation": "Equivocation shifts word meaning mid-argument, making the argument appear valid when it actually trades on ambiguity.",
+      "concept_tags": ["equivocation", "logical fallacy", "ambiguity"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-019",
+      "question_text": "Red herring fallacy introduces:",
+      "options": ["A. Relevant evidence", "B. Irrelevant information to distract from the issue", "C. Strong counterarguments", "D. Supporting examples"],
+      "correct_answer": "B",
+      "explanation": "Red herring diverts attention from the actual issue by introducing irrelevant but distracting points.",
+      "concept_tags": ["red herring", "logical fallacy", "distraction"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-020",
+      "question_text": "Appeal to emotion fallacy substitutes:",
+      "options": ["A. Evidence for claims", "B. Emotional manipulation for logical argument", "C. Reason for passion", "D. Facts for opinions"],
+      "correct_answer": "B",
+      "explanation": "Appeal to emotion uses emotional manipulation (fear, pity, flattery) instead of logical reasoning and evidence.",
+      "concept_tags": ["appeal to emotion", "logical fallacy", "manipulation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-021",
+      "question_text": "Identifying unstated assumptions helps evaluate arguments because:",
+      "options": ["A. Assumptions are always wrong", "B. Weak assumptions can undermine otherwise good arguments", "C. Assumptions are irrelevant", "D. All arguments have the same assumptions"],
+      "correct_answer": "B",
+      "explanation": "Arguments depend on unstated assumptions. If an assumption is questionable, the argument is weakened even if stated premises are true.",
+      "concept_tags": ["assumptions", "argument evaluation", "unstated premises"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-022",
+      "question_text": "A counterargument serves to:",
+      "options": ["A. Support the main claim", "B. Present an opposing view that may be addressed or refuted", "C. Conclude the passage", "D. Define key terms"],
+      "correct_answer": "B",
+      "explanation": "Counterarguments present opposing views that authors then address—by refuting, qualifying, or incorporating them.",
+      "concept_tags": ["counterargument", "opposing views", "argument structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-023",
+      "question_text": "When authors acknowledge counterarguments, they are often:",
+      "options": ["A. Giving up their position", "B. Strengthening their argument by addressing objections", "C. Changing their conclusion", "D. Confusing readers"],
+      "correct_answer": "B",
+      "explanation": "Addressing counterarguments demonstrates thoroughness and can strengthen an argument by showing how objections can be answered.",
+      "concept_tags": ["counterargument", "argument strength", "acknowledgment"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-024",
+      "question_text": "A concession in an argument is when the author:",
+      "options": ["A. Wins the debate", "B. Acknowledges a point favoring the opposing view", "C. Ignores opposition", "D. States the main conclusion"],
+      "correct_answer": "B",
+      "explanation": "Concessions admit the validity of opposing points before the author responds with qualifications or counters.",
+      "concept_tags": ["concession", "acknowledgment", "argument strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-025",
+      "question_text": "Questions asking to 'strengthen' an argument want you to identify:",
+      "options": ["A. What would weaken it", "B. Additional support that would make the conclusion more likely", "C. The conclusion", "D. Fallacies"],
+      "correct_answer": "B",
+      "explanation": "Strengthen questions ask for new information or considerations that would provide additional support for the argument's conclusion.",
+      "concept_tags": ["strengthen", "argument support", "question types"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-026",
+      "question_text": "Questions asking to 'weaken' an argument want you to identify:",
+      "options": ["A. Supporting evidence", "B. Information that undermines the conclusion or exposes flaws", "C. The main premise", "D. Strong evidence"],
+      "correct_answer": "B",
+      "explanation": "Weaken questions ask for information that would make the conclusion less likely or reveal problems with the reasoning.",
+      "concept_tags": ["weaken", "argument critique", "question types"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-027",
+      "question_text": "Evidence in an argument can include:",
+      "options": ["A. Only statistics", "B. Facts, examples, expert opinions, research findings, and more", "C. Only quotations", "D. Only personal experience"],
+      "correct_answer": "B",
+      "explanation": "Evidence takes many forms—statistics, examples, expert testimony, research, historical facts, logical principles, etc.",
+      "concept_tags": ["evidence types", "support", "argument"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-028",
+      "question_text": "Evaluating evidence quality requires considering:",
+      "options": ["A. Only quantity of evidence", "B. Relevance, reliability, and sufficiency", "C. The author's emotions", "D. Only recent data"],
+      "correct_answer": "B",
+      "explanation": "Good evidence is relevant to the claim, comes from reliable sources, and is sufficient in amount and scope.",
+      "concept_tags": ["evidence quality", "evaluation", "criteria"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-029",
+      "question_text": "Anecdotal evidence is:",
+      "options": ["A. The strongest form of evidence", "B. Personal stories that may not be representative", "C. Statistical proof", "D. Always irrelevant"],
+      "correct_answer": "B",
+      "explanation": "Anecdotes are individual stories that may illustrate points but don't prove general claims due to potential non-representativeness.",
+      "concept_tags": ["anecdotal evidence", "limitations", "evidence types"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-030",
+      "question_text": "Correlation indicates that:",
+      "options": ["A. One thing causes another", "B. Two things are associated or related", "C. No relationship exists", "D. Both things are unimportant"],
+      "correct_answer": "B",
+      "explanation": "Correlation shows relationship/association but doesn't prove causation—other factors could explain the correlation.",
+      "concept_tags": ["correlation", "causation", "relationship"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-031",
+      "question_text": "To establish causation (not just correlation), one typically needs:",
+      "options": ["A. One example", "B. Temporal precedence, mechanism, and ruling out alternatives", "C. Correlation only", "D. The author's opinion"],
+      "correct_answer": "B",
+      "explanation": "Causation requires: cause precedes effect, plausible mechanism, and alternative explanations ruled out.",
+      "concept_tags": ["causation", "evidence requirements", "scientific reasoning"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-032",
+      "question_text": "A necessary assumption is one that:",
+      "options": ["A. Would strengthen the argument if true", "B. The argument requires to be true for the conclusion to follow", "C. Is explicitly stated", "D. Is optional"],
+      "correct_answer": "B",
+      "explanation": "Necessary assumptions are required—if they're false, the argument fails. They fill gaps between stated premises and conclusion.",
+      "concept_tags": ["necessary assumption", "argument dependence", "logic"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-033",
+      "question_text": "A sufficient assumption is one that:",
+      "options": ["A. Is necessary but not enough", "B. Would guarantee the conclusion if added to the premises", "C. Weakens the argument", "D. Is always stated"],
+      "correct_answer": "B",
+      "explanation": "A sufficient assumption, if true, would make the conclusion definitely follow—it's enough to complete the argument.",
+      "concept_tags": ["sufficient assumption", "guarantee", "logic"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-034",
+      "question_text": "The 'method of reasoning' in an argument refers to:",
+      "options": ["A. The conclusion", "B. How the author builds their case (strategy, structure, techniques)", "C. The length of the argument", "D. The topic"],
+      "correct_answer": "B",
+      "explanation": "Method of reasoning is how the argument is constructed—the logical strategy and techniques used to support the conclusion.",
+      "concept_tags": ["method of reasoning", "argument structure", "strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-035",
+      "question_text": "An analogy in an argument compares:",
+      "options": ["A. Unrelated things randomly", "B. Two situations to suggest similar reasoning applies to both", "C. Numbers only", "D. Nothing meaningful"],
+      "correct_answer": "B",
+      "explanation": "Analogies compare situations to suggest that what's true of one applies to the other due to relevant similarities.",
+      "concept_tags": ["analogy", "comparison", "reasoning"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-036",
+      "question_text": "Evaluating an analogy requires asking:",
+      "options": ["A. Only whether the analogy is creative", "B. Whether the situations are similar in relevant respects", "C. How long the analogy is", "D. Whether the author likes both situations"],
+      "correct_answer": "B",
+      "explanation": "Analogies are strong when the compared situations share relevant similarities; they're weak when key differences exist.",
+      "concept_tags": ["analogy evaluation", "relevant similarities", "differences"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-037",
+      "question_text": "An argument from example uses:",
+      "options": ["A. Statistical data only", "B. Specific cases to support a general claim", "C. No evidence", "D. Abstract principles only"],
+      "correct_answer": "B",
+      "explanation": "Arguments from example cite specific instances as evidence for broader claims—the examples should be representative.",
+      "concept_tags": ["argument from example", "inductive reasoning", "evidence"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-04-038",
+      "question_text": "Questions about 'how the argument proceeds' ask about:",
+      "options": ["A. The conclusion only", "B. The logical structure and flow of the argument", "C. Word count", "D. The author's name"],
+      "correct_answer": "B",
+      "explanation": "These questions ask you to describe the argument's structure—how premises lead to conclusion, what techniques are used.",
+      "concept_tags": ["argument structure", "question type", "description"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-039",
+      "question_text": "A reductio ad absurdum argument works by:",
+      "options": ["A. Reducing the length of claims", "B. Showing that assuming the opposite leads to absurd conclusions", "C. Ignoring counterarguments", "D. Using emotional appeals"],
+      "correct_answer": "B",
+      "explanation": "Reductio ad absurdum assumes the opposite of what you want to prove, shows it leads to contradiction or absurdity, thus proving the original claim.",
+      "concept_tags": ["reductio ad absurdum", "logical strategy", "proof"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-040",
+      "question_text": "A tu quoque ('you too') fallacy argues that:",
+      "options": ["A. The argument is valid", "B. A claim is wrong because the person making it is hypocritical", "C. Two wrongs make a right", "D. The evidence is strong"],
+      "correct_answer": "B",
+      "explanation": "Tu quoque deflects criticism by pointing out hypocrisy—but whether the critic is consistent doesn't affect the argument's validity.",
+      "concept_tags": ["tu quoque", "logical fallacy", "hypocrisy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-041",
+      "question_text": "Distinguishing between necessary and sufficient conditions is important because:",
+      "options": ["A. They're always the same", "B. Confusing them leads to logical errors", "C. Only sufficient conditions matter", "D. Only necessary conditions exist"],
+      "correct_answer": "B",
+      "explanation": "Confusing necessary (required) with sufficient (enough) conditions leads to invalid conclusions about what guarantees or requires what.",
+      "concept_tags": ["necessary vs sufficient", "logic", "precision"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-042",
+      "question_text": "When the author says 'X is not sufficient for Y,' they mean:",
+      "options": ["A. X is not needed for Y", "B. X alone doesn't guarantee Y", "C. X always leads to Y", "D. Y requires X"],
+      "correct_answer": "B",
+      "explanation": "'Not sufficient' means X alone won't guarantee Y—other conditions are also needed for Y to occur.",
+      "concept_tags": ["sufficient condition", "logic", "interpretation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-043",
+      "question_text": "When the author says 'X is necessary for Y,' they mean:",
+      "options": ["A. X guarantees Y", "B. Y cannot happen without X", "C. X and Y are the same", "D. X is unimportant for Y"],
+      "correct_answer": "B",
+      "explanation": "'Necessary' means X must be present for Y to occur—without X, Y is impossible (though X alone may not be enough).",
+      "concept_tags": ["necessary condition", "logic", "interpretation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-044",
+      "question_text": "Burden of proof in an argument refers to:",
+      "options": ["A. Physical weight of evidence", "B. Whose responsibility it is to support claims", "C. The length of the argument", "D. Grammatical correctness"],
+      "correct_answer": "B",
+      "explanation": "Burden of proof is the obligation to provide evidence for claims. Generally, whoever makes a claim must support it.",
+      "concept_tags": ["burden of proof", "evidence responsibility", "argument"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-045",
+      "question_text": "A valid argument with false premises:",
+      "options": ["A. Has a guaranteed true conclusion", "B. May have a true or false conclusion", "C. Is impossible", "D. Is sound"],
+      "correct_answer": "B",
+      "explanation": "Validity means the conclusion follows from premises. But if premises are false, the conclusion could be true or false—validity doesn't guarantee truth.",
+      "concept_tags": ["validity", "soundness", "truth"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-046",
+      "question_text": "A sound argument is one that is:",
+      "options": ["A. Valid with true premises", "B. Invalid with true premises", "C. Valid with false premises", "D. Loud and clear"],
+      "correct_answer": "A",
+      "explanation": "Soundness requires both validity (logical structure) and truth (premises are actually true), guaranteeing a true conclusion.",
+      "concept_tags": ["soundness", "validity", "truth"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "cars-04-047",
+      "question_text": "Questions asking 'which most accurately describes the relationship' require understanding:",
+      "options": ["A. Only the first paragraph", "B. How different parts of the argument or different views connect", "C. Vocabulary only", "D. The author's biography"],
+      "correct_answer": "B",
+      "explanation": "Relationship questions test understanding of how parts of the passage (ideas, paragraphs, viewpoints) relate to each other.",
+      "concept_tags": ["relationships", "structure", "connection"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-048",
+      "question_text": "Recognizing rhetorical strategies helps because:",
+      "options": ["A. They're irrelevant to meaning", "B. Understanding how authors persuade aids in evaluating arguments", "C. Rhetoric is only in speeches", "D. All strategies are fallacies"],
+      "correct_answer": "B",
+      "explanation": "Rhetorical strategies (repetition, questions, appeals, etc.) are persuasion techniques. Recognizing them helps evaluate both style and substance.",
+      "concept_tags": ["rhetorical strategies", "persuasion", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-049",
+      "question_text": "When asked to identify 'the author's reasoning,' focus on:",
+      "options": ["A. The conclusion only", "B. The logical process connecting evidence to conclusion", "C. Grammar and style", "D. Passage length"],
+      "correct_answer": "B",
+      "explanation": "Reasoning questions ask about the logical process—how the author moves from evidence/premises to their conclusion.",
+      "concept_tags": ["reasoning", "logical process", "argument analysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-04-050",
+      "question_text": "Understanding argument structure helps you answer questions about:",
+      "options": ["A. Only vocabulary", "B. Main ideas, author's purpose, function of parts, and logical relationships", "C. Only dates and names", "D. Only the first paragraph"],
+      "correct_answer": "B",
+      "explanation": "Argument structure underlies many question types—understanding how parts function helps with main idea, purpose, and reasoning questions.",
+      "concept_tags": ["argument structure", "applications", "multiple question types"],
+      "difficulty": "medium"
+    }
+  ]
+}

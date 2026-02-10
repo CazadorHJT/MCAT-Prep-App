@@ -1,0 +1,457 @@
+{
+  "book": "cars",
+  "chapter": 9,
+  "chapter_title": "Test-Taking Strategies and Practice",
+  "questions": [
+    {
+      "id": "cars-09-001",
+      "question_text": "Effective time management in CARS means:",
+      "options": ["A. Spending equal time on every question regardless of difficulty", "B. Pacing yourself to complete all passages while maintaining accuracy", "C. Rushing through all passages as fast as possible", "D. Only reading the first paragraph of each passage"],
+      "correct_answer": "B",
+      "explanation": "Time management balances completing all passages with maintaining accuracy—roughly 10 minutes per passage including questions.",
+      "concept_tags": ["time management", "pacing", "strategy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-002",
+      "question_text": "If a question is taking too long, you should:",
+      "options": ["A. Spend unlimited time until you get it", "B. Make your best choice, flag it, and move on", "C. Leave it blank", "D. Skip the entire passage"],
+      "correct_answer": "B",
+      "explanation": "When stuck, make your best selection based on available analysis, flag for review if time permits, and move on to protect overall timing.",
+      "concept_tags": ["time management", "flagging", "decision-making"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-003",
+      "question_text": "Process of elimination is most useful when:",
+      "options": ["A. The correct answer is immediately obvious", "B. You can identify clearly wrong answers to narrow choices", "C. All answers look identical", "D. You want to guess randomly"],
+      "correct_answer": "B",
+      "explanation": "Elimination works best when you can identify and remove wrong answers, increasing your odds among remaining choices.",
+      "concept_tags": ["process of elimination", "strategy", "answer evaluation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-004",
+      "question_text": "Common wrong answer types include:",
+      "options": ["A. Accurate paraphrases of the passage", "B. Extreme language, out of scope claims, and distortions", "C. Direct quotations from the text", "D. Answers matching the author's view"],
+      "correct_answer": "B",
+      "explanation": "Wrong answers often use extreme language, introduce out-of-scope information, or distort passage content subtly.",
+      "concept_tags": ["wrong answer patterns", "recognition", "strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-005",
+      "question_text": "Extreme language ('always,' 'never,' 'all,' 'none') in answer choices:",
+      "options": ["A. Is usually correct", "B. Often signals an incorrect answer", "C. Is neutral", "D. Is always correct"],
+      "correct_answer": "B",
+      "explanation": "Extreme language often creates unsupportable claims. Authors typically use qualified language, making extreme statements suspect.",
+      "concept_tags": ["extreme language", "warning sign", "evaluation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-006",
+      "question_text": "Out-of-scope answer choices:",
+      "options": ["A. Are always correct", "B. Introduce information not addressed in the passage", "C. Summarize the main idea", "D. Quote the passage directly"],
+      "correct_answer": "B",
+      "explanation": "Out-of-scope answers bring in topics, claims, or information the passage doesn't discuss, making them incorrect regardless of their real-world truth.",
+      "concept_tags": ["out of scope", "wrong answers", "passage bounds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-007",
+      "question_text": "Distorted answer choices:",
+      "options": ["A. Accurately represent passage content", "B. Twist or misrepresent what the passage says", "C. Are obviously wrong", "D. Match quotations exactly"],
+      "correct_answer": "B",
+      "explanation": "Distortions subtly change the meaning—reversing relationships, exaggerating claims, or misattributing views.",
+      "concept_tags": ["distortion", "wrong answers", "subtle errors"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-008",
+      "question_text": "Reading question stems carefully is important because:",
+      "options": ["A. All questions ask the same thing", "B. Different question types require different approaches", "C. Questions don't matter", "D. Only answer choices matter"],
+      "correct_answer": "B",
+      "explanation": "Question stems signal what's being asked (main idea, detail, inference, etc.) and guide your approach to finding the answer.",
+      "concept_tags": ["question stems", "question types", "attention"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-009",
+      "question_text": "When stuck between two answer choices:",
+      "options": ["A. Always pick the first one", "B. Return to the passage to find evidence distinguishing them", "C. Choose randomly", "D. Leave it blank"],
+      "correct_answer": "B",
+      "explanation": "When torn between choices, find specific passage evidence that supports one over the other—the correct answer has stronger textual support.",
+      "concept_tags": ["decision strategy", "evidence", "close choices"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-010",
+      "question_text": "Changing an answer is advisable when:",
+      "options": ["A. You always should change your first answer", "B. You have a clear reason based on rereading", "C. You never should change answers", "D. You feel uncertain"],
+      "correct_answer": "B",
+      "explanation": "Change answers only when you have a clear, evidence-based reason—not just vague second-guessing. Research shows thoughtful changes often help.",
+      "concept_tags": ["answer changes", "decision-making", "strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-011",
+      "question_text": "Before selecting a final answer, verify that it:",
+      "options": ["A. Is the longest choice", "B. Answers the actual question being asked", "C. Sounds the most sophisticated", "D. Contains the most passage vocabulary"],
+      "correct_answer": "B",
+      "explanation": "Ensure your answer addresses exactly what the question asks—not a related question you imagined or assumed.",
+      "concept_tags": ["verification", "accuracy", "question matching"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-012",
+      "question_text": "Managing test anxiety involves:",
+      "options": ["A. Ignoring it completely", "B. Using breathing techniques and staying focused on the current question", "C. Rushing to finish faster", "D. Panicking more"],
+      "correct_answer": "B",
+      "explanation": "Manage anxiety through deep breathing, focusing on one question at a time, and maintaining perspective on the overall test.",
+      "concept_tags": ["test anxiety", "stress management", "focus"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-013",
+      "question_text": "If you encounter a very difficult passage, you should:",
+      "options": ["A. Spend unlimited time on it", "B. Extract what you can, answer questions, and move on", "C. Skip it entirely without answering", "D. Panic"],
+      "correct_answer": "B",
+      "explanation": "Get what you can from difficult passages, make educated guesses on questions, and don't let one passage derail your timing for others.",
+      "concept_tags": ["difficult passages", "resilience", "strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-014",
+      "question_text": "Practicing under timed conditions is important because:",
+      "options": ["A. Timing doesn't matter on the real test", "B. It builds stamina and pacing skills for test day", "C. Untimed practice is better", "D. Speed is all that matters"],
+      "correct_answer": "B",
+      "explanation": "Timed practice develops realistic pacing, builds reading stamina, and simulates test conditions for better performance.",
+      "concept_tags": ["timed practice", "stamina", "simulation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-015",
+      "question_text": "Reviewing practice tests should include:",
+      "options": ["A. Only checking your score", "B. Analyzing wrong answers to understand error patterns", "C. Only celebrating correct answers", "D. Ignoring difficult questions"],
+      "correct_answer": "B",
+      "explanation": "Effective review analyzes wrong answers to identify patterns—misreading, out-of-scope choices, rushed decisions—for improvement.",
+      "concept_tags": ["review", "error analysis", "improvement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-016",
+      "question_text": "When a question asks 'EXCEPT' or 'NOT,' you should:",
+      "options": ["A. Ignore those words", "B. Find the answer choice that differs from the pattern", "C. Choose the first answer", "D. Skip the question"],
+      "correct_answer": "B",
+      "explanation": "EXCEPT/NOT questions ask for the choice that doesn't fit—the one that differs from the others. Consider each choice against the criterion.",
+      "concept_tags": ["EXCEPT questions", "NOT questions", "strategy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-017",
+      "question_text": "For EXCEPT questions, a systematic approach is to:",
+      "options": ["A. Guess randomly", "B. Evaluate each choice against the criterion and eliminate those that fit", "C. Only read two choices", "D. Skip the question"],
+      "correct_answer": "B",
+      "explanation": "Systematically check each choice against what the question asks, eliminating those that fit the criterion to find the exception.",
+      "concept_tags": ["EXCEPT strategy", "systematic approach", "elimination"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-018",
+      "question_text": "Reading stamina is developed by:",
+      "options": ["A. Avoiding practice", "B. Regular practice with full-length sections or tests", "C. Only reading short passages", "D. Taking frequent long breaks"],
+      "correct_answer": "B",
+      "explanation": "Stamina comes from regularly practicing with full-length sections to build endurance for the complete 90-minute CARS section.",
+      "concept_tags": ["stamina", "practice", "endurance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-019",
+      "question_text": "A pre-reading strategy involves:",
+      "options": ["A. Never looking at questions first", "B. Glancing at question stems before reading to focus attention", "C. Only reading questions, not the passage", "D. Memorizing all questions first"],
+      "correct_answer": "B",
+      "explanation": "Some test-takers benefit from previewing questions to know what to look for, though this strategy varies by individual preference.",
+      "concept_tags": ["pre-reading", "question preview", "strategy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-020",
+      "question_text": "Creating a 'mental map' while reading means:",
+      "options": ["A. Drawing a physical map", "B. Tracking the structure and key ideas mentally or with brief notes", "C. Memorizing every word", "D. Ignoring structure"],
+      "correct_answer": "B",
+      "explanation": "A mental map is an understanding of passage structure—where key ideas are, how paragraphs connect, and the overall argument flow.",
+      "concept_tags": ["mental map", "structure", "organization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-021",
+      "question_text": "Annotating while reading should be:",
+      "options": ["A. As extensive as possible", "B. Strategic, marking key ideas and transitions without over-marking", "C. Avoided entirely", "D. Only underlining everything"],
+      "correct_answer": "B",
+      "explanation": "Effective annotation is selective—marking main ideas, key transitions, and author's stance without wasting time over-marking.",
+      "concept_tags": ["annotation", "selective marking", "efficiency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-022",
+      "question_text": "If you realize you misread a question after selecting an answer:",
+      "options": ["A. Leave the wrong answer", "B. Change it if time allows and you have a better answer", "C. Never change answers", "D. Skip the question"],
+      "correct_answer": "B",
+      "explanation": "If you discover a misread before time runs out, correcting to the right answer improves your score.",
+      "concept_tags": ["misreading", "correction", "flexibility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-023",
+      "question_text": "The 'too good to be true' answer choice:",
+      "options": ["A. Is always correct", "B. May be a trap using passage language in a distorted way", "C. Should always be chosen", "D. Doesn't exist"],
+      "correct_answer": "B",
+      "explanation": "Answers that seem to match the passage perfectly may be traps—using passage language but distorting the meaning.",
+      "concept_tags": ["trap answers", "skepticism", "verification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-024",
+      "question_text": "When an answer choice uses very technical language not in the passage:",
+      "options": ["A. It must be correct because it sounds smart", "B. It may be out of scope or a distractor", "C. It is definitely correct", "D. Technical language is always right"],
+      "correct_answer": "B",
+      "explanation": "Answers introducing terminology not in the passage may be out of scope—the passage should support the answer's concepts.",
+      "concept_tags": ["technical language", "out of scope", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-025",
+      "question_text": "Answer choices that begin with 'The author believes all...' or 'The author completely...':",
+      "options": ["A. Are usually correct", "B. Often contain extreme language that's unsupported", "C. Are neutral", "D. Match qualified passage claims"],
+      "correct_answer": "B",
+      "explanation": "Absolute qualifiers ('all,' 'completely,' 'only') often create unsupportable claims when the passage is more nuanced.",
+      "concept_tags": ["absolute language", "warning signs", "evaluation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-026",
+      "question_text": "If you finish a passage with extra time, you should:",
+      "options": ["A. Immediately move to the next passage", "B. Review flagged questions or verify uncertain answers", "C. Stare at the screen", "D. Never review"],
+      "correct_answer": "B",
+      "explanation": "Use extra time to review flagged or uncertain questions, verify that answers match questions, and catch any errors.",
+      "concept_tags": ["time use", "review", "verification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-027",
+      "question_text": "Difficulty navigating between passage and questions can be reduced by:",
+      "options": ["A. Not reading the passage", "B. Using line references and key terms to locate relevant sections quickly", "C. Memorizing the entire passage", "D. Only reading questions"],
+      "correct_answer": "B",
+      "explanation": "Use line references in questions and distinctive terms to quickly locate relevant passage sections for verification.",
+      "concept_tags": ["navigation", "efficiency", "location"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-028",
+      "question_text": "Maintaining focus across 9 passages requires:",
+      "options": ["A. Coffee during the test", "B. Practice, proper rest, and strategies for refocusing when attention wanders", "C. No preparation", "D. Rushing through passages"],
+      "correct_answer": "B",
+      "explanation": "Sustained focus comes from practice building stamina, adequate rest before the test, and techniques to refocus when attention drifts.",
+      "concept_tags": ["focus", "stamina", "mental preparation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-029",
+      "question_text": "If you find yourself losing focus during a passage:",
+      "options": ["A. Keep reading anyway without comprehension", "B. Take a brief mental pause and refocus before continuing", "C. Skip to the next passage", "D. Give up on CARS"],
+      "correct_answer": "B",
+      "explanation": "When focus drifts, a brief pause to reorient is more effective than continuing without comprehension.",
+      "concept_tags": ["refocusing", "attention", "recovery"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-030",
+      "question_text": "Difficult vocabulary in passages should be handled by:",
+      "options": ["A. Panicking", "B. Using context clues to infer meaning and continuing", "C. Stopping to look words up", "D. Skipping the passage"],
+      "correct_answer": "B",
+      "explanation": "Use context to infer unfamiliar word meanings. Often, precise definition isn't necessary for answering questions correctly.",
+      "concept_tags": ["vocabulary", "context clues", "inference"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-031",
+      "question_text": "Passages on unfamiliar topics require:",
+      "options": ["A. Prior knowledge of the topic", "B. Close attention to how the passage itself explains concepts", "C. Skipping to familiar topics", "D. External research"],
+      "correct_answer": "B",
+      "explanation": "CARS tests reading skill, not content knowledge. Unfamiliar topics are handled by carefully reading the passage's own explanations.",
+      "concept_tags": ["unfamiliar topics", "passage-based", "attention"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-032",
+      "question_text": "Answer choices that directly contradict the passage are often:",
+      "options": ["A. Correct", "B. Easy to eliminate once recognized", "C. Always the right answer", "D. Hard to identify"],
+      "correct_answer": "B",
+      "explanation": "Contradiction is a clear elimination criterion—if an answer states the opposite of the passage, it's wrong.",
+      "concept_tags": ["contradictions", "elimination", "recognition"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-033",
+      "question_text": "Strategic guessing when you must guess involves:",
+      "options": ["A. Always choosing C", "B. Eliminating clearly wrong answers first, then choosing from the rest", "C. Random selection without reading", "D. Always choosing the longest answer"],
+      "correct_answer": "B",
+      "explanation": "Even when guessing, eliminate what you can first to improve your odds among remaining choices.",
+      "concept_tags": ["strategic guessing", "elimination", "probability"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-034",
+      "question_text": "Never leave a question blank because:",
+      "options": ["A. Blank answers look bad", "B. There's no penalty for wrong answers, so guessing gives some chance", "C. All guesses are correct", "D. Blanks are scored higher"],
+      "correct_answer": "B",
+      "explanation": "With no penalty for wrong answers, any guess has a chance of being correct, while blanks have zero chance.",
+      "concept_tags": ["no penalty", "guessing", "strategy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-035",
+      "question_text": "The passage-first vs. questions-first debate means:",
+      "options": ["A. One approach is definitively better", "B. Different strategies work for different test-takers", "C. Neither approach works", "D. You must always read questions first"],
+      "correct_answer": "B",
+      "explanation": "Some test-takers prefer reading the passage first; others preview questions. Find what works best for you through practice.",
+      "concept_tags": ["reading strategy", "individual differences", "preference"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-036",
+      "question_text": "Developing a consistent approach to passages helps because:",
+      "options": ["A. Variety is always better", "B. Consistency reduces decision fatigue and builds automatic habits", "C. Approaches don't matter", "D. You should improvise each time"],
+      "correct_answer": "B",
+      "explanation": "A consistent approach becomes automatic, freeing mental energy for comprehension rather than deciding how to proceed each time.",
+      "concept_tags": ["consistency", "habits", "efficiency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-037",
+      "question_text": "Practice passage difficulty should:",
+      "options": ["A. Always be easy", "B. Progressively match and slightly exceed test difficulty", "C. Always be impossible", "D. Be irrelevant"],
+      "correct_answer": "B",
+      "explanation": "Practice with materials at or slightly above test difficulty prepares you for the real test's challenge level.",
+      "concept_tags": ["practice difficulty", "preparation", "progression"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-038",
+      "question_text": "If your timing is consistently off, you should:",
+      "options": ["A. Ignore the problem", "B. Analyze where time is lost and adjust your approach", "C. Just read faster without comprehension", "D. Skip more questions"],
+      "correct_answer": "B",
+      "explanation": "Identify where time is lost (reading? answering? second-guessing?) and adjust that specific aspect of your approach.",
+      "concept_tags": ["timing analysis", "adjustment", "improvement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-039",
+      "question_text": "Taking practice tests under realistic conditions means:",
+      "options": ["A. With TV on and snacks", "B. Timed, uninterrupted, in a test-like environment", "C. Untimed and relaxed", "D. With help from friends"],
+      "correct_answer": "B",
+      "explanation": "Realistic conditions simulate test day—proper timing, no interruptions, and a quiet environment—for accurate practice.",
+      "concept_tags": ["realistic practice", "simulation", "conditions"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-040",
+      "question_text": "Keeping an error log helps you:",
+      "options": ["A. Feel bad about mistakes", "B. Identify patterns in your errors to target improvement", "C. Memorize wrong answers", "D. Waste time"],
+      "correct_answer": "B",
+      "explanation": "An error log reveals patterns—certain question types, misreading tendencies, or common traps—that you can work to improve.",
+      "concept_tags": ["error log", "patterns", "targeted improvement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-041",
+      "question_text": "On test day, arriving early helps you:",
+      "options": ["A. Rush through registration", "B. Settle in, reduce anxiety, and start calmly", "C. Waste time", "D. Study more"],
+      "correct_answer": "B",
+      "explanation": "Arriving early allows time to settle, complete check-in calmly, and start the test in a focused rather than frazzled state.",
+      "concept_tags": ["test day", "preparation", "calm start"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-042",
+      "question_text": "If you encounter a particularly boring passage, you should:",
+      "options": ["A. Skip it entirely", "B. Push through, focusing on structure and main ideas despite disinterest", "C. Close your eyes", "D. Complain to the proctor"],
+      "correct_answer": "B",
+      "explanation": "Personal interest doesn't affect question answering. Focus on structure and ideas to extract what's needed despite low engagement.",
+      "concept_tags": ["disinterest", "focus", "persistence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-043",
+      "question_text": "The best answer is the one that:",
+      "options": ["A. Sounds most impressive", "B. Has the strongest support from passage evidence", "C. Is the longest", "D. Uses the most technical language"],
+      "correct_answer": "B",
+      "explanation": "The best answer is most strongly supported by passage evidence, regardless of how sophisticated or simple it sounds.",
+      "concept_tags": ["best answer", "evidence", "support"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-044",
+      "question_text": "When reviewing practice, understanding WHY an answer is correct is:",
+      "options": ["A. Unnecessary", "B. More important than just knowing which answer is right", "C. A waste of time", "D. Only for difficult questions"],
+      "correct_answer": "B",
+      "explanation": "Understanding the reasoning behind correct answers builds skills that transfer to new questions, not just memory of specific answers.",
+      "concept_tags": ["understanding", "reasoning", "skill building"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-045",
+      "question_text": "Breaks during practice should:",
+      "options": ["A. Never happen", "B. Mirror test day breaks to build accurate stamina", "C. Be as long as you want", "D. Replace practice time"],
+      "correct_answer": "B",
+      "explanation": "Practice with breaks matching test day conditions builds realistic stamina and expectations.",
+      "concept_tags": ["breaks", "realistic practice", "stamina"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-046",
+      "question_text": "Diversifying practice passage topics helps because:",
+      "options": ["A. All passages are the same", "B. You'll encounter various topics on the real test", "C. Only one topic appears on the test", "D. Topics don't affect difficulty"],
+      "correct_answer": "B",
+      "explanation": "CARS covers diverse humanities and social science topics. Practice with varied subjects builds comfort with unfamiliar content.",
+      "concept_tags": ["topic diversity", "preparation", "flexibility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-047",
+      "question_text": "Improving on CARS typically requires:",
+      "options": ["A. Only a few days of practice", "B. Sustained practice over weeks or months", "C. No practice at all", "D. Only memorizing vocabulary"],
+      "correct_answer": "B",
+      "explanation": "CARS skills develop gradually through sustained practice—reading, analyzing, and refining strategies over time.",
+      "concept_tags": ["improvement timeline", "sustained practice", "skill development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-048",
+      "question_text": "Reading widely outside of practice (news, articles, essays) helps by:",
+      "options": ["A. Wasting time", "B. Building reading fluency and comfort with complex texts", "C. Replacing targeted practice", "D. Having no effect"],
+      "correct_answer": "B",
+      "explanation": "Wide reading builds general reading fluency and comfort with varied, complex texts—skills that transfer to CARS passages.",
+      "concept_tags": ["wide reading", "fluency", "skill building"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "cars-09-049",
+      "question_text": "Confidence in CARS comes from:",
+      "options": ["A. Ignoring the section", "B. Practice, developing strategies, and seeing improvement", "C. Only natural ability", "D. Memorizing passages"],
+      "correct_answer": "B",
+      "explanation": "Confidence grows through practice, developing effective strategies, and experiencing genuine improvement over time.",
+      "concept_tags": ["confidence", "practice", "improvement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "cars-09-050",
+      "question_text": "The ultimate goal of CARS preparation is:",
+      "options": ["A. Memorizing answer patterns", "B. Developing transferable critical reading and reasoning skills", "C. Only passing the test", "D. Avoiding the section"],
+      "correct_answer": "B",
+      "explanation": "CARS preparation develops reading and reasoning skills valuable beyond the test—for medical school, clinical practice, and lifelong learning.",
+      "concept_tags": ["transferable skills", "ultimate goal", "lifelong learning"],
+      "difficulty": "easy"
+    }
+  ]
+}

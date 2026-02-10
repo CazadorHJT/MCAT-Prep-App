@@ -1,0 +1,457 @@
+{
+  "book": "physics-math",
+  "chapter": 5,
+  "chapter_title": "Electrostatics and Magnetism",
+  "questions": [
+    {
+      "id": "physics-math-05-001",
+      "question_text": "Two point charges of +2 μC and +8 μC are separated by a distance of 30 cm. At what distance from the +2 μC charge is the electric field equal to zero?",
+      "options": ["A. 10 cm", "B. 15 cm", "C. 20 cm", "D. 6 cm"],
+      "correct_answer": "A",
+      "explanation": "The electric field is zero at a point between the charges where the fields cancel. Setting E₁ = E₂: kq₁/r₁² = kq₂/r₂². With q₁ = 2 μC and q₂ = 8 μC, and r₁ + r₂ = 30 cm, we get 2/r₁² = 8/(30-r₁)². Solving: (30-r₁)/r₁ = 2, so r₁ = 10 cm from the smaller charge.",
+      "concept_tags": ["electric-field", "superposition", "point-charges"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-002",
+      "question_text": "What is the magnitude of the electric force between two protons separated by 1 nm? (k = 9 × 10⁹ N·m²/C², e = 1.6 × 10⁻¹⁹ C)",
+      "options": ["A. 2.3 × 10⁻¹⁰ N", "B. 2.3 × 10⁻¹³ N", "C. 1.4 × 10⁻⁹ N", "D. 1.4 × 10⁻¹² N"],
+      "correct_answer": "A",
+      "explanation": "Using Coulomb's law: F = kq₁q₂/r² = (9 × 10⁹)(1.6 × 10⁻¹⁹)²/(10⁻⁹)² = (9 × 10⁹)(2.56 × 10⁻³⁸)/(10⁻¹⁸) = 2.3 × 10⁻¹⁰ N.",
+      "concept_tags": ["coulombs-law", "electric-force", "point-charges"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-003",
+      "question_text": "A parallel plate capacitor with air between the plates has a capacitance of 4 pF. If a dielectric material with κ = 3 is inserted between the plates, what is the new capacitance?",
+      "options": ["A. 1.33 pF", "B. 4 pF", "C. 12 pF", "D. 36 pF"],
+      "correct_answer": "C",
+      "explanation": "The capacitance with a dielectric is C' = κC₀, where κ is the dielectric constant and C₀ is the original capacitance. Therefore, C' = 3 × 4 pF = 12 pF.",
+      "concept_tags": ["capacitors", "dielectrics", "capacitance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-004",
+      "question_text": "An electron moves at 3 × 10⁶ m/s perpendicular to a magnetic field of 0.5 T. What is the magnitude of the magnetic force on the electron? (e = 1.6 × 10⁻¹⁹ C)",
+      "options": ["A. 2.4 × 10⁻¹³ N", "B. 2.4 × 10⁻¹² N", "C. 4.8 × 10⁻¹³ N", "D. 4.8 × 10⁻¹² N"],
+      "correct_answer": "A",
+      "explanation": "The magnetic force on a moving charge is F = qvB sin θ. Since the velocity is perpendicular to the field, sin θ = 1. F = (1.6 × 10⁻¹⁹)(3 × 10⁶)(0.5) = 2.4 × 10⁻¹³ N.",
+      "concept_tags": ["magnetic-force", "moving-charges", "lorentz-force"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-005",
+      "question_text": "A wire carrying a current of 5 A has a length of 20 cm in a uniform magnetic field of 0.4 T. If the wire is perpendicular to the field, what is the force on the wire?",
+      "options": ["A. 0.04 N", "B. 0.4 N", "C. 4 N", "D. 0.2 N"],
+      "correct_answer": "B",
+      "explanation": "The force on a current-carrying wire is F = BIL sin θ. With θ = 90°: F = (0.4 T)(5 A)(0.2 m) = 0.4 N.",
+      "concept_tags": ["magnetic-force", "current-carrying-wire", "magnetic-field"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-006",
+      "question_text": "The electric potential at a distance of 2 m from a point charge is 450 V. What is the magnitude of the charge? (k = 9 × 10⁹ N·m²/C²)",
+      "options": ["A. 1 × 10⁻⁷ C", "B. 2 × 10⁻⁷ C", "C. 5 × 10⁻⁸ C", "D. 1 × 10⁻⁸ C"],
+      "correct_answer": "A",
+      "explanation": "Using V = kQ/r, we solve for Q: Q = Vr/k = (450)(2)/(9 × 10⁹) = 900/(9 × 10⁹) = 1 × 10⁻⁷ C.",
+      "concept_tags": ["electric-potential", "point-charges", "voltage"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-007",
+      "question_text": "A proton enters a uniform magnetic field with a velocity of 4 × 10⁵ m/s perpendicular to the field. If the radius of the circular path is 0.1 m, what is the magnetic field strength? (m_p = 1.67 × 10⁻²⁷ kg, e = 1.6 × 10⁻¹⁹ C)",
+      "options": ["A. 0.042 T", "B. 0.42 T", "C. 0.021 T", "D. 0.084 T"],
+      "correct_answer": "A",
+      "explanation": "For circular motion in a magnetic field, qvB = mv²/r, so B = mv/(qr). B = (1.67 × 10⁻²⁷)(4 × 10⁵)/[(1.6 × 10⁻¹⁹)(0.1)] = 6.68 × 10⁻²²/(1.6 × 10⁻²⁰) = 0.042 T.",
+      "concept_tags": ["magnetic-force", "circular-motion", "charged-particles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-008",
+      "question_text": "Two capacitors of 6 μF and 3 μF are connected in series. What is the equivalent capacitance?",
+      "options": ["A. 9 μF", "B. 2 μF", "C. 18 μF", "D. 0.5 μF"],
+      "correct_answer": "B",
+      "explanation": "For capacitors in series: 1/C_eq = 1/C₁ + 1/C₂ = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2. Therefore, C_eq = 2 μF.",
+      "concept_tags": ["capacitors", "series-circuits", "equivalent-capacitance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-009",
+      "question_text": "A charge of -3 μC is placed in an electric field of 2000 N/C pointing east. What is the magnitude and direction of the force on the charge?",
+      "options": ["A. 6 × 10⁻³ N, east", "B. 6 × 10⁻³ N, west", "C. 6 mN, east", "D. 6 mN, west"],
+      "correct_answer": "B",
+      "explanation": "F = qE = (-3 × 10⁻⁶ C)(2000 N/C) = -6 × 10⁻³ N. The magnitude is 6 × 10⁻³ N (or 6 mN). Since the charge is negative, the force is opposite to the field direction, so it points west.",
+      "concept_tags": ["electric-field", "electric-force", "negative-charge"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-010",
+      "question_text": "A rectangular loop of wire with dimensions 5 cm × 10 cm is placed in a magnetic field of 0.8 T. If the field is perpendicular to the loop, what is the magnetic flux through the loop?",
+      "options": ["A. 4 × 10⁻³ Wb", "B. 4 × 10⁻² Wb", "C. 8 × 10⁻³ Wb", "D. 0.4 Wb"],
+      "correct_answer": "A",
+      "explanation": "Magnetic flux Φ = BA cos θ. With θ = 0° (field perpendicular to plane means parallel to area vector): Φ = (0.8)(0.05 × 0.10)(1) = (0.8)(0.005) = 4 × 10⁻³ Wb.",
+      "concept_tags": ["magnetic-flux", "electromagnetic-induction", "magnetic-field"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-011",
+      "question_text": "If the distance between two charged particles is doubled, how does the electric force between them change?",
+      "options": ["A. It doubles", "B. It is halved", "C. It is reduced to one-fourth", "D. It is reduced to one-eighth"],
+      "correct_answer": "C",
+      "explanation": "According to Coulomb's law, F ∝ 1/r². If r is doubled, F becomes F/(2²) = F/4. The force is reduced to one-fourth of its original value.",
+      "concept_tags": ["coulombs-law", "inverse-square-law", "electric-force"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-012",
+      "question_text": "A solenoid has 200 turns per meter and carries a current of 2 A. What is the magnetic field inside the solenoid? (μ₀ = 4π × 10⁻⁷ T·m/A)",
+      "options": ["A. 5.0 × 10⁻⁴ T", "B. 2.5 × 10⁻⁴ T", "C. 1.0 × 10⁻³ T", "D. 4.0 × 10⁻⁴ T"],
+      "correct_answer": "A",
+      "explanation": "The magnetic field inside a solenoid is B = μ₀nI = (4π × 10⁻⁷)(200)(2) = 4π × 10⁻⁴ = 5.03 × 10⁻⁴ T ≈ 5.0 × 10⁻⁴ T.",
+      "concept_tags": ["magnetic-field", "solenoid", "electromagnetism"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-013",
+      "question_text": "An electron is accelerated from rest through a potential difference of 100 V. What is its final kinetic energy?",
+      "options": ["A. 100 eV", "B. 100 J", "C. 1.6 × 10⁻¹⁷ J", "D. Both A and C"],
+      "correct_answer": "D",
+      "explanation": "The kinetic energy gained equals the work done by the electric field: KE = qV = eV = (1)(100 V) = 100 eV. Converting: 100 eV × (1.6 × 10⁻¹⁹ J/eV) = 1.6 × 10⁻¹⁷ J. Both expressions are correct.",
+      "concept_tags": ["electric-potential", "kinetic-energy", "electron-volt"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-014",
+      "question_text": "A charged particle moves in a circle in a magnetic field. If the speed of the particle is doubled, how does the radius of its path change?",
+      "options": ["A. It doubles", "B. It is halved", "C. It quadruples", "D. It remains the same"],
+      "correct_answer": "A",
+      "explanation": "The radius of circular motion is r = mv/(qB). Since r ∝ v, doubling the speed doubles the radius.",
+      "concept_tags": ["magnetic-force", "circular-motion", "charged-particles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-015",
+      "question_text": "The electric field between two parallel plates is 5000 V/m and the plates are separated by 4 mm. What is the potential difference between the plates?",
+      "options": ["A. 1.25 V", "B. 20 V", "C. 200 V", "D. 1250 V"],
+      "correct_answer": "B",
+      "explanation": "For a uniform electric field, E = V/d, so V = Ed = (5000 V/m)(0.004 m) = 20 V.",
+      "concept_tags": ["electric-field", "electric-potential", "parallel-plates"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-016",
+      "question_text": "A magnetic field is directed into the page, and an electron moves to the right. In which direction is the magnetic force on the electron?",
+      "options": ["A. Up (toward top of page)", "B. Down (toward bottom of page)", "C. Into the page", "D. Out of the page"],
+      "correct_answer": "A",
+      "explanation": "Using the right-hand rule for v × B: velocity (right) × B (into page) = force (up). However, since the electron is negatively charged, the force is opposite: up. Alternatively, use the left-hand rule for negative charges directly to get up.",
+      "concept_tags": ["magnetic-force", "right-hand-rule", "moving-charges"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-017",
+      "question_text": "A capacitor stores 50 μJ of energy when charged to 100 V. What is its capacitance?",
+      "options": ["A. 1 nF", "B. 10 nF", "C. 100 nF", "D. 1 μF"],
+      "correct_answer": "B",
+      "explanation": "The energy stored in a capacitor is U = ½CV². Solving for C: C = 2U/V² = 2(50 × 10⁻⁶)/(100)² = 10⁻⁴/10⁴ = 10⁻⁸ F = 10 nF.",
+      "concept_tags": ["capacitors", "energy-storage", "capacitance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-018",
+      "question_text": "According to Faraday's law, what determines the magnitude of an induced EMF in a coil?",
+      "options": ["A. The total magnetic flux through the coil", "B. The rate of change of magnetic flux through the coil", "C. The magnetic field strength only", "D. The area of the coil only"],
+      "correct_answer": "B",
+      "explanation": "Faraday's law states that the induced EMF is equal to the negative rate of change of magnetic flux: ε = -dΦ/dt. It's the change in flux, not the absolute value of flux, that induces an EMF.",
+      "concept_tags": ["electromagnetic-induction", "faradays-law", "emf"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-019",
+      "question_text": "Three identical capacitors, each with capacitance C, are connected in parallel. What is the equivalent capacitance?",
+      "options": ["A. C/3", "B. C", "C. 3C", "D. 9C"],
+      "correct_answer": "C",
+      "explanation": "For capacitors in parallel, the equivalent capacitance is the sum: C_eq = C₁ + C₂ + C₃ = C + C + C = 3C.",
+      "concept_tags": ["capacitors", "parallel-circuits", "equivalent-capacitance"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-020",
+      "question_text": "A point charge Q creates an electric field. At distance r, the field has magnitude E. At what distance is the field magnitude E/4?",
+      "options": ["A. r/2", "B. r/4", "C. 2r", "D. 4r"],
+      "correct_answer": "C",
+      "explanation": "Electric field follows E = kQ/r², so E ∝ 1/r². If E' = E/4, then 1/r'² = 1/(4r²), which gives r'² = 4r², so r' = 2r.",
+      "concept_tags": ["electric-field", "inverse-square-law", "point-charges"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-021",
+      "question_text": "A wire carrying 10 A of current passes through a magnetic field. The wire is 50 cm long and experiences a force of 2 N when perpendicular to the field. What is the magnetic field strength?",
+      "options": ["A. 0.04 T", "B. 0.4 T", "C. 4 T", "D. 0.2 T"],
+      "correct_answer": "B",
+      "explanation": "Using F = BIL: B = F/(IL) = 2/[(10)(0.5)] = 2/5 = 0.4 T.",
+      "concept_tags": ["magnetic-force", "current-carrying-wire", "magnetic-field"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-022",
+      "question_text": "Two point charges of +4 μC and -4 μC are separated by 10 cm. What is the electric potential at the midpoint between them?",
+      "options": ["A. 0 V", "B. 720,000 V", "C. 1,440,000 V", "D. 360,000 V"],
+      "correct_answer": "A",
+      "explanation": "Electric potential is a scalar, so V_total = V₁ + V₂ = kq₁/r₁ + kq₂/r₂. At the midpoint, r₁ = r₂ = 0.05 m. V = k(4 × 10⁻⁶)/0.05 + k(-4 × 10⁻⁶)/0.05 = 0 V.",
+      "concept_tags": ["electric-potential", "superposition", "point-charges"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-023",
+      "question_text": "A conducting loop moves out of a region with a magnetic field pointing into the page. According to Lenz's law, the induced current will:",
+      "options": ["A. Flow clockwise to oppose the decrease in flux", "B. Flow counterclockwise to oppose the decrease in flux", "C. Flow clockwise to enhance the decrease in flux", "D. Not flow because the loop is exiting the field"],
+      "correct_answer": "A",
+      "explanation": "As the loop exits, the flux into the page decreases. Lenz's law says the induced current will oppose this change by creating a field into the page. Using the right-hand rule, this requires a clockwise current.",
+      "concept_tags": ["electromagnetic-induction", "lenzs-law", "induced-current"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-024",
+      "question_text": "The work done in moving a charge of 2 C through a potential difference of 12 V is:",
+      "options": ["A. 6 J", "B. 14 J", "C. 24 J", "D. 0.17 J"],
+      "correct_answer": "C",
+      "explanation": "Work done equals the change in potential energy: W = qΔV = (2 C)(12 V) = 24 J.",
+      "concept_tags": ["electric-potential", "work", "potential-energy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-025",
+      "question_text": "A proton and an alpha particle (charge +2e, mass 4m_p) enter the same magnetic field with the same velocity. What is the ratio of the radius of the proton's path to that of the alpha particle?",
+      "options": ["A. 1:2", "B. 2:1", "C. 1:4", "D. 1:1"],
+      "correct_answer": "A",
+      "explanation": "The radius r = mv/(qB). For the proton: r_p = m_p v/(eB). For the alpha: r_α = 4m_p v/(2eB) = 2m_p v/(eB). The ratio r_p/r_α = [m_p v/(eB)]/[2m_p v/(eB)] = 1/2, or 1:2.",
+      "concept_tags": ["magnetic-force", "circular-motion", "charged-particles"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-05-026",
+      "question_text": "An electric dipole is placed in a uniform electric field. The dipole will experience:",
+      "options": ["A. A net force but no torque", "B. A net torque but no net force", "C. Both a net force and a net torque", "D. Neither a net force nor a net torque"],
+      "correct_answer": "B",
+      "explanation": "In a uniform field, the forces on the positive and negative charges of the dipole are equal and opposite, so the net force is zero. However, these forces create a torque that tends to align the dipole with the field.",
+      "concept_tags": ["electric-dipole", "electric-field", "torque"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-027",
+      "question_text": "A parallel plate capacitor has a plate area of 0.01 m² and plate separation of 2 mm. What is the capacitance? (ε₀ = 8.85 × 10⁻¹² F/m)",
+      "options": ["A. 44.3 pF", "B. 4.43 pF", "C. 443 pF", "D. 88.5 pF"],
+      "correct_answer": "A",
+      "explanation": "C = ε₀A/d = (8.85 × 10⁻¹²)(0.01)/(0.002) = 8.85 × 10⁻¹⁴/2 × 10⁻³ = 4.43 × 10⁻¹¹ F = 44.3 pF.",
+      "concept_tags": ["capacitors", "parallel-plates", "capacitance"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-028",
+      "question_text": "A charge moves parallel to a magnetic field. What is the magnitude of the magnetic force on the charge?",
+      "options": ["A. F = qvB", "B. F = qv/B", "C. F = qB/v", "D. F = 0"],
+      "correct_answer": "D",
+      "explanation": "The magnetic force is F = qvB sin θ. When the velocity is parallel to the field, θ = 0°, so sin θ = 0, and F = 0.",
+      "concept_tags": ["magnetic-force", "moving-charges", "lorentz-force"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-029",
+      "question_text": "A coil has 100 turns and a cross-sectional area of 0.02 m². If the magnetic field through the coil changes from 0 to 0.5 T in 0.1 seconds, what is the average induced EMF?",
+      "options": ["A. 1 V", "B. 10 V", "C. 100 V", "D. 0.1 V"],
+      "correct_answer": "B",
+      "explanation": "Using Faraday's law: ε = -N(ΔΦ/Δt) = -N × A × (ΔB/Δt) = 100 × 0.02 × (0.5/0.1) = 100 × 0.02 × 5 = 10 V.",
+      "concept_tags": ["electromagnetic-induction", "faradays-law", "emf"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-030",
+      "question_text": "Two identical positive charges are fixed in position. Where can a third positive charge be placed such that it experiences no net force?",
+      "options": ["A. At the midpoint between the two charges", "B. At any point along the line connecting the two charges", "C. Only at a point equidistant from both charges but off the line", "D. There is no such point"],
+      "correct_answer": "A",
+      "explanation": "At the midpoint, the repulsive forces from each fixed charge are equal in magnitude but opposite in direction, resulting in zero net force. Off the line, the forces would not be collinear and wouldn't cancel completely.",
+      "concept_tags": ["coulombs-law", "superposition", "equilibrium"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-031",
+      "question_text": "The electric field inside a conductor in electrostatic equilibrium is:",
+      "options": ["A. Maximum at the surface", "B. Uniform throughout", "C. Zero", "D. Dependent on the shape of the conductor"],
+      "correct_answer": "C",
+      "explanation": "In electrostatic equilibrium, charges redistribute themselves on the surface of a conductor such that the internal electric field is zero. Any internal field would cause charge movement, contradicting equilibrium.",
+      "concept_tags": ["conductors", "electrostatics", "electric-field"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-032",
+      "question_text": "A bar magnet is dropped through a conducting coil with its north pole entering first. As the magnet enters the coil, the induced current creates a magnetic field that:",
+      "options": ["A. Attracts the magnet, speeding it up", "B. Repels the magnet, slowing it down", "C. Has no effect on the magnet", "D. First attracts, then repels the magnet"],
+      "correct_answer": "B",
+      "explanation": "By Lenz's law, the induced current opposes the change in flux. As the north pole approaches, the coil creates a north pole facing up to repel the incoming magnet, slowing its fall.",
+      "concept_tags": ["electromagnetic-induction", "lenzs-law", "induced-current"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-033",
+      "question_text": "Two capacitors, 4 μF and 6 μF, are connected in series to a 30 V battery. What is the charge on each capacitor?",
+      "options": ["A. 120 μC on each", "B. 72 μC on each", "C. 48 μC and 72 μC", "D. 72 μC and 108 μC"],
+      "correct_answer": "B",
+      "explanation": "In series, both capacitors have the same charge. C_eq = (4 × 6)/(4 + 6) = 24/10 = 2.4 μF. Q = C_eq × V = 2.4 μF × 30 V = 72 μC on each capacitor.",
+      "concept_tags": ["capacitors", "series-circuits", "charge"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-034",
+      "question_text": "A point charge Q is located at the center of a spherical conducting shell. The electric field inside the cavity (between Q and the shell) is:",
+      "options": ["A. Zero everywhere", "B. Uniform and directed radially", "C. Non-zero and follows an inverse square law from Q", "D. Undefined"],
+      "correct_answer": "C",
+      "explanation": "Inside the cavity, the field is due only to the point charge Q at the center. The shell has no effect on the field in the cavity. E = kQ/r² directed radially from Q.",
+      "concept_tags": ["electric-field", "conductors", "point-charges"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-05-035",
+      "question_text": "A velocity selector uses crossed electric and magnetic fields to select particles with a specific velocity. For a particle to pass through undeflected, which condition must be satisfied?",
+      "options": ["A. v = E/B", "B. v = B/E", "C. v = EB", "D. v = E²/B"],
+      "correct_answer": "A",
+      "explanation": "In a velocity selector, the electric force (qE) must equal the magnetic force (qvB) for the particle to pass undeflected: qE = qvB, so v = E/B.",
+      "concept_tags": ["velocity-selector", "electric-field", "magnetic-field"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-036",
+      "question_text": "The energy density (energy per unit volume) of an electric field E is:",
+      "options": ["A. ½ε₀E", "B. ½ε₀E²", "C. ε₀E²", "D. ε₀E"],
+      "correct_answer": "B",
+      "explanation": "The energy density of an electric field is u = ½ε₀E². This can be derived from the energy stored in a capacitor divided by the volume between the plates.",
+      "concept_tags": ["electric-field", "energy-density", "electrostatics"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-05-037",
+      "question_text": "A circular loop of wire with resistance R is placed in a changing magnetic field. If the rate of change of flux is doubled, the induced current:",
+      "options": ["A. Doubles", "B. Is halved", "C. Quadruples", "D. Remains the same"],
+      "correct_answer": "A",
+      "explanation": "By Faraday's law, ε = -dΦ/dt. Doubling dΦ/dt doubles the EMF. Since I = ε/R and R is constant, the current also doubles.",
+      "concept_tags": ["electromagnetic-induction", "faradays-law", "ohms-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-038",
+      "question_text": "An electron and a proton are placed in the same electric field. Which statement is correct?",
+      "options": ["A. They experience the same force and same acceleration", "B. They experience the same force but different accelerations", "C. They experience different forces but the same acceleration", "D. They experience different forces in the same direction"],
+      "correct_answer": "B",
+      "explanation": "Both have the same magnitude of charge (e), so F = qE gives the same force magnitude (opposite directions). However, since the proton is much heavier, a = F/m means the proton has much smaller acceleration.",
+      "concept_tags": ["electric-field", "electric-force", "acceleration"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-039",
+      "question_text": "A capacitor is fully charged and then disconnected from the battery. If the plate separation is doubled, what happens to the voltage across the capacitor?",
+      "options": ["A. It doubles", "B. It is halved", "C. It remains the same", "D. It quadruples"],
+      "correct_answer": "A",
+      "explanation": "When disconnected, the charge Q remains constant. Capacitance C = ε₀A/d, so doubling d halves C. Since V = Q/C, halving C doubles V.",
+      "concept_tags": ["capacitors", "charge-conservation", "voltage"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-05-040",
+      "question_text": "A wire loop rotates in a uniform magnetic field. The maximum EMF is induced when the plane of the loop is:",
+      "options": ["A. Perpendicular to the magnetic field", "B. Parallel to the magnetic field", "C. At 45° to the magnetic field", "D. Maximum EMF occurs at all orientations"],
+      "correct_answer": "B",
+      "explanation": "The induced EMF depends on the rate of change of flux. When the loop plane is parallel to the field, the flux is zero but changing most rapidly. This is when dΦ/dt is maximum, giving maximum EMF.",
+      "concept_tags": ["electromagnetic-induction", "faradays-law", "ac-generator"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-05-041",
+      "question_text": "The magnitude of the magnetic field at a distance r from a long straight wire carrying current I is:",
+      "options": ["A. B = μ₀I/(2πr)", "B. B = μ₀I/(4πr)", "C. B = μ₀I/(2r)", "D. B = μ₀Ir/2"],
+      "correct_answer": "A",
+      "explanation": "Ampère's law applied to a circular path around a long straight wire gives B = μ₀I/(2πr). The field decreases inversely with distance from the wire.",
+      "concept_tags": ["magnetic-field", "amperes-law", "current-carrying-wire"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-042",
+      "question_text": "A uniformly charged ring has total charge Q and radius R. What is the electric field at the center of the ring?",
+      "options": ["A. E = kQ/R²", "B. E = kQ/(2R²)", "C. E = 2kQ/R²", "D. E = 0"],
+      "correct_answer": "D",
+      "explanation": "By symmetry, every charge element on the ring has a corresponding element on the opposite side. Their electric field contributions at the center point in opposite directions and cancel. The net field at the center is zero.",
+      "concept_tags": ["electric-field", "symmetry", "charge-distribution"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-043",
+      "question_text": "A capacitor is charged to a potential V and then connected to an identical uncharged capacitor. What is the final voltage across each capacitor?",
+      "options": ["A. V", "B. V/2", "C. 2V", "D. V/4"],
+      "correct_answer": "B",
+      "explanation": "The total charge Q = CV is conserved. When connected, the capacitors share charge equally (same C). Total capacitance is 2C. Final voltage V_f = Q/(2C) = CV/(2C) = V/2 on each capacitor.",
+      "concept_tags": ["capacitors", "charge-conservation", "voltage"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "physics-math-05-044",
+      "question_text": "Two parallel wires carry currents in the same direction. The force between them is:",
+      "options": ["A. Attractive", "B. Repulsive", "C. Zero", "D. Perpendicular to the wires"],
+      "correct_answer": "A",
+      "explanation": "Each wire creates a magnetic field around it. The other wire, carrying current, experiences a force in this field. When currents are in the same direction, the force is attractive (by the right-hand rule and F = IL × B).",
+      "concept_tags": ["magnetic-force", "current-carrying-wire", "parallel-wires"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-045",
+      "question_text": "An electric field does 15 J of work on a 3 C charge as it moves between two points. What is the potential difference between these points?",
+      "options": ["A. 5 V", "B. 45 V", "C. 18 V", "D. 0.2 V"],
+      "correct_answer": "A",
+      "explanation": "Work done by the electric field equals the charge times the potential difference: W = qΔV, so ΔV = W/q = 15 J / 3 C = 5 V.",
+      "concept_tags": ["electric-potential", "work", "voltage"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-046",
+      "question_text": "A charged particle moves in a helical path through a magnetic field. This occurs when the particle's velocity:",
+      "options": ["A. Is perpendicular to the magnetic field", "B. Is parallel to the magnetic field", "C. Has components both parallel and perpendicular to the field", "D. Is zero"],
+      "correct_answer": "C",
+      "explanation": "The perpendicular component causes circular motion due to F = qv⊥B, while the parallel component is unaffected by the magnetic field. The combination produces a helical (spiral) path.",
+      "concept_tags": ["magnetic-force", "helical-motion", "charged-particles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-047",
+      "question_text": "A transformer has 100 turns in the primary coil and 500 turns in the secondary coil. If the primary voltage is 120 V, what is the secondary voltage?",
+      "options": ["A. 24 V", "B. 600 V", "C. 500 V", "D. 60,000 V"],
+      "correct_answer": "B",
+      "explanation": "For an ideal transformer, V_s/V_p = N_s/N_p. Therefore, V_s = V_p × (N_s/N_p) = 120 × (500/100) = 120 × 5 = 600 V.",
+      "concept_tags": ["electromagnetic-induction", "transformer", "voltage"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-048",
+      "question_text": "The electric potential energy of a system of two point charges is negative when:",
+      "options": ["A. Both charges are positive", "B. Both charges are negative", "C. The charges have opposite signs", "D. The charges are far apart"],
+      "correct_answer": "C",
+      "explanation": "Electric potential energy U = kq₁q₂/r. When charges have opposite signs, q₁q₂ < 0, making U negative. This negative energy reflects the attractive interaction between the charges.",
+      "concept_tags": ["electric-potential-energy", "point-charges", "coulombs-law"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "physics-math-05-049",
+      "question_text": "A conducting sphere with charge +Q is touched to an identical neutral conducting sphere. What is the final charge on each sphere?",
+      "options": ["A. +Q on each", "B. +Q/2 on each", "C. 0 on each", "D. +Q on one, 0 on the other"],
+      "correct_answer": "B",
+      "explanation": "When identical conductors touch, charge distributes equally between them. The total charge +Q is shared equally, giving +Q/2 on each sphere after separation.",
+      "concept_tags": ["conductors", "charge-conservation", "charge-distribution"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "physics-math-05-050",
+      "question_text": "A magnetic field does no work on a moving charged particle because:",
+      "options": ["A. The magnetic force is too weak", "B. The magnetic force is always perpendicular to the velocity", "C. The particle moves in a straight line", "D. Magnetic fields do not interact with charges"],
+      "correct_answer": "B",
+      "explanation": "Work is W = F · d = Fd cos θ. The magnetic force F = qv × B is always perpendicular to v, meaning θ = 90° and cos 90° = 0. Therefore, magnetic force does no work on moving charges.",
+      "concept_tags": ["magnetic-force", "work", "moving-charges"],
+      "difficulty": "medium"
+    }
+  ]
+}

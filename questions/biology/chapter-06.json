@@ -1,0 +1,707 @@
+{
+  "book": "biology",
+  "chapter": 6,
+  "chapter_title": "The Respiratory System",
+  "questions": [
+    {
+      "id": "biology-06-001",
+      "question_text": "The correct pathway of air through the respiratory system is:",
+      "options": [
+        "A. pharynx → larynx → trachea → bronchi → bronchioles → alveoli",
+        "B. larynx → pharynx → trachea → bronchioles → bronchi → alveoli",
+        "C. trachea → pharynx → larynx → bronchi → bronchioles → alveoli",
+        "D. pharynx → trachea → larynx → bronchi → bronchioles → alveoli"
+      ],
+      "correct_answer": "A",
+      "explanation": "Air enters through the nose/mouth, passes through the pharynx (throat), then the larynx (voice box), trachea (windpipe), bronchi, bronchioles, and finally reaches the alveoli where gas exchange occurs.",
+      "concept_tags": ["respiratory-anatomy", "air-pathway", "conducting-zone"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-002",
+      "question_text": "Gas exchange in the lungs occurs in the:",
+      "options": [
+        "A. trachea",
+        "B. bronchi",
+        "C. bronchioles",
+        "D. alveoli"
+      ],
+      "correct_answer": "D",
+      "explanation": "Gas exchange occurs in the alveoli, which are thin-walled air sacs surrounded by capillaries. The trachea, bronchi, and bronchioles are conducting airways that do not participate in gas exchange (anatomical dead space).",
+      "concept_tags": ["alveoli", "gas-exchange", "respiratory-zone"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-003",
+      "question_text": "The diaphragm contracts during:",
+      "options": [
+        "A. exhalation, pushing air out of the lungs",
+        "B. inhalation, expanding the thoracic cavity",
+        "C. neither inhalation nor exhalation",
+        "D. exhalation only during forced breathing"
+      ],
+      "correct_answer": "B",
+      "explanation": "During inhalation, the diaphragm contracts and flattens, increasing thoracic volume and decreasing pressure, causing air to flow into the lungs. During quiet exhalation, the diaphragm relaxes and the lungs recoil passively.",
+      "concept_tags": ["diaphragm", "inhalation", "breathing-mechanics"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-004",
+      "question_text": "According to Boyle's law, during inhalation:",
+      "options": [
+        "A. thoracic volume increases and pressure decreases",
+        "B. thoracic volume decreases and pressure increases",
+        "C. both volume and pressure increase",
+        "D. both volume and pressure decrease"
+      ],
+      "correct_answer": "A",
+      "explanation": "Boyle's law states that at constant temperature, pressure and volume are inversely related (P1V1 = P2V2). During inhalation, thoracic volume increases, causing intrapulmonary pressure to decrease below atmospheric pressure, so air flows in.",
+      "concept_tags": ["boyles-law", "inhalation", "pressure-volume-relationship"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-005",
+      "question_text": "Surfactant in the lungs functions to:",
+      "options": [
+        "A. increase surface tension in alveoli",
+        "B. decrease surface tension and prevent alveolar collapse",
+        "C. transport oxygen across the alveolar membrane",
+        "D. fight respiratory infections"
+      ],
+      "correct_answer": "B",
+      "explanation": "Surfactant, produced by type II pneumocytes, reduces surface tension in alveoli, preventing them from collapsing during exhalation. Without surfactant, small alveoli would collapse into larger ones (atelectasis), as seen in premature infants with respiratory distress syndrome.",
+      "concept_tags": ["surfactant", "surface-tension", "alveoli", "type-ii-pneumocytes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-006",
+      "question_text": "Type I pneumocytes (alveolar cells) are specialized for:",
+      "options": [
+        "A. producing surfactant",
+        "B. gas exchange due to their thin structure",
+        "C. immune defense",
+        "D. mucus production"
+      ],
+      "correct_answer": "B",
+      "explanation": "Type I pneumocytes are thin, flat cells that make up most of the alveolar surface and are specialized for gas exchange. Type II pneumocytes produce surfactant. Alveolar macrophages provide immune defense.",
+      "concept_tags": ["type-i-pneumocytes", "alveoli", "gas-exchange"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-007",
+      "question_text": "Oxygen is primarily transported in the blood:",
+      "options": [
+        "A. dissolved in plasma",
+        "B. bound to hemoglobin in red blood cells",
+        "C. bound to albumin",
+        "D. as bicarbonate ions"
+      ],
+      "correct_answer": "B",
+      "explanation": "About 98-99% of oxygen is transported bound to hemoglobin in red blood cells. Only about 1-2% is dissolved in plasma. Each hemoglobin molecule can bind four oxygen molecules.",
+      "concept_tags": ["oxygen-transport", "hemoglobin", "red-blood-cells"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-008",
+      "question_text": "The majority of carbon dioxide is transported in the blood as:",
+      "options": [
+        "A. dissolved CO2",
+        "B. bound to hemoglobin (carbaminohemoglobin)",
+        "C. bicarbonate ions (HCO3-)",
+        "D. carbonic acid"
+      ],
+      "correct_answer": "C",
+      "explanation": "About 70% of CO2 is transported as bicarbonate ions, 20-25% bound to hemoglobin, and 5-10% dissolved in plasma. CO2 is converted to bicarbonate by carbonic anhydrase in red blood cells.",
+      "concept_tags": ["carbon-dioxide-transport", "bicarbonate", "carbonic-anhydrase"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-009",
+      "question_text": "The enzyme carbonic anhydrase catalyzes:",
+      "options": [
+        "A. the binding of oxygen to hemoglobin",
+        "B. the conversion of CO2 and H2O to carbonic acid",
+        "C. the production of surfactant",
+        "D. the breakdown of hemoglobin"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carbonic anhydrase catalyzes the reversible reaction: CO2 + H2O ⇌ H2CO3 (carbonic acid) ⇌ H+ + HCO3- (bicarbonate). This reaction is crucial for CO2 transport and blood pH buffering.",
+      "concept_tags": ["carbonic-anhydrase", "carbon-dioxide", "bicarbonate", "enzyme"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-010",
+      "question_text": "The oxygen-hemoglobin dissociation curve shifts to the right when:",
+      "options": [
+        "A. pH increases",
+        "B. temperature decreases",
+        "C. CO2 concentration increases",
+        "D. 2,3-BPG concentration decreases"
+      ],
+      "correct_answer": "C",
+      "explanation": "A right shift (decreased oxygen affinity) occurs with increased CO2, decreased pH (Bohr effect), increased temperature, and increased 2,3-BPG. This facilitates oxygen release to metabolically active tissues.",
+      "concept_tags": ["oxygen-hemoglobin-dissociation", "bohr-effect", "right-shift"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-011",
+      "question_text": "The Bohr effect describes how:",
+      "options": [
+        "A. oxygen binds more tightly to hemoglobin at low pH",
+        "B. oxygen binds less tightly to hemoglobin at low pH",
+        "C. carbon dioxide binds to oxygen",
+        "D. surfactant affects oxygen binding"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Bohr effect describes how decreased pH (increased H+ concentration) reduces hemoglobin's oxygen affinity, facilitating oxygen release to active tissues that produce CO2 and acid. This is represented by a right shift of the dissociation curve.",
+      "concept_tags": ["bohr-effect", "hemoglobin", "oxygen-affinity", "ph"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-012",
+      "question_text": "Tidal volume is defined as:",
+      "options": [
+        "A. the maximum amount of air that can be inhaled",
+        "B. the volume of air inhaled or exhaled during normal breathing",
+        "C. the air remaining in the lungs after maximal exhalation",
+        "D. the total lung capacity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Tidal volume is the volume of air moved in or out during normal, quiet breathing (about 500 mL in adults). It doesn't include the additional volumes that can be inhaled or exhaled with effort.",
+      "concept_tags": ["tidal-volume", "lung-volumes", "ventilation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-013",
+      "question_text": "Residual volume is:",
+      "options": [
+        "A. the air that can still be exhaled after normal exhalation",
+        "B. the air remaining in the lungs after maximal exhalation",
+        "C. the maximum air that can be inhaled after normal inhalation",
+        "D. the dead space volume"
+      ],
+      "correct_answer": "B",
+      "explanation": "Residual volume is the air that remains in the lungs after maximal forced exhalation (about 1.2 L). It cannot be expelled and prevents the lungs from completely collapsing. It's not measured by spirometry.",
+      "concept_tags": ["residual-volume", "lung-volumes", "spirometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-014",
+      "question_text": "Vital capacity equals:",
+      "options": [
+        "A. tidal volume + inspiratory reserve volume",
+        "B. tidal volume + inspiratory reserve volume + expiratory reserve volume",
+        "C. total lung capacity - tidal volume",
+        "D. total lung capacity + residual volume"
+      ],
+      "correct_answer": "B",
+      "explanation": "Vital capacity is the maximum amount of air that can be exhaled after a maximal inhalation. It equals tidal volume + inspiratory reserve volume + expiratory reserve volume. Total lung capacity = vital capacity + residual volume.",
+      "concept_tags": ["vital-capacity", "lung-volumes", "spirometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-015",
+      "question_text": "The respiratory center that sets the basic rhythm of breathing is located in the:",
+      "options": [
+        "A. cerebral cortex",
+        "B. medulla oblongata",
+        "C. cerebellum",
+        "D. hypothalamus"
+      ],
+      "correct_answer": "B",
+      "explanation": "The medulla oblongata contains the respiratory center that establishes the basic rhythm of breathing. The pons also helps regulate breathing patterns. The cerebral cortex can override automatic breathing for voluntary control.",
+      "concept_tags": ["respiratory-center", "medulla", "breathing-control"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-016",
+      "question_text": "Central chemoreceptors that regulate breathing are most sensitive to:",
+      "options": [
+        "A. blood oxygen levels directly",
+        "B. pH changes in cerebrospinal fluid (related to CO2 levels)",
+        "C. blood pressure",
+        "D. blood glucose levels"
+      ],
+      "correct_answer": "B",
+      "explanation": "Central chemoreceptors in the medulla are most sensitive to pH changes in CSF, which reflect blood CO2 levels. CO2 crosses the blood-brain barrier and forms carbonic acid, lowering CSF pH. This is the primary driver of breathing under normal conditions.",
+      "concept_tags": ["chemoreceptors", "breathing-regulation", "co2", "ph"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-017",
+      "question_text": "Peripheral chemoreceptors in the carotid and aortic bodies are sensitive to:",
+      "options": [
+        "A. only blood CO2 levels",
+        "B. only blood O2 levels",
+        "C. blood O2, CO2, and pH levels",
+        "D. only blood pH levels"
+      ],
+      "correct_answer": "C",
+      "explanation": "Peripheral chemoreceptors in the carotid and aortic bodies detect changes in blood O2, CO2, and pH. They are especially important for detecting significant drops in oxygen (hypoxia) and provide backup regulation when central chemoreceptors are impaired.",
+      "concept_tags": ["peripheral-chemoreceptors", "carotid-body", "aortic-body", "oxygen-sensing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-018",
+      "question_text": "The epiglottis functions to:",
+      "options": [
+        "A. produce sound during speech",
+        "B. prevent food from entering the trachea during swallowing",
+        "C. warm and humidify incoming air",
+        "D. regulate airflow to the lungs"
+      ],
+      "correct_answer": "B",
+      "explanation": "The epiglottis is a flap of cartilage that covers the opening of the larynx during swallowing, preventing food and liquid from entering the trachea and lungs (aspiration). The vocal cords in the larynx produce sound.",
+      "concept_tags": ["epiglottis", "swallowing", "larynx", "aspiration-prevention"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-019",
+      "question_text": "The trachea is kept open by:",
+      "options": [
+        "A. bone rings",
+        "B. C-shaped cartilage rings",
+        "C. muscular contractions",
+        "D. negative pressure"
+      ],
+      "correct_answer": "B",
+      "explanation": "The trachea is kept open by C-shaped (incomplete) rings of hyaline cartilage. The open part of the C faces posteriorly toward the esophagus, allowing the esophagus to expand during swallowing.",
+      "concept_tags": ["trachea", "cartilage-rings", "respiratory-anatomy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-020",
+      "question_text": "The anatomical dead space refers to:",
+      "options": [
+        "A. the volume of air in the alveoli",
+        "B. the volume of air in conducting airways that doesn't participate in gas exchange",
+        "C. the residual volume",
+        "D. damaged alveoli"
+      ],
+      "correct_answer": "B",
+      "explanation": "Anatomical dead space is the volume of the conducting airways (nose, pharynx, larynx, trachea, bronchi, bronchioles) where air is present but gas exchange doesn't occur (about 150 mL). Only air reaching the alveoli participates in gas exchange.",
+      "concept_tags": ["anatomical-dead-space", "conducting-airways", "ventilation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-021",
+      "question_text": "During quiet exhalation:",
+      "options": [
+        "A. the diaphragm actively contracts",
+        "B. the abdominal muscles actively contract",
+        "C. exhalation is passive due to elastic recoil of the lungs",
+        "D. intrapulmonary pressure becomes negative"
+      ],
+      "correct_answer": "C",
+      "explanation": "Quiet exhalation is passive, driven by elastic recoil of the lungs and relaxation of the diaphragm. Active exhalation (forced breathing) involves contraction of abdominal and internal intercostal muscles to force additional air out.",
+      "concept_tags": ["exhalation", "elastic-recoil", "passive-breathing"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-022",
+      "question_text": "Intrapleural pressure is normally:",
+      "options": [
+        "A. positive relative to atmospheric pressure",
+        "B. negative relative to atmospheric pressure",
+        "C. equal to intrapulmonary pressure",
+        "D. equal to atmospheric pressure"
+      ],
+      "correct_answer": "B",
+      "explanation": "Intrapleural pressure (in the pleural cavity between the lungs and chest wall) is normally negative (about -4 to -6 mmHg), which keeps the lungs expanded. If air enters the pleural space (pneumothorax), the lung collapses.",
+      "concept_tags": ["intrapleural-pressure", "pleural-cavity", "lung-expansion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-023",
+      "question_text": "A pneumothorax occurs when:",
+      "options": [
+        "A. the lungs fill with fluid",
+        "B. air enters the pleural cavity, causing lung collapse",
+        "C. the bronchi become obstructed",
+        "D. the alveoli become over-inflated"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pneumothorax occurs when air enters the pleural space, equalizing pressure and causing the lung to collapse (due to loss of the negative intrapleural pressure that normally holds it expanded). It can result from trauma or spontaneous rupture.",
+      "concept_tags": ["pneumothorax", "pleural-cavity", "lung-collapse"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-024",
+      "question_text": "The external intercostal muscles contract during:",
+      "options": [
+        "A. exhalation to push air out",
+        "B. inhalation to elevate the ribs and expand the thorax",
+        "C. swallowing to protect the airway",
+        "D. coughing only"
+      ],
+      "correct_answer": "B",
+      "explanation": "External intercostal muscles contract during inhalation to elevate the ribs, increasing thoracic volume. Internal intercostals and abdominal muscles are used during forced exhalation. The diaphragm is the primary muscle of inspiration.",
+      "concept_tags": ["external-intercostals", "inhalation", "respiratory-muscles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-025",
+      "question_text": "Hemoglobin's oxygen-binding curve is sigmoidal (S-shaped) because:",
+      "options": [
+        "A. oxygen binding is not cooperative",
+        "B. oxygen binding shows positive cooperativity",
+        "C. hemoglobin has only one oxygen-binding site",
+        "D. oxygen is poorly soluble in blood"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hemoglobin shows positive cooperativity: binding of one oxygen molecule increases affinity for subsequent oxygen molecules, creating a sigmoidal curve. This facilitates oxygen loading in the lungs and unloading in tissues.",
+      "concept_tags": ["hemoglobin", "cooperativity", "oxygen-binding", "sigmoidal-curve"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-026",
+      "question_text": "Fetal hemoglobin (HbF) has a higher oxygen affinity than adult hemoglobin because:",
+      "options": [
+        "A. it binds 2,3-BPG more strongly",
+        "B. it binds 2,3-BPG less strongly",
+        "C. it has fewer oxygen binding sites",
+        "D. it is found in lower concentrations"
+      ],
+      "correct_answer": "B",
+      "explanation": "Fetal hemoglobin has γ (gamma) chains instead of β (beta) chains, which bind 2,3-BPG less strongly. Since 2,3-BPG normally decreases oxygen affinity, weaker binding results in higher oxygen affinity, allowing the fetus to extract oxygen from maternal blood.",
+      "concept_tags": ["fetal-hemoglobin", "oxygen-affinity", "2-3-bpg"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-027",
+      "question_text": "Carbon monoxide (CO) is dangerous because it:",
+      "options": [
+        "A. destroys red blood cells",
+        "B. binds hemoglobin with much higher affinity than oxygen",
+        "C. causes bronchospasm",
+        "D. dissolves in blood and forms acid"
+      ],
+      "correct_answer": "B",
+      "explanation": "Carbon monoxide binds to hemoglobin with about 200-250 times greater affinity than oxygen, forming carboxyhemoglobin. This prevents oxygen binding and shifts the dissociation curve left, severely impairing oxygen delivery to tissues.",
+      "concept_tags": ["carbon-monoxide", "hemoglobin-affinity", "carboxyhemoglobin"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-028",
+      "question_text": "The partial pressure of oxygen in the alveoli (PAO2) is approximately:",
+      "options": [
+        "A. 40 mmHg",
+        "B. 100 mmHg",
+        "C. 160 mmHg",
+        "D. 760 mmHg"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alveolar PO2 is about 100 mmHg. Atmospheric PO2 is about 160 mmHg (21% of 760 mmHg), but it decreases in the alveoli due to mixing with residual air and humidification. Venous blood PO2 is about 40 mmHg.",
+      "concept_tags": ["partial-pressure", "alveolar-oxygen", "gas-exchange"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-029",
+      "question_text": "Oxygen diffuses from alveoli into pulmonary capillaries because:",
+      "options": [
+        "A. PO2 is higher in capillaries than in alveoli",
+        "B. PO2 is higher in alveoli than in capillaries",
+        "C. active transport moves oxygen",
+        "D. hemoglobin actively pulls oxygen in"
+      ],
+      "correct_answer": "B",
+      "explanation": "Gas exchange occurs by simple diffusion down partial pressure gradients. Alveolar PO2 (~100 mmHg) is higher than venous blood PO2 (~40 mmHg), so oxygen diffuses into the blood. Similarly, CO2 diffuses from blood to alveoli.",
+      "concept_tags": ["diffusion", "partial-pressure", "gas-exchange"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-030",
+      "question_text": "The respiratory quotient (RQ) is the ratio of:",
+      "options": [
+        "A. oxygen consumed to carbon dioxide produced",
+        "B. carbon dioxide produced to oxygen consumed",
+        "C. tidal volume to vital capacity",
+        "D. alveolar ventilation to dead space ventilation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The respiratory quotient is CO2 produced/O2 consumed. It varies with the type of fuel being metabolized: ~1.0 for carbohydrates, ~0.7 for fats, ~0.8 for proteins. A mixed diet typically gives an RQ of about 0.8.",
+      "concept_tags": ["respiratory-quotient", "metabolism", "co2-o2-ratio"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-031",
+      "question_text": "Hyperventilation leads to:",
+      "options": [
+        "A. increased blood CO2 and decreased pH",
+        "B. decreased blood CO2 and increased pH",
+        "C. no change in blood gases",
+        "D. increased blood O2 and decreased pH"
+      ],
+      "correct_answer": "B",
+      "explanation": "Hyperventilation blows off CO2 faster than it's produced, decreasing blood PCO2 (hypocapnia). This shifts the carbonic acid equilibrium left, reducing H+ concentration and increasing pH (respiratory alkalosis).",
+      "concept_tags": ["hyperventilation", "respiratory-alkalosis", "co2", "ph"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-032",
+      "question_text": "Hypoventilation leads to:",
+      "options": [
+        "A. increased blood CO2 and decreased pH",
+        "B. decreased blood CO2 and increased pH",
+        "C. increased blood O2",
+        "D. respiratory alkalosis"
+      ],
+      "correct_answer": "A",
+      "explanation": "Hypoventilation causes CO2 to accumulate (hypercapnia), which increases H+ concentration and decreases pH (respiratory acidosis). It also decreases oxygen levels (hypoxia). Common causes include CNS depression and respiratory muscle weakness.",
+      "concept_tags": ["hypoventilation", "respiratory-acidosis", "hypercapnia"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-033",
+      "question_text": "The larynx is also known as the:",
+      "options": [
+        "A. windpipe",
+        "B. voice box",
+        "C. throat",
+        "D. epiglottis"
+      ],
+      "correct_answer": "B",
+      "explanation": "The larynx is the voice box, containing the vocal cords that vibrate to produce sound during speech. The trachea is the windpipe, the pharynx is the throat, and the epiglottis is the cartilage flap that covers the larynx during swallowing.",
+      "concept_tags": ["larynx", "voice-box", "vocal-cords"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-034",
+      "question_text": "The conducting zone of the respiratory system includes all EXCEPT:",
+      "options": [
+        "A. trachea",
+        "B. bronchi",
+        "C. bronchioles",
+        "D. alveoli"
+      ],
+      "correct_answer": "D",
+      "explanation": "The conducting zone includes all airways from the nose to the terminal bronchioles that conduct air but don't participate in gas exchange. The respiratory zone (alveoli, alveolar ducts, respiratory bronchioles) is where gas exchange occurs.",
+      "concept_tags": ["conducting-zone", "respiratory-zone", "respiratory-anatomy"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-035",
+      "question_text": "Compliance of the lungs refers to:",
+      "options": [
+        "A. the ability of the lungs to resist airflow",
+        "B. the ease with which the lungs expand",
+        "C. the rate of gas diffusion",
+        "D. the oxygen-carrying capacity of blood"
+      ],
+      "correct_answer": "B",
+      "explanation": "Pulmonary compliance is the ease with which the lungs can be expanded (change in volume per unit change in pressure). High compliance means lungs expand easily. Conditions like pulmonary fibrosis decrease compliance; emphysema increases it.",
+      "concept_tags": ["pulmonary-compliance", "lung-expansion", "elasticity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-036",
+      "question_text": "In emphysema, there is destruction of alveolar walls, which results in:",
+      "options": [
+        "A. decreased compliance and increased elastic recoil",
+        "B. increased compliance and decreased elastic recoil",
+        "C. no change in lung function",
+        "D. increased surface area for gas exchange"
+      ],
+      "correct_answer": "B",
+      "explanation": "Emphysema destroys alveolar walls and elastic tissue, increasing compliance (lungs expand easily) but decreasing elastic recoil (lungs don't deflate well). This causes air trapping and decreased surface area for gas exchange.",
+      "concept_tags": ["emphysema", "copd", "compliance", "elastic-recoil"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-037",
+      "question_text": "Asthma is characterized by:",
+      "options": [
+        "A. permanent destruction of alveoli",
+        "B. reversible bronchoconstriction and airway inflammation",
+        "C. fluid accumulation in the alveoli",
+        "D. collapse of the lungs"
+      ],
+      "correct_answer": "B",
+      "explanation": "Asthma is characterized by reversible bronchoconstriction (narrowing of airways), airway inflammation, and increased mucus production. Unlike emphysema, the airway obstruction in asthma can be reversed with bronchodilators.",
+      "concept_tags": ["asthma", "bronchoconstriction", "airway-inflammation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-038",
+      "question_text": "The Haldane effect describes how:",
+      "options": [
+        "A. CO2 binding decreases hemoglobin's oxygen affinity",
+        "B. deoxygenated hemoglobin can carry more CO2 than oxygenated hemoglobin",
+        "C. temperature affects oxygen binding",
+        "D. pH affects CO2 transport"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Haldane effect states that deoxygenated hemoglobin has a greater affinity for CO2 (and H+) than oxygenated hemoglobin. This facilitates CO2 loading in tissues (where O2 is released) and CO2 unloading in the lungs (where O2 is bound).",
+      "concept_tags": ["haldane-effect", "co2-transport", "hemoglobin"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-039",
+      "question_text": "Ventilation-perfusion matching ensures that:",
+      "options": [
+        "A. all alveoli receive equal amounts of air",
+        "B. areas of the lung with good ventilation receive good blood flow",
+        "C. the conducting airways receive blood supply",
+        "D. hemoglobin is evenly distributed"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ventilation-perfusion (V/Q) matching ensures efficient gas exchange by directing blood flow to well-ventilated alveoli and redirecting it away from poorly ventilated areas. Local hypoxia causes vasoconstriction to minimize V/Q mismatch.",
+      "concept_tags": ["ventilation-perfusion", "v-q-matching", "gas-exchange-efficiency"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-040",
+      "question_text": "The cilia lining the respiratory tract function to:",
+      "options": [
+        "A. warm incoming air",
+        "B. move mucus and trapped particles toward the pharynx",
+        "C. participate in gas exchange",
+        "D. produce surfactant"
+      ],
+      "correct_answer": "B",
+      "explanation": "Cilia in the respiratory tract beat in coordinated waves to move the mucus layer (with trapped particles, bacteria, and debris) up toward the pharynx, where it can be swallowed or expelled. This is the mucociliary escalator.",
+      "concept_tags": ["cilia", "mucociliary-escalator", "respiratory-defense"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-041",
+      "question_text": "Expiratory reserve volume is:",
+      "options": [
+        "A. the air that can still be exhaled after normal exhalation",
+        "B. the air remaining after maximal exhalation",
+        "C. the maximum air that can be inhaled",
+        "D. the air in the conducting airways"
+      ],
+      "correct_answer": "A",
+      "explanation": "Expiratory reserve volume (ERV) is the additional air that can be forcefully exhaled after a normal (tidal) exhalation. It's about 1.2 L in adults. Residual volume is what remains after maximal exhalation.",
+      "concept_tags": ["expiratory-reserve-volume", "lung-volumes", "spirometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-042",
+      "question_text": "Inspiratory reserve volume is:",
+      "options": [
+        "A. the additional air that can be inhaled after normal inhalation",
+        "B. the air exhaled during normal breathing",
+        "C. the air remaining in the lungs at all times",
+        "D. the dead space volume"
+      ],
+      "correct_answer": "A",
+      "explanation": "Inspiratory reserve volume (IRV) is the additional air that can be forcefully inhaled after a normal (tidal) inhalation. It's about 3 L in adults and represents the reserve capacity for deep breathing during exercise.",
+      "concept_tags": ["inspiratory-reserve-volume", "lung-volumes", "spirometry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-043",
+      "question_text": "Total lung capacity equals:",
+      "options": [
+        "A. vital capacity only",
+        "B. vital capacity + residual volume",
+        "C. tidal volume + residual volume",
+        "D. inspiratory reserve volume + expiratory reserve volume"
+      ],
+      "correct_answer": "B",
+      "explanation": "Total lung capacity (TLC) is the maximum amount of air the lungs can hold after a maximal inhalation. TLC = vital capacity + residual volume, or equivalently, TLC = TV + IRV + ERV + RV (about 6 L in adults).",
+      "concept_tags": ["total-lung-capacity", "lung-volumes", "spirometry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-044",
+      "question_text": "The phrenic nerve innervates the:",
+      "options": [
+        "A. intercostal muscles",
+        "B. diaphragm",
+        "C. larynx",
+        "D. bronchial smooth muscle"
+      ],
+      "correct_answer": "B",
+      "explanation": "The phrenic nerve (C3-C5) innervates the diaphragm, the primary muscle of breathing. Damage to the phrenic nerve impairs diaphragmatic function. The intercostal nerves innervate intercostal muscles.",
+      "concept_tags": ["phrenic-nerve", "diaphragm", "innervation"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biology-06-045",
+      "question_text": "Alveolar ventilation refers to:",
+      "options": [
+        "A. total air moved in and out per minute",
+        "B. air reaching the alveoli available for gas exchange per minute",
+        "C. the volume of dead space",
+        "D. oxygen consumption per minute"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alveolar ventilation is the volume of fresh air reaching the alveoli per minute. It equals (tidal volume - dead space) × respiratory rate. This is the air actually available for gas exchange, unlike total minute ventilation.",
+      "concept_tags": ["alveolar-ventilation", "minute-ventilation", "dead-space"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-046",
+      "question_text": "The chloride shift occurs when:",
+      "options": [
+        "A. chloride ions move into red blood cells as bicarbonate moves out",
+        "B. chloride ions are actively transported into alveoli",
+        "C. hemoglobin releases chloride ions",
+        "D. chloride replaces oxygen on hemoglobin"
+      ],
+      "correct_answer": "A",
+      "explanation": "The chloride shift (Hamburger shift) maintains electrical neutrality when bicarbonate (formed from CO2) leaves red blood cells and enters plasma. Chloride ions move into RBCs to balance the charge, facilitated by the band 3 anion exchanger.",
+      "concept_tags": ["chloride-shift", "bicarbonate", "red-blood-cells"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-047",
+      "question_text": "Bronchodilators used to treat asthma typically work by:",
+      "options": [
+        "A. activating muscarinic receptors",
+        "B. activating beta-2 adrenergic receptors",
+        "C. blocking beta receptors",
+        "D. increasing mucus production"
+      ],
+      "correct_answer": "B",
+      "explanation": "Beta-2 agonist bronchodilators (like albuterol) activate beta-2 adrenergic receptors on bronchial smooth muscle, causing relaxation and bronchodilation. This relieves bronchoconstriction in asthma. Beta blockers would cause bronchoconstriction.",
+      "concept_tags": ["bronchodilators", "beta-2-agonists", "asthma-treatment"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-048",
+      "question_text": "The respiratory membrane (air-blood barrier) consists of:",
+      "options": [
+        "A. only the alveolar epithelium",
+        "B. alveolar epithelium, fused basement membranes, and capillary endothelium",
+        "C. surfactant and mucus only",
+        "D. cartilage and smooth muscle"
+      ],
+      "correct_answer": "B",
+      "explanation": "The respiratory membrane consists of the alveolar epithelium (type I pneumocytes), the fused basement membranes of the alveolus and capillary, and the capillary endothelium. This thin barrier (0.5 µm) allows efficient gas diffusion.",
+      "concept_tags": ["respiratory-membrane", "air-blood-barrier", "gas-diffusion"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-049",
+      "question_text": "During exercise, which factor is LEAST important for increasing oxygen delivery to tissues?",
+      "options": [
+        "A. Increased cardiac output",
+        "B. Right shift of the oxygen-hemoglobin dissociation curve",
+        "C. Increased ventilation",
+        "D. Increased hemoglobin concentration"
+      ],
+      "correct_answer": "D",
+      "explanation": "During acute exercise, cardiac output increases, ventilation increases, and the dissociation curve shifts right (due to increased CO2, temperature, and decreased pH), enhancing oxygen delivery. Hemoglobin concentration doesn't increase acutely during exercise.",
+      "concept_tags": ["exercise-physiology", "oxygen-delivery", "cardiovascular-response"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biology-06-050",
+      "question_text": "At high altitude, the body acclimatizes by:",
+      "options": [
+        "A. decreasing red blood cell production",
+        "B. increasing red blood cell production through erythropoietin",
+        "C. decreasing ventilation rate",
+        "D. decreasing hemoglobin's oxygen affinity"
+      ],
+      "correct_answer": "B",
+      "explanation": "At high altitude, low oxygen stimulates the kidneys to produce erythropoietin, which increases red blood cell production. This increases the blood's oxygen-carrying capacity. Ventilation also increases, and 2,3-BPG increases (shifting the curve right).",
+      "concept_tags": ["altitude-acclimatization", "erythropoietin", "hypoxia-response"],
+      "difficulty": "medium"
+    }
+  ]
+}

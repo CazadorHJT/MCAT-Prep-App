@@ -1,0 +1,457 @@
+{
+  "book": "behavioral-sciences",
+  "chapter": 10,
+  "chapter_title": "Social Stratification and Access to Resources",
+  "questions": [
+    {
+      "id": "behavioral-sciences-10-001",
+      "question_text": "Social stratification refers to:",
+      "options": ["A. The process of social mobility", "B. A system of ranking groups based on various social factors", "C. The division of labor in society", "D. Cultural norms and values"],
+      "correct_answer": "B",
+      "explanation": "Social stratification is a system by which society ranks categories of people in a hierarchy based on factors like wealth, power, and prestige.",
+      "concept_tags": ["social stratification", "social hierarchy", "inequality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-002",
+      "question_text": "Which theoretical perspective views social stratification as necessary for society to function?",
+      "options": ["A. Conflict theory", "B. Symbolic interactionism", "C. Structural functionalism", "D. Feminist theory"],
+      "correct_answer": "C",
+      "explanation": "Structural functionalism (Davis-Moore thesis) argues that stratification is necessary to motivate talented people to fill important positions through differential rewards.",
+      "concept_tags": ["structural functionalism", "Davis-Moore thesis", "social theory"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-003",
+      "question_text": "According to Marx, the two main classes in capitalist society are:",
+      "options": ["A. Rich and poor", "B. Bourgeoisie and proletariat", "C. Upper class and lower class", "D. Owners and renters"],
+      "correct_answer": "B",
+      "explanation": "Marx identified the bourgeoisie (owners of means of production) and proletariat (workers who sell their labor) as the two main classes in capitalism.",
+      "concept_tags": ["Marx", "social class", "capitalism", "conflict theory"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-004",
+      "question_text": "Weber expanded Marx's concept of class by adding which dimensions?",
+      "options": ["A. Education and occupation", "B. Status and party (power)", "C. Income and assets", "D. Religion and ethnicity"],
+      "correct_answer": "B",
+      "explanation": "Weber added status (prestige/social honor) and party (political power) to Marx's economic class dimension, creating a multidimensional view of stratification.",
+      "concept_tags": ["Weber", "social stratification", "class status power"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-005",
+      "question_text": "Social mobility that occurs within a person's lifetime is called:",
+      "options": ["A. Intergenerational mobility", "B. Intragenerational mobility", "C. Structural mobility", "D. Horizontal mobility"],
+      "correct_answer": "B",
+      "explanation": "Intragenerational mobility refers to changes in social position during an individual's life, while intergenerational mobility compares positions across generations.",
+      "concept_tags": ["social mobility", "intragenerational", "stratification"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-006",
+      "question_text": "A society with a caste system demonstrates which type of social mobility?",
+      "options": ["A. High vertical mobility", "B. Open mobility", "C. Closed mobility", "D. Structural mobility"],
+      "correct_answer": "C",
+      "explanation": "Caste systems represent closed stratification where mobility between castes is prohibited or extremely limited, with social position determined by birth.",
+      "concept_tags": ["caste system", "closed stratification", "social mobility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-007",
+      "question_text": "The concept of meritocracy assumes that social position is determined by:",
+      "options": ["A. Family background and inheritance", "B. Individual talent and effort", "C. Government policies", "D. Random chance"],
+      "correct_answer": "B",
+      "explanation": "Meritocracy is the belief that social stratification reflects individual differences in ability, effort, and achievement rather than ascribed characteristics.",
+      "concept_tags": ["meritocracy", "social mobility", "achievement"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-008",
+      "question_text": "Which type of poverty is defined relative to the standard of living in a society?",
+      "options": ["A. Absolute poverty", "B. Relative poverty", "C. Situational poverty", "D. Generational poverty"],
+      "correct_answer": "B",
+      "explanation": "Relative poverty is measured in relation to the economic status of others in society, while absolute poverty is based on minimum requirements for survival.",
+      "concept_tags": ["poverty", "relative poverty", "inequality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-009",
+      "question_text": "The culture of poverty theory suggests that poverty persists because:",
+      "options": ["A. Economic structures prevent mobility", "B. Poor people develop values that perpetuate poverty", "C. Discrimination limits opportunities", "D. Government programs are inadequate"],
+      "correct_answer": "B",
+      "explanation": "Oscar Lewis's culture of poverty theory argues that the poor develop distinct values, beliefs, and behaviors that are passed across generations and perpetuate poverty.",
+      "concept_tags": ["culture of poverty", "poverty theory", "Oscar Lewis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-010",
+      "question_text": "Social reproduction theory explains how:",
+      "options": ["A. Population growth affects society", "B. Social inequality is maintained across generations", "C. Cultural values change over time", "D. Education reforms society"],
+      "correct_answer": "B",
+      "explanation": "Social reproduction theory examines how social and economic inequalities are passed from one generation to the next through mechanisms like education, culture, and institutions.",
+      "concept_tags": ["social reproduction", "inequality", "Bourdieu"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-011",
+      "question_text": "Bourdieu's concept of cultural capital refers to:",
+      "options": ["A. Financial investments in culture", "B. Non-financial social assets that promote social mobility", "C. Government funding for the arts", "D. Physical cultural artifacts"],
+      "correct_answer": "B",
+      "explanation": "Cultural capital includes knowledge, skills, education, and other cultural assets that can be exchanged for social status and economic opportunity.",
+      "concept_tags": ["cultural capital", "Bourdieu", "social stratification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-012",
+      "question_text": "Social capital refers to:",
+      "options": ["A. A person's financial wealth", "B. Educational credentials", "C. Networks and relationships that provide access to resources", "D. Government social programs"],
+      "correct_answer": "C",
+      "explanation": "Social capital consists of the social networks, connections, and relationships that individuals can draw upon to access resources and opportunities.",
+      "concept_tags": ["social capital", "social networks", "resources"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-013",
+      "question_text": "The feminization of poverty refers to:",
+      "options": ["A. Women's entry into the workforce", "B. The disproportionate number of poor who are women", "C. Feminist approaches to poverty reduction", "D. Women's control of family finances"],
+      "correct_answer": "B",
+      "explanation": "The feminization of poverty describes the trend that women and female-headed households are disproportionately represented among the poor globally.",
+      "concept_tags": ["feminization of poverty", "gender", "inequality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-014",
+      "question_text": "Spatial inequality refers to:",
+      "options": ["A. Personal space preferences", "B. Unequal distribution of resources across geographic areas", "C. Urban planning failures", "D. Transportation disparities"],
+      "correct_answer": "B",
+      "explanation": "Spatial inequality describes the uneven distribution of resources, opportunities, and quality of life across different geographic locations and neighborhoods.",
+      "concept_tags": ["spatial inequality", "geography", "resources"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-015",
+      "question_text": "Residential segregation based on race often results from:",
+      "options": ["A. Individual housing preferences only", "B. Historical policies and institutional discrimination", "C. Natural population distribution", "D. Climate differences"],
+      "correct_answer": "B",
+      "explanation": "Residential segregation results from historical practices like redlining, restrictive covenants, discriminatory lending, and ongoing institutional discrimination.",
+      "concept_tags": ["residential segregation", "redlining", "discrimination"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-016",
+      "question_text": "Environmental justice concerns the:",
+      "options": ["A. Legal rights of animals", "B. Fair distribution of environmental benefits and burdens", "C. Government environmental regulations", "D. Conservation of natural resources"],
+      "correct_answer": "B",
+      "explanation": "Environmental justice addresses the fair treatment of all people regarding environmental policies, focusing on disproportionate exposure of marginalized communities to environmental hazards.",
+      "concept_tags": ["environmental justice", "inequality", "health disparities"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-017",
+      "question_text": "The term 'food desert' describes areas with:",
+      "options": ["A. Extreme drought conditions", "B. Limited access to affordable, nutritious food", "C. Overproduction of food", "D. Traditional food cultures"],
+      "correct_answer": "B",
+      "explanation": "Food deserts are geographic areas with limited access to affordable, healthy food options, often found in low-income urban and rural communities.",
+      "concept_tags": ["food desert", "health disparities", "access to resources"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-018",
+      "question_text": "Health disparities are:",
+      "options": ["A. Natural variations in health outcomes", "B. Preventable differences in health among social groups", "C. Medical treatment errors", "D. Genetic differences in disease susceptibility"],
+      "correct_answer": "B",
+      "explanation": "Health disparities are preventable differences in health outcomes linked to social, economic, and environmental disadvantages that affect specific population groups.",
+      "concept_tags": ["health disparities", "social determinants of health", "inequality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-019",
+      "question_text": "Social determinants of health include all EXCEPT:",
+      "options": ["A. Income and education", "B. Housing and neighborhood", "C. Blood type and genetics", "D. Access to healthcare"],
+      "correct_answer": "C",
+      "explanation": "Social determinants of health are non-medical factors affecting health outcomes, including socioeconomic status, education, neighborhood, and access to care. Genetics is a biological, not social, determinant.",
+      "concept_tags": ["social determinants of health", "health disparities"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-020",
+      "question_text": "The inverse care law states that:",
+      "options": ["A. Healthcare costs decrease with better care", "B. Those who need care most receive it least", "C. Prevention is better than treatment", "D. Public health improves private health"],
+      "correct_answer": "B",
+      "explanation": "The inverse care law (Julian Tudor Hart) states that the availability of good medical care tends to vary inversely with the need for it in the population.",
+      "concept_tags": ["inverse care law", "healthcare access", "health disparities"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-021",
+      "question_text": "Educational stratification refers to:",
+      "options": ["A. Different teaching methods", "B. Unequal access to quality education based on social factors", "C. Academic tracking systems", "D. Grade-level organization"],
+      "correct_answer": "B",
+      "explanation": "Educational stratification describes how access to quality education varies systematically based on social class, race, and geographic location.",
+      "concept_tags": ["educational stratification", "inequality", "education"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-022",
+      "question_text": "Hidden curriculum refers to:",
+      "options": ["A. Secret lesson plans", "B. Unwritten social norms taught in schools", "C. Advanced placement courses", "D. Private tutoring"],
+      "correct_answer": "B",
+      "explanation": "The hidden curriculum consists of unspoken norms, values, and expectations that students learn in school beyond the formal academic curriculum.",
+      "concept_tags": ["hidden curriculum", "education", "socialization"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-023",
+      "question_text": "Teacher expectancy effect demonstrates that:",
+      "options": ["A. Teachers prefer certain subjects", "B. Teacher expectations can influence student performance", "C. Students expect teachers to be experts", "D. Experience makes better teachers"],
+      "correct_answer": "B",
+      "explanation": "The teacher expectancy effect (Rosenthal & Jacobson's Pygmalion effect) shows that teachers' expectations about students can become self-fulfilling prophecies affecting achievement.",
+      "concept_tags": ["teacher expectancy", "Pygmalion effect", "self-fulfilling prophecy"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-024",
+      "question_text": "School funding disparities in the US are primarily linked to:",
+      "options": ["A. Federal education budgets", "B. Local property taxes", "C. Student performance", "D. Teacher salaries"],
+      "correct_answer": "B",
+      "explanation": "US public school funding largely depends on local property taxes, creating significant disparities between wealthy and poor neighborhoods.",
+      "concept_tags": ["educational inequality", "school funding", "property taxes"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-025",
+      "question_text": "The achievement gap refers to:",
+      "options": ["A. Differences between schools", "B. Persistent disparities in academic performance between groups", "C. Grade inflation", "D. Testing difficulties"],
+      "correct_answer": "B",
+      "explanation": "The achievement gap describes persistent differences in academic performance between students of different racial, ethnic, and socioeconomic backgrounds.",
+      "concept_tags": ["achievement gap", "educational inequality", "disparities"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-026",
+      "question_text": "Global stratification refers to:",
+      "options": ["A. Climate differences across countries", "B. Unequal distribution of resources among nations", "C. International trade agreements", "D. Geographic location of countries"],
+      "correct_answer": "B",
+      "explanation": "Global stratification describes the hierarchical arrangement of nations based on wealth, power, and prestige, with systematic inequalities between developed and developing nations.",
+      "concept_tags": ["global stratification", "international inequality", "development"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-027",
+      "question_text": "Dependency theory argues that global inequality results from:",
+      "options": ["A. Cultural differences between nations", "B. Exploitation of poor countries by wealthy ones", "C. Natural resource distribution", "D. Population differences"],
+      "correct_answer": "B",
+      "explanation": "Dependency theory argues that wealthy core nations exploit peripheral nations through unequal trade relations, keeping developing nations in a state of dependency.",
+      "concept_tags": ["dependency theory", "global stratification", "exploitation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-028",
+      "question_text": "World systems theory divides nations into:",
+      "options": ["A. Developed and developing", "B. Core, semi-periphery, and periphery", "C. First, second, and third world", "D. Industrial and agricultural"],
+      "correct_answer": "B",
+      "explanation": "Wallerstein's world systems theory categorizes nations as core (wealthy, dominant), semi-periphery (intermediate), and periphery (poor, exploited) based on their position in the global economy.",
+      "concept_tags": ["world systems theory", "Wallerstein", "global stratification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-029",
+      "question_text": "Modernization theory suggests that developing nations can improve by:",
+      "options": ["A. Rejecting Western influence", "B. Adopting Western values and practices", "C. Maintaining traditional cultures", "D. Isolating from global markets"],
+      "correct_answer": "B",
+      "explanation": "Modernization theory argues that developing nations can improve by following the developmental path of Western nations, adopting their technologies, values, and institutions.",
+      "concept_tags": ["modernization theory", "development", "global stratification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-030",
+      "question_text": "The concept of intersectionality recognizes that:",
+      "options": ["A. Roads should cross at right angles", "B. Multiple social identities combine to create unique experiences", "C. Different cultures should interact", "D. Social problems have multiple causes"],
+      "correct_answer": "B",
+      "explanation": "Intersectionality (Kimberlé Crenshaw) examines how multiple social identities (race, class, gender, etc.) intersect to create unique experiences of privilege or oppression.",
+      "concept_tags": ["intersectionality", "Crenshaw", "social identity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-031",
+      "question_text": "Which measure of inequality shows income distribution graphically?",
+      "options": ["A. GDP per capita", "B. Gini coefficient", "C. Lorenz curve", "D. Poverty rate"],
+      "correct_answer": "C",
+      "explanation": "The Lorenz curve is a graphical representation of income distribution, showing the cumulative percentage of income against the cumulative percentage of the population.",
+      "concept_tags": ["Lorenz curve", "income inequality", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-032",
+      "question_text": "A Gini coefficient of 0 would indicate:",
+      "options": ["A. Maximum inequality", "B. Perfect equality", "C. No economic activity", "D. Average inequality"],
+      "correct_answer": "B",
+      "explanation": "The Gini coefficient ranges from 0 (perfect equality, everyone has same income) to 1 (maximum inequality, one person has all income).",
+      "concept_tags": ["Gini coefficient", "income inequality", "measurement"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-033",
+      "question_text": "Structural mobility occurs when:",
+      "options": ["A. Individuals work hard to succeed", "B. Changes in economy create widespread mobility", "C. Government implements mobility programs", "D. Education levels increase"],
+      "correct_answer": "B",
+      "explanation": "Structural mobility results from changes in the occupational structure of society (e.g., industrialization, technological change) that affect mobility opportunities for many people.",
+      "concept_tags": ["structural mobility", "social mobility", "economic change"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-034",
+      "question_text": "The glass ceiling refers to:",
+      "options": ["A. Architectural limitations", "B. Invisible barriers to advancement for women and minorities", "C. Maximum salary caps", "D. Educational requirements"],
+      "correct_answer": "B",
+      "explanation": "The glass ceiling describes invisible barriers that prevent women and minorities from advancing to upper management and executive positions despite qualifications.",
+      "concept_tags": ["glass ceiling", "discrimination", "gender inequality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-035",
+      "question_text": "The glass escalator effect describes:",
+      "options": ["A. Rapid promotion of women", "B. Men's accelerated advancement in female-dominated fields", "C. Elevator access in buildings", "D. Career advancement through networking"],
+      "correct_answer": "B",
+      "explanation": "The glass escalator describes how men in female-dominated occupations often experience accelerated promotion and advancement compared to their female colleagues.",
+      "concept_tags": ["glass escalator", "gender", "occupational stratification"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-10-036",
+      "question_text": "Wealth differs from income in that wealth:",
+      "options": ["A. Is earned through employment", "B. Represents accumulated assets minus debts", "C. Is measured annually", "D. Comes only from investments"],
+      "correct_answer": "B",
+      "explanation": "Wealth (net worth) represents total accumulated assets minus liabilities, while income is the flow of money received over a period. Wealth inequality typically exceeds income inequality.",
+      "concept_tags": ["wealth", "income", "economic inequality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-037",
+      "question_text": "Racial wealth gap research consistently shows that:",
+      "options": ["A. Wealth differences are decreasing rapidly", "B. Education eliminates wealth disparities", "C. Historical policies created lasting wealth disparities", "D. Income equality leads to wealth equality"],
+      "correct_answer": "C",
+      "explanation": "Research shows that historical policies (slavery, Jim Crow, redlining) created lasting racial wealth disparities that persist despite civil rights progress and cannot be explained by education or income alone.",
+      "concept_tags": ["racial wealth gap", "historical discrimination", "inequality"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-038",
+      "question_text": "Symbolic capital, according to Bourdieu, includes:",
+      "options": ["A. Financial investments", "B. Prestige and honor", "C. Physical strength", "D. Technical skills"],
+      "correct_answer": "B",
+      "explanation": "Symbolic capital refers to resources based on prestige, status, and recognition that can be converted into other forms of capital and social advantage.",
+      "concept_tags": ["symbolic capital", "Bourdieu", "stratification"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-10-039",
+      "question_text": "The Matthew Effect in science refers to:",
+      "options": ["A. Religious influence on research", "B. Cumulative advantage where success breeds more success", "C. Biblical literacy among scientists", "D. Ethical standards in research"],
+      "correct_answer": "B",
+      "explanation": "The Matthew Effect (Robert Merton) describes cumulative advantage where eminent scientists receive disproportionate credit, making future success more likely ('to those who have, more will be given').",
+      "concept_tags": ["Matthew Effect", "cumulative advantage", "stratification"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-10-040",
+      "question_text": "Status inconsistency occurs when:",
+      "options": ["A. A person's status changes over time", "B. A person ranks differently on various stratification dimensions", "C. Status symbols are unclear", "D. Social norms conflict"],
+      "correct_answer": "B",
+      "explanation": "Status inconsistency occurs when an individual ranks high on some dimensions of stratification but low on others (e.g., high education but low income), potentially causing psychological stress.",
+      "concept_tags": ["status inconsistency", "social stratification", "Weber"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-041",
+      "question_text": "The working poor are defined as people who:",
+      "options": ["A. Are unemployed and seeking work", "B. Work but remain below poverty level", "C. Work part-time by choice", "D. Are retired from working"],
+      "correct_answer": "B",
+      "explanation": "The working poor are individuals who spend significant time working or looking for work but whose incomes still fall below the poverty level.",
+      "concept_tags": ["working poor", "poverty", "employment"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-042",
+      "question_text": "Concentrated poverty refers to:",
+      "options": ["A. Government-focused poverty programs", "B. High poverty rates in specific geographic areas", "C. Increasing national poverty rates", "D. Focus on individual poverty cases"],
+      "correct_answer": "B",
+      "explanation": "Concentrated poverty describes areas where large proportions of residents are poor, often leading to compounded disadvantages in schools, infrastructure, and opportunities.",
+      "concept_tags": ["concentrated poverty", "spatial inequality", "urban poverty"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-043",
+      "question_text": "Healthcare rationing decisions often reflect:",
+      "options": ["A. Random selection processes", "B. Underlying social inequalities", "C. Pure medical criteria", "D. Patient preferences only"],
+      "correct_answer": "B",
+      "explanation": "Healthcare rationing, whether explicit or implicit, often reflects and reinforces existing social inequalities based on ability to pay, geographic access, and social status.",
+      "concept_tags": ["healthcare rationing", "health disparities", "access to resources"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "behavioral-sciences-10-044",
+      "question_text": "The digital divide refers to:",
+      "options": ["A. Different computer operating systems", "B. Unequal access to technology and internet", "C. Generational differences in tech use", "D. Competition between tech companies"],
+      "correct_answer": "B",
+      "explanation": "The digital divide describes inequality in access to computers, internet, and digital literacy that often follows existing socioeconomic, racial, and geographic disparities.",
+      "concept_tags": ["digital divide", "technology access", "inequality"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-045",
+      "question_text": "Credentialism refers to:",
+      "options": ["A. Verifying someone's identity", "B. Overemphasis on educational qualifications for jobs", "C. Professional licensing requirements", "D. Credit score importance"],
+      "correct_answer": "B",
+      "explanation": "Credentialism is the overemphasis on educational credentials as job requirements, sometimes beyond what is actually needed, potentially serving as a gatekeeping mechanism.",
+      "concept_tags": ["credentialism", "education", "stratification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-046",
+      "question_text": "Stereotype threat can affect academic performance by:",
+      "options": ["A. Improving motivation to disprove stereotypes", "B. Creating anxiety that impairs performance", "C. Increasing teacher expectations", "D. Strengthening group identity"],
+      "correct_answer": "B",
+      "explanation": "Stereotype threat occurs when awareness of negative stereotypes about one's group creates anxiety and cognitive load that can impair performance, contributing to achievement gaps.",
+      "concept_tags": ["stereotype threat", "academic performance", "achievement gap"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-047",
+      "question_text": "Tracking in schools has been criticized because it:",
+      "options": ["A. Costs too much to implement", "B. Perpetuates existing inequalities", "C. Is too difficult for teachers", "D. Reduces student choices"],
+      "correct_answer": "B",
+      "explanation": "Tracking (ability grouping) has been criticized for perpetuating inequalities, as placement often reflects socioeconomic status and race, with lower tracks receiving fewer resources.",
+      "concept_tags": ["tracking", "educational inequality", "stratification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-048",
+      "question_text": "Life expectancy differences between social classes demonstrate:",
+      "options": ["A. Genetic differences between groups", "B. The health impact of social stratification", "C. Medical advances for all", "D. Random variation in health"],
+      "correct_answer": "B",
+      "explanation": "Significant life expectancy differences between social classes illustrate how social stratification affects health through access to healthcare, living conditions, stress, and health behaviors.",
+      "concept_tags": ["health disparities", "life expectancy", "social stratification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "behavioral-sciences-10-049",
+      "question_text": "Downward mobility is MOST likely during periods of:",
+      "options": ["A. Economic growth", "B. Economic recession", "C. Political stability", "D. Population growth"],
+      "correct_answer": "B",
+      "explanation": "Economic recessions increase the likelihood of downward mobility through job losses, wage cuts, and decreased opportunities, disproportionately affecting those with fewer resources.",
+      "concept_tags": ["downward mobility", "economic recession", "social mobility"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "behavioral-sciences-10-050",
+      "question_text": "The poverty line in the United States is criticized for:",
+      "options": ["A. Being too generous", "B. Not accounting for geographic cost differences", "C. Including too many expenses", "D. Being updated too frequently"],
+      "correct_answer": "B",
+      "explanation": "The US poverty line is criticized for using an outdated formula, not accounting for geographic cost-of-living differences, and not including expenses like childcare and healthcare.",
+      "concept_tags": ["poverty line", "poverty measurement", "policy"],
+      "difficulty": "hard"
+    }
+  ]
+}

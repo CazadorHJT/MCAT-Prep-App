@@ -1,0 +1,457 @@
+{
+  "book": "biochemistry",
+  "chapter": 1,
+  "chapter_title": "Amino Acids and Proteins",
+  "questions": [
+    {
+      "id": "biochemistry-01-001",
+      "question_text": "Which amino acid contains a thiol (-SH) group in its side chain?",
+      "options": ["A. Methionine", "B. Cysteine", "C. Serine", "D. Threonine"],
+      "correct_answer": "B",
+      "explanation": "Cysteine contains a thiol (sulfhydryl) group (-SH) in its side chain. Methionine also contains sulfur but as a thioether (-S-CH3), not a thiol. Serine and threonine contain hydroxyl (-OH) groups.",
+      "concept_tags": ["amino-acids", "functional-groups", "cysteine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-002",
+      "question_text": "At physiological pH (7.4), which of the following amino acids would carry a net positive charge?",
+      "options": ["A. Glutamate", "B. Aspartate", "C. Lysine", "D. Alanine"],
+      "correct_answer": "C",
+      "explanation": "Lysine has a pKa of approximately 10.5 for its side chain amino group, meaning it is protonated and positively charged at pH 7.4. Glutamate and aspartate are negatively charged at physiological pH due to their carboxyl side chains (pKa ~4). Alanine has a neutral side chain.",
+      "concept_tags": ["amino-acids", "charge", "pKa", "lysine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-003",
+      "question_text": "Which type of bond is formed during the condensation reaction between two amino acids?",
+      "options": ["A. Disulfide bond", "B. Hydrogen bond", "C. Peptide bond", "D. Ionic bond"],
+      "correct_answer": "C",
+      "explanation": "A peptide bond (amide bond) forms between the carboxyl group of one amino acid and the amino group of another through a condensation reaction that releases water. Disulfide bonds form between cysteine residues after protein synthesis.",
+      "concept_tags": ["peptide-bonds", "protein-synthesis", "condensation-reaction"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-004",
+      "question_text": "Proline is unique among the standard amino acids because it:",
+      "options": ["A. Is the only amino acid with a sulfur-containing side chain", "B. Has its side chain bonded to both the alpha carbon and the amino nitrogen", "C. Is the only amino acid that can exist as D or L isomers", "D. Contains an aromatic ring system"],
+      "correct_answer": "B",
+      "explanation": "Proline is unique because its side chain is cyclized back to the amino nitrogen, forming a pyrrolidine ring. This makes proline an imino acid and restricts rotation around the N-C alpha bond, often disrupting secondary structures like alpha helices.",
+      "concept_tags": ["amino-acids", "proline", "structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-005",
+      "question_text": "Which of the following correctly describes the alpha helix secondary structure?",
+      "options": ["A. Hydrogen bonds form between amino acids 4 residues apart in the sequence", "B. Hydrogen bonds form between adjacent polypeptide chains", "C. The helix has 5.4 residues per turn", "D. R groups point toward the center of the helix"],
+      "correct_answer": "A",
+      "explanation": "In an alpha helix, hydrogen bonds form between the C=O of residue n and the N-H of residue n+4, creating a right-handed helical structure with 3.6 residues per turn. R groups project outward from the helix axis.",
+      "concept_tags": ["protein-structure", "secondary-structure", "alpha-helix", "hydrogen-bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-006",
+      "question_text": "Glycine is the only amino acid that is not chiral because:",
+      "options": ["A. It has no side chain", "B. Its side chain is a single hydrogen atom", "C. It can form both D and L isomers equally", "D. Its alpha carbon has two identical substituents"],
+      "correct_answer": "B",
+      "explanation": "Glycine's side chain is simply a hydrogen atom, making the alpha carbon achiral since it has two hydrogen atoms attached. All other standard amino acids have four different groups attached to the alpha carbon, making them chiral.",
+      "concept_tags": ["amino-acids", "glycine", "chirality", "stereochemistry"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-007",
+      "question_text": "Which of the following amino acids is classified as aromatic?",
+      "options": ["A. Leucine", "B. Valine", "C. Phenylalanine", "D. Proline"],
+      "correct_answer": "C",
+      "explanation": "Phenylalanine contains a benzyl side chain (phenyl ring), making it aromatic. The aromatic amino acids are phenylalanine, tyrosine, and tryptophan. Leucine and valine are aliphatic nonpolar amino acids, and proline is a cyclic imino acid.",
+      "concept_tags": ["amino-acids", "aromatic", "classification", "phenylalanine"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-008",
+      "question_text": "The primary structure of a protein refers to:",
+      "options": ["A. The three-dimensional folding pattern", "B. The linear sequence of amino acids", "C. The arrangement of multiple polypeptide subunits", "D. Regions of alpha helices and beta sheets"],
+      "correct_answer": "B",
+      "explanation": "Primary structure is the linear sequence of amino acids in a polypeptide chain, held together by peptide bonds. Secondary structure refers to local folding patterns (alpha helices, beta sheets), tertiary structure is the 3D folding, and quaternary structure involves multiple subunits.",
+      "concept_tags": ["protein-structure", "primary-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-009",
+      "question_text": "Which amino acid side chain can form hydrogen bonds but is classified as nonpolar?",
+      "options": ["A. Tryptophan", "B. Leucine", "C. Valine", "D. Isoleucine"],
+      "correct_answer": "A",
+      "explanation": "Tryptophan contains an indole ring with an N-H group that can participate in hydrogen bonding. However, due to its large hydrophobic aromatic ring system, it is generally classified as nonpolar/hydrophobic despite this hydrogen bonding capability.",
+      "concept_tags": ["amino-acids", "tryptophan", "hydrogen-bonds", "polarity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-010",
+      "question_text": "Disulfide bonds in proteins form between:",
+      "options": ["A. Two methionine residues", "B. Two cysteine residues", "C. Cysteine and methionine residues", "D. Any two sulfur-containing amino acids"],
+      "correct_answer": "B",
+      "explanation": "Disulfide bonds (cystine bridges) form specifically between two cysteine residues through oxidation of their thiol (-SH) groups. Methionine contains sulfur as a thioether and cannot form disulfide bonds.",
+      "concept_tags": ["disulfide-bonds", "cysteine", "protein-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-011",
+      "question_text": "A peptide bond has partial double-bond character due to:",
+      "options": ["A. Hydrogen bonding between adjacent residues", "B. Resonance between the carbonyl oxygen and amide nitrogen", "C. Electrostatic interactions", "D. Hydrophobic interactions"],
+      "correct_answer": "B",
+      "explanation": "The peptide bond exhibits resonance between two forms: C-N single bond with C=O double bond, and C=N double bond with C-O single bond. This resonance gives the bond partial double-bond character, restricting rotation and keeping the peptide bond planar.",
+      "concept_tags": ["peptide-bonds", "resonance", "bond-character"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-012",
+      "question_text": "Which of the following would most likely disrupt the quaternary structure of a protein without affecting its primary structure?",
+      "options": ["A. Hydrolysis with strong acid", "B. Treatment with urea", "C. Proteolytic cleavage", "D. Peptide bond reduction"],
+      "correct_answer": "B",
+      "explanation": "Urea disrupts hydrogen bonds and hydrophobic interactions that maintain quaternary structure (and tertiary/secondary) without breaking peptide bonds. Acid hydrolysis and proteolytic cleavage would break peptide bonds, destroying primary structure.",
+      "concept_tags": ["protein-structure", "quaternary-structure", "denaturation", "urea"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-013",
+      "question_text": "The isoelectric point (pI) of an amino acid is the pH at which:",
+      "options": ["A. The amino acid is fully protonated", "B. The amino acid has no net electrical charge", "C. The amino acid is fully deprotonated", "D. The amino acid precipitates out of solution"],
+      "correct_answer": "B",
+      "explanation": "The isoelectric point (pI) is the pH at which an amino acid or protein has no net electrical charge, existing predominantly as a zwitterion. At this pH, the molecule will not migrate in an electric field.",
+      "concept_tags": ["isoelectric-point", "charge", "zwitterion"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-014",
+      "question_text": "In a beta-pleated sheet, hydrogen bonds form:",
+      "options": ["A. Within a single polypeptide strand", "B. Between adjacent strands of the polypeptide", "C. Between the backbone and side chains", "D. Only between parallel strands"],
+      "correct_answer": "B",
+      "explanation": "In beta sheets, hydrogen bonds form between the backbone C=O and N-H groups of adjacent polypeptide strands (which can be parallel or antiparallel). This is unlike alpha helices where hydrogen bonds form within a single strand.",
+      "concept_tags": ["protein-structure", "secondary-structure", "beta-sheet", "hydrogen-bonds"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-015",
+      "question_text": "Which amino acid is most likely to be found in the interior of a globular protein?",
+      "options": ["A. Arginine", "B. Glutamate", "C. Leucine", "D. Lysine"],
+      "correct_answer": "C",
+      "explanation": "Leucine is a nonpolar, hydrophobic amino acid that tends to be found in the interior of globular proteins, away from the aqueous environment. Arginine, glutamate, and lysine are charged/polar and typically found on the protein surface.",
+      "concept_tags": ["protein-structure", "hydrophobic-effect", "amino-acid-location"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-016",
+      "question_text": "What is the approximate pI of glutamic acid (pKa values: alpha-COOH = 2.2, alpha-NH3+ = 9.7, side chain COOH = 4.3)?",
+      "options": ["A. 2.2", "B. 3.2", "C. 6.0", "D. 7.0"],
+      "correct_answer": "B",
+      "explanation": "For acidic amino acids, the pI is calculated as the average of the two lowest pKa values (the two carboxyl groups): pI = (2.2 + 4.3)/2 = 3.25, approximately 3.2. This ensures both carboxyl groups are in their neutral/deprotonated equilibrium.",
+      "concept_tags": ["isoelectric-point", "pKa", "acidic-amino-acids", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-017",
+      "question_text": "Which of the following forces is LEAST important in maintaining tertiary protein structure?",
+      "options": ["A. Hydrophobic interactions", "B. Covalent peptide bonds", "C. Disulfide bridges", "D. Hydrogen bonds"],
+      "correct_answer": "B",
+      "explanation": "Peptide bonds define the primary structure, not the tertiary structure. Tertiary structure is maintained by hydrophobic interactions, hydrogen bonds, ionic bonds, disulfide bridges, and van der Waals forces between R groups.",
+      "concept_tags": ["protein-structure", "tertiary-structure", "stabilizing-forces"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-018",
+      "question_text": "Heating a protein to 95 degrees C would most likely result in:",
+      "options": ["A. Hydrolysis of peptide bonds", "B. Loss of tertiary and secondary structure", "C. Conversion of L-amino acids to D-amino acids", "D. Formation of new disulfide bonds"],
+      "correct_answer": "B",
+      "explanation": "Heat causes protein denaturation by disrupting non-covalent interactions (hydrogen bonds, hydrophobic interactions, ionic bonds) that maintain secondary and tertiary structure. Peptide bonds are stable at this temperature, and racemization requires more extreme conditions.",
+      "concept_tags": ["denaturation", "protein-structure", "heat"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-019",
+      "question_text": "Which amino acid acts as both a hydrogen bond donor and acceptor through its side chain?",
+      "options": ["A. Alanine", "B. Serine", "C. Phenylalanine", "D. Valine"],
+      "correct_answer": "B",
+      "explanation": "Serine has a hydroxyl (-OH) group in its side chain that can act as both a hydrogen bond donor (the H) and acceptor (the O). Alanine, phenylalanine, and valine have nonpolar side chains that cannot form hydrogen bonds.",
+      "concept_tags": ["amino-acids", "hydrogen-bonds", "serine", "polar-amino-acids"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-020",
+      "question_text": "The Ramachandran plot shows the allowed combinations of which two dihedral angles?",
+      "options": ["A. Alpha and beta", "B. Phi and psi", "C. Omega and theta", "D. Sigma and delta"],
+      "correct_answer": "B",
+      "explanation": "The Ramachandran plot displays the allowed phi (rotation around N-C alpha bond) and psi (rotation around C alpha-C bond) angles in a polypeptide. These angles are restricted due to steric clashes between atoms.",
+      "concept_tags": ["protein-structure", "ramachandran-plot", "dihedral-angles"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-021",
+      "question_text": "Which of the following best describes the side chain of histidine at physiological pH?",
+      "options": ["A. Always fully protonated and positively charged", "B. Always deprotonated and neutral", "C. Can be either protonated or deprotonated depending on local environment", "D. Forms a disulfide bond"],
+      "correct_answer": "C",
+      "explanation": "Histidine has a pKa of approximately 6.0 for its imidazole side chain, which is close to physiological pH (7.4). This means histidine can exist in both protonated (charged) and deprotonated (neutral) forms depending on the local environment, making it important in enzyme catalysis.",
+      "concept_tags": ["amino-acids", "histidine", "pKa", "enzyme-catalysis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-022",
+      "question_text": "A mutation that changes a glycine residue to a tryptophan in the interior of a protein would most likely:",
+      "options": ["A. Have no effect on protein structure", "B. Stabilize the protein through additional hydrogen bonds", "C. Destabilize the protein due to steric clashes", "D. Create a new disulfide bond"],
+      "correct_answer": "C",
+      "explanation": "Glycine has the smallest side chain (just H), while tryptophan has the largest side chain. Replacing glycine with tryptophan in the protein interior would likely cause steric clashes, disrupting the protein's native conformation.",
+      "concept_tags": ["protein-structure", "mutations", "steric-effects"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-023",
+      "question_text": "Which of the following amino acids has a side chain that can be phosphorylated?",
+      "options": ["A. Alanine", "B. Leucine", "C. Serine", "D. Glycine"],
+      "correct_answer": "C",
+      "explanation": "Serine, along with threonine and tyrosine, contains a hydroxyl group in its side chain that can be phosphorylated by kinases. This post-translational modification is crucial for cell signaling. Alanine, leucine, and glycine lack hydroxyl groups.",
+      "concept_tags": ["amino-acids", "phosphorylation", "post-translational-modification"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-024",
+      "question_text": "In an antiparallel beta sheet, adjacent strands run in:",
+      "options": ["A. The same N-to-C direction", "B. Opposite N-to-C directions", "C. Perpendicular directions", "D. Random orientations"],
+      "correct_answer": "B",
+      "explanation": "In antiparallel beta sheets, adjacent strands run in opposite directions (one N-to-C, the next C-to-N). This allows for more linear, stronger hydrogen bonds compared to parallel beta sheets where strands run in the same direction.",
+      "concept_tags": ["protein-structure", "secondary-structure", "beta-sheet"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-025",
+      "question_text": "Which amino acid is most commonly found at the beginning of an alpha helix?",
+      "options": ["A. Proline", "B. Glycine", "C. Asparagine", "D. Valine"],
+      "correct_answer": "C",
+      "explanation": "Asparagine is often found at the N-terminus of alpha helices because its side chain can form hydrogen bonds with the backbone N-H groups of the first few residues, which lack intrahelical hydrogen bonding partners (helix capping).",
+      "concept_tags": ["protein-structure", "alpha-helix", "helix-capping"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-01-026",
+      "question_text": "The zwitterionic form of an amino acid exists when:",
+      "options": ["A. The pH equals the pKa of the carboxyl group", "B. Both the amino and carboxyl groups are in their charged forms", "C. The amino acid is in a nonpolar solvent", "D. The amino acid is fully protonated"],
+      "correct_answer": "B",
+      "explanation": "A zwitterion has both a positively charged amino group (-NH3+) and a negatively charged carboxyl group (-COO-). This form predominates at physiological pH for most amino acids, where the amino group is protonated and the carboxyl group is deprotonated.",
+      "concept_tags": ["amino-acids", "zwitterion", "charge"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-027",
+      "question_text": "Which of the following is NOT a branched-chain amino acid?",
+      "options": ["A. Leucine", "B. Isoleucine", "C. Valine", "D. Methionine"],
+      "correct_answer": "D",
+      "explanation": "The branched-chain amino acids (BCAAs) are leucine, isoleucine, and valine. They have aliphatic side chains with branches. Methionine has a linear side chain containing a sulfur atom and is not classified as a BCAA.",
+      "concept_tags": ["amino-acids", "classification", "branched-chain"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-028",
+      "question_text": "A protein with a pI of 5.0 would migrate toward which electrode at pH 7.0?",
+      "options": ["A. The anode (positive electrode)", "B. The cathode (negative electrode)", "C. It would not migrate", "D. It depends on the protein size"],
+      "correct_answer": "A",
+      "explanation": "At pH 7.0 (above its pI of 5.0), the protein has a net negative charge because more groups are deprotonated. Negatively charged molecules migrate toward the anode (positive electrode) in electrophoresis.",
+      "concept_tags": ["isoelectric-point", "electrophoresis", "charge"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-029",
+      "question_text": "Which interaction is primarily responsible for the hydrophobic core of globular proteins?",
+      "options": ["A. Hydrogen bonding", "B. Ionic interactions", "C. The hydrophobic effect", "D. Covalent bonding"],
+      "correct_answer": "C",
+      "explanation": "The hydrophobic effect drives nonpolar amino acid side chains to cluster in the protein interior, away from water. This is the primary force responsible for protein folding and the formation of the hydrophobic core.",
+      "concept_tags": ["protein-structure", "hydrophobic-effect", "protein-folding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-030",
+      "question_text": "What is the charge on aspartic acid at pH 1?",
+      "options": ["A. -2", "B. -1", "C. 0", "D. +1"],
+      "correct_answer": "D",
+      "explanation": "At pH 1, which is below all pKa values of aspartic acid (alpha-COOH ~2.0, side chain COOH ~3.9, alpha-NH3+ ~9.8), all groups are protonated: -COOH (neutral), -COOH side chain (neutral), -NH3+ (positive). Net charge = +1.",
+      "concept_tags": ["amino-acids", "charge", "pKa", "pH"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-031",
+      "question_text": "Collagen is characterized by which repeating amino acid sequence?",
+      "options": ["A. Gly-Ala-Gly", "B. Gly-X-Y (where X is often proline)", "C. Ala-Gly-Ser", "D. Pro-Pro-Gly"],
+      "correct_answer": "B",
+      "explanation": "Collagen has a characteristic Gly-X-Y repeat, where X is frequently proline and Y is often hydroxyproline. Every third residue must be glycine because it's the only amino acid small enough to fit in the center of the triple helix.",
+      "concept_tags": ["protein-structure", "collagen", "amino-acid-sequence"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-032",
+      "question_text": "Which of the following would be most effective at reducing disulfide bonds in a protein?",
+      "options": ["A. Urea", "B. Heat", "C. Beta-mercaptoethanol", "D. High salt concentration"],
+      "correct_answer": "C",
+      "explanation": "Beta-mercaptoethanol (BME) is a reducing agent that breaks disulfide bonds by reducing them back to free thiol groups. Urea disrupts non-covalent interactions, heat denatures proteins, and salt affects ionic interactions, but none reduce disulfide bonds.",
+      "concept_tags": ["disulfide-bonds", "reducing-agents", "protein-chemistry"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-033",
+      "question_text": "Which amino acid absorbs UV light most strongly at 280 nm?",
+      "options": ["A. Phenylalanine", "B. Tyrosine", "C. Tryptophan", "D. Histidine"],
+      "correct_answer": "C",
+      "explanation": "Tryptophan has the highest molar absorptivity at 280 nm due to its large indole ring system. Tyrosine also absorbs at 280 nm but less strongly. Phenylalanine absorbs at lower wavelengths (~260 nm). This property is used to estimate protein concentration.",
+      "concept_tags": ["amino-acids", "spectroscopy", "UV-absorption", "tryptophan"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-034",
+      "question_text": "Which of the following amino acids is considered both glucogenic and ketogenic?",
+      "options": ["A. Leucine", "B. Lysine", "C. Isoleucine", "D. Alanine"],
+      "correct_answer": "C",
+      "explanation": "Isoleucine can be metabolized to produce both glucose precursors (glucogenic) and ketone bodies (ketogenic). Leucine and lysine are purely ketogenic, while alanine is purely glucogenic.",
+      "concept_tags": ["amino-acids", "metabolism", "glucogenic", "ketogenic"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-01-035",
+      "question_text": "The peptide bond is described as planar because:",
+      "options": ["A. All amino acids have flat side chains", "B. Resonance restricts rotation around the C-N bond", "C. Hydrogen bonding keeps it flat", "D. The alpha carbons cannot rotate"],
+      "correct_answer": "B",
+      "explanation": "Resonance between the carbonyl oxygen and amide nitrogen gives the peptide bond partial double-bond character, restricting rotation around the C-N bond. This keeps the six atoms of the peptide unit (C alpha, C, O, N, H, C alpha) in the same plane.",
+      "concept_tags": ["peptide-bonds", "resonance", "protein-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-036",
+      "question_text": "A chaperone protein functions to:",
+      "options": ["A. Catalyze peptide bond formation", "B. Assist in proper protein folding", "C. Break down misfolded proteins", "D. Transport proteins across membranes"],
+      "correct_answer": "B",
+      "explanation": "Chaperone proteins (like Hsp70 and chaperonins) assist in the proper folding of other proteins by preventing aggregation and providing an environment for correct folding. They do not catalyze peptide bond formation or degrade proteins.",
+      "concept_tags": ["protein-folding", "chaperones", "protein-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-037",
+      "question_text": "What is the approximate pI of lysine (pKa values: alpha-COOH = 2.2, alpha-NH3+ = 9.0, side chain NH3+ = 10.5)?",
+      "options": ["A. 5.6", "B. 7.0", "C. 9.75", "D. 10.5"],
+      "correct_answer": "C",
+      "explanation": "For basic amino acids, the pI is calculated as the average of the two highest pKa values (the two amino groups): pI = (9.0 + 10.5)/2 = 9.75. This ensures both amino groups are at their equilibrium point.",
+      "concept_tags": ["isoelectric-point", "pKa", "basic-amino-acids", "calculation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-038",
+      "question_text": "Which of the following is TRUE about the trans configuration of peptide bonds?",
+      "options": ["A. It is less stable than the cis configuration", "B. It is favored due to reduced steric hindrance", "C. It only occurs with proline residues", "D. It allows for stronger hydrogen bonding"],
+      "correct_answer": "B",
+      "explanation": "The trans configuration is energetically favored (>99.9% of peptide bonds) because it minimizes steric clashes between adjacent R groups and backbone atoms. The cis configuration is only significant for X-Pro bonds (~10% cis).",
+      "concept_tags": ["peptide-bonds", "cis-trans", "protein-structure"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-01-039",
+      "question_text": "Which amino acid's side chain can participate in cation-pi interactions?",
+      "options": ["A. Alanine", "B. Serine", "C. Tryptophan", "D. Cysteine"],
+      "correct_answer": "C",
+      "explanation": "Tryptophan's aromatic indole ring can participate in cation-pi interactions, where the electron-rich pi system interacts with positively charged groups (like the side chains of lysine or arginine). This interaction contributes to protein stability.",
+      "concept_tags": ["amino-acids", "cation-pi-interactions", "protein-stability"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-01-040",
+      "question_text": "During protein denaturation, which level(s) of structure is/are typically preserved?",
+      "options": ["A. Primary structure only", "B. Primary and secondary structure", "C. Tertiary structure only", "D. All levels are disrupted"],
+      "correct_answer": "A",
+      "explanation": "Denaturation disrupts secondary, tertiary, and quaternary structures by breaking non-covalent interactions. However, primary structure (the covalent peptide bonds) remains intact unless hydrolysis occurs.",
+      "concept_tags": ["denaturation", "protein-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-041",
+      "question_text": "The side chain of glutamine can best be described as:",
+      "options": ["A. Positively charged at physiological pH", "B. An amide that is polar but uncharged", "C. Negatively charged at physiological pH", "D. Nonpolar and hydrophobic"],
+      "correct_answer": "B",
+      "explanation": "Glutamine has an amide group (-CONH2) in its side chain, making it polar but uncharged at physiological pH. It should not be confused with glutamate, which has a carboxyl group and is negatively charged.",
+      "concept_tags": ["amino-acids", "glutamine", "polarity"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-042",
+      "question_text": "A protein domain is best described as:",
+      "options": ["A. The complete tertiary structure of a protein", "B. An independently folding unit within a protein", "C. The interface between protein subunits", "D. A region of alpha helix or beta sheet"],
+      "correct_answer": "B",
+      "explanation": "A protein domain is a distinct structural and functional unit within a polypeptide that can fold independently. Domains often correspond to functional regions and can be found in multiple different proteins (modular design).",
+      "concept_tags": ["protein-structure", "domains", "protein-folding"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-043",
+      "question_text": "Which of the following amino acid substitutions would most likely preserve protein function?",
+      "options": ["A. Glutamate to lysine", "B. Leucine to isoleucine", "C. Glycine to tryptophan", "D. Cysteine to serine in a disulfide bond"],
+      "correct_answer": "B",
+      "explanation": "Leucine to isoleucine is a conservative substitution - both are hydrophobic, branched-chain amino acids of similar size. The other substitutions involve dramatic changes: charge reversal (Glu to Lys), size change (Gly to Trp), or loss of disulfide bonding capability.",
+      "concept_tags": ["mutations", "conservative-substitution", "protein-function"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-044",
+      "question_text": "In a 310 helix, hydrogen bonds form between residue n and residue:",
+      "options": ["A. n+2", "B. n+3", "C. n+4", "D. n+5"],
+      "correct_answer": "B",
+      "explanation": "In a 310 helix, hydrogen bonds form between residue n and n+3 (hence the name 310, indicating 3 residues per turn with 10 atoms in the hydrogen-bonded ring). This is tighter than the alpha helix (n to n+4).",
+      "concept_tags": ["protein-structure", "secondary-structure", "310-helix"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "biochemistry-01-045",
+      "question_text": "Which statement about amino acid stereochemistry is correct?",
+      "options": ["A. All amino acids in proteins are D-isomers", "B. L-amino acids have the amino group on the right in Fischer projection", "C. L-amino acids have the amino group on the left in Fischer projection", "D. Proteins contain equal amounts of D and L amino acids"],
+      "correct_answer": "C",
+      "explanation": "In Fischer projections, L-amino acids have the amino group on the left side (L for 'levo' or left). All standard amino acids in proteins are L-isomers. D-amino acids (amino group on right) are rare and found mainly in bacterial cell walls.",
+      "concept_tags": ["amino-acids", "stereochemistry", "L-amino-acids", "Fischer-projection"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-046",
+      "question_text": "What structural feature allows proline to disrupt alpha helices?",
+      "options": ["A. Its large aromatic side chain", "B. Its inability to donate a backbone hydrogen bond", "C. Its negative charge at physiological pH", "D. Its ability to form disulfide bonds"],
+      "correct_answer": "B",
+      "explanation": "Proline's nitrogen is part of a ring and has no hydrogen attached, so it cannot donate a backbone N-H hydrogen bond required for alpha helix stability. Additionally, its cyclic structure restricts the phi angle, making it a 'helix breaker.'",
+      "concept_tags": ["amino-acids", "proline", "alpha-helix", "protein-structure"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-047",
+      "question_text": "A researcher observes that a protein loses its enzymatic activity when treated with a reagent that modifies cysteine residues. This suggests that:",
+      "options": ["A. Cysteine is the catalytic residue", "B. Disulfide bonds or free cysteines are important for structure or function", "C. The protein has no other amino acids", "D. Cysteine residues are on the protein surface"],
+      "correct_answer": "B",
+      "explanation": "Loss of activity upon cysteine modification indicates that cysteine residues play an important role, either through disulfide bonds (structural) or as part of the active site (functional). It doesn't necessarily mean cysteine is the catalytic residue.",
+      "concept_tags": ["cysteine", "disulfide-bonds", "enzyme-function", "experimental-design"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-048",
+      "question_text": "Which of the following forces contributes MOST to the stability of an alpha helix?",
+      "options": ["A. Disulfide bonds", "B. Hydrophobic interactions between side chains", "C. Backbone hydrogen bonds", "D. Ionic interactions between side chains"],
+      "correct_answer": "C",
+      "explanation": "Alpha helix stability primarily comes from backbone hydrogen bonds between C=O of residue n and N-H of residue n+4. While side chain interactions can modulate stability, the backbone hydrogen bonds are the defining and primary stabilizing feature.",
+      "concept_tags": ["protein-structure", "alpha-helix", "hydrogen-bonds", "stability"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "biochemistry-01-049",
+      "question_text": "A tetrapeptide has how many peptide bonds?",
+      "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+      "correct_answer": "B",
+      "explanation": "A tetrapeptide consists of 4 amino acids linked by peptide bonds. The number of peptide bonds is always one less than the number of amino acids (n-1), so a tetrapeptide has 3 peptide bonds.",
+      "concept_tags": ["peptide-bonds", "peptide-structure"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "biochemistry-01-050",
+      "question_text": "The Anfinsen experiment with ribonuclease demonstrated that:",
+      "options": ["A. Proteins require chaperones to fold correctly", "B. The primary sequence contains all information needed for proper folding", "C. Disulfide bonds form randomly during protein folding", "D. Denaturation is always irreversible"],
+      "correct_answer": "B",
+      "explanation": "Anfinsen showed that denatured ribonuclease could spontaneously refold to its native, active conformation when denaturing agents were removed. This proved that the amino acid sequence (primary structure) contains all information necessary for correct folding.",
+      "concept_tags": ["protein-folding", "Anfinsen-experiment", "primary-structure"],
+      "difficulty": "hard"
+    }
+  ]
+}
