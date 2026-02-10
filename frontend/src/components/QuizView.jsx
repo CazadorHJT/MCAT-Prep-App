@@ -1,13 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import { getQuestionsByChapter } from '../services/api';
+import { useAuth } from '../contexts/AuthContext';
+import { recordAnswer } from '../services/progressService';
 
 const QuizView = ({ chapterId }) => {
+  const { user } = useAuth();
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [showResult, setShowResult] = useState(false);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [sessionStats, setSessionStats] = useState({ correct: 0, incorrect: 0 });
 
   useEffect(() => {
     const fetchQuestions = async () => {
@@ -25,8 +29,23 @@ const QuizView = ({ chapterId }) => {
   }, [chapterId]);
 
   const handleAnswerSelect = (answer) => {
+    const currentQuestion = questions[currentQuestionIndex];
+    const isCorrect = answer === currentQuestion.correct_answer;
+
     setSelectedAnswer(answer);
     setShowResult(true);
+
+    // Update session stats
+    setSessionStats(prev => ({
+      correct: prev.correct + (isCorrect ? 1 : 0),
+      incorrect: prev.incorrect + (isCorrect ? 0 : 1),
+    }));
+
+    // Record progress (fire-and-forget)
+    if (user) {
+      const conceptTags = currentQuestion.concept_tags || [];
+      recordAnswer(user.id, currentQuestion.id, isCorrect, conceptTags);
+    }
   };
 
   const handleNextQuestion = () => {
@@ -67,11 +86,32 @@ const QuizView = ({ chapterId }) => {
 
   // Check if quiz is complete
   if (showResult && isLastQuestion) {
+    const totalAnswered = sessionStats.correct + sessionStats.incorrect;
+    const accuracy = totalAnswered > 0 ? Math.round((sessionStats.correct / totalAnswered) * 100) : 0;
+
     return (
       <div className="quiz-container">
         <div className="quiz-complete">
           <h3>Quiz Complete!</h3>
           <p>You've finished all {questions.length} questions in this chapter.</p>
+        </div>
+
+        <div className="session-stats">
+          <h4>Session Results</h4>
+          <div className="session-stats-grid">
+            <div className="session-stat">
+              <span className="session-stat-value correct">{sessionStats.correct}</span>
+              <span className="session-stat-label">Correct</span>
+            </div>
+            <div className="session-stat">
+              <span className="session-stat-value incorrect">{sessionStats.incorrect}</span>
+              <span className="session-stat-label">Incorrect</span>
+            </div>
+            <div className="session-stat">
+              <span className="session-stat-value">{accuracy}%</span>
+              <span className="session-stat-label">Accuracy</span>
+            </div>
+          </div>
         </div>
 
         {/* Show last question's explanation */}

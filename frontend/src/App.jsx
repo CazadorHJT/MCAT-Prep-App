@@ -1,16 +1,21 @@
 import { useState, useEffect } from 'react';
+import { useAuth } from './contexts/AuthContext';
 import { getBooks, getChaptersByBook } from './services/api';
 import ChapterList from './components/ChapterList';
 import QuizView from './components/QuizView';
+import AuthForm from './components/AuthForm';
+import ProgressDashboard from './components/ProgressDashboard';
 import './App.css';
 
 function App() {
+  const { user, loading: authLoading, signOut } = useAuth();
   const [books, setBooks] = useState([]);
   const [selectedBook, setSelectedBook] = useState(null);
   const [chapters, setChapters] = useState([]);
   const [selectedChapterId, setSelectedChapterId] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [showDashboard, setShowDashboard] = useState(false);
 
   // Fetch books on initial load
   useEffect(() => {
@@ -66,6 +71,38 @@ function App() {
     setSelectedChapterId(null);
   };
 
+  const handleSignOut = async () => {
+    try {
+      await signOut();
+    } catch (err) {
+      console.error('Error signing out:', err);
+    }
+  };
+
+  // Show loading while checking auth state
+  if (authLoading) {
+    return (
+      <div className="loading">
+        Loading...
+      </div>
+    );
+  }
+
+  // Show auth form if not logged in
+  if (!user) {
+    return (
+      <>
+        <header className="app-header">
+          <h1>MCAT Prep</h1>
+          <p className="subtitle">Your focused study companion</p>
+        </header>
+        <main className="card">
+          <AuthForm />
+        </main>
+      </>
+    );
+  }
+
   if (loading && !books.length) {
     return (
       <div className="loading">
@@ -79,6 +116,24 @@ function App() {
       <div className="error">
         {error}
       </div>
+    );
+  }
+
+  // Show dashboard if toggled
+  if (showDashboard) {
+    return (
+      <>
+        <header className="app-header">
+          <h1>MCAT Prep</h1>
+          <div className="user-info">
+            <span className="user-email">{user.email}</span>
+            <button className="header-button" onClick={handleSignOut}>Sign Out</button>
+          </div>
+        </header>
+        <main className="card">
+          <ProgressDashboard onClose={() => setShowDashboard(false)} />
+        </main>
+      </>
     );
   }
 
@@ -133,7 +188,13 @@ function App() {
     <>
       <header className="app-header">
         <h1>MCAT Prep</h1>
-        <p className="subtitle">Your focused study companion</p>
+        <div className="user-info">
+          <button className="header-button progress-button" onClick={() => setShowDashboard(true)}>
+            My Progress
+          </button>
+          <span className="user-email">{user.email}</span>
+          <button className="header-button" onClick={handleSignOut}>Sign Out</button>
+        </div>
       </header>
       <main className="card">
         {renderContent()}

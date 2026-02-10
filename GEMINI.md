@@ -13,6 +13,12 @@ The project is structured as a monorepo with two main parts:
 ### Key Features:
 *   **EPUB Content Ingestion:** Parses EPUB files to extract chapters and content.
 *   **Database:** Uses **Supabase** (PostgreSQL) to store information about books, chapters, questions, and user progress.
+*   **Authentication:** Supabase email/password authentication with no email confirmation required. Users sign up with their email (used as username) and can immediately start studying.
+*   **Progress Tracking:** Records user answers and calculates concept mastery. Features include:
+    *   Per-question tracking (correct/incorrect for each answer)
+    *   Concept mastery percentages based on tagged questions
+    *   Session stats shown on quiz completion
+    *   Progress dashboard with overall stats and concept-by-concept breakdown
 *   **Pre-Generated Question Bank:** A comprehensive bank of **3,790 MCAT-style multiple-choice questions** across 75 chapters from 7 review books. Questions are stored in:
     *   Supabase database (primary storage for the live app)
     *   Local JSON files in `questions/` directory (version-controlled backup)
@@ -125,14 +131,32 @@ npm run dev
 ### Frontend
 *   **Framework:** React with Vite provides a fast development environment.
 *   **Data Fetching:** The Supabase JavaScript client is used for direct database access. The service is centralized in `frontend/src/services/supabase.js`.
+*   **Authentication:** Supabase Auth with React Context (`AuthContext`) for reactive session management.
 *   **Dependencies:** Frontend packages are managed by npm.
 *   **Structure:**
-    *   `frontend/src/App.jsx`: The main application component, managing the overall navigation flow from books to chapters to quizzes, and handling state for selected book and chapter.
-    *   `frontend/src/components/ChapterList.jsx`: Displays a list of chapters for a selected book, allowing users to select a chapter to start a quiz.
-    *   `frontend/src/components/QuizView.jsx`: Manages the quiz interface, fetching questions from the pre-generated bank, handling user answer selections, providing immediate feedback (correct/incorrect highlighting and explanation display), and implementing the adaptive learning logic by selecting alternate questions with matching concept tags.
-    *   `frontend/src/services/supabase.js`: Supabase client configuration and data fetching functions.
-    *   `frontend/src/App.css`: Contains custom styles for the application, including visual feedback for quiz answers.
+    *   `frontend/src/App.jsx`: The main application component, managing authentication state, navigation flow, and dashboard toggle.
+    *   `frontend/src/main.jsx`: Entry point, wraps App with `AuthProvider`.
+    *   `frontend/src/contexts/AuthContext.jsx`: React Context providing `user`, `signIn`, `signUp`, `signOut` with reactive session via `onAuthStateChange()`.
+    *   `frontend/src/components/AuthForm.jsx`: Login/signup form with toggle between modes and error handling.
+    *   `frontend/src/components/ChapterList.jsx`: Displays a list of chapters for a selected book.
+    *   `frontend/src/components/QuizView.jsx`: Manages the quiz interface with progress tracking. Records answers to Supabase and shows session stats on completion.
+    *   `frontend/src/components/ProgressDashboard.jsx`: Displays overall progress stats and concept mastery with color-coded progress bars.
+    *   `frontend/src/services/supabase.js`: Supabase client configuration.
+    *   `frontend/src/services/progressService.js`: Functions for recording answers and fetching progress/mastery data.
+    *   `frontend/src/App.css`: Contains custom styles for the application, including auth forms, dashboard, and quiz feedback.
+
+### Supabase Tables
+The app uses the following tables in Supabase:
+*   **books**: Book metadata (id, name)
+*   **chapters**: Chapter information (id, book_id, name, chapter_number)
+*   **questions**: Question bank (id, chapter_id, question_text, correct_answer, options, explanation, concept_tags)
+*   **user_progress**: Per-question answer tracking (user_id, question_id, correct, answered_at)
+*   **concept_mastery**: Aggregated mastery by concept (user_id, concept, total_attempts, correct_attempts, mastery_percentage, last_practiced)
+
+**Row Level Security (RLS):**
+User progress tables are protected with RLS policies so users can only access their own data. See `supabase_rls_policies.sql` for the policy definitions.
 
 ### Deployment
 *   **Frontend:** Deployed to Vercel.
 *   **Database:** Supabase handles hosting, authentication, and database management.
+*   **Authentication Settings:** In Supabase dashboard, disable "Confirm email" under Authentication > Providers > Email.
